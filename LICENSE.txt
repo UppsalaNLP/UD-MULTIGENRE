@@ -1,0 +1,275 @@
+Universal Dependencies v2.11 License Terms
+Universal Dependencies v2.11 (referred to as “UD” in the rest of this document) is a collection of linguistic data and tools. Each of the treebanks has its own license terms and you (the “User”) are responsible for complying with the license terms applicable to those parts of UD which you use. If you do not agree with the license terms, you must stop using UD and destroy all copies of UD data that you have obtained.
+
+
+You are specifically reminded that some of the treebanks permit only non-commercial usage.
+
+
+The additional software tools are provided as-is (without any warranty) and are redistributed under GNU GPL Version 2.
+
+
+The license for every treebank included in the release is specified in the appropriate treebank directory.
+
+
+Overview of the treebanks and their license terms
+Treebank	License
+Abaza-ATB	CC BY-SA 4.0
+Afrikaans-AfriBooms	CC BY-SA 4.0
+Akkadian-PISANDUB	CC BY-SA 4.0
+Akkadian-RIAO	CC BY-SA 3.0
+Akuntsu-TuDeT	CC BY-SA 4.0
+Albanian-TSA	CC BY-SA 4.0
+Amharic-ATT	CC BY-SA 4.0
+Ancient_Greek-PROIEL	CC BY-NC-SA 3.0
+Ancient_Greek-Perseus	CC BY-NC-SA 2.5
+Ancient_Hebrew-PTNK	CC BY-NC 4.0
+Apurina-UFPA	CC BY-SA 4.0
+Arabic-NYUAD	CC BY-SA 4.0
+Arabic-PADT	CC BY-NC-SA 3.0
+Arabic-PUD	CC BY-SA 3.0
+Armenian-ArmTDP	CC BY-SA 4.0
+Armenian-BSUT	CC BY-SA 4.0
+Assyrian-AS	CC BY-SA 4.0
+Bambara-CRB	CC BY-SA 4.0
+Basque-BDT	CC BY-NC-SA 3.0
+Beja-NSC	CC BY-SA 4.0
+Belarusian-HSE	CC BY-SA 4.0
+Bengali-BRU	CC BY-SA 4.0
+Bhojpuri-BHTB	CC BY-SA 4.0
+Breton-KEB	CC BY-SA 4.0
+Bulgarian-BTB	CC BY-NC-SA 3.0
+Buryat-BDT	CC BY-SA 4.0
+Cantonese-HK	CC BY-SA 4.0
+Catalan-AnCora	CC BY 4.0
+Cebuano-GJA	CC BY-SA 4.0
+Chinese-CFL	CC BY-SA 4.0
+Chinese-GSD	CC BY-SA 4.0
+Chinese-GSDSimp	CC BY-SA 4.0
+Chinese-HK	CC BY-SA 4.0
+Chinese-PUD	CC BY-SA 3.0
+Chinese-PatentChar	CC BY-NC-SA 3.0
+Chukchi-HSE	CC BY-SA 4.0
+Classical_Chinese-Kyoto	PD
+Coptic-Scriptorium	CC BY 4.0
+Croatian-SET	CC BY-SA 4.0
+Czech-CAC	CC BY-SA 4.0
+Czech-CLTT	CC BY-SA 4.0
+Czech-FicTree	CC BY-NC-SA 4.0
+Czech-PDT	CC BY-NC-SA 3.0
+Czech-PUD	CC BY-SA 4.0
+Danish-DDT	CC BY-SA 4.0
+Dutch-Alpino	CC BY-SA 4.0
+Dutch-LassySmall	CC BY-SA 4.0
+English-Atis	CC BY-SA 4.0
+English-ESL	CC BY-SA 4.0
+English-EWT	CC BY-SA 4.0
+English-GUM	CC BY-NC-SA 4.0
+English-GUMReddit	CC BY 4.0
+English-LinES	CC BY-NC-SA 4.0
+English-PUD	CC BY-SA 3.0
+English-ParTUT	CC BY-NC-SA 4.0
+English-Pronouns	CC BY-SA 4.0
+Erzya-JR	CC BY-SA 4.0
+Estonian-EDT	CC BY-NC-SA 4.0
+Estonian-EWT	CC BY-NC-SA 4.0
+Faroese-FarPaHC	CC BY-SA 4.0
+Faroese-OFT	CC BY-SA 4.0
+Finnish-FTB	CC BY 4.0
+Finnish-OOD	CC BY-SA 4.0
+Finnish-PUD	CC BY-SA 4.0
+Finnish-TDT	CC BY-SA 4.0
+French-FQB	LGPL-LR
+French-FTB	LGPL-LR
+French-GSD	CC BY-SA 4.0
+French-PUD	CC BY-SA 3.0
+French-ParTUT	CC BY-NC-SA 4.0
+French-ParisStories	CC BY-SA 4.0
+French-Rhapsodie	CC BY-SA 4.0
+French-Sequoia	LGPL-LR
+Frisian_Dutch-Fame	CC BY-SA 4.0
+Galician-CTG	CC BY-NC-SA 3.0
+Galician-TreeGal	LGPL-LR
+German-GSD	CC BY-SA 4.0
+German-HDT	CC BY-SA 4.0
+German-LIT	CC BY-NC-SA 4.0
+German-PUD	CC BY-SA 3.0
+Gheg-GPS	CC BY-SA 4.0
+Gothic-PROIEL	CC BY-NC-SA 3.0
+Greek-GDT	CC BY-NC-SA 3.0
+Guajajara-TuDeT	CC BY-SA 4.0
+Guarani-OldTuDeT	CC BY-SA 4.0
+Hebrew-HTB	CC BY-NC-SA 4.0
+Hebrew-IAHLTwiki	CC BY-SA 4.0
+Hindi-HDTB	CC BY-NC-SA 4.0
+Hindi-PUD	CC BY-SA 3.0
+Hindi_English-HIENCS	CC BY-SA 4.0
+Hittite-HitTB	CC BY-SA 4.0
+Hungarian-Szeged	CC BY-NC-SA 3.0
+Icelandic-GC	CC BY-SA 4.0
+Icelandic-IcePaHC	CC BY-SA 4.0
+Icelandic-Modern	CC BY-SA 4.0
+Icelandic-PUD	CC BY-SA 4.0
+Indonesian-CSUI	CC BY-SA 4.0
+Indonesian-GSD	CC BY-SA 4.0
+Indonesian-PUD	CC BY-SA 3.0
+Irish-Cadhan	CC BY-SA 4.0
+Irish-IDT	CC BY-SA 3.0
+Irish-TwittIrish	CC BY-SA 4.0
+Italian-ISDT	CC BY-NC-SA 3.0
+Italian-MarkIT	CC BY 4.0
+Italian-PUD	CC BY-SA 3.0
+Italian-ParTUT	CC BY-NC-SA 4.0
+Italian-ParlaMint	CC BY-SA 4.0
+Italian-PoSTWITA	CC BY-NC-SA 4.0
+Italian-TWITTIRO	CC BY-SA 4.0
+Italian-VIT	CC BY-NC-SA 3.0
+Italian-Valico	CC BY-SA 4.0
+Japanese-BCCWJ	CC BY-NC-SA 4.0
+Japanese-BCCWJLUW	CC BY-NC-SA 4.0
+Japanese-GSD	CC BY-SA 4.0
+Japanese-GSDLUW	CC BY-SA 4.0
+Japanese-Modern	CC BY-NC-ND 3.0
+Japanese-PUD	CC BY-SA 3.0
+Japanese-PUDLUW	CC BY-SA 3.0
+Javanese-CSUI	CC BY-SA 4.0
+Kaapor-TuDeT	CC BY-SA 4.0
+Kangri-KDTB	CC BY-SA 4.0
+Karelian-KKPP	CC BY-SA 4.0
+Karo-TuDeT	CC BY-SA 4.0
+Kazakh-KTB	CC BY-SA 4.0
+Khunsari-AHA	CC BY-SA 4.0
+Kiche-IU	CC BY-SA 4.0
+Komi_Permyak-UH	CC BY-SA 4.0
+Komi_Zyrian-IKDP	CC BY-SA 4.0
+Komi_Zyrian-Lattice	CC BY-SA 4.0
+Korean-GSD	CC BY-SA 4.0
+Korean-Kaist	CC BY-SA 4.0
+Korean-PUD	CC BY-SA 3.0
+Kurmanji-MG	CC BY-SA 4.0
+Latin-ITTB	CC BY-NC-SA 3.0
+Latin-LLCT	CC BY-SA 4.0
+Latin-PROIEL	CC BY-NC-SA 3.0
+Latin-Perseus	CC BY-NC-SA 2.5
+Latin-UDante	CC BY-NC-SA 3.0
+Latvian-LVTB	CC BY-SA 4.0
+Ligurian-GLT	C-UDA 1.0
+Lithuanian-ALKSNIS	CC BY-SA 4.0
+Lithuanian-HSE	CC BY-SA 4.0
+Livvi-KKPP	CC BY-SA 4.0
+Low_Saxon-LSDC	CC BY-SA 4.0
+Madi-Jarawara	CC BY-SA 4.0
+Makurap-TuDeT	CC BY-SA 4.0
+Malayalam-UFAL	CC BY-SA 4.0
+Maltese-MUDT	CC BY-SA 4.0
+Manx-Cadhan	GNU GPL 3.0
+Marathi-UFAL	CC BY-SA 4.0
+Mbya_Guarani-Dooley	CC BY-NC-SA 4.0
+Mbya_Guarani-Thomas	CC BY-NC-SA 4.0
+Moksha-JR	CC BY-SA 4.0
+Munduruku-TuDeT	CC BY-SA 4.0
+Naija-NSC	CC BY-SA 4.0
+Nayini-AHA	CC BY-SA 4.0
+Neapolitan-RB	CC BY-SA 4.0
+Nheengatu-CompLin	CC BY-NC-SA 4.0
+North_Sami-Giella	CC BY-SA 4.0
+Norwegian-Bokmaal	CC BY-SA 4.0
+Norwegian-Nynorsk	CC BY-SA 4.0
+Norwegian-NynorskLIA	CC BY-SA 4.0
+Old_Church_Slavonic-PROIEL	CC BY-NC-SA 3.0
+Old_East_Slavic-Birchbark	CC BY-SA 4.0
+Old_East_Slavic-RNC	CC BY-SA 4.0
+Old_East_Slavic-Ruthenian	CC BY-SA 4.0
+Old_East_Slavic-TOROT	CC BY-NC-SA 3.0
+Old_French-SRCMF	CC BY-NC-SA 3.0
+Old_Turkish-Tonqq	CC0 1.0
+Persian-PerDT	CC BY-SA 4.0
+Persian-Seraji	CC BY-SA 4.0
+Polish-LFG	GNU GPL 3.0
+Polish-PDB	CC BY-NC-SA 4.0
+Polish-PUD	CC BY-SA 4.0
+Pomak-Philotis	CC BY-NC-SA 3.0
+Portuguese-Bosque	CC BY-SA 4.0
+Portuguese-CINTIL	CC BY-NC-ND 4.0
+Portuguese-GSD	CC BY-SA 4.0
+Portuguese-PUD	CC BY-SA 3.0
+Portuguese-PetroGold	CC BY-SA 4.0
+Romanian-ArT	CC BY-SA 4.0
+Romanian-Nonstandard	CC BY-SA 4.0
+Romanian-RRT	CC BY-SA 4.0
+Romanian-SiMoNERo	CC BY-SA 4.0
+Russian-GSD	CC BY-SA 4.0
+Russian-PUD	CC BY-SA 3.0
+Russian-SynTagRus	CC BY-NC-SA 4.0
+Russian-Taiga	CC BY-SA 4.0
+Sanskrit-UFAL	CC BY-SA 4.0
+Sanskrit-Vedic	CC BY-SA 4.0
+Scottish_Gaelic-ARCOSG	CC BY-SA 4.0
+Serbian-SET	CC BY-SA 4.0
+Sinhala-STB	CC BY-SA 4.0
+Skolt_Sami-Giellagas	CC BY-SA 4.0
+Slovak-SNK	CC BY-SA 4.0
+Slovenian-SSJ	CC BY-SA 4.0
+Slovenian-SST	CC BY-NC-SA 4.0
+Soi-AHA	CC BY-SA 4.0
+South_Levantine_Arabic-MADAR	CC BY-SA 4.0
+Spanish-AnCora	CC BY 4.0
+Spanish-GSD	CC BY-SA 4.0
+Spanish-PUD	CC BY-SA 3.0
+Swedish-LinES	CC BY-NC-SA 4.0
+Swedish-PUD	CC BY-SA 4.0
+Swedish-Talbanken	CC BY-SA 4.0
+Swedish_Sign_Language-SSLC	CC BY-SA 4.0
+Swiss_German-UZH	CC BY-SA 4.0
+Tagalog-TRG	CC BY-SA 4.0
+Tagalog-Ugnayan	CC BY-NC-SA 4.0
+Tamil-MWTT	CC BY-SA 4.0
+Tamil-TTB	CC BY-NC-SA 3.0
+Tatar-NMCTT	CC BY-SA 4.0
+Teko-TuDeT	CC BY-SA 4.0
+Telugu-MTG	CC BY-SA 4.0
+Thai-PUD	CC BY-SA 3.0
+Tupinamba-TuDeT	CC BY-SA 4.0
+Turkish-Atis	CC BY-SA 4.0
+Turkish-BOUN	CC BY-SA 4.0
+Turkish-FrameNet	CC BY-SA 4.0
+Turkish-GB	CC BY-SA 4.0
+Turkish-IMST	CC BY-NC-SA 4.0
+Turkish-Kenet	CC BY-SA 4.0
+Turkish-PUD	CC BY-SA 3.0
+Turkish-Penn	CC BY-SA 4.0
+Turkish-Tourism	CC BY-SA 4.0
+Turkish_German-SAGT	CC BY-NC-SA 4.0
+Ukrainian-IU	CC BY-NC-SA 4.0
+Umbrian-IKUVINA	CC BY-SA 4.0
+Upper_Sorbian-UFAL	CC BY-SA 4.0
+Urdu-UDTB	CC BY-NC-SA 4.0
+Uyghur-UDT	CC BY-SA 4.0
+Vietnamese-VTB	CC BY-SA 4.0
+Warlpiri-UFAL	CC BY-SA 4.0
+Welsh-CCG	CC BY-SA 4.0
+Western_Armenian-ArmTDP	CC BY-SA 4.0
+Western_Sierra_Puebla_Nahuatl-ITML	CC BY-SA 4.0
+Wolof-WTB	CC BY-SA 4.0
+Xavante-XDT	CC BY-SA 4.0
+Xibe-XDT	CC BY-NC-SA 3.0
+Yakut-YKTDT	CC BY-SA 4.0
+Yoruba-YTB	CC BY-SA 4.0
+Yupik-SLI	CC BY-SA 4.0
+Zaar-Autogramm	CC BY-SA 4.0
+Licenses
+License	URL
+C-UDA 1.0	https://cdla.dev/computational-use-of-data-agreement-v1-0/
+CC BY 4.0	http://creativecommons.org/licenses/by/4.0/
+CC BY-NC 4.0	http://creativecommons.org/licenses/by-nc/4.0/
+CC BY-NC-ND 3.0	http://creativecommons.org/licenses/by-nc-nd/3.0/
+CC BY-NC-ND 4.0	http://creativecommons.org/licenses/by-nc-nd/4.0/
+CC BY-NC-SA 2.5	http://creativecommons.org/licenses/by-nc-sa/2.5/
+CC BY-NC-SA 3.0	http://creativecommons.org/licenses/by-nc-sa/3.0/
+CC BY-NC-SA 4.0	http://creativecommons.org/licenses/by-nc-sa/4.0/
+CC BY-SA 3.0	http://creativecommons.org/licenses/by-sa/3.0/
+CC BY-SA 4.0	http://creativecommons.org/licenses/by-sa/4.0/
+CC0 1.0	http://creativecommons.org/publicdomain/zero/1.0/
+GNU GPL 2.0	http://opensource.org/licenses/GPL-2.0
+GNU GPL 3.0	http://opensource.org/licenses/GPL-3.0
+LGPL-LR	http://www.ida.liu.se/~sarst/bitse/lgpllr.html
+PD	public domain

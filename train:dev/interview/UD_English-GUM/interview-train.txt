@@ -1,0 +1,876 @@
+Biologist Nick Bos tells Wikinews about 'self-medicating' ants 
+Tuesday, September 1, 2015 
+Formica fusca, from file. 
+Image: Mathias Krumbholz. 
+Nick Bos, of the University of Helsinki, studies "the amazing adaptations social insects have evolved in order to fight the extreme parasite pressure they experience". 
+In a recently-accepted Evolution paper Bos and colleagues describe ants appearing to self-medicate. 
+"I have no doubt that as time goes on, there will be more and more cases documented" 
+The team used Formica fusca, an ant species that can form thousand-strong colonies. 
+This common black ant eats other insects, and also aphid honeydew. 
+It often nests in tree stumps or under rocks and foraging workers can sometimes be spotted climbing trees. 
+Some ants were infected with Beauveria bassiana, a fungus. 
+Infected ants chose food laced with toxic hydrogen peroxide, whereas healthy ants avoided it. 
+Hydrogen peroxide reduced infected ant fatalities by 15%, and the ants varied their intake depending upon how high the peroxide concentration was. 
+In the wild, Formica fusca can encounter similar chemicals in aphids and dead ants. 
+The Independent reported self-medicating ants a first among insects. 
+Bos obtained his doctorate from the University of Copenhagen. 
+He began postdoctoral research at Helsinki in 2012. 
+He also runs the AntyScience blog. 
+The blog aims to help address "a gap between scientists and 'the general public'." 
+The name is a pun referencing ants, its primary topic, science, and "non-scientific" jargon-free communication. 
+He now discusses his work with Wikinews. 
+Beauveria bassiana on a cicada in Bolivia. 
+Image: Danny Newman. 
+What first attracted you to researching ants? 
+Me and a studymate were keeping a lot of animals during our studies, from beetles, to butterflies and mantids, to ants. 
+We had the ants in an observation nest, and I could just look at them for hours, watching them go about. 
+This was in my third year of Biology study I think. 
+After a while I needed to start thinking about an internship for my M.Sc. studies, and decided to write a couple of professors. 
+I ended up going to the Centre for Social Evolution at the University of Copenhagen where I did a project on learning in Ants under supervision of Prof. Patrizia d'Ettorre. 
+I liked it so much there I ended up doing a PhD and I've been working on social insects ever since. 
+What methods and equipment were used for this investigation? 
+This is a fun one. 
+I try to work on a very low budget, and like to build most of the experimental setups myself (we actually have equipment in the lab nicknamed the 'Nickinator', 'i-Nick' and the 'Nicktendo64'). 
+There's not that much money in fundamental science at the moment, so I try to cut the costs wherever possible. 
+We collected wild colonies of Formica fusca by searching through old tree-trunks in old logging sites in southern Finland. 
+We then housed the ants in nests I made using Y-tong [aerated concrete]. 
+It's very soft stone that you can easily carve. 
+We carved out little squares for the ants to live in (covered with old CD covers to prevent them escaping!). 
+We then drilled a tunnel to a pot (the foraging arena), where the ants got the choice between the food with medicine and the food without. 
+We infected the ants by preparing a solution of the fungus Beauveria bassiana. 
+Afterwards, each ant was dipped in the solution for a couple of seconds, dried on a cloth and put in the nest. 
+After exposing the ants to the fungus, we took pictures of each foraging arena three times per day, and counted how many ants were present on each food-source. 
+Example of aerated concrete, which provided a home for the subjects. 
+Image: Marco Bernardini. 
+This gave us the data that ants choose more medicine after they have been infected. 
+The result that healthy ants die sooner when ingesting ROS [Reactive Oxygen Species, the group of chemicals that includes hydrogen peroxide] but infected ants die less was obtained in another way (as you have to 'force feed' the ROS, as healthy ants, when given the choice, ignore that food-source.) 
+For this we basically put colonies on a diet of either food with medicine or without for a while. 
+And afterwards either infected them or not. 
+Then for about two weeks we count every day how many ants died. 
+This gives us the data to do a so-called survival analysis. 
+We measured the ROS-concentration in the bodies of ants after they ingested the food with the medicine using a spectrophotometer. 
+By adding certain chemicals, the ROS can be measured using the emission of light of a certain wave-length. 
+The detrimental effect of ROS on spores was easy to measure. 
+We mixed different concentrations of ROS with the spores, plated them out on petridishes with an agar-solution where fungus can grow on. 
+A day after, we counted how many spores were still alive. 
+How reliable do you consider your results to be? 
+The results we got are very reliable. 
+We had a lot of colonies containing a lot of ants, and wherever possible we conducted the experiment blind. 
+This means the experimenter doesn't know which ants belong to which treatment, so it's impossible to influence the results with 'observer bias'. 
+However, of course this is proof in just one species. 
+It is hard to extrapolate to other ants, as different species lead very different lives. 
+Wikinews interviews President of the International Brotherhood of Magicians 
+Wednesday, October 9, 2013 
+October is National Magic Month in the United States. 
+Wikinews spoke with William Evans, president of the International Brotherhood of Magicians, about the current state of magic and what its future looks like in the world of entertainment. 
+For how long have you been involved in performing / studying magic? 
+Over 50 years. 
+I am 61 now so I really started when I was about 10 years old even though I had seen and worked with some basic tricks a few years earlier. 
+I remember going into Hollywood Magic and wanting that big red box with the dragons on it and I didn't even know what it did. 
+The magician behind the counter was wise enough not to sell it to me, but instead sold me two books which I still own today - "Scarne on Card Tricks" and "Scarne on Magic Tricks". 
+That started me out on books and I have amassed quite a few since then. 
+My major influences on performance are Eugene Burger and Michael Skinner. 
+October is National Magic Month in the US. 
+Do you think magic is alive as a viable form of entertainment today? 
+Absolutely. 
+There are more magicians working today than ever before. 
+There will always be an audience for good magicians doing good magic. 
+Has the internet helped or hurt magic? 
+Both. 
+I think it has helped draw younger people to magic as a hobby, but I think it has hurt the ability of young magicians to think because so many rely on the internet for everything and they aren't reading the books. 
+We have to have knowledge of the history of magic and what has been done before. 
+Moreover, seeing someone perform on the internet takes away the use of our senses, originality and imagination that reading and thinking about magic can produce. 
+Anyone can become a monkey; it takes serious study to become a magician. 
+Do you travel much in your current role? 
+Yes, I am traveling quite a bit. 
+After I was inducted as International President in Phoenix in July, I have been to the Jeff McBride Experience in Eureka Springs, Arkansas, Magic Live in Las Vegas, The Midwest Magic Jubilee in St. Louis, the TAOM in Dallas, the British Ring Convention in Buxton, England and the Magic Circle in London. 
+I am going to Las Vegas and Los Angeles next month, Italy in November, back to Las Vegas in December, Mexico in January, Magi-Fest in February, the Winter Carnival of Magic in Tennessee in March, Eureka Springs Cavalcade of Magic in March, and the FFFF in April. 
+That's as of now. 
+File photo of magician David Gish displaying magic props for a young child. 
+Image: Paul Budd. 
+Interview with US political activist and philosopher Noam Chomsky 
+Saturday, April 4, 2009 
+Political activist and philosopher Noam Chomsky 
+Noam Chomsky is a professor emeritus at Massachusetts Institute of Technology in Linguistics and Philosophy. 
+At the age of 40 he was credited with revolutionizing the field of modern linguistics. 
+He was one of the first opponents of the Vietnam War, and is a self-described Libertarian Socialist. 
+At age 80 he continues to write books; his latest book, Hegemony or Survival, was a bestseller in non-fiction. 
+According to the Arts and Humanities Citation Index Professor Chomsky is the eighth most cited scholar of all time. 
+On March 13, Professor Chomsky sat down with Michael Dranove for an interview in his MIT office in Cambridge, Massachusetts. 
+On NATO 
+I just wanted to know if you had any thoughts on recent NATO actions and the protests coming up at the 60th NATO conference, I know you’re speaking at the counter-conference. 
+Could be I give so many talks I can’t remember. 
+On the NATO conference, well I mean the obvious question is why should NATO exist? 
+In fact you can ask questions about why it should ever have existed, but now why should it exist. 
+I mean the theory was, whether you believe it or not, that it would be a defensive alliance against potential Soviet aggression, that’s the basic doctrine. 
+Well there’s no defense against Soviet aggression, so whether you believe that doctrine or not that’s gone. 
+When the Soviet Union collapsed there had been an agreement, a recent agreement, between Gorbachev and the U.S government and the first Bush administration. 
+The agreement was that Gorbachev agreed to a quite remarkable concession: he agreed to let a united Germany join the NATO military alliance. 
+Now it is remarkable in the light of history, the history of the past century, Germany alone had virtually destroyed Russia, twice, and Germany backed by a hostile military alliance, centered in the most phenomenal military power in history, that’s a real threat. 
+Nevertheless he agreed, but there was a quid pro quo, namely that NATO should not expand to the east, so Russia would at least have a kind of security zone. 
+And George Bush and James Baker, secretary of state, agreed that NATO would not expand one inch to the east. 
+Gorbachev also proposed a nuclear free weapons zone in the region, but the U.S wouldn’t consider that. 
+Okay, so that was the basis on which then shortly after the Soviet Union collapsed. 
+Well, Clinton came into office what did he do? 
+Well one of the first things he did was to back down on the promise of not expanding NATO to the east. 
+Well that’s a significant threat to the Soviet Union, to Russia now that there was no longer any Soviet Union, it was a significant threat to Russia and not surprisingly they responded by beefing up their offensive capacity, not much but some. 
+So they rescinded their pledge not to use nuclear weapons on first strike, NATO had never rescinded it, but they had and started some remilitarization. 
+With Bush, the aggressive militarism of the Bush administration, as predicted, induced Russia to extend further its offensive military capacity; it’s still going on right now. 
+When Bush proposed the missile defense systems in Eastern Europe, Poland and Czechoslovakia, it was a real provocation to the Soviet Union. 
+I mean that was discussed in U.S arms control journals, that they would have to regard as a potential threat to their strategic deterrent, meaning as a first strike weapon. 
+And the claim was that it had to do with Iranian missiles, but forget about that. 
+Take say on Obama, Obama’s national security advisor James Jones former Marine commandant is on record of favoring expansion of NATO to the south and the east, further expansion of NATO, and also making it an intervention force. 
+And the head of NATO, Hoop Scheffer, he has explained that NATO must take on responsibility for ensuring the security of pipelines and sea lanes, that is NATO must be a guarantor of energy supplies for the West. 
+Well that’s kind of an unending war, so do we want NATO to exist, do we want there to be a Western military alliance that carries out these activities, with no pretense of defense? 
+Well I think that’s a pretty good question; I don’t see why it should, I mean there happens to be no other military alliance remotely comparable — if there happened to be one I’d be opposed to that too. 
+So I think the first question is, what is this all about, why should we even be debating NATO, is there any reason why it should exist? 
+Labor actions as a revival of the Left 
+We’ve seen mass strikes all around the world, in countries that we wouldn’t expect it. 
+Do you think this is a revival of the Left in the West? 
+Or do you think it’s nothing? 
+It’s really hard to tell. 
+I mean there’s certainly signs of it, and in the United States too, in fact we had a sit down strike in the United States not long ago, which is a very militant labor action. 
+Sit down strikes which began at a significant level in the 1930’s were very threatening to management and ownership, because the sit down strike is one step before workers taking over the factory and running it and kicking out the management, and probably doing a better job. 
+So that’s a frightening idea, and police were called in and so on. 
+Well we just had one in the United States at the Republic Windows and Doors Factory, it’s hard to know, I mean these things are just hard to predict, they may take off, and they may take on a broader scope, they may fizzle away or be diverted. 
+Wikinews interviews New York bar owner on Santorum cocktail 
+Thursday, March 15, 2012 
+Wikinews interviewed one of the owners of a New York City bar about a popular new politically-themed cocktail drink called Santorum. 
+The beverage was inspired by the santorum neologism coined in advice columnist Dan Savage's column Savage Love in response to comments made by former Pennsylvania Senator Rick Santorum about homosexuality; 
+Savage's readers voted to define santorum as; "the frothy mixture of lube and fecal matter that is sometimes the byproduct of anal sex." 
+Background 
+The santorum neologism has inspired satirical forms of parody, including this political cartoon by Saturday Morning Breakfast Cereal webcomic artist Zach Weiner. 
+2012. 
+Image; Zach Weiner. 
+The Pacific Standard bar is located in Brooklyn, New York, and is co-owned by Jonathan M. Stan and John-Christian G. Rauschenberg. 
+Stan commented on the creation of the Santorum cocktail, "When he was winning in the polls, I thought, 'OK, I'll do a Santorum'." 
+Regarding how long the beverage will be made available, Stan remarked to The Brooklyn Paper, "We'll keep it around until he’s irrelevant. I hope he’s there the whole way". 
+The main ingredients of the Santorum drink include vodka of an orange citrus variety, Baileys Irish Cream, and Angostura bitters. 
+It is served in a cocktail glass and topped with Godiva chocolate flakes. 
+The beverage is priced at US $ 8.00, and upon an order for it, the bartender will recount for the customer the definition of the santorum neologism. 
+Troy Patterson of Slate Magazine ventured over to Pacific Standard to sample the new santorum cocktail at the bar. 
+After tasting the beverage, Patterson observed, "My Santorum was sweet but balanced, with a subtle citrus pucker". 
+[The santorum neologism is] offensive beyond, you know, anything that any public figure or anybody in America should tolerate, and the mainstream media laughs about it. — Rick Santorum 
+In a 2003 interview with the Associated Press, Rick Santorum compared legalizing same-sex marriage in the United States to supporting bestiality. 
+Readers of the Savage Love advice column selected a new definition for the Senator’s last name, and Savage created a website SpreadingSantorum.com to promulgate the spread of the phenomenon. 
+The term became a prominent result in searches online, and gained dominance on Web search engines including Google, Bing, and Yahoo!. 
+Rick Santorum himself has acknowledged and discussed the existence and prevalence of the santorum neologism phenomenon; he was quoted by The Canadian Press on his assessment of Google's response; 
+"To have a business allow that type of filth to be purveyed through their website or through their system is something that they say they can't handle. 
+I suspect that's not true." 
+Santorum criticized the response of the press to the phenomenon in a 2011 radio interview, saying, "It's offensive beyond, you know, anything that any public figure or anybody in America should tolerate, and the mainstream media laughs about it." 
+Interview 
+Pacific Standard owner, Jonathan M. Stan, displays the Santorum cocktail drink as a finished product at the bar. (2012). 
+Image; Pacific Standard, provided by the owners. 
+Interview 
+What inspired you to create a cocktail after the santorum neologism? 
+Santorum the person has been in the news throughout the primary season, and we thought it would be interesting to try to create a delicious drink that mimicked the appearance of the Dan Savage meaning of "santorum." 
+How did you first hear about the definition of the santorum neologism that grew out of the contest from the Savage Love advice column? 
+We don't really remember. 
+It's been around forever. 
+Probably read about it somewhere. 
+What are your thoughts about Rick Santorum’s views on gay rights? 
+It's not for us to take a stand on any political issues. 
+We'll leave that to the professionals. 
+Do you think it was an appropriate form of satire for Dan Savage to popularize the definition of the santorum neologism created in his advice column? 
+We thought it was funny. 
+Whether it is appropriate or not is another thing we leave to the pros to decide. 
+When was the Santorum cocktail first created? 
+A few months ago. 
+What ingredients go in the Santorum cocktail? 
+Bailey's, orange vodka, bitters, and chocolate flakes. 
+How is the Santorum drink made? 
+The ingredients are shaken and/or poured into a cocktail glass. 
+See the pictures. 
+Your Santorum cocktail creation has already received media coverage from publications including; The Brooklyn Paper, The New York Times, Jezebel, Metro.us, EDGE on the Net, and Instinct Magazine. 
+Did you think when you created it that the Santorum cocktail would receive this news coverage? 
+Not at all. 
+We were just trying to come up with a topical and funny new cocktail for our customers to laugh about and enjoy. 
+What culinary dishes would you recommend that go well with the Santorum cocktail? 
+You'd probably be having the cocktail at dessert time, so something sweet; ice cream or pie. 
+Is the drink popular? 
+How many times do you suppose you’ve served it at your establishment since its creation? 
+The drink was mildly popular for the last few months, but of course has become a great deal more popular since getting all this publicity. 
+We have no way to estimate how many times we've served it overall, but we're now pouring around ten a night. 
+Cold as ice: Wikinews interviews Marymegan Daly on unusual new sea anemone 
+Tuesday, January 21, 2014 
+How did you come to be involved with this discovery 
+Frank Rack got in touch after they returned from Antarctica in hopes that I could help with an identification on the anemone. 
+What was your first reaction upon learning there was an undiscovered ecosystem under the ice in the Ross Sea? 
+I was amazed and really excited. 
+I think to say it was unexpected is inaccurate, because it implies that there was a well-founded expectation of something. 
+The technology that Frank and his colleagues are using to explore the ice is so important because, given our lack of data, we have no reasonable expectation of what it should be like, or what it shouldn't be like. 
+There's a return trip planned hopefully for 2015, with both biologists and ANDRILL geologists. 
+Are you intending to go there yourself? 
+I would love to. 
+But I am also happy to not go, as long as someone collects more animals on my behalf! 
+What I want to do with the animals requires new material preserved in diverse ways, but it doesn't require me to be there. 
+Although I am sure that being there would enhance my understanding of the animals and the system in which they live, and would help me formulate more and better questions about the anemones, ship time is expensive, especially in Antarctica, and if there are biologists whose contribution is predicated on being there, they should have priority to be there. 
+These animals are shrouded in mystery. 
+Some of the most intriguing questions are chemical; do they produce some kind of antifreeze, and is that orange glow in the ROV lights their own? 
+Talk us through the difficulties encountered when trying to find answers with the specimens on hand. 
+The samples we have are small in terms of numbers and they are all preserved in formalin (a kind of formaldehyde solution). 
+The formalin is great for preserving structures, but for anemones, it prevents study of DNA or of the chemistry of the body. 
+This means we can't look at the issue you raise with these animals. 
+What we could do, however, was to study anatomy and figure out what it is, so that when we have samples preserved for studying e.g., the genome, transcriptome, or metabolome, or conduct tests of the fluid in the burrows or in the animals themselves, we can make precise comparisons, and figure out what these animals have or do (metabolically or chemically) that lets them live where they live. 
+Just knowing a whole lot about a single species isn't very useful, even if that animal is as special as these clearly are - we need to know what about them is different and thus related to living in this strange way. 
+The only way to get at what's different is to make comparisons with close relatives. 
+We can start that side of the work now, anticipating having more beasts in the future. 
+In terms of their glow, I suspect that it's not theirs - although luminescence is common in anemone relatives, they don't usually make light themselves. 
+They do make a host of florescent proteins, and these may interact with the light of the ROV to give that gorgeous glow. 
+What analysis did you perform on the specimens and what equipment was used? 
+I used a dissecting scope to look at the animal's external anatomy and overall body organization (magnification of 60 X). 
+I embedded a few of the animals in wax and then cut them into very thin slices using a microtome, mounted the slices on microscope slides, stained the slices to enhance contrast, and then looked at those slides under a compound microscope 
+(that's how I got the pictures of the muscles etc in the paper). 
+I used that same compound scope to look at squashed bits of tissue to see the stinging capsules (= nematocysts). 
+I compared the things I saw under the 'scopes to what had been published on other species in this group. 
+This step seems trivial, but it is really the most important part! 
+By comparing my observations to what my colleagues and predecessors had found, I figured out what group it belongs to, and was able to determine that within that group, it was a new species. 
+It was three years between recovery of specimens and final publication, why did it take so long? 
+You mean, how did we manage to make it all happen so quickly, right? :) 
+It was about two years from when Frank sent me specimens to when we got the paper out. 
+Some of that time was just lost time - I had other projects in the queue that I needed to finish. 
+Once we figured out what it was, we played a lot of manuscript email tag, which can be challenging and time consuming given the differing schedules that folks keep in terms of travel, field work, etc. 
+Manuscript review and processing took about four months. 
+What sort of difficulties were posed by the unorthodox preservatives used, and what additional work might be possible on a specimen with intact DNA? 
+The preservation was not unorthodox - they followed best practices for anatomical preservation. 
+Having DNA-suitable material will let us see whether there are new genes, or genes turned on in different ways and at different times that help explain how these animals burrow into hard ice and then survive in the cold. 
+I am curious about the population structure of the "fields" of anemones - the group to which Edwardsiella andrillae belongs includes many species that reproduce asexually, and it's possible that the fields are "clones" produced asexually rather than the result of sexual reproduction. 
+DNA is the only way to test this. 
+This map shows the location of the Ross Ice Shelf in the Antarctic, and the two known localities for E. andrillae relative to McMurdo Station 
+image: Daily et al. 
+Daly explained how she obtained these images of the anemone's anatomy. 
+Image: Daily et al. 
+BDSM as business: An interview with the owners of a dungeon 
+Sunday, October 21, 2007 
+Operating the business 
+The costs 
+Clothing supply closet. 
+There's a misconception in this industry. 
+Your exposure to this is probably primarily what you see in movies, scanning magazines, scanning the Internet, just snippets everywhere. 
+It's portrayed as though it's dark, black and evil. 
+And -- 
+Oh man, well? 
+What's up? 
+I do wear a lot of black. 
+It's anything but that. 
+If you look at the rooms, there's all the accouterments you'd find in these types of places -- but more than anything, there's a lot of good feeling around here. 
+We hire the opposite of what you'd think we would hire, what the average person would think we would hire. 
+We hire educated, nice people. 
+I remember one of our ads that I had put in said, "If you think nice girls don't do S&M," -- I forgot what the rest of it said -- 
+"-- think again." 
+Yeah, "think again" or something like that. 
+And that ad had pulled so many girls, because they -- I think they all thought that nice girls don't do this. 
+And a bunch of them had called and they said, "Wow." 
+And I think I remember, a bunch of guys called because of that also. 
+Do you remember? 
+I sure do, I sure do. 
+What are the startup costs involved? 
+It varies; look around Manhattan, look around rents, look around build-outs, look around hiring, look around advertising ... 
+What's your greatest non-fixed cost? 
+The single most costly thing we spend on is rent and advertising, those two together make up the bulk of what we spend. 
+There's supplies, and there's wear and tear and maintenance, and bookkeeping and things like that that you have to do. 
+That's about it. 
+The hardest thing in running this business, which is why people can't do it, is the relationship that my wife has with the gals and with the customers. 
+Where do you advertise? 
+A lot on the web, we've used most of the local city papers, New York Press, things like that, L Magazine. 
+In the back of the paper? 
+Typically in the back of the paper. 
+Magazines constantly change their policy on it; they want it, they don't want it ... 
+Depending on the election year -- 
+Who's buying the paper, who's selling the paper. 
+So it changes, so one year we got to be in the Press, but they have now stopped adult ads. 
+Completely. 
+So now we'll be in the Voice for a while. 
+We're moving more towards the Internet at this point, because the Internet is a much easier, safer way for a person to look at sensitive material and not get caught with it. 
+Hiring employees 
+Personality test questions given to prospective mistresses. 
+Pursuant to your business question: we only hire nice people. 
+I don't care if a girl is absolutely exquisite looking -- 
+My husband has met beautiful, beautiful girls -- 
+-- beautiful girls -- 
+-- and he's in the end, he would say, "Well, I won't hire them." 
+I'm like, ‘Are you insane? 
+I won't hire them. 
+I hire -- 
+Why not? 
+Because I want someone who's going to treat people nicely and well. 
+We have -- 
+How can you tell whether they will or will not? 
+Just by talking to them? 
+Having been a psychologist for a number of years gives me a leg up on it. 
+And he's been right. 
+And I have made him hire these girls, and ultimately he's been right 
+They've been complete pain in the asses! 
+I also have a profile they fill out for me, a mini-MMPI that I developed, so that I have an idea -- Rebecca and I put it together 
+I don't know if you'd like to see one. 
+No, no, no. Just -- 
+I could show you. 
+So I have a mini-MMPI that I -- 
+Could I have a sample, not necessarily one that's filled out, but just one that you -- 
+I'll show you. 
+The questions are -- 
+Be careful. 
+He'll make you fill one out. 
+You'd be scared. 
+You wouldn't hire me. 
+Is it only girls you hire? 
+Yeah. 
+What would a question like "the greatest woman in the world" reveal to you? 
+No question would reveal anything independently of all the questions together -- 
+Sure. 
+-- but I have a chart that I'll go through; the MMPI. 
+The baseline data that I use to -- 
+How did you originate these questions? 
+Where did I make them? 
+You get a baseline from asking girls and refining profiles -- 
+And it's an amalgamation of questions. 
+Of many, many questions -- 
+What's your favorite question? 
+I don't know, the O.J. Simpson …. 
+Yeah, I see O.J. Simpson. 
+What would that be an indicator of? 
+I'm not sure which one you gave him, but there's a brief, brief, brief IQ test there. 
+Very brief. 
+Do you ask for references? 
+No, because I really can't call and tell them I'm yeah, so-and-so's applying here for a position. 
+Jack Herrick, wikiHow founder interviewed by Wikinews 
+Saturday, January 31, 2009 
+Herrick at RecentChangesCamp 2008 Image: ShakataGaNai. 
+wikiHow is a wiki-based site which aims to "build the world's largest, highest quality how-to manual." 
+It recently published its 50,000th article, and to discuss what the site has achieved since its creation, Wikinews interviewed the site's founder, Jack Herrick. 
+In the interview, Herrick explains what wikiHow is, why he decided to create it, how he grew it in size, and why he chose to use a Creative Commons license (HyperLink) for his site. 
+Read below for more of the interview in full. 
+Interview 
+For our readers who are unaware of your site, could you briefly explain what wikiHow is? 
+Sure. 
+wikiHow is a collaborative effort to build the world's largest, highest quality how-to manual. 
+Our long term goal is to produce practical instructions on almost every topic in every language. 
+We're quite far from our goals currently, but we take comfort in the fact that every month wikiHow gets noticeably better and larger 
+We currently have just under 50000 articles and over 1000 featured articles. 
+We hope that in time, we will have millions of articles with many of them having featured status. 
+That said, we are realistic enough to realize that this goal will take decades to achieve. 
+However, in terms of readership, we are probably the most popular single subject wiki after Wikipedia. 
+We get over 14 million unique visitors per month (source: Google Analytics), which makes us the 135th most popular site according to Quantcast. 
+[Note: The interview took place just before the 50000 milestone was met] 
+Like Wikipedia, wikiHow is a wiki that runs on Mediawiki software. 
+Our community is full of volunteers from all over the world. 
+That said, we are quite different from Wikipedia in several respects: 
+We are much smaller. 
+The English wikiHow has only 60 admins, compared to the 1000 + on English Wikipedia. 
+As a result, wikiHow is still at the size that every editor eventually gets to know other editors. 
+We are run as a Hybrid Organization - a for-profit company focused on achieving a social good. 
+This has several advantages and disadvantages when compared to the non-profit structure at the Wikimedia Foundation. 
+We show opt-out advertising to anonymous visitors rather than ask for donations. 
+Our advertising revenue funds community meetups and has even allowed us to donate over $ 60,000 to charities such as the Wikimedia Foundation and Creative Commons. 
+(http://www.wikihow.com/wikiHow:Contributions-to-Charity). 
+In addition, we've used our revenue on things like buying carbon offsets to become carbon neutral. 
+(http://www.wikihow.com/wikiHow:Carbon-Neutral) 
+Our community culture is focused on wikiLove and civility. 
+As a result some folks believe wikiHow is a more humane and enjoyable place to work than other places online. 
+Why did you decide to create wikiHow? 
+I think that providing people with a practical education is one of the most empowering things you can offer a person. 
+Imagine having detailed step-by-step instructions on how to do any activity you could imagine. 
+How much more could you accomplish as an individual if you could learn any activity? 
+I think that building a universal how-to manual would be a tremendous gift for the world. 
+Knowledge is power and wikiHow has the potential to make all of us a bit more powerful. 
+I've been interested in building a comprehensive how-to manual long before I first envisioned wikiHow. 
+My first attempt at building this resource was a website I used to run called eHow. 
+eHow was and continues to be the largest and how to website in the world. 
+eHow contains copyrighted content run on proprietary software. 
+When I ran eHow, the content was professionally produced and edited. 
+This business model worked for producing content on topics that appeal to advertisers in languages like English that have large advertising markets. 
+However, paying people to write and edit articles ultimately means that you have to make one of two sacrifices. 
+You either 1) sacrifice on breadth and don't produce the topics that won't interest advertisers, or 2) you sacrifice on quality and produce content that doesn't cost much to write. 
+I wasn't interested in making either of these sacrifices, as I think the world's how to manual needs to be high quality AND comprehensive. 
+So ultimately I decided that eHow's model would not build the resource I envisioned. 
+When I discovered Wikipedia, I recognized that the wiki model had the potential to build the how-to resource the world really needs. 
+So I decided to sell eHow and use the proceeds to build wikiHow. 
+Why did you decide to use a Creative Commons license? 
+We use a Creative Commons license to give our community the right to fork (http://www.wikihow.com/wikiHow:Right-to-Fork). 
+In my opinion, people should be hesitant to contribute to websites where you only have the "right to leave." 
+If wikiHow volunteers think our site is going in the wrong direction, they can take all the content and all the software and move the project elsewhere. 
+This is possible because we release all of our software under the Open Source GPL license and release our content under a Creative Commons license. 
+This right to fork guarantees that wikiHow, the company, will always serve the goal of the mission and our volunteer community. 
+I believe that offering this right to fork has been a key element of our success thus far. 
+My hope is that over time, internet users will demand this of any site where they invest their time in a way that creates value for others. 
+That said, when we started out I didn't know the difference between the GNU Free Document License and my California Driver's license. 
+As a result, we made some mistakes along the path. 
+In retrospect, I think we probably should have selected the CC BY-SA license instead of CC-BY-SA-NC. 
+At a minimum this would provide a helpful compatibility with other wikis and free culture projects. 
+wikiHow now has millions of visitors per month. 
+How did you grow the site to the size it is today? 
+In December 2008, wikiHow had over 14 million unique visitors according to Google Analytics (Full data: http://www.wikihow.com/wikiHow:Statistics). 
+Quantcast ranks wikiHow as the 135th most popular site in the US. 
+(http://www.quantcast.com/wikihow.com). 
+wikiHow achieved this popularity for a few reasons. 
+First, people around the world are desperate for high quality how-to information. 
+People want to learn more practical skills, and for the most part the internet doesn't provide enough quality information yet. 
+Second, we attracted millions of readers via the virtuous circle of wiki editing: We had some articles of mixed quality, and editors joined to improve those articles, which in turn attracted more readers. 
+We continue to depend on this same virtuous cycle: More readers, means more editors, which creates better instructions, leading again to more readers. 
+It is the same virtuous circle that Wikipedia has enjoyed. 
+Wikinews interviews academic Simon Ličen about attitudes towards US Paralympics 
+Saturday, November 16, 2013 
+A Russian stamp for Paralympic Games in Sochi in 2014 
+On Thursday, with 110 days until the start of the 2014 Winter Paralympics in Sochi, Russia, Wikinews interviewed Assistant Professor in Educational Leadership, Sport Studies and Educational / Counseling Psychology at Washington State University Simon Ličen about attitudes in United States towards the Paralympics. 
+Ličen has recently joined the Sport Management Program at Washington State University to develop its sport media and communication research and teaching contents. 
+Originally from Slovenia, he served as the Director of Media and Communications of a WTA Tour event and was a member of the UNESCO Slovenian National Commission. 
+He was also the Team Manager of the Slovenian wheelchair basketball national team. 
+Why do you think the Paralympic movement has so little visibility in the US compared to other countries like Australia, the United Kingdom and even Canada? 
+Sports in the United States largely reaffirm existing relations of power in society. 
+It emphasizes consumerism, the belief that success always goes to people who merit it due to their abilities, dedication and qualifications, and reinforces, rather than changes, existing ideas related to gender, ethnicity and nationality. 
+Paralympic sport brings attention to athletes who are typically overlooked in American society because the majority of the population does not want to identify with people who are disabled. 
+Although disability is not contagious, interest in disabled sports might put into question the masculinity of the males following it. 
+Disabled athletes also challenge existing relations of power by displaying dedication, hard work and perseverance in different contexts than those most sports fans are accustomed to. 
+Other countries, including the ones you mention, have stronger social orientations in all aspects of society. 
+Even though legislative support may be less strong than the one provided by the Americans with Disabilities Act, many social institutions including the media are more receptive to this form of diversity. 
+What do you think the impact will be for the Paralympic movement will be with the Games being televised live in the United States for first time? 
+The impact depends on a number of aspects. 
+One of them is the channels that NBC as the broadcasting rights owner for the United States will use to air the Paralympic Games on. 
+Will they be shown nationally or regionally, on NBC or on any of the company’s multiple cable networks? 
+A second aspect is the parts or hours of the day the Paralympics will be shown. 
+Remember that there is a nine-hour difference between Sochi and New York, and a 12-hour difference between Sochi and the US West Coast. 
+So daytime events will be shown live in the United States in the middle of the night, and evening prime-time events will be shown — indeed live — in the morning U.S. time. 
+So showing the Paralympics live on United States television might turn out to be less glamorous than it appears. 
+A third important factor is the way the event will be mediated: will NBC have its best sports broadcasters following the event after having worked the Winter Olympics? 
+Will they treat and announce the competitions as they do all others — for better and worse? 
+Will they take it as an opportunity to educate viewers about disability and diversity while showing superb athletic performances without engaging in a discourse of pity? 
+All in all, I think this is a terrific opportunity to improve sports coverage in a multitude of aspects; but we will have to wait until after the event to assess to what extent the broadcasters will meet these expectations. 
+Interview with LibriVox founder Hugh McGuire 
+Sunday, May 28, 2006 
+The LibriVox website features a catalog of about a hundred completed books, including books in other languages like German, Hebrew, and Japanese. 
+Why did you decide to take the acoustic fate of public domain works into your own hands, and how did you go about it? 
+I think that a vibrant public domain is very important to a healthy world, and so I thought: here's a way to help the cause. 
+I launched LibriVox, emailed some friends and some podcasters who where doing literary stuff, and invited them to record a chapter of Joseph Conrad's Secret Agent. 
+Things have grown steadily since. 
+By the way, AKMA was the first guy I know of to do something like this, with Lawrence Lessig's Free Culture. 
+That, I think, started my thinking about this, but it took a while for the idea to crystallize. 
+Hugh McGuire with some books that have not yet been acoustically liberated. 
+Do you personally record audiobooks, and did you already do so before LibriVox? 
+LibriVox was my first experience recording audiobooks. 
+I still do the odd chapter, but i am a bit delinquent in finishing some of them these days! 
+Is there a particular LibriVox book which you think stands out because of the quality, the overall effort involved, its popularity, or for some other reason? 
+My personal favourite is Notes from the Underground (Dostoyevsky). 
+Other random good ones: 
+Austen, Jane. 
+Pride and Prejudice 
+Christie, Agatha. 
+The Mysterious Affair at Styles 
+London, Jack. 
+White Fang 
+Macaulay, Thomas Babington. 
+History of England (Volume 1, Chapter 1) 
+Marx, Karl and Engels, Friedrich. 
+The Communist Manifesto (solo) 
+Twain, Mark. 
+A Connecticut Yankee in King Arthur's Court (solo) 
+Ed.: See the LibriVox catalog for a full index. 
+Browsing the catalog, I find that the quality of the spoken audio varies greatly from text to text or even from chapter to chapter. 
+If someone wanted to re-record a chapter because they didn't like the speaker, would you then offer two versions? 
+Yes. 
+We take the Wikipedia approach: if you think it should be better, please help it be so. 
+You'll note we offer a couple of versions of some books. 
+Indeed our weekly poetry project celebrates this diversity of voice: each week a new short poem is chosen and as many readers as wish to record a version, so you get 20 + versions of the same poem, a very interesting audio experience. 
+Besides works whose copyright has expired, there is an increasing number of modern books available under Creative Commons and similar licenses. 
+You mentioned Larry Lessig's Free Culture, but it also includes some out of print titles by publishers who are open to the concept, such as O'Reilly. 
+Do you want to limit the scope of LibriVox strictly to old public domain works, or do you have plans to include recent works under reasonably permissive licenses as well? 
+We are only doing public domain works, for a number of reasons, partly to keep simplicity in our copyright situation -- public domain means its as simple as can be. 
+CC makes things more complex. 
+Also, there are other sites, notably podiobooks.com, which are better suited to CC works than LibriVox. 
+we find it makes things clear and easy to say: published works, public domain, and leave it at that. 
+As far as I can tell, podiobooks.com features "free as in beer" content — material which you can download, but which isn't under a free content license. 
+Instead of "public domain", wouldn't "free content" work just as well, using something like the Free Content Definition to limit the scope? 
+This needs more discussion obviously: we chose public domain because the texts we use are public domain and we didn't want to add new restrictions, especially not non-commercial, since already our recordings are being used for a number of commercialish projects (I can't recall any specific project names, but some pay-education sites use LV stuff). 
+That's good and well and fine with us. 
+We don't want to have to give anyone permission to use our recordings, we want anyone to use them for whatever they want. 
+Also, for the thing to work you need to have many dedicated volunteers willing to do the management (onerous) and many willing to do the reading. 
+While Pride and Prejudice will attract many readers, I don't know about O'Reilly's latest tome on XML ... though I might be wrong. 
+Friday, January 3, 2014 
+Preston, Victoria, Australia 
+On Saturday, Wikinews interviewed Tina McKenzie, a former member of the Australia women's national wheelchair basketball team, known as the Gliders. 
+McKenzie, a silver and bronze Paralympic medalist in wheelchair basketball, retired from the game after the 2012 Summer Paralympics in London. 
+Wikinews caught up with her in a cafe in the leafy Melbourne suburb of Preston. 
+[The Spitfire Tournament in Canada] was a really good tournament actually. 
+It was a tournament that I wish we'd actually gone back to more often. 
+Who plays in that one? 
+It's quite a large Canadian tournament, and so we went as the Gliders team. 
+So we were trying to get as many international games as possible. 
+Cause that's one of our problems really, to compete. 
+It costs us so much money to for us to travel overseas and to compete internationally. 
+And so we can compete against each other all the time within Australia but we really need to be able to ... 
+It's not the same. 
+No, it's really not, so it's really important to be able to get as a many international trips throughout the year to continue our improvement. 
+Also see where all the other teams are at as well. 
+But yes, Spitfire was good. 
+We took quite a few new girls over there back then in 2005, leading into the World Cup in the Netherlands. 
+Was that the one where you were the captain of the team, in 2005? 
+Or was that a later one? 
+No, I captained in 2010. 
+So 2009, 2010 World Cup. 
+And then I had a bit of some time off in 2011. 
+The Gliders have never won the World Championship. 
+We always seem to have just a little bit of a chill out at the World Cup. 
+I don't know why. 
+It's really strange occurrence, over the years. 
+2002 World Cup, we won bronze. 
+Then in 2006 we ended up fourth. 
+It was one of the worst World Cups we've played actually. 
+And then in 2010 we just ... I don't know what happened. 
+We just didn't play as well as we thought we would. 
+Came fourth. 
+But you know what? 
+Fired us up for the actual Paralympics. 
+So the World Cup is ... it's good to be able to do well at the World Cup, to be placed, but it also means that you get a really good opportunity to know where you're at in that two year gap between the Paralympics. 
+So you can come back home and revisit what you need to do and, you know, where the team's at. 
+And all that sort of stuff. 
+Unfortunately, they are talking about moving it so it will be on the year before the Paralympics. 
+Oh really. 
+The competition from the [FIFA] World Cup and all. 
+Right. 
+Well, that would be sad. 
+Tina McKenzie. 
+Image: Australian Paralympic Committee. 
+Frank Messina: An Interview with the 'Mets Poet' 
+Wednesday, October 3, 2007 
+You have received a good deal of attention recently. 
+Even though Im not Michael Jackson or somebody, when people come up to me and introduce themselves and say, 'Hey Frank, my name is John,' I say, 'Hey John, my name is Frank' and they laugh. 
+It's a funny phenomenon. 
+What goes through your head when that happens? 
+I understand it. 
+I've gone to readings and concerts. 
+I look at it as human interaction. 
+Over the years I have performed in 32 countries and 40 states. 
+I've been doing this professionally since I was in my twenties, and before that since I was sixteen doing little tidbit poetry readings in coffeehouses. 
+The band I started in 1993, Spoken Motion, received a lot of recognition as a spoken word band born out of the New York spoken word scene. 
+I worked with some great musicians and performed around the world. 
+I remember signing my first autograph to a kid when I was 25 years old. 
+As time went on, I came out with books and CDs, and I became used to that kind of thing. 
+To me, the ultimate feeling of success as an artist, is to move somebody enough where they thank you. 
+When someone comes up and says, 'Frank, thank you, your work is great." 
+You have a long career in poetry, but as of late the attention you have garnered is for the Mets-inspired work. 
+How do you feel about having a lot of your work overshadowed by the Mets work? 
+It's ironic. 
+Some of the greatest poetry has been born out of failure and the depths of adversity in the human experience. 
+Walt Whitman, the first great American poet, wrote about the Civil War. 
+He went looking for his brother, George Whitman, after he a telegram telling him his brother was injured in the South. 
+When he started out his poems were about beating drums, and blow, bugle, blow. 
+Real patriotic. 
+Then he started to see the real horrors of war. 
+He was able to tap into the human condition and the situation at that time. 
+Eventually when he found his brother he had resolution. 
+I experienced that kind of adversity during 9/11 being a civilian volunteer. 
+I loaded ferry boats in Jersey City across the river to deliver goods to Ground Zero. 
+I turned to Whitman to find some understanding of what is happening in the world right now. 
+When I wrote my 9/11-related poems, that was true adversity. 
+I realize baseball is just a game. 
+Can you recite a stanza that expresses how you feel right now? 
+This was a piece that the Times only quoted one stanza, but it's about preparation for a battle, and being prepared to either rise to the occasion, or go down: 
+Do you know what it's like to be chased by the Ghost of Failure while staring through Victory's door? 
+Of course you do, you're a Mets fan caught in a do-or-die moment in late September at Shea 
+As one thats battled hard through many a broken dream Let me say, "in order to rise to the occasion you must be willing to go down with the ship", 
+Have no fear, no hesitation, for Winning shall be it's reward! 
+Don't let them get in your head! 
+you've kept it up this long 
+You're a Mets fan in late September and youll fight til the glorious end 
+Cheer the team today; (your boys in orange and blue) Let them hear you shout as they fight for what's mightily due 
+(copyright Frank Messina; reprinted with permission)" 
+Sports fans aren't known as patrons of poetry. 
+Have you had interaction with "new readers' through your Mets work? 
+This one person who I never met took a picture of me and sent it to me in an e-mail. 
+The e-mail said, 'Frank, I have never bothered you during the game, but I just wanted to say thank you for your work and thank you for making some sense of the successes and failures and I wish you much success with your work.' 
+Last year in my section at the stadium I had a banner that read We Know'. 
+That's all it said. 
+Then earlier this year these shirts started to come out that said, "Poet says We Know". 
+It was amazing. 
+We didn't use the banner this year, though, because we didn't know. 
+The team wasn't so far ahead that we knew. 
+Last year we just knew we were going to the playoffs; we knew we were going post-season. 
+This year we weren't sure. 
+We were walking on eggshells. 
+There was a woman, a season ticket holder and a die hard fan. 
+She was staggered by the loss last year to the Cardinals. 
+Last year she came up to me during one of the games late in the season; she was so happy we were going to the post season. 
+By that point we had clinched it. 
+She handed me a shirt she bought at the stadium and she gave me a big hug. 
+With tears in her eyes she said, "Thank you, Mets Poet, thank you." 
+It's cool ... it's like another family. 
+Moments like that must make you realize you have touched people who aren't normally touched by poetry. 
+It's opened up a new fan base, so to speak. 
+For the last year SNY has broadcast footage of me with my poems, so quite a few fans known about the "Mets Poet'. 
+I have never called myself that, by the way. 
+The back of my jersey says "The Poet' because growing up that was my nickname. 
+My brother was a runner and they used to call him The Birdman -- Birdie -- and they called me The Poet. 
+It was a natural thing, but I never coined myself as 'The Mets Poet.' 
+The Onion: An interview with 'America's Finest News Source' 
+Sunday, November 25, 2007 
+How The Onion writes an issue 
+This exclusive interview features first-hand journalism by a Wikinews reporter. 
+See the collaboration page for more details. 
+How do you decide on the stories? 
+We do everything backwards here. 
+We start with the headline and then flesh out the story, as opposed to The New York Times, which writes the issue and then has a headline editor to make it snappy. 
+We start with a joke. 
+We read about six hundred to eight hundred headline ideas on a Monday coming from our staff and a small group of writers outside — a contributing core. 
+We whittle that down on a Monday to about a hundred, come in Tuesday and pick an issue and brainstorm with the whole editorial staff; all fifteen of us. 
+Then we assign a headline to a specific writer to execute. 
+We go through a number of drafts and then have the editors pick it up and assign the photojournalism aspect of it to our graphic design team, who adds the visual aspect to it. 
+The editors punch it up over the last couple of days and then it goes out over the Internet and into the print edition. 
+So you don’t have writers coming up with a story and headline, but you will instead have a team of writers choosing the best headlines and then assign it to a particular writer who was not necessarily involved? 
+Writers will occasionally write their own headlines, but we come up with a list of 15 or 20 headline ideas, what we think will make a good story and then we assign it based upon what people’s writing strengths are. 
+We have some people who are great at politics; some people we give all the war stuff to; someone who is in charge of the Britney Spears story of the week — the entertainment stories. 
+The headlines 
+Editorial Manager Chet Clem and President Sean Mills. 
+Image: David Shankbone 
+It seems like some publications, like AM New York, always have a Britney Spears story; 
+is there anything similar with The Onion where they continually revisit a topic or person? 
+No, not necessarily. 
+We are a little less reactionary. 
+We tend to target the zeitgeist more than anything. 
+We’ll hit the mainstream media’s portrayal of the entertainment world as much as we’ll hit characters in the entertainment world. 
+We’ll attack People Magazine’s coverage of Britney as much as Britney. 
+In an interview with Terry Gross, Stephen Colbert said of his time at Second City that they had decided on not doing political humor and, in particular, hackneyed political humor such as Ted Kennedy drinking jokes. 
+They felt it was overdone, mean-spirited and not funny. 
+Do your writers have similar rules of thumb? 
+We don’t have any rules or known lines we won’t cross. 
+We have an understanding based upon having the same writers in the back room for years, and those writers training the new writers as they come in. 
+There is an understanding in the room. 
+If it makes the room laugh, it probably ends up in the paper. 
+One example is we ran an article a couple of years back that was, "No Jennifer Lopez News Today". 
+That was our reaction to all of the J-Lo stuff. 
+We weren’t going to touch on her dress, or who she was dating. 
+Just the fact that those were the lead stories for so many days, in everything from US Weekly to Time Magazine. 
+I think it’s important we have an original take on those things. 
+I think it’s similar to what Colbert said to Terry Gross. 
+We don’t want to just traffic in the same 24 hour news cycle. 
+There’s a 24 hour comedy news cycle that exists on all the late night talk shows. 
+The Onion has a different creative process where we are not trying to hit everything in the 24 hours and on the same notes. 
+We want an original take. 
+If we choose to do something on J-Lo, it’s going to be something like that, something less obvious. 
+When you are going through the headlines, is it just you guys sitting around trying to crack each other up? 
+It’s the least amount of fun possible. 
+Nah, I’m kidding. 
+It’s actually more businesslike than you’d imagine. 
+It’s very much like you are trying to make the room laugh, but the room has been a sort of captive audience for many many years now, so it takes a lot to make the room laugh. 
+The best analogy I’ve heard is when Rob Siegel, former editor-in-chief, likened it to wine tasting. 
+It’s this quiet experience where you are trying to soak in what the joke is, have we done anything like this, is it a unique take, what are other people doing. 
+It’s sort of like," Hmmm ... that’s hilarious. That’s really really funny" rather than people falling off their chairs. 
+It’s more subdued than I think what most people would expect. 
+It’s more analytical and clinical? 
+Not all the time, but it can’t be a laugh a minute. 
+Yeah, what you see on Studio 60 and 30 Rock, those are scripted writers rooms. 
+Everything is funny there. 
+There's a lot of unfunny jokes that are told in a back room, that's why they stay and die in that back room and don’t go out in The Onion. 
+If someone is continually telling unfunny jokes, do you eventually fire them? 
+That’s why we are on the 10th floor to make sure they die when they get kicked out. 
+It can be a real mess on Broadway. 
+By the time you get to be a writer for The Onion, though, the odds are you are going to succeed because we make it pretty challenging. 
+You go through quite a bit. 
+You will already have demonstrated a pretty long successful record of writing stuff for us before you will be in that room on a daily basis. 
+But if somebody wakes up one morning and suddenly no longer is funny, then yeah, head first, out the door as quickly as possible, and as sadistically as possible. 
+The future of the peace process in Israel 
+"The future is only peace. The problem is how long will it take and how many victims will it call for." 
+Shimon Peres image: David Shankbone. 
+Mr. President, as a Nobel Peace Prize recipient and as one of the fathers of the modern peace process in Israel, do you still think that there is a future to the peace process? 
+The future is only peace. 
+The problem is how long will it take and how many victims will it call for. 
+Why do I say peace? 
+Because when you look historically, at the development of humanity, most of our lives we are living on the land. 
+The history is written with red ink. 
+The reason for it is because people were fighting for our land, either defending it or extending it, because that was the main source. 
+The land, the natural resources, the markets, all these go together. 
+The minute the land was replaced by science, what is there to fight about? 
+Armies cannot conquer science. 
+Customs cannot check what a scientist has in his mind, they can see what he has in his pocket but not what he has in his mind so it’s uncontrolled; it means that borders aren’t important and distances aren’t important. 
+How do you approach the difficult challenge of talking to the Palestinians when, in the end, they don’t want Israel to exist. 
+How do you come to an understanding to make peace possible? 
+Well, what is the problem? 
+I mean, is the problem national, say between Jews and Arabs; or is it a matter of generations between an old age and a new age? 
+You see, the terrorists are protesting against modernity. 
+They think that modernity may endanger their tradition. 
+They are simply afraid and hate modernity. 
+They consider modernity as their enemy, but then they have two problems. 
+First of all, can they exist on tradition? 
+They cannot. 
+Sooner or later they will have to enter the new age. 
+All the talks about nationalities, etcetera, well, the new age has very little patience for history. 
+History is becoming more and more irrelevant. 
+How do you feel about that? 
+Well, I distinguish between two histories, the spiritual and the material. 
+Or the history of events and the history of values. 
+The history of values is okay because wisdom is ageless; it doesn’t grow old, like material. 
+But events are totally unimportant for 2 reasons. 
+First, the event is unimportant. 
+Tell me, what events is today important such as how many elephants Hannibal had on the Alps, when you can have helicopters? 
+Why should I bother my children with all this nonsense? 
+What sort of a nose did Cleopatra have? 
+God, I don’t know! 
+You can invite people to war over noses, but nobody will go to fight for noses any more. 
+On the other hand, there are already machines that can replace our memory. 
+Why should I bother my child with memory when he can buy a computer that will remember everything you asked him to remember? 
+The waning importance of history 
+Isn’t the answer to that question that wise decisions are made with a basis from memory? 
+Although a computer can have … 
+No, no. 
+Forget memory. 
+Look, the new age is unprecedented. 
+When something is unprecedented, it means it doesn’t have a past, doesn’t have a history. 
+It’s totally oriented on the future. 
+And whoever dwells in the past, doesn’t understand the future because the past is full of prejudices, of commitments. 
+It arrests us. 
+And then you say you won’t commit a mistake, so you’ll commit new mistakes. 
+It doesn’t matter. 
+`` I say brains is the greater producer of wealth, not oil. 
+It’s limitless, and you’ll see that the GNP of Israel is very close to the Saudis’. 
+So they are 3 times larger than us and they have all the oil in the world. 
+We have brains." 
+— Peres, on whether the Arab states' oil wealth will eclipse Israel's prominence in the region. 
+What about the adage, “Those who forget history are doomed to repeat it”? 
+So they will make new mistakes. 
+Mistake is inevitable as long as there are human beings. 
+But you cannot repeat mistakes because the world is not built on repetition; it’s built on mutation. 
+Don’t you think Darfur is repetition? 
+I think Darfur is, again, the last, or among the last battles between old and new. 
+What are they fighting for? 
+What are they killing killing killing over? 
+They don’t carry futures. 
+It’s not a mistake. 
+It belongs to a past. 
+It doesn’t have a moment. 
+I am sure that the reasons for war are over, even though still there are wars which are an inertia from the past, a continuation that doesn’t make sense. 
+I’m answering your question. 
+The problem is how to enable the whole world to enter the new future, including the Arabs. 
+And there are already Arabs who did it. 
+Look at Turkey, who is knocking on the doors of the united Europe. 
+Why? 
+It’s not a geographic endeavor, it is an intellectual endeavor. 
+They say you can be Muslim and modern. 
+Wikinews interviews Israeli mathematician and writer Aner Shalev 
+Wednesday, September 19, 2007 
+Aner Shalev is an Israeli mathematician and writer born in 1958 in Kibbutz Kinneret, Tiberias. 
+Currently Shalev is a Professor at Hebrew University of Jerusalem's Einstein Institute of Mathematics. 
+At the moment Shalev is in Levico Terme, Trento, Italy for a conference. 
+He was interviewed by Wikinews. 
+Interview 
+Aner Shalev 
+What are you going to talk about here in Levico? 
+I called it Character, walks and words. 
+There is a whole topic which is called asymptotic groups theory. 
+There are groups which express the symmetry of some structures. 
+Studying groups is a bit like studying symmetry. 
+It's very beautiful I think. 
+And then when you do it in an asymptotic way is like you don't look at the small details. 
+It's like from the sky. 
+You look at the general patterns. 
+And there is another topic which is very important in mathematics which is called representation theory. 
+So I will mainly talk about how to use a representation theory to solve all kind of problems and conjectures in asymptotic groups theory. 
+Why did you choose to study mathematics? 
+First of all because it was beautiful. 
+When I was ten my father already showed me some stuff in mathematics and the beauty and the imagination was quite apparent. 
+I also like the freedom in mathematics. 
+If you study physics or chemistry then you should describe the real world. 
+But in mathematics you can build your own structures. 
+You can walk in worlds created by the imagination of people. 
+You're not committed to the real world. 
+It's almost like God to some extent. 
+You can create worlds, you can study them. 
+I think it's a combination of the beauty, of the imagination, of the freedom. 
+Many people, and many students, dislike math. 
+Why do you think it is so? 
+First of all I think maybe they have bad teachers, which is a problem. 
+You have to have very good teachers in mathematics if you really want to enjoy and to succeed in it. 
+Probably some people mainly think about the scientific part of it – you have to be accurate - and they see less these elements of the freedom, and the imagination, and creation. 
+Maybe they don't like the precise nature of mathematics. 
+Also when I talk mathematics I notice the language is very important in mathematics and I actually notice that many times people fail in mathematics because they don't know how to write a composition. 
+They have ideas but they cannot formulate them in the right way. 
+Actually I find many connections between mathematics and literature because almost all the thing I told about mathematics are also seen in literature and in writing because when you write you can describe the real world, but you can also create worlds of fiction. 
+So you have imagination, you have total freedom, you can invent characters, you can invent all kind of development and surprises and this kind of end of story or another. 
+Also the language is important in writing and in literature. 
+So in a way people often don't know how to combine the two fields. 
+It could look like almost the opposite: literature is kind of arts and mathematics is science but they also see a lot in common and there where mathematician who were writers. 
+For example the most famous is Lewis Carrol, author of Alice in Wonderland. 
+You're not only a mathematician. 
+You also wrote two collections of short stories and a novel. 
+Why did you begin to write? 
+When I was quite young I was interested in psychoanalysis and in dreams. 
+I was trying to interpret my dreams. 
+I started to write down my dreams. 
+And then I noticed that I cheat a little bit when I write them down. 
+Sometimes I make them more pretty then they were actually. 
+So instead of documenting the dreams it gradually became also like adding creational elements, and I think that somehow through writing my dreams I gradually came to writing, also poems, but mainly stories. 
+I'm a little bit inspired by dreams but when eventually I started to write more seriously I was more interested in structure which also .. a bit like mathematics in a way .. for example my first book is called Opus 1 .. a collection of four long stories with musical structures. 
+The first part is called Legato and the second part was called Staccato. 
+In the legato part the sentences are very long and without breaks almost like stream of consciousness. 
+In the staccato part it's like a music: a lot of break, very very short sentences. 
+It was a bit experimenting connections between the language and the music and the psychology of people. 
+In the second book I made another experiment. 
+It's a book of opening, Overtures I called it, and there is no end to the stories. 
+There are seventy beginning of stories without ends. 
+In the novel Dark Matters I think what interested me in the structure was two thing: simple narrative and email. 
+It keeps changing between narrative and email. 
+Another thing was two different time scapes: one goes very slow and one goes very fast and they almost kind of meet in the end. 
+It's a little bit like Achilles and the turtle. 
+... love story and romance and surprises and tragedies and all this but also this structure interested me a lot. 
+Why did you choose this particular structure? 
+When I tell stories I don't like that everything will be clear from the beginning. 
+I like that something will be a bit of secret, or even unreliable narrator: someone tells something and first you trust him but then you read more and you become thrilled by everything. 
+I think by using emails on the one hand which are more the voice of the woman Eva and narrative which is more the perspective of the man Adam, I kind of confront them, their different perspective and then kind somehow you can see the distortions in the way the story is told. 
+I think that in this kind of structure there is a very gradual clarification of the relationship and the forth going on. 
+Keep your eyes peeled for cosmic debris: Andrew Westphal about Stardust @ home 
+Sunday, May 28, 2006 
+Stardust is a NASA space capsule that collected samples from comet 81P/Wild (also known as "Wild 2) in deep space and landed back on Earth on January 15, 2006. 
+It was decided that a collaborative online review process would be used to "discover" the microscopically small samples the capsule collected. 
+The project is called Stardust @ home. 
+Unlike distributed computing projects like SETI @ home, Stardust @ home relies entirely on human intelligence. 
+Andrew Westphal is the director of Stardust @ home. 
+Wikinews interviewed him for May's Interview of the Month (IOTM) on May 18, 2006. 
+As always, the interview was conducted on IRC, with multiple people asking questions. 
+Some may not know exactly what Stardust or Stardust @ home is. 
+Can you explain more about it for us? 
+Artist's rendering of Spacecraft Stardust 
+Image: NASA 
+Stardust is a NASA Discovery mission that was launched in 1999. 
+It is really two missions in one. 
+The primary science goal of the mission was to collect a sample from a known primitive solar-system body, a comet called Wild 2 (pronounced "Vilt-two" — the discoverer was German, I believe). 
+This is the first US "sample return" mission since Apollo, and the first ever from beyond the moon. 
+This gives a little context. 
+By "sample return" of course I mean a mission that brings back extraterrestrial material. 
+I should have said above that this is the first "solid" sample return mission — 
+Genesis brought back a sample from the Sun almost two years ago, but Stardust is also bringing back the first solid samples from the local interstellar medium — 
+basically this is a sample of the Galaxy. 
+This is absolutely unprecedented, and we're obviously incredibly excited. 
+I should mention parenthetically that there is a fantastic launch video — taken from the POV of the rocket on the JPL Stardust website — highly recommended — best I've ever seen — all the way from the launch pad, too. 
+Basically interplanetary trajectory. 
+Absolutely great. 
+Is the video available to the public? 
+Yes [see below]. 
+OK, I digress. 
+The first challenge that we have before can do any kind of analysis of these interstellar dust particles is simply to find them. 
+This is a big challenge because they are very small (order of micron in size) and are somewhere (we don't know where) on a HUGE collector — at least on the scale of the particle size — about a tenth of a square meter. 
+So ... 
+We're right now using an automated microscope that we developed several years ago for nuclear astrophysics work to scan the collector in the Cosmic Dust Lab in Building 31 at Johnson Space Center. 
+This is the ARES group that handles returned samples (Moon Rocks, Genesis chips, Meteorites, and Interplanetary Dust Particles collected by U2 in the stratosphere). 
+The microscope collects stacks of digital images of the aerogel collectors in the array. 
+These images are sent to us — we compress them and convert them into a format appropriate for Stardust @ home. 
+Stardust @ home is a highly distributed project using a "Virtual Microscope" that is written in html and javascript and runs on most browsers — no downloads are required. 
+Using the Virtual Microscope volunteers can search over the collector for the tracks of the interstellar dust particles. 
+Aerogel slice removed with an ultrasonic blade, showing particle tracks. 
+Image: NASA 
+How many samples do you anticipate being found during the course of the project? 
+Great question. 
+The short answer is that we don't know. 
+The long answer is a bit more complicated. 
+Here's what we know. 
+The Galileo and Ulysses spacecraft carried dust detectors onboard that Eberhard Gruen and his colleagues used to first detect and them measure the flux of interstellar dust particles streaming into the solar system. 
+(This is a kind of "wind" of interstellar dust, caused by the fact that our solar system is moving with respect to the local interstellar medium.) 
+Markus Landgraf has estimated the number of interstellar dust particles that should have been captured by Stardust during two periods of the "cruise" phase of the interplanetary orbit in which the spacecraft was moving with this wind. 
+He estimated that there should be around 45 particles, but this number is very uncertain — I wouldn't be surprised if it is quite different from that. 
+That was the long answer! 
+One thing that I should say ... is that like all research, the outcome of what we are doing is highly uncertain. 
+There is a wonderful quote attributed to Einstein — "If we knew what we were doing, it wouldn't be called "research", would it?" 
+How big would the samples be? 
+We expect that the particles will be of order a micron in size. 
+(A millionth of a meter.) 
+When people are searching using the virtual microscope, they will be looking not for the particles, but for the tracks that the particles make, which are much larger — several microns in diameter. 
+Just yesterday we switched over to a new site which has a demo of the VM (virtual microscope) I invite you to check it out. 
+The tracks in the demo are from submicron carbonyl iron particles that were shot into aerogel using a particle accelerator modified to accelerate dust particles to very high speeds, to simulate the interstellar dust impacts that we're looking for. 
+And that's on the main Stardust @ home website [see below]? 
+Yes. 

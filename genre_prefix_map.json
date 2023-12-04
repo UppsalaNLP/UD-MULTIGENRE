@@ -1,0 +1,925 @@
+{
+    "QA": {
+        "Dutch": {
+            "Alpino": {
+                "sent_id = qa": "questions  used in a QA project (source)[https://github.com/UniversalDependencies/UD_Dutch-Alpino/tree/master]",
+                "sent_id = wpspel": "questions  used in a QA project (source)[https://github.com/UniversalDependencies/UD_Dutch-Alpino/tree/master]"
+            }
+        },
+        "English": {
+            "EWT": {
+                "sent_id = answers": "Question-answers are posts from Yahoo!s community-driven question-answering web site, Yahoo! Answers, where individuals submit and answer questions which may be on any topic. This data was collected in 2011 (source)[https://catalog.ldc.upenn.edu/LDC2012T13]"
+            }
+        },
+        "Italian": {
+            "ISDT": {
+                "sent_id = quest": "Questions from several QA competitions (source)[https://github.com/UniversalDependencies/UD_Italian-ISDT]"
+            }
+        },
+        "Russian": {
+            "Taiga": {
+                "genre = QA": "Questions and answers from otvet.mail.ru. Information about the source is in the data: each review  has sent_id starting with otvet.mail.ru-question. Additional information is given in the following metadata: author, title."
+            }
+        }
+    },
+    "academic": {
+        "Bulgarian": {
+            "BTB": {
+                "sent_id = euro": "Valentin Kostov (2001) EU FORWARD TO THE AGE OF COLE, MITTERAN AND THE MIDDLE AGES,  FORECASTS, bro.1, p.5, year VIII 2001. (source)[http://www.euro2001.net/issues/1_2001/1br5.htm]",
+                "sent_id = kleinke": "C.Kleinke, 'Self Perception: The Psychology of Personal Awareness', 1978, Genre: psychology, non-fiction (source)[https://psycnet.apa.org/record/1980-50579-000]"
+            }
+        },
+        "Czech": {
+            "CAC": {
+                "sent_id = s": "s means scientific (source)[https://github.com/UniversalDependencies/UD_Czech-CAC/blob/master/README.md]"
+            },
+            "PDT": {
+                "sent_id = v": "v (vesm) contains popular scientific articles (the hardest to parse: long sentences and unusual vocabulary) (source)[https://github.com/UniversalDependencies/UD_Czech-PDT]"
+            }
+        },
+        "English": {
+            "GUM": {
+                "sent_id = GUM_academic": "18 academic articles from different knowledge areas (source)[https://gucorpling.org/gum/]"
+            }
+        },
+        "Estonian": {
+            "EDT": {
+                "sent_id = tea": "This subcorpus contains 5 million words scientific texts. The PhD dissertations make up about half of it, the remaining half contains scientific journals like Eesti Arst, Arvutitehnika ja Andmet\u00f6\u00f6tlus, Agraarteadus, the yearbooks of Emakeele Selts and Eesti Matemaatika Selts etc.  (source)[https://www.cl.ut.ee/korpused/grammatikakorpus/teakirjeldus/]"
+            }
+        },
+        "French": {
+            "Sequoia": {
+                "sent_id = emea-fr": "European Medicines Ageny reports. Contains descriptions of medicines, the corresponding clinical studies, as well as recommendations for patients /contains guide genre/ (source)[https://github.com/UniversalDependencies/UD_French-Sequoia]"
+            }
+        },
+        "Lithuanian": {
+            "ALKSNIS": {
+                "sent_id = .*rec": "Mokslin\u0117s recenzijos - scientific reviews as per documentation in Alksnio_3.0_sandara.docx (source)[https://github.com/Semantika2/Alksnis-v.3.0/blob/master/Alksnio_3.0_sandara.docx]",
+                "sent_id = mok_santr": "Mokslini\u0173 straipsni\u0173 santraukos - summaries of scientific papers as per documentation in Alksnio_3.0_sandara.docx (source)[https://github.com/Semantika2/Alksnis-v.3.0/blob/master/Alksnio_3.0_sandara.docx]"
+            }
+        },
+        "Polish": {
+            "LFG": {
+                "genre = academic": "academic style (source)[https://github.com/UniversalDependencies/UD_Polish-LFG]"
+            }
+        },
+        "Portuguese": {
+            "PetroGold": {
+                "nopattern": "academic texts from the oil & gas domain in Brazilian Portuguese"
+            }
+        },
+        "Romanian": {
+            "RRT": {
+                "newdoc id = DGLR": "Academic: document ids: DGLR-1-300, DGLR-b1, DGLR-b2, DGLR-b3, DGLR-noi-b1 (source)[https://github.com/UniversalDependencies/UD_Romanian-RRT]",
+                "newdoc id = EMEA": "European Medicines Agency documents /contains guide genre/ (source)[https://github.com/UniversalDependencies/UD_Romanian-RRT]",
+                "newdoc id = PhysicsCompSciMath": "scientific (Physics, Mathematics and Computer Science) sub-corpus (source)[https://github.com/UniversalDependencies/UD_Romanian-RRT]"
+            },
+            "SiMoNERo": {
+                "nopattern": "SiMoNERo contains texts from three medical subdomains: cardiology, diabetes, endocrinology. The texts come from scientific books, journal articles and blog posts, but predominant are those coming from books. "
+            }
+        },
+        "Russian": {
+            "SynTagRus": {
+                "sent_id = .*Kriptografiya": "popular science article (source)[https://poisknews.ru/magazine/15295/]",
+                "sent_id = 2003Biologiya.xml": "popular science article (source)[https://zoom.cnews.ru/rnd/article/item/evolyutsionnaya_biologiya_i_vysokie_tehnologii_simbioz_budushchego]",
+                "sent_id = 2006Informtekhnologii.xml": "popular science article (source)[https://www.nkj.ru/archive/articles/2081/]",
+                "sent_id = 2006Lunnye_kamni.xml": "popular science article (source)[https://www.nkj.ru/archive/articles/2418/]",
+                "sent_id = 2007Chuvstvo_spravedlivosti.xml": "popular science article (source)[https://www.nkj.ru/archive/articles/3387/]",
+                "sent_id = 2011Nano.xml": "popular science article (source)[https://hij.ru/read/661/]",
+                "sent_id = 2011Radioastron.xml": "popular science article (source)[https://www.trv-science.ru/2011/07/mezhdu-proshlym-i-budushhim/]",
+                "sent_id = 2011Sverkhkorotkoe_vremya.xml": "popular science article (source)[https://www.techinsider.ru/science/7434-dyrokol-nestrashnye-chernye-dyrochki/]",
+                "sent_id = 2017Apresyan_1": "popular science article (source)[https://www.trv-science.ru/2017/02/yuri-apresyan-mathwalks/]",
+                "sent_id = 2017Chto_gubit_nauku.xml": "Russian Academy of Sciences article (source)[https://www.ras.ru/digest/showdnews.aspx?id=55f4524a-3bfd-4f33-bd73-5a8fa9cfc7a4&print=1]",
+                "sent_id = 2018Gorod-sad_Singapur.xml": "popular science article (source)[https://znanie-sila.su/themes/planetearth/gorod-sad-singapur]",
+                "sent_id = 2020_Corpus2_0Kto_nasledil": "popular science article (source)[https://nplus1.ru/material/2020/09/17/trace]"
+            }
+        },
+        "Western Armenian": {
+            "ArmTDP": {
+                "sent_id = nonfiction-0009": "Nemesis (Shahan Natali), Turks and us (Re-evaluations), Hayrenik Akumb Publisher, Yerevan, 2011 (source)[https://www.academia.edu/40230759/\u0546\u0565\u0574\u0565\u057d\u056b\u057d_\u0547\u0561\u0570\u0561\u0576_\u0546\u0561\u0569\u0561\u056c\u056b_\u0539\u0578\u0582\u0580\u0584\u0565\u0580\u0568_\u0565\u0582_\u0574\u0565\u0576\u0584_\u054e\u0565\u0580\u0561\u0563\u0576\u0561\u0570\u0561\u057f\u0578\u0582\u0574\u0576\u0565\u0580_\u0540\u0580\u0561\u057f\u0561\u0580\u0561\u056f\u056b\u0579_\u0540\u0561\u0575\u0580\u0565\u0576\u056b\u0584_\u0531\u056f\u0578\u0582\u0574\u0562_\u0535\u0580\u0565\u0582\u0561\u0576_2011]"
+            }
+        }
+    },
+    "blog": {
+        "Armenian": {
+            "ArmTDP": {
+                "sent_id = blog": "blogsplot.com (source)[https://ovanitas.blogspot.com/2019/07/blog-post.html]",
+                "sent_id = nonfiction-006U": "a post discussing and citing 'Patience to you, man' by Gurgen Khanjyan /contains fiction genre/ (source)[https://manukyanmarianna.wordpress.com/2021/11/18/\u0570\u0561\u0574\u0562\u0565\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576-\u0584\u0565\u0566-\u0574\u0561\u0580\u0564-\u057b\u0561\u0576-\u0563\u0578\u0582\u0580\u0563\u0565\u0576-\u056d/]"
+            },
+            "BSUT": {
+                "sent_id = blog": "among UD labels, we found it to contain entries from https://blog.168.am/ (source)[https://github.com/UniversalDependencies/UD_Armenian-BSUT/blob/master/README.md]"
+            }
+        },
+        "English": {
+            "EWT": {
+                "sent_id = weblog": "blogspot.com posts (source)[https://github.com/UniversalDependencies/UD_English-EWT/tree/master/not-to-release/sources]"
+            }
+        },
+        "Finnish": {
+            "TDT": {
+                "sent_id = b": "blog entries (source)[https://github.com/UniversalDependencies/UD_Finnish-TDT]"
+            }
+        },
+        "Norwegian": {
+            "Nynorsk": {
+                "condition": "Instances that match those in the original split (blog_ndt_nno.conll) are selected (the file is in 20140328_NDT_1-01.tar.gz). (source)[https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-10/]"
+            }
+        },
+        "Western Armenian": {
+            "ArmTDP": {
+                "sent_id = blog": "we found posts from https://hayerenblog.wordpress.com/, https://arevelk.am/ and https://darperag21.net/, e.g. (source)[https://darperag21.net/\u0563\u0578\u0576\u0567-\u056f\u0580\u0569\u0578\u0582\u0569\u056b\u0582\u0576\u0568-\u0583\u0580\u056f\u0565\u0581\u0567\u0584/]"
+            }
+        }
+    },
+    "email": {
+        "English": {
+            "EWT": {
+                "sent_id = email": "Email messages in this corpus are a subset of emails sent by Enron Corporation employees during the period 1999-2002. Specifically, those messages are contained in the Enronsent Corpus, a collection of 96,107 email messages from the sent folders of Enron email users (source)[https://catalog.ldc.upenn.edu/LDC2012T13]"
+            }
+        }
+    },
+    "fiction": {
+        "Armenian": {
+            "ArmTDP": {
+                "sent_id = fiction": "literary works incl. Mesrop Harutyunyan 'THE POST-REVOLUTION WITH ITS EDGES' (source)[https://groghucav.blogspot.com/2011/12/blog-post_05.html]"
+            },
+            "BSUT": {
+                "sent_id = fiction": "among UD labels, we found literary pieces from granish.org, e.g. (source)[https://granish.org/ezan-lezu/]"
+            }
+        },
+        "Belarusian": {
+            "HSE": {
+                "genre = fiction": "Works by Francishak Bahushevich, Janka Kupala, Maksim Harecki, Vasil Bykov, Ivan Mielez, a short excerpt from The Lord of the Rings by J. R. R. Tolkien, translated in Belarusian (source)[https://github.com/UniversalDependencies/UD_Belarusian-HSE]"
+            }
+        },
+        "Bulgarian": {
+            "BTB": {
+                "sent_id = bg-lit": "fiction: Bulgarian literature as inferred from the pattern and text  (source)[https://bultreebank.org/bg/resources/]",
+                "sent_id = for-lit": "fiction: Foreign literature as inferred from the pattern and text  (source)[https://bultreebank.org/bg/resources/]",
+                "sent_id = kamu": "fiction: Albert Camus as inferred from the pattern and text (source)[https://bultreebank.org/bg/resources/]"
+            }
+        },
+        "Czech": {
+            "FicTree": {
+                "nopattern": "The texts come from eight literary works published in the Czech Republic between 1991 and 2007 (source)[https://github.com/UniversalDependencies/UD_Czech-FicTree]"
+            }
+        },
+        "English": {
+            "GUM": {
+                "sent_id = GUM_fiction": "Various authors: Maureen F. McHugh, Alex Wilson, Ken Liu, Benjamin Rosenbaum, Jonathan Munn, Stephen J. Sweeney and others (source)[https://gucorpling.org/gum/]"
+            },
+            "LinES": {
+                "sent_id = .*doc[234678]": "Six of the sub-corpora are taken from literary works: Paul Auster: City of Glass. The New York Trilogy, Volume One. First published by Faber & Faber in 1985. Saul Bellow: To Jerusalem and back: a personal accunt. First published in 1976. Joseph Conrad: Heart of darkness. First published in 1899 as a serial in Blackwood's Magazine, in 1902 as a book. Nadine Gordimer: A Guest of Honour. First published in 1970. J. K. Rowling: Harry Potter and the Chamber of Secrets. First published in 1998. Jennette Winterson: Gut Symmetries. Granta Books, London, 1998. Information about prefix pattern is provided by the main developer (source)[https://github.com/UniversalDependencies/UD_English-LinES]"
+            }
+        },
+        "Erzya": {
+            "JR": {
+                "sent_id = Anoshkin": "A short story by V. Anoshkin (source)[https://github.com/UniversalDependencies/UD_Erzya-JR/blob/master/README.txt]",
+                "sent_id = AuthorIDAbramovK": "Literary works by K. Abramov *train* (source)[https://www.wikidata.org/wiki/Q4054930]",
+                "sent_id = AuthorID\u0410\u0431\u0440\u0430\u043c\u043e\u0432": "Literary works by K. Abramov (author of novels, novellas, poems) *train* (source)[https://www.wikidata.org/wiki/Q4054930]",
+                "sent_id = Bryzhinskij": "A novella by M.I. Bryzhinski (source)[https://github.com/UniversalDependencies/UD_Erzya-JR/blob/master/README.txt]",
+                "sent_id = Chetvergov": "A short story by E.V. Chetvergov (source)[https://github.com/UniversalDependencies/UD_Erzya-JR/blob/master/README.txt]",
+                "sent_id = DoroninA": "A prose work by Alexander Doronin 'Ba\u00e2ganj_sulejtj' (shadows of bells, 1995) (source)[https://ru.m.wikipedia.org/wiki/\u0414\u043e\u0440\u043e\u043d\u0438\u043d,_\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440_\u041c\u0430\u043a\u0430\u0440\u043e\u0432\u0438\u0447]",
+                "sent_id = Dunjashin": "A short story and feuilleton by Alek Dunjashin *train* (source)[https://github.com/UniversalDependencies/UD_Erzya-JR/blob/master/README.txt]",
+                "sent_id = Erina": "Example sentences from Erzya fiction authors (Evsevev, Bryzhinskij, etc.) for the Dissertion on Mordovian particles by O.Erina *train* (source)[https://github.com/UniversalDependencies/UD_Erzya-JR/blob/master/README.txt]",
+                "sent_id = GanchinA": "A literary work 'Staka kevkstema' (difficult question) by Erzya writer Anatoliy Ganchin (source)[https://m.wikisource.org/wiki/\u042d\u0440\u0437\u044f\u043d\u044c_\u041c\u0430\u0441\u0442\u043e\u0440/2008/11]",
+                "sent_id = Gluxov": "A short story by P. Gluxov *train* (source)[https://github.com/UniversalDependencies/UD_Erzya-JR/blob/master/README.txt]",
+                "sent_id = Kutorkin": "A novel by A. Kutorkin *train* (source)[https://github.com/UniversalDependencies/UD_Erzya-JR/blob/master/README.txt]",
+                "sent_id = KutorkinA": "A novel by A. Kutorkin (source)[https://github.com/UniversalDependencies/UD_Erzya-JR/blob/master/README.txt]",
+                "sent_id = ProxorovP": "A literary work by Proxorov P., author of war fiction, 'Komanuiushchej jalgaj' (source)[https://www.wikiwand.com/myv/\u041f\u0440\u043e\u0445\u043e\u0440\u043e\u0432,_\u041f\u0451\u0442\u0440_\u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u0438\u0447]"
+            }
+        },
+        "Estonian": {
+            "EDT": {
+                "sent_id = ilu": "Ilukirjandus (eng. fiction), 5 million words of fiction texts (source)[https://www.cl.ut.ee/korpused/grammatikakorpus/ilukirjeldus/]"
+            }
+        },
+        "Finnish": {
+            "TDT": {
+                "sent_id = f": "fiction (source)[https://github.com/UniversalDependencies/UD_Finnish-TDT]"
+            }
+        },
+        "Komi Zyrian": {
+            "Lattice": {
+                "^sent_id = (?!OKK|kpv).*": "The largest segments are from Lev Uspenskiy's book \u041d\u0451\u043b\u044c \u0431\u043e\u0435\u0432\u04e7\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 (URN http://urn.fi/URN:NBN:fi-fe2014102045428), which was digitalized in the National Library of Finland's Fenno-Ugrica project, and Ivan Belyx's short story which was added to Komi Neb\u00f6gain online library by the author himself in 2013 (source)[https://github.com/UniversalDependencies/UD_Komi_Zyrian-Lattice/blob/master/README.md]"
+            }
+        },
+        "Lithuanian": {
+            "ALKSNIS": {
+                "sent_id = Jonuskaite": "novel by Birut\u0117 Jonu\u0161kait\u0117 (source)[https://github.com/Semantika2/Alksnis-v.3.0/blob/master/Alksnio_3.0_sandara.docx]",
+                "sent_id = Katkus": "essay by Laurynas Katkus (source)[https://github.com/Semantika2/Alksnis-v.3.0/blob/master/Alksnio_3.0_sandara.docx]",
+                "sent_id = Navakas": "essay by K\u0119stutis Navakas (source)[https://github.com/Semantika2/Alksnis-v.3.0/blob/master/Alksnio_3.0_sandara.docx]",
+                "sent_id = Parulskis": "essay by Sigitas Parulskis (source)[https://github.com/Semantika2/Alksnis-v.3.0/blob/master/Alksnio_3.0_sandara.docx]",
+                "sent_id = Serelyte": "essay by Renata \u0160erelyt\u0117 (source)[https://github.com/Semantika2/Alksnis-v.3.0/blob/master/Alksnio_3.0_sandara.docx]"
+            }
+        },
+        "Maltese": {
+            "MUDT": {
+                "sent_id = .*F": "The core of this text type consists of works of imaginative Fiction (belles lettres), both novels and short stories, published in Malta between 2000 and 2017 supplemented with two novels and a short story collection from the 1980s and 1990s, represented by patterns sent_id = 39_01F, sent_id = 46_02F, sent_id = 47_01F, sent_id = 49_03F (source)[https://www.bulbul.sk/phd/Text/Slavomir_Ceplo-text.pdf]"
+            }
+        },
+        "Moksha": {
+            "JR": {
+                "^sent_id = (?!MKS).*": "original Moksha-language literary sources dating back to the 1880s. Sentences used in the Moksha-language grammar \u041c\u043e\u043a\u0448\u0435\u043d\u044c \u043a\u044f\u043b\u044c, \u0441\u0438\u043d\u0442\u0430\u043a\u0441\u0438\u0441: \u0443\u0447\u0435\u0431\u043d\u0438\u043a (2008) are excluded (source)[https://github.com/UniversalDependencies/UD_Moksha-JR]"
+            }
+        },
+        "Polish": {
+            "LFG": {
+                "genre = fiction": "fiction genre both according to UD labels and documentation (source)[https://github.com/UniversalDependencies/UD_Polish-LFG]"
+            }
+        },
+        "Romanian": {
+            "RRT": {
+                "newdoc id = 1984Orwell": "Fiction: document ids: 1984Orwell-b1-ttl, 1984Orwell-b2-ttl, 1984Orwell-b3-ttl, 1984Orwell-b4-ttl (source)[https://github.com/UniversalDependencies/UD_Romanian-RRT]",
+                "newdoc id = Literatura": "Fiction: document ids: Literatura-1-300, Literatura-b1, Literatura-b2, Literatura-noi-b1 (source)[https://github.com/UniversalDependencies/UD_Romanian-RRT]"
+            }
+        },
+        "Russian": {
+            "SynTagRus": {
+                "genre = fiction": "Uppsala corpus of Russian XX century fictionary prose (source)[https://www.wikiwand.com/ru/\u0421\u0438\u043d\u0422\u0430\u0433\u0420\u0443\u0441]",
+                "sent_id = uppsalaBitov.xml": "Uppsala corpus of Russian XX century fictionary prose: novels by Bitov (source)[https://snd.gu.se/en/catalogue/dataset/ext0071-1]"
+            }
+        },
+        "Scottish Gaelic": {
+            "ARCOSG": {
+                "sent_id = f0": "Fiction. Prefixes: f01: Am Fainne by Eilidh Watt, f02: from C\u00f9mhnantan by Tormod MacGill-Eain, f03: Droch \u00c0m by P\u00f2l MacAonghais (test), f04: Sp\u00e0l T\u00ecm by Cailean T. MacCoinneach, f05: Teine a Loisgeas by Eilidh Watt, f06: Beul na h-Oidhche by Somhairle MacGill-Eain (Sorley Maclean), f07: from An t-Aonaran by Iain Mac a' Ghobhainn (Iain Crichton Smith), f08: Briseadh na Cloiche by Iain Moireach (dev) (source)[https://github.com/UniversalDependencies/UD_Scottish_Gaelic-ARCOSG]"
+            }
+        },
+        "Slovak": {
+            "SNK": {
+                "sent_id = milosferko": "Milos Ferko, slovak writer, inferred from the pattern (source)[https://korpus.juls.savba.sk/attachments/publications/2007-Simkova-Gajdosova-SZK.pdf]",
+                "sent_id = mojaprvalaska": "Callie West, 'My first love', translated, as reported in (source)[https://korpus.juls.savba.sk/attachments/publications/2007-Simkova-Gajdosova-SZK.pdf]",
+                "sent_id = orwell": "George Orwell '1984' as reported in (source)[https://korpus.juls.savba.sk/attachments/publications/2007-Simkova-Gajdosova-SZK.pdf]",
+                "sent_id = psiakoza": "Kongoli Fatos 'Psia Koza', translated, (source)[https://korpus.juls.savba.sk/attachments/publications/2007-Simkova-Gajdosova-SZK.pdf]",
+                "sent_id = rozpravky": "stories, fairytailes Aladin, Ferdo mravec, Herkules, Kniha d\u017eungl\u00ed, V\u010dielka Maja as reported in (source)[https://korpus.juls.savba.sk/attachments/publications/2007-Simkova-Gajdosova-SZK.pdf]"
+            }
+        },
+        "Swedish": {
+            "LinES": {
+                "sent_id = .*doc[234678]": "Swedish translations. Six of the sub-corpora are taken from literary works: Paul Auster: City of Glass. The New York Trilogy, Volume One. First published by Faber & Faber in 1985. Saul Bellow: To Jerusalem and back: a personal accunt. First published in 1976. Joseph Conrad: Heart of darkness. First published in 1899 as a serial in Blackwood's Magazine, in 1902 as a book. Nadine Gordimer: A Guest of Honour. First published in 1970. J. K. Rowling: Harry Potter and the Chamber of Secrets. First published in 1998. Jennette Winterson: Gut Symmetries. Granta Books, London, 1998. Information about prefix pattern is provided by the main developer (source)[https://github.com/UniversalDependencies/UD_Swedish-LinES]"
+            }
+        },
+        "Uyghur": {
+            "UDT": {
+                "nopattern": "literature texts and reading material for primary and middle school, including stories, records and reports"
+            }
+        },
+        "Western Armenian": {
+            "ArmTDP": {
+                "sent_id = fiction": "fiction (source)[https://github.com/UniversalDependencies/UD_Western_Armenian-ArmTDP]"
+            }
+        }
+    },
+    "guide": {
+        "English": {
+            "GUM": {
+                "sent_id = GUM_voyage": "Wikivoyage (source)[https://gucorpling.org/gum/]",
+                "sent_id = GUM_whow": "wikiHow (source)[https://gucorpling.org/gum/]"
+            }
+        },
+        "Turkish": {
+            "BOUN": {
+                "sent_id = ins": "contains instructional sentences (from a recipe) from Turkish National Corpus, manual verification showed that this annotation is mixed and noisy (source)[https://github.com/UniversalDependencies/UD_Turkish-BOUN]",
+                "sent_id = pop": "contains instructional sentences (from a recipe) from Turkish National Corpus, manual verification showed that this annotation is mixed and noisy (source)[https://github.com/UniversalDependencies/UD_Turkish-BOUN]"
+            }
+        }
+    },
+    "interview": {
+        "Bulgarian": {
+            "BTB": {
+                "sent_id = Standard": "contains interviews with Bulgarian businessmen and politicians as well as news /contains news genre/"
+            }
+        },
+        "English": {
+            "GUM": {
+                "sent_id = GUM_interview": "Wikinews interviews (source)[https://gucorpling.org/gum/]"
+            }
+        },
+        "Russian": {
+            "SynTagRus": {
+                "sent_id = .*Interviyu": "Interviews. The genre is inferred the sent_id pattern, the pattern also includes the names of interviewees"
+            }
+        },
+        "Scottish Gaelic": {
+            "ARCOSG": {
+                "sent_id = p\\d": "Public interview p01: Peataichean, conversation on Coinneach Mac\u00ccomhair's programme, p02: Fred MacAulay and Martin MacDonald, p03: John MacInnes and William Matheson, p04: Geamaichean Sholais 1, conversation on Coinneach Mac\u00ccomhair's programme (test), p05: Geamaichean Sholais 2 (dev), p06: Bonn Comhraidh, 1980s political discussion programme, p07: Conversation on Coinneach Mac\u00ccomhair's programme 2000-01-17 part 1, p08: Conversation on Coinneach Mac\u00ccomhair's programme 2000-01-17 part 2 (source)[https://github.com/UniversalDependencies/UD_Scottish_Gaelic-ARCOSG]"
+            }
+        }
+    },
+    "learner_essays": {
+        "Italian": {
+            "MarkIT": {
+                "nopattern": "contains around 800 sentences extracted from students' essays (source)[https://github.com/UniversalDependencies/UD_Italian-MarkIT]"
+            }
+        }
+    },
+    "legal": {
+        "Afrikaans": {
+            "AfriBooms": {
+                "nopattern": "public government documents (source)[https://github.com/UniversalDependencies/UD_Afrikaans-AfriBooms] from the South African Government Services website including 18 sentences from the 'the State of the Nation Address' (from train-s1298 to train-s1315) (source)[https://www.gov.za/k-motlanthe-state-nation-address-afrikaans-0]"
+            }
+        },
+        "Armenian": {
+            "ArmTDP": {
+                "sent_id = legal": "Resolution of the Constitutional Court of the Republic of Armenia (inferred from the metadata pattern and text)"
+            },
+            "BSUT": {
+                "sent_id = government": "Programs to neutralize the economic consequences of the coronavirus, present among UD labels (source)[https://github.com/UniversalDependencies/UD_Armenian-BSUT/blob/master/README.md]",
+                "sent_id = legal": "Decision of the RA Appellate Civil Court in 2015, present among UD labels and in the documentation (source)[https://github.com/UniversalDependencies/UD_Armenian-BSUT/blob/master/README.md]"
+            }
+        },
+        "Bulgarian": {
+            "BTB": {
+                "sent_id = constitution": "Bulgarian constitution (resource)[https://bultreebank.org/bg/resources/]"
+            }
+        },
+        "Czech": {
+            "CAC": {
+                "sent_id = a": "administrative texts (source)[https://github.com/UniversalDependencies/UD_Czech-CAC/blob/master/README.md]"
+            }
+        },
+        "Finnish": {
+            "TDT": {
+                "sent_id = j": "JRC - Acquis legislation  (source)[https://github.com/UniversalDependencies/UD_Finnish-TDT]"
+            }
+        },
+        "Italian": {
+            "ISDT": {
+                "sent_id = splet": "European directives (source)[https://github.com/UniversalDependencies/UD_Italian-ISDT]"
+            }
+        },
+        "Lithuanian": {
+            "ALKSNIS": {
+                "send_id = 2004_AM_Isak": "classified as administrative texts in the documentation (source)[https://github.com/Semantika2/Alksnis-v.3.0/blob/master/Alksnio_3.0_sandara.docx]",
+                "sent_id = 2005_daugiabuciu": "classified as administrative texts in the documentation (source)[https://github.com/Semantika2/Alksnis-v.3.0/blob/master/Alksnio_3.0_sandara.docx]",
+                "sent_id = 2009_komunikatas": "classified as administrative texts in the documentation (source)[https://github.com/Semantika2/Alksnis-v.3.0/blob/master/Alksnio_3.0_sandara.docx]",
+                "sent_id = Nutarimas_kulturos_politikos": "classified as administrative texts in the documentation (source)[https://github.com/Semantika2/Alksnis-v.3.0/blob/master/Alksnio_3.0_sandara.docx]",
+                "sent_id = Smulkiojo_ir_vidutinio": "classified as administrative texts in the documentation (source)[https://github.com/Semantika2/Alksnis-v.3.0/blob/master/Alksnio_3.0_sandara.docx]",
+                "sent_id = Veiklos_ataskaita": "classified as administrative texts in the documentation (source)[https://github.com/Semantika2/Alksnis-v.3.0/blob/master/Alksnio_3.0_sandara.docx]"
+            }
+        },
+        "Norwegian": {
+            "Nynorsk": {
+                "condition": "Norwegian language policy (source)[https://www.regjeringen.no/contentassets/50816e814a9c46169bd69dc20dd746a3/nn-no/pdfs/stm200720080035000dddpdfs.pdf]. Instances that match those in the original split (report_ndt_1-0_nno.conll) are selected (the file is in 20140328_NDT_1-01.tar.gz). (source)[https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-10/]"
+            }
+        },
+        "Romanian": {
+            "RRT": {
+                "newdoc id = Acquis": "Acquis legislation, Legal: document ids: Acquis-b1-ttl, Acquis-b2-ttl, Acquis-b3-ttl (source)[https://github.com/UniversalDependencies/UD_Romanian-RRT]",
+                "newdoc id = JRC": "JRC legislation, Legal: document ids: JRC-b1, JRC-b2, JRC-noi-b1, JRC-noi-b2, JRC-noi-b3 (source)[https://github.com/UniversalDependencies/UD_Romanian-RRT]"
+            }
+        },
+        "Slovak": {
+            "SNK": {
+                "sent_id = programvyhlasenie": "program statement of the Slovak government (source)[https://www.nrsr.sk/web/Dynamic/DocumentPreview.aspx?DocID=186110]"
+            }
+        }
+    },
+    "news": {
+        "Armenian": {
+            "ArmTDP": {
+                "sent_id = news": "daily news, such as golosarmenii.am (source)[https://github.com/UniversalDependencies/UD_Armenian-ArmTDP]"
+            },
+            "BSUT": {
+                "sent_id = news": "daily news, such as https://news.am/ (source)[https://github.com/UniversalDependencies/UD_Armenian-BSUT/blob/master/README.md]"
+            }
+        },
+        "Belarusian": {
+            "HSE": {
+                "genre = news": "short news articles published by telegraf.by and zviazda.by (source)[https://github.com/UniversalDependencies/UD_Belarusian-HSE]"
+            }
+        },
+        "Bulgarian": {
+            "BTB": {
+                "sent_id = Novinar": "Bulgarian daily news media novinar.bg",
+                "sent_id = Sega": "Bulgarian daily news media sega.bg",
+                "sent_id = president": "Bulgarian president news portal https://m.president.bg/bg/news (source)[https://bultreebank.org/bg/resources/]"
+            }
+        },
+        "Catalan": {
+            "AnCora": {
+                "nopattern": "EFE (75,000) ACN (225,000) El Peri\u00f3dico: (200,000) (source)[https://www.academia.edu/764648/Ancora_Multilingual_and_multilevel_annotated_corpora]"
+            }
+        },
+        "Chinese": {
+            "PUD": {
+                "sent_id = n": "sentences are taken from the news domain (sentence id starts in \u2018n\u2019), standard in all PUD treebanks, traslated: Washington Post, BBC and other daily newspapers (manual inspection)"
+            }
+        },
+        "Croatian": {
+            "SET": {
+                "sent_id = news": "sentence ids news.hr*: pseudorandom 80% of documents of Croatian news web sources (source)[https://github.com/UniversalDependencies/UD_Croatian-SET]",
+                "sent_id = set": "sentence ids set.hr*: pseudorandom 80% of documents of newspaper text from the Southeast European Times news website, obtained from the SETimes parallel corpus. This part of the treebank is built on top of the SETimes.HR dependency treebank of Croatian (source)[https://github.com/UniversalDependencies/UD_Croatian-SET]"
+            }
+        },
+        "Czech": {
+            "CAC": {
+                "sent_id = n": "newspapers (source)[https://github.com/UniversalDependencies/UD_Czech-CAC/blob/master/README.md]"
+            },
+            "PDT": {
+                "sent_id = l": "mainstream daily papers (news, commentaries, but also sports results and TV programs) as reported in the documentation (source)[https://github.com/UniversalDependencies/UD_Czech-PDT]",
+                "sent_id = m": "mainstream daily papers (news, commentaries, but also sports results and TV programs) as reported in the documentation (source)[https://github.com/UniversalDependencies/UD_Czech-PDT]"
+            }
+        },
+        "Dutch": {
+            "Alpino": {
+                "sent_id = cdb": "full cdbl (newspaper) part of the Eindhoven corpus: Nieuwsblad van het Noorden, NRC, Het Vrije Volk, De Telegraaf, De Tijd en Trouw (1969-1970) (source)[https://taalmaterialen.ivdnt.org/wp-content/uploads/documentatie/ehc_documentatie_nl.pdf]"
+            }
+        },
+        "English": {
+            "GUM": {
+                "sent_id = GUM_news": "Wikinews (source)[https://gucorpling.org/gum/]"
+            }
+        },
+        "Estonian": {
+            "EDT": {
+                "sent_id = aja": "Newspapers from the years 1990-2001 (5 million words) consists of three parts: 1. various newspapers from the years 1990-1999 - 800 764 words, 2. weekly Eesti Ekspress 1996-2001, 1 542 433 words, 3. daily Postimees 1995 -2000, 2 671 395 words (source)[https://www.cl.ut.ee/korpused/grammatikakorpus/ajalehekirjeldus/]"
+            }
+        },
+        "Finnish": {
+            "TDT": {
+                "sent_id = wn\\d+": "Wikinews articles (source)[https://github.com/UniversalDependencies/UD_Finnish-TDT]"
+            }
+        },
+        "French": {
+            "Sequoia": {
+                "sent_id = annodis.er": "French newspaper 'Est R\u00e9publicain' (source)[https://github.com/UniversalDependencies/UD_French-Sequoia]"
+            }
+        },
+        "German": {
+            "HDT": {
+                "nopattern": "the content of the articles ranges from formulaic periodic updates on new BIOS revisions and processor models or quarterly earnings of tech companies over features about general trends in the hardware and software market to general coverage of social, legal and political issues in cyberspace, sometimes in the form of extensive weekly editorial comments (source)[https://github.com/UniversalDependencies/UD_German-HDT]"
+            }
+        },
+        "Greek": {
+            "GDT": {
+                "sent_id = .*elwikinews": "Wikinews articles (source)[https://github.com/UniversalDependencies/UD_Greek-GDT]"
+            }
+        },
+        "Hebrew": {
+            "HTB": {
+                "nopattern": "the `Ha'aretz` newspaper (source)[https://github.com/UniversalDependencies/UD_Hebrew-HTB]"
+            }
+        },
+        "Hindi": {
+            "HDTB": {
+                "nopattern": "daily news (source)[https://cdn.iiit.ac.in/cdn/ltrc.iiit.ac.in/hutb_release/related_publications/ICON09.pdf]"
+            }
+        },
+        "Icelandic": {
+            "Modern": {
+                "sent_id = RUV": "sports news texts from two reporters at the Icelandic National Broadcasting Service (R\u00daV) from 2016 and \u2013 as of version 2.11 \u2013 from 2017 (source)[https://github.com/UniversalDependencies/UD_Icelandic-Modern]"
+            }
+        },
+        "Indonesian": {
+            "CSUI": {
+                "nopattern": "news in formal Indonesian (the majority is economic news) (source)[https://github.com/UniversalDependencies/UD_Indonesian-CSUI]"
+            }
+        },
+        "Italian": {
+            "ISDT": {
+                "sent_id = 2Parole": "Due Parole, simplified Italian news (source)[https://github.com/UniversalDependencies/UD_Italian-ISDT]",
+                "sent_id = isst_tanl": "Newspaper articles (source)[https://github.com/UniversalDependencies/UD_Italian-ISDT]"
+            }
+        },
+        "Japanese": {
+            "PUD": {
+                "sent_id = n": "sentences are taken from the news domain (sentence id starts in \u2018n\u2019), standard in all PUD treebank. traslated: Washington Post, BBC and other daily newspapers (manual inspection)"
+            }
+        },
+        "Lithuanian": {
+            "ALKSNIS": {
+                "sent_id = kd": "daily news from https://kauno.diena.lt/ (source)[https://github.com/Semantika2/Alksnis-v.3.0/blob/master/Alksnio_3.0_sandara.docx]"
+            }
+        },
+        "Norwegian": {
+            "Nynorsk": {
+                "condition": "Instances that match those in the original split (newspaper_ndt_1-0_nno.conll) are selected (the file is in 20140328_NDT_1-01.tar.gz). (source)[https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-10/]"
+            }
+        },
+        "Polish": {
+            "LFG": {
+                "genre = news": "news (source)[https://github.com/UniversalDependencies/UD_Polish-LFG]"
+            }
+        },
+        "Romanian": {
+            "RRT": {
+                "newdoc id = Agenda": "News: document ids: Agenda-1-300, Agenda-b1, Agenda-b2, Agenda-b3 (source)[https://github.com/UniversalDependencies/UD_Romanian-RRT]"
+            }
+        },
+        "Russian": {
+            "SynTagRus": {
+                "sent_id = newsYa": "daily news from various sources incl. yandex.ru, rbc.ru and others (source)[https://www.wikiwand.com/ru/\u0421\u0438\u043d\u0422\u0430\u0433\u0420\u0443\u0441]"
+            }
+        },
+        "Scottish Gaelic": {
+            "ARCOSG": {
+                "sent_id = ns": "News scripts from Radio nan G\u00e0idheal in the early 1990s. ns01: M\u00e0iri Anna NicUalraig (Mary Ann Kennedy), ns02: D\u00f2mhnall Moireasdan, ns03: Iseabail NicIllinnein, ns04: Innes Rothach, ns05: Innes Rothach (test), ns06: P\u00e0draig MacAmhlaigh (dev), ns07: D\u00f2mhnall Moireasdan (test), ns08: M\u00e0iri Anna NicUalraig (dev), ns09: Seumas Domhnallach, ns10: Seumas Domhnallach (source)[https://github.com/UniversalDependencies/UD_Scottish_Gaelic-ARCOSG]"
+            }
+        },
+        "Slovak": {
+            "SNK": {
+                "sent_id = inzine": "Slovak news media InZine (source)[https://korpus.juls.savba.sk/attachments/publications/2007-Simkova-Gajdosova-SZK.pdf]",
+                "sent_id = sme": "news media sme.sk (source)[https://korpus.juls.savba.sk/attachments/publications/2007-Simkova-Gajdosova-SZK.pdf]"
+            }
+        },
+        "Tamil": {
+            "TTB": {
+                "nopattern": "daily news in Tamil from dinamani.com (source)[https://ufal.mff.cuni.cz/~ramasamy/tamiltb/0.1/introduction.html]"
+            }
+        },
+        "Thai": {
+            "PUD": {
+                "sent_id = n": "sentences are taken from the news domain (sentence id starts in \u2018n\u2019), standard in all PUD treebank, traslated: Washington Post, BBC and other daily newspapers (manual inspection)"
+            }
+        },
+        "Turkish": {
+            "BOUN": {
+                "sent_id = news": "broadsheet national newspapers (source) [https://www.tnc.org.tr/about-the-corpus/object/]"
+            }
+        },
+        "Western Armenian": {
+            "ArmTDP": {
+                "sent_id = news": "daily news (source)[https://www.civilnet.am/news]"
+            }
+        }
+    },
+    "nonfiction_prose": {
+        "Armenian": {
+            "ArmTDP": {
+                "sent_id = nonfiction-005F": "autobiographical narrative by Hrant Matevossian (source)[https://hrantmatevossian.org/hy/works/id/i-skzbane-er-bann]",
+                "sent_id = nonfiction-006Q": "essay 'Actus Tragicus' by Aram Patsyan (source) [https://gretert.com/actus-tragicus-\u0561\u0580\u0561\u0574-\u057a\u0561\u0579\u0575\u0561\u0576/]"
+            },
+            "BSUT": {
+                "sent_id = nonfiction": "biographical narrative by Tigran Mansuryan 'Under Saryan's roof' (source)[https://granish.org/saryani-harki-tak/] and PARUYR SEVAK 'National Pride and National Dignity' (source)[https://thearmenians.am/hy/blog/paruyr-sevak-azgayn-snaparcutyun-ev-azgayin-arjanapatvutyun]"
+            }
+        },
+        "Belarusian": {
+            "HSE": {
+                "sent_id = Narodnaja-proza-belarusau-Padzvinnja": "Ethnografic prose of the Belarusians of Povzvinnia, the source is inferred from the prefix and text"
+            }
+        },
+        "Bulgarian": {
+            "BTB": {
+                "sent_id = girl": "C.Weston, 'Girltalk: All the Stuff Your Sister Never Told You', Third Edition, 1985, Genre: Family & Relationships, Self-Help, Young Adult Nonfiction, Juvenile Nonfiction (source)[https://bultreebank.org/bg/resources/girltalk/]"
+            }
+        },
+        "English": {
+            "GUM": {
+                "newdoc id = GUM_bio": "Wikibios biographies (source)[https://gucorpling.org/gum/]"
+            }
+        },
+        "Erzya": {
+            "JR": {
+                "sent_id = NujanjVidjaz2007": "Erzjanj Mastorontj sedejs\u00e8 (2007), travel notes and essays by Nujanj Vidjaz (Evgeniy Chetvergov) (source)[https://github.com/UniversalDependencies/UD_Erzya-JR/blob/master/README.txt]"
+            }
+        },
+        "Russian": {
+            "SynTagRus": {
+                "sent_id = 2003A_on_myatezhnyi.xml": "biographical narratives (source)[https://www.nkj.ru/archive/articles/2542/]",
+                "sent_id = 2007Chelovek_na_tribune.xml": "biography of Roman Abramovich",
+                "sent_id = 2018V_strane_mormonov.xml": "biographical narratives (source)[https://magazines.gorky.media/druzhba/2017/12/moya-amerika-zhizn-v-strane-mormonov.html]",
+                "sent_id = 2019Lingvistika_i_morzhevanie.xml": "biographical narratives (source)[https://snob.ru/profile/28809/blog/85851/]",
+                "sent_id = 2020_Corpus2_0Kakie_nashi_gody": "biographical narratives (source)[https://znamlit.ru/publication.php?id=7536]",
+                "sent_id = 2020_Corpus2_0Velikoe_pereselenie": "biographical narratives (source)[https://www.vestnik-evropy.ru/issues/night-the-great-migration.htmljournal]",
+                "sent_id = 2020_RFFIIndoneziya_ot_ada_do_raya.xml_700": "biographical narratives (source)[http://www.nm1925.ru/Archive/Journal6_2019_3/Content/Publication6_7138/Default.aspx]"
+            }
+        },
+        "Turkish": {
+            "BOUN": {
+                "sent_id = bio": "biographies and autobiographies (source)[https://www.tnc.org.tr/about-the-corpus/object/]",
+                "sent_id = ess": "essays (source)[https://www.tnc.org.tr/about-the-corpus/object/]"
+            }
+        },
+        "Western Armenian": {
+            "ArmTDP": {
+                "sent_id = nonfiction-002I": "autobiography by Mark Nshanyan (source)[https://inknagir.org/?author=13]"
+            }
+        }
+    },
+    "parliament": {
+        "English": {
+            "GUM": {
+                "sent_id = GUM_speech": "Political speeches (source)[https://gucorpling.org/gum/]"
+            },
+            "LinES": {
+                "sent_id = .*doc5": "Europarl data. The information about prefix pattern is provided by the main developer (source)[https://github.com/UniversalDependencies/UD_English-LinES]"
+            }
+        },
+        "Finnish": {
+            "TDT": {
+                "sent_id = e": "Europarl speeches (source)[https://github.com/UniversalDependencies/UD_Finnish-TDT]"
+            }
+        },
+        "French": {
+            "Sequoia": {
+                "sent_id = Europar": "French Europarl (sent_id prefix: Europar.550) (source)[https://github.com/UniversalDependencies/UD_French-Sequoia]"
+            }
+        },
+        "Greek": {
+            "GDT": {
+                "sent_id = .*ep-sessions": "european parliament sessions (source)[https://github.com/UniversalDependencies/UD_Greek-GDT]"
+            }
+        },
+        "Icelandic": {
+            "Modern": {
+                "sent_id = ALTHINGI": "unprepared parliament speeches by four Icelandic members of parliament in the period 2011\u20132015 (source)[https://github.com/UniversalDependencies/UD_Icelandic-Modern]"
+            }
+        },
+        "Italian": {
+            "ISDT": {
+                "sent_id = 2_Europarl": "genre is inferred from the prefix sent_id = 2_Europarl"
+            },
+            "ParlaMint": {
+                "nopattern": "transcriptions of parliamentary sessions of the Italian Senate (source)[https://universaldependencies.org/treebanks/it_parlamint/index.html]"
+            }
+        },
+        "Maltese": {
+            "MUDT": {
+                "sent_id = .*P": "transcripts of parliamentary debates (source)[https://www.bulbul.sk/phd/Text/Slavomir_Ceplo-text.pdf]"
+            }
+        },
+        "Norwegian": {
+            "Nynorsk": {
+                "condition": "Instances that match those in the original split (parliament_ndt_1-0_nno.conll) are selected (the file is in 20140328_NDT_1-01.tar.gz). (source)[https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-10/]"
+            }
+        },
+        "Swedish": {
+            "LinES": {
+                "sent_id = .*doc5": "Europarl data. The information about prefix pattern is provided by the main developer (source)[https://github.com/UniversalDependencies/UD_Swedish-LinES]"
+            }
+        }
+    },
+    "reviews": {
+        "English": {
+            "EWT": {
+                "sent_id = reviews": "online reviews of businesses and services on various Google web sites written by individuals (source)[https://catalog.ldc.upenn.edu/LDC2012T13]"
+            }
+        },
+        "German": {
+            "GSD": {
+                "condition": "Reviews presumably from Google. Reviews=s1-s1500 (train). Reviews=s1-s500 (dev). Retrieved by condition on sent_id pattern (source)[https://github.com/UniversalDependencies/UD_German-GSD]"
+            }
+        },
+        "Russian": {
+            "Taiga": {
+                "genre = review": "Yandex reviews. Information about the source is in the data: each review  has sent_id starting with yandex.reviews and contains additional information on the topic, place, date of review in the following metadata: review-category, review-place, review-date, review-likes, review-dislikes"
+            }
+        },
+        "Turkish": {
+            "Tourism": {
+                "nopattern": "hotel/restaurant reviews of a booking company (source)[https://github.com/UniversalDependencies/UD_Turkish-Tourism]"
+            }
+        },
+        "Western Armenian": {
+            "ArmTDP": {
+                "sent_id = reviews": "literary critics by Mark Nshanyan (source)[https://inknagir.org/?p=7228]"
+            }
+        }
+    },
+    "social": {
+        "Belarusian": {
+            "HSE": {
+                "genre = social": "Telegram channels: artsiadziba, radiosvaboda, abarona, belarusian_history (source)[https://github.com/UniversalDependencies/UD_Belarusian-HSE]"
+            }
+        },
+        "English": {
+            "EWT": {
+                "sent_id = newsgroup": "Google newsgroup informal discussions pertaining to a topic or interest area. They consist of threads that in turn contain articles with comments and discussion from group users, 2003-2006 (source)[https://catalog.ldc.upenn.edu/LDC2012T13]"
+            },
+            "GUMReddit": {
+                "nopattern": "Forum discussions, reddit (source)[https://gucorpling.org/gum/]"
+            },
+            "Tweebank": {
+                "nopattern": "Twitter data including tweets sampled from the Twitter stream from February 2016 to July 2016 (source)[https://github.com/Oneplus/Tweebank]"
+            }
+        },
+        "Estonian": {
+            "EWT": {
+                "sent_id = .*foorum": "forum discussions (reddit, military, gardening, cars) (source)[https://github.com/UniversalDependencies/UD_Estonian-EWT]",
+                "sent_id = kom": "comments on news about Covid19 pandemic in 2020-2021 (~12,725 tokens) (source)[https://github.com/UniversalDependencies/UD_Estonian-EWT]"
+            }
+        },
+        "Finnish": {
+            "OOD": {
+                "sent_id = thread": "thread = discussion forums (source)[https://github.com/UniversalDependencies/UD_Finnish-OOD]",
+                "sent_id = tweet": "tweet = tweets (source)[https://github.com/UniversalDependencies/UD_Finnish-OOD]"
+            }
+        },
+        "Hindi English": {
+            "HIENCS": {
+                "nopattern": "code-switching tweets of Hindi and English multilingual speakers (mostly Indian) on Twitter (source)[https://github.com/UniversalDependencies/UD_Hindi_English-HIENCS]"
+            }
+        },
+        "Irish": {
+            "TwittIrish": {
+                "nopattern": "NTC consists of 25000 tweets posted between 2010 and 2019 randomly sampled from a database of 14111 users who have tweeted in Irish. LTC consists of 1493 tweets posted between 2009 and 2014 randomly sampled from 950000 tweets by 8000 users. (source)[https://github.com/UniversalDependencies/UD_Irish-TwittIrish]"
+            }
+        },
+        "Italian": {
+            "PoSTWITA": {
+                "nopattern": "Italian Twitter data (source)[https://github.com/UniversalDependencies/UD_Italian-PoSTWITA]"
+            },
+            "TWITTIRO": {
+                "nopattern": "collection of ironic Italian tweets (source)[https://github.com/UniversalDependencies/UD_Italian-TWITTIRO]"
+            }
+        },
+        "Polish": {
+            "LFG": {
+                "genre = social": "interactive Internet texts (forums, chatrooms, etc.) (source)[https://github.com/UniversalDependencies/UD_Polish-LFG]"
+            }
+        },
+        "Russian": {
+            "Taiga": {
+                "genre = social": "vk.com, instagram, facebook, twitter, youtube comments, questions & answers (otvet.mail.ru), reviews (reviews.yandex.ru)(source)[https://github.com/UniversalDependencies/UD_Russian-Taiga]"
+            }
+        },
+        "Western Armenian": {
+            "ArmTDP": {
+                "sent_id = social": "conversations from short author articles on yerepouni-news.com (source)[https://www.yerepouni-news.com/\u2024\u2024\u2024-\u056f\u0568-\u0574\u0565\u0572\u0561\u0564\u0580\u0578\u0582\u056b\u0576-\u0570\u0561\u0575\u0580\u0565\u0580\u0568/]"
+            }
+        }
+    },
+    "spoken": {
+        "Abaza": {
+            "ATB": {
+                "nopattern": "spontaneous stories about the speakers' lives, village traditions, tales and legends (source)[http://lingconlab.ru/spoken_abaza/]"
+            },
+            "Beja": {
+                "NSC": {
+                    "nopattern": "a collection of fairy tales and stories narrated by Beja speakers(source)[https://corpafroas.huma-num.fr/Archives/corpus.php]"
+                }
+            },
+            "Cantonese": {
+                "HK": {
+                    "\bsent_id = (4[1-9][1-9]|5[0-3][0-9]|54[0-7])\b|\bsent_id = (41[1-9]|4[2-9][0-9]|5[0-3][0-9]|54[0-7])\b": "Tempo in Temple. This is an interview. Most sentences are not prepared and thus contain a lot of disfluencies. A lot of reparandums are tagged (source)[https://github.com/UniversalDependencies/UD_Cantonese-HK/blob/master/README.md]",
+                    "\bsent_id = ([6-9][5-9][1-9]|100[0-4]|[7-9][0-9][0-9])\b|\bsent_id = (65[1-9]|6[6-9][0-9]|100[0-4]|[7-9][0-9][0-9])\b": "Election of President: The council meeting of the Legislative Council of HKSAR on 12th October, 2016 (source). This is an discission. Most sentences are not prepared and thus contain a lot of disfluencies. A lot of reparandums are tagged. (source)[https://github.com/UniversalDependencies/UD_Cantonese-HK/blob/master/README.md]"
+                }
+            },
+            "Chukchi": {
+                "HSE": {
+                    "nopattern": "Chukotko-Kamchatkan & anecdotes, songs, parables, autobiographical stories, fairy tales, everyday dialogues, retellings of silent movie fragments (source)[https://chuklang.ru/full_texts]"
+                }
+            },
+            "English": {
+                "Atis": {
+                    "nopattern": "human speech transcriptions of people asking for flight information on the automated inquiry systems (source)[https://github.com/UniversalDependencies/UD_English-Atis]"
+                },
+                "GUM": {
+                    "sent_id = GUM_conversation": "UCSB Corpus (source)[https://gucorpling.org/gum/],  Santa Barbara Corpus of Spoken American English is based on a large body of recordings of naturally occurring spoken interaction from all over the United States. The Santa Barbara Corpus represents a wide variety of people of different regional origins, ages, occupations, genders, and ethnic and social backgrounds. The predominant form of language use represented is face-to-face conversation, but the corpus also documents many other ways that that people use language in their everyday lives: telephone conversations, card games, food preparation, on-the-job talk, classroom lectures, sermons, story-telling, town hall meetings, tour-guide spiels, and more (source)[https://www.linguistics.ucsb.edu/research/santa-barbara-corpus]"
+                }
+            },
+            "French": {
+                "ParisStories": {
+                    "nopattern": "monologues and dialogues from speakers living in the Parisian region, students had to record a friend or a relative sharing an anecdote about a given theme (meaningful encounters, vacations, interesting stories..) (source)[https://github.com/UniversalDependencies/UD_French-ParisStories]"
+                },
+                "Rhapsodie": {
+                    "nopattern": "57 spoken French examples, private and public speech, monologues and dialogues (source)[https://rhapsodie.modyco.fr/francais-parle/]"
+                }
+            },
+            "Gheg": {
+                "GPS": {
+                    "sent_id = P": "narrations of Wallace Chafe's Pear Stories video (pearstories.org) by heritage speakers of Gheg Albanian. To extract the instances, metadata starting with sent\\_id = P is used (speakers from Prishtina), we exclude the instances of speakers from Switzerland since they contain a lot of code-switching (mostly Swiss-German) (source)[https://github.com/UniversalDependencies/UD_Gheg-GPS]"
+                }
+            },
+            "Komi Zyrian": {
+                "IKDP": {
+                    "nopattern": "I\u017ava dialect transcriptions of spoken Komi Zyrian (source)[https://archive.mpi.nl/tla/islandora/object/tla%3A1839_00_0000_0000_0021_64F1_D"
+                }
+            },
+            "Naija": {
+                "NSC": {
+                    "nopattern": "spoken Naija (Nigerian Pidgin), monologues and dialogues, metadata contains the topic as in 'ABJ_GWA_14_Mary-Lifestory_MG' (source)[https://github.com/UniversalDependencies/UD_Naija-NSC]"
+                }
+            },
+            "Norwegian": {
+                "NynorskLIA": {
+                    "nopattern": "dialect recordings made in the period between 1950--1990 (source)[https://github.com/UniversalDependencies/UD_Norwegian-NynorskLIA]"
+                }
+            },
+            "Polish": {
+                "LFG": {
+                    "genre = spoken": "spoken (conversations), short conversation-style sentences (source)[https://github.com/UniversalDependencies/UD_Polish-LFG]"
+                }
+            },
+            "Scottish Gaelic": {
+                "ARCOSG": {
+                    "sent_id = c": "Conversation. c01 is in test, c03 in dev and the rest in train. These are transcripts of interviews in the Western Isles from 1998 to 2000. In c03 and c04 speakers 2, 4 and 5 are children.",
+                    "sent_id = n\\d": "Oral narrative. n01: Na Tr\u00ec Leinntean Canaich (test), n02: Conall Gulban (dev), n03: Na Fiantaichean, n04: Gille an Fheadain Duibh, n05: Bodach R\u00f2cabarraigh, n06: Iain Beag MacAnndra, n07: Fear a' Churracain Ghlais, n08: Boban Saor, n09: Bean 'ic Odrum, n10: Bl\u00e0r Ch\u00e0irinis (source)[https://github.com/UniversalDependencies/UD_Scottish_Gaelic-ARCOSG]"
+                }
+            },
+            "Slovenian": {
+                "SST": {
+                    "nopattern": "a collection of transcribed audio recordings of monologic, dialogic and multi-party spontaneous speech in different everyday situations. The treebank is representative of speakers (sex, age, region, education), communication channels (TV, radio, telephone, personal contact) and communication settings (TV and radio shows, lectures, meetings, consultations, services, conversations between friends etc.) (source)[https://github.com/UniversalDependencies/UD_Slovenian-SST]"
+                }
+            },
+            "Turkish": {
+                "Atis": {
+                    "nopattern": "human speech transcriptions of people asking for flight information on the automated inquiry systems, a translation of English ATIS (Airline Travel Information System) corpus (source)[https://github.com/UniversalDependencies/UD_Turkish-Atis]"
+                }
+            },
+            "Turkish German": {
+                "SAGT": {
+                    "nopattern": "48 distinct conversations from 17 participants. The majority of the speakers are university students, hence the most frequent age range is 18\u201325. Common conversation themes include studies, work, travel, free time activities such as sports, books, TV, and future plans. (source)[https://github.com/UniversalDependencies/UD_Turkish_German-SAGT]"
+                }
+            },
+            "Western Armenian": {
+                "ArmTDP": {
+                    "sent_id = spoken": "transcription of a conference speech (source)[https://www.aztagdaily.com/archives/531163]"
+                }
+            }
+        },
+        "textbook": {
+            "English": {
+                "GUM": {
+                    "sent_id = GUM_textbook": "15 OpenStax texbooks related to different knowledge areas (source)[https://gucorpling.org/gum/]"
+                }
+            }
+        },
+        "wiki": {
+            "Albanian": {
+                "TSA": {
+                    "nopattern": "different Wikipedia entries (source)[https://github.com/UniversalDependencies/UD_Albanian-TSA/blob/master/README.md]"
+                }
+            },
+            "Armenian": {
+                "BSUT": {
+                    "sent_id = wiki": "source inferred from prefix, the label 'wiki' is in UD labels for this treebank"
+                }
+            },
+            "Belarusian": {
+                "HSE": {
+                    "genre = wiki": "(source)[https://github.com/UniversalDependencies/UD_Belarusian-HSE]"
+                }
+            },
+            "Chinese": {
+                "GSD": {
+                    "nopattern": "Wikipedia data, manually verified. The label 'wiki' is in UD labels"
+                }
+            },
+            "Dutch": {
+                "LassySmall": {
+                    "nopattern": "Wikipedia section of the Lassy Small Treebank (source)[https://github.com/UniversalDependencies/UD_Dutch-LassySmall]"
+                }
+            },
+            "Finnish": {
+                "TDT": {
+                    "sent_id = w\\d+": "Wikipedia articles (source)[https://github.com/UniversalDependencies/UD_Finnish-TDT]"
+                }
+            },
+            "French": {
+                "Sequoia": {
+                    "sent_id = frwiki": "Wikip\u00e9dia Fr (sent_id prefix: frwiki_50.1000) (source)[https://github.com/UniversalDependencies/UD_French-Sequoia]"
+                }
+            },
+            "Hebrew": {
+                "IAHLTwiki": {
+                    "nopattern": "5,000 contemporary Hebrew sentences representing a variety of texts originating from Wikipedia entries. It includes various text domains, such as: biography, law, finance, health, places, events and miscellaneous. (source)[https://github.com/UniversalDependencies/UD_Hebrew-IAHLTwiki]"
+                }
+            },
+            "Indonesian": {
+                "PUD": {
+                    "sent_id = w": "Wikipedia (sentence id starts with \u2018w\u2019), standard prefix in all PUD treebanks"
+                }
+            },
+            "Italian": {
+                "ISDT": {
+                    "sent_id = .*WIKI": "Wikipedia articles (source)[https://github.com/UniversalDependencies/UD_Italian-ISDT]"
+                }
+            },
+            "Japanese": {
+                "PUD": {
+                    "sent_id = w": "Wikipedia (sentence id starts with \u2018w\u2019), standard prefix in all PUD treebanks"
+                }
+            },
+            "Romanian": {
+                "RRT": {
+                    "newdoc id = Wikipedia": "(source)[https://github.com/UniversalDependencies/UD_Romanian-RRT]"
+                }
+            },
+            "Russian": {
+                "GSD": {},
+                "SynTagRus": {
+                    "genre = wiki": "Russian Wikipedia, source inferred from prefix",
+                    "sent_id = 2012Galileo_Galilei.xml": "Wiki article 'Algorithm' (source)[https://ru.wikipedia.org/wiki/\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c]",
+                    "sent_id = 2013Algoritm.xml": "Wiki article 'Galileo Galilei', (source)[https://ru.wikipedia.org/wiki/\u0413\u0430\u043b\u0438\u043b\u0435\u0439,_\u0413\u0430\u043b\u0438\u043b\u0435\u043e]"
+                }
+            },
+            "Slovak": {
+                "SNK": {
+                    "sent_id = wikipedia": "source inferred from prefix, originally only present in dev data"
+                }
+            },
+            "Slovenian": {
+                "SSJ": {
+                    "sent_id = .*sl": "Slovenian subset of the ELEXIS parallel sense-annotated corpus of Wikipedia texts (source)[https://aclanthology.org/2022.law-1.3.pdf]"
+                }
+            },
+            "Western Armenian": {
+                "ArmTDP": {
+                    "sent_id = wiki": "source inferred from prefix, label in UD labels"
+                }
+            }
+        }
+    }
+}

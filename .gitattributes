@@ -1,0 +1,2 @@
+large-file-pattern filter=lfs diff=lfs merge=lfs -text
+*.conllu filter=lfs diff=lfs merge=lfs -text

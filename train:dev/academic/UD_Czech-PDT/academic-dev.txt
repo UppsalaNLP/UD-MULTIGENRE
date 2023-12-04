@@ -1,0 +1,931 @@
+Lidská schopnost přizpůsobit se chladu 
+LADISLAV JÁNSKÝ 
+Je člověk schopen přizpůsobit se nepříznivým účinkům chladu? 
+Tato otázka trápí lidstvo snad od poslední doby ledové. 
+Je zajímavé, že v současné době studuje tento problém především řada vojenských laboratoří, jmenovitě U. S. Army Research of Environmental Medicine ve Spojených státech, Centre de Recherches des Service de Santé des Armeés ve Francii, Defence and Civil Institute of Environmental Medicine v Kanadě. 
+Přestože je jasné, že svou schopností vzdorovat chladu někteří jedinci se výrazně liší od jiných, fyziologická podstata této odolnosti není stále zcela jasná. 
+Někteří otužilci snášejí bez úhony dlouhodobý pobyt ve studené vodě, např. korejské potápěčky zvané "ama", sbírající perlorodky v chladných mořských vodách. 
+Existují také četné údaje o tom, že různé domorodé populace žijí trvale a bez újmy na zdraví za velmi nepříznivých podmínek: alacalufští Indiáni v Ohňové zemi používali donedávna primitivní příbytky, které zapadali sněhem, a plavili se na člunech zaplavovaných studenou vodou; 
+australští domorodci běžně spali nazí na holé zemi při teplotách okolo nuly. 
+Schopnost vzdorovat chladu však nemusí být vlastní jen cizím etnickým skupinám. 
+Týká se to také našich otužilců koupajících se u nás o vánocích ve vodách Vltavy, nebo plavců překonávajících kanál La Manche; 
+osobně jsem pozoroval poloopilého bělocha přespávajícího s odkrytými zády v zimě na lavičce v Novosibirsku. 
+Někteří rybáři zase ponořují opakovaně a bez následků ruce do studené vody. 
+Také vězni odsouzení na nucené práce v gulagu byli nuceni přizpůsobit se chladu. 
+Jaké adaptační mechanismy by mohly být podkladem tohoto přizpůsobení? 
+U homoiotermních živočichů (se stálou teplotou tělesného jádra) existují pouze tři fyziologické možnosti, jak čelit zvětšeným tepelným ztrátám, a zajistit tak přežití za nízkých teplot: 
+1. omezit tepelné ztráty zlepšením izolace těla, 
+2. zvýšit tepelnou produkci uvnitř těla, 
+3. snížit teplotní rozdíl mezi tělem a prostředím hypotermií , tj. poklesem tělesné teploty pod normál. 
+Izolační schopnost zvětšují chlupy nebo peří na povrchu těla a také podpovrchové tkáně, konkrétně silnější tukové vrstvy. 
+I omezením průtoku krve kůží ( periferní vasokonstrikcí ) lze zlepšit izolaci. 
+Projeví se to rozšířením tzv. zóny termoneutrality , v níž se ještě "nezapínají" termoregulační mechanismy organismu. 
+Tím vším se zvětší rozsah teplot, ve kterých může organismus přežívat při nezměněné produkci tepla. 
+S touto první možností přizpůsobení se setkáváme u arktických živočichů nebo u zvířat, která střídají "letní" a "zimní" srst; 
+jejich lepší izolace brání úniku tepla i v teplotách kolem -40 ° C. 
+Druhou strategii - zvýšení tepelné produkce - využívají někteří drobnější savci, jejichž relativně velký tělní povrch izoluje od vnějšího prostředí obtížněji. 
+Rozvinul se u nich nový termogenetický mechanismus zvaný netřesová termogeneze , který doplňuje teplo vznikající při svalovém třesu a je vyvoláván působením hormonů (hlavně noradrenalinu) na hnědou tukovou tkáň . 
+Třetí možnost spočívá ve schopnosti snížit nastavení "tělního termostatu" (tj. snížení hodnoty "set pointu"), takže tělesná teplota je udržována na nižší úrovni, než je obvyklých 37 ° C. 
+Sníží se tím teplotní rozdíl mezi tělem a prostředím a díky tomu se zmenší tepelné ztráty. 
+Extrémním příkladem tohoto přizpůsobení je zimní spánek ( hibernace ), který pozorujeme u některých savců (u sviště, sysla, medvěda, aj.). 
+Jaké mechanismy přizpůsobení se mohou vyskytovat u člověka? 
+U lidí nepřichází příliš v úvahu zlepšení povrchové izolace zvýšením kvality srsti. 
+Mohou se však přizpůsobit zimě snížením periferní tělní teploty, což je způsobeno omezeným průtokem krve v podkožních oblastech. 
+Takto se přizpůsobují např. běloši žijící delší dobu v chladu v přirozených podmínkách nebo potápěči. 
+Některé etnické skupiny vzdorují zimě i velkým poklesem centrální teploty a nižší produkcí tepla po adaptaci. 
+To bylo pozorováno u domorodců kalahárských pouští, peruánských Indiánů žijících v Andách a australských domorodců; 
+také u bělochů adaptovaných na chlad v laboratorních podmínkách. 
+Adaptace pomocí netřesové termogeneze nebyla u lidí pozorována, i když existují údaje o tom, že alacalufští Indiáni, arktičtí Indiáni, Eskymáci a někteří běloši mají po adaptaci vyšší klidový metabolismus. 
+Eskymáci, podobně jako rybáři se vyznačují navíc i zvýšenou kožní teplotou na rukou. 
+Různý typ přizpůsobení může být vyvolán různými podmínkami, při nichž adaptace vzniká (např. zda je vystaven chladu celý organismus, nebo jen část tělního povrchu; 
+zda je působení chladu nepřetržité, nebo přerušované; 
+jak je chlad silný a jak dlouho trvá; 
+a také dieta, tělesná kondice nebo stresové podmínky). 
+Zdá se například, že hypotermní adaptace se objevuje obvykle za tři týdny, zatímco izolační adaptace nastává až po 6 - 7 týdnech. 
+Největším problémem při studiu chladové adaptace u lidí je stanovení vhodného kritéria stupně chladové adaptovanosti. 
+U jiných živočichů máme zatím k dispozici jedinou možnost přímého stanovení chladové adaptovanosti: délku doby, po kterou je organismus schopen přežívat silný chladový podnět ( chladovou rezistenci ). 
+Chladově adaptovaní jedinci musí přežít silnější chladový podnět po delší dobu. 
+Nehledě na technickou náročnost těchto experimentů s velkými zvířaty, je to pokus po etické stránce pochybený. 
+Proto jsme chtěli (ve spolupráci s fakultou tělesné výchovy a sportu, lékařskou fakultou v Brně a Fyziologickým ústavem ČSAV) vypracovat snadno použitelné hodnocení chladové adaptace a navrhnout způsob měření fyziologických změn. 
+Soustředili jsme se na měření centrálních i periferních teplot a na stanovení vztahu mezi změnami centrální tělesné teploty (teploty v mozku nebo v rektu) a produkcí tepla. 
+Pokusné osoby (mladé muže ve věku 23 let) jsme ponořili na jednu hodinu až po hrudník do chladné vody (14 ° C). 
+To jsme opakovali třikrát týdně po dobu čtyř týdnů. 
+Následující dva týdny jsme ještě sledovali, jak adaptace na chlad ustupuje. 
+Chladový stres snášely pokusné osoby dobře, bez následků, i když jejich subjektivní pocity nebyly příliš příjemné. 
+Výsledky se dají shrnout krátce. 
+U těchto lidí se vyskytlo jak izolační, tak hypotermní přizpůsobení: měli nižší periferní teplotu v důsledku intenzívnější vasokonstrikce; 
+současně měli sníženou i centrální teplotu těla, což bylo umožněno tím, že se opožďoval nástup svalového třesu. 
+Adaptace zvětšením produkce tepla pomocí netřesové termogeneze nebyla v našich pokusech přímo prokázána. 
+Tuto možnost však nevylučujeme, protože adaptovaní jevili známky zvýšené tepelné produkce bezprostředně po té, co byli vystaveni chladu, a to ještě předtím, než u nich byl pozorován třes. 
+Pozorované změny (izolační a hypotermní) vedly během hodinového pokusu k úspoře asi 20 % energie. 
+Změnil se také vztah mezi centrální tělesnou teplotou a produkcí tepla; 
+produkce tepla se u pokusných osob zapojovala až při větším poklesu teploty těla (o více než 1 ° C) než u neadaptovaných jedinců. 
+Při dalším poklesu teploty se však produkce tepla zvyšovala stejně u adaptovaných i neadaptovaných jedinců, což naznačuje, že teplotní senzitivita hypothalamických center řídících tepelnou rovnováhu (homeostázu) nebyla změněna. 
+Tento pokles termoregulačního "set pointu" probíhal postupně (již po týdnu došlo k mírnému snížení hodnot) a po skončení adaptace opět hodnoty postupně stoupaly - po dvou týdnech však ještě nedosahovaly původních hodnot. 
+Znamená to, že chladová adaptace přetrvává i bez dalšího "otužování" poměrně dlouhou dobu. 
+Podařilo se nám tedy popsat objektivní ukazatel chladové adaptovanosti u lidí - je jím posun termoregulačního "set pointu". 
+Otázkou zůstává, čím je snížené nastavení termostatu vyvoláno. 
+Je možno spekulovat, že příčinou tohoto jevu je zvýšená aktivita sympatického nervového systému a následná zvýšená produkce noradrenalinu . 
+Z literatury je známo, že u laboratorních živočichů noradrenalin skutečně ovlivňuje termoregulační "set point". 
+Není však vyloučena ani úloha některých jiných humorálních činitelů, např. neuropeptidů . 
+Endorfiny , které mají obecně znecitlivující účinek, se za stresových podmínek objevují v těle ve zvýšené míře. 
+Dalším zajímavým problémem je "prožívání zimy". 
+Snížené pociťování chladu ( habituace ) je podmíněno změnou činnosti periferních termoreceptorů a mozkové kůry. 
+Je ovlivnitelné vůlí, závisí na fyziologickém stavu organismu, např. na únavě, a může postihnout jen určité části těla, např. končetiny. 
+Mezi fyziologickou adaptací a habituací je nepřímá souvislost. 
+Snížení pociťování chladu brání tomu, aby organismus reagoval na chlad aktivací fyziologických mechanismů, které účinek chladu eliminují. 
+A nakonec bych připomenul známou skutečnost, že opakované vystavování chladu vyvolává změny v odolnosti vůči chladu a infekcím - vyvine se otužilost. 
+Chladové podněty potom vlastně zabraňují vzniku onemocnění. 
+Podstata tohoto jevu může spočívat ve zvýšené aktivaci celkového imunitního systému a imunitního systému ve sliznicích dýchacích cest. 
+Bertrand Russell - aristokrat ducha a rozumu 
+DUŠAN JEDINÁK 
+Stavy zvěře z hlediska ekologie a historie krajiny. 
+PETR PROSCH 
+Široká laická veřejnost zcela chápe vlivy průmyslu a průmyslového zemědělství na rostlinstvo v lesích. 
+Téměř všem je dnes jasné, proč stromů ubývá a co jim škodí. 
+Začne-li se však hovořit o zvěři, mnoho lidí je přesvědčeno, že ji vystříleli myslivci. 
+Chtěl bych proto krátce osvětlit vliv změn ekologických podmínek, zejména změn způsobených člověkem, na množství lovné zvěře, a to s pohledem do historie. 
+Zaměřme se na poslední období čtvrtohor (antropozoika), na dobu poledovou. 
+Oteplení a zvlhčení umožnilo rozšíření lesů, které pokryly souvisle celou střední Evropu. 
+Potlačily stepi a utvořily prostředí, v němž se dařilo zcela jiným druhům než v glaciální otevřené krajině. 
+Na převážně zalesněných územích se dařilo velké zvěři. 
+Tehdy sloužil lov k zajištění potravy pro člověka. 
+V období po oteplení na počátku holocénu ( 8000 let př. n. l.) začíná být v přírodě patrný vliv člověka. 
+Vytváří se opět velké plochy - pole a pastviny, vzniká kulturní zemědělská krajina. 
+Odlesnění, pastva a orba byly nejhrubšími zásahy člověka do přírody. 
+Změny v krajinných ekosystémech ovlivnily již tehdy druhové složení a hustotu populací lovné zvěře. 
+Kromě toho začal člověk ovlivňovat množství a druhy zvěře také společenskými i přímo loveckými zákony. 
+Oba vlivy - krajinný i společenský - se vzájemně prolínají a spolupůsobí dodnes. 
+Základ mysliveckého hospodářství a chovu zvěře byl položen při rozmachu královské a knížecí moci. 
+Z lovu se stala výsada, kterou udílel král, kníže nebo jiný šlechtic lidem na nižším společenském stupni. 
+U bohatnoucí a sílící české šlechty se právo lovu stalo nedotknutelným majetkem, kterým se mimo jiné odlišovala od poddaných ze stavu rolnického i městského. 
+V této rytířské době provozoval tedy lov pouze panovník nebo šlechta, a to osaměle se smečkou psů, a proto nedocházelo k vybíjení. 
+Přesto velké zvěře zvolna ubývalo. 
+Docházelo totiž k dalšímu odlesňování, plocha orné půdy se zvětšovala, neobydlená území se zmenšovala a velká lesní zvěř ustupovala před člověkem. 
+V 16. až 19. století začaly spolu s růstem přepychu stoupat i nároky společenské a reprezentační. 
+Lov se tehdy stal jednou z hlavních společenských atrakcí, začaly se mu věnovat celé společnosti včetně šlechtických dam. 
+Začalo se užívat střelných zbraní a úbytek způsobený lovem musel být nahrazován. 
+Nepostačovalo již shánění zvěře, začalo být zapotřebí o zvěř pečovat, aby se dobře množila. 
+Zde začíná myslivecké hospodaření na půdě šlechty a vzniká kasta myslivců z povolání, jejichž hlavní starostí bylo pečovat o zvěř v oborách a bažantnicích, budovaných s novými barokními sídly. 
+Jednu z největších změn v 19. století přineslo zrušení roboty. 
+Přesto zůstaly zachovány lovecké zvyky, ochrana lovné zvěře a hromadné chovy. 
+Další změny se objevují s prvními zákony v Čechách r. 1866 a na Moravě r. 1873. 
+Zvěř byla prohlášena za majetek půdy a měl na ni právo vlastník pozemku! 
+Osvícenská doba a láska šlechty k lovu a zvěři přiměla tehdejší vládnoucí kruhy k vydání vynikajících zákonů, které obyčejný lov změnily ve skutečné hospodaření se zvěří. 
+Právo lovu bylo sice převedeno na rolníka - majitele půdy, ale zůstalo vázáno na obecní katastr, který byl nejmenším honebním výměrem. 
+(Nejmenší honitba musela být 115 ha, což bylo pro drobnou zvěř postačující.) 
+Rolník mohl zvěří disponovat jen společně s ostatními členy obce. 
+Aby ani potom nemohla být zvěř zcela vystřílena, bylo určeno, že právo lovu obce musí být pronajato a do pokladny složen poplatek. 
+Z tohoto poplatku dostával každý majitel půdy alikvotní část odpovídající jeho výměře půdy. 
+Obec měla možnost pachtovat honitbu dražbou a tu dostal ten, kdo dal nejvíc. 
+Tak bylo v zájmu každého rolníka, aby měl na svých pozemcích co největší množství zvěře, protože to mělo vliv na výšku dražby. 
+Tím se zákonodárcům podařilo změnit odpor k "panské" zvěři z dob roboty a šlechtických výsad. 
+Ve státech, kde revoluční události přenesly právo myslivosti na stát (ve Francii, v Itálii, ve východní Evropě) si mohl každý zakoupit honební lístek - licenci, opravňující ho lovit kdekoliv, a tak nemělo smysl pěstovat zvěř na pozemcích, kam měl přístup každý lovec a kde mohl na základě státní licence bezplatně vystřílet, co chtěl. 
+Srovnáme-li oba systémy, náš s honebními revíry a cizí s volným lovem, vidíme zřejmé rozdíly. 
+Naše revíry oplývaly množstvím zvěře ještě do sedmdesátých let tohoto století. 
+Potom v zemědělské gigantománii ztratila i tato soustava svoji ekonomickou funkci. 
+Cílem zemědělců bylo vyrábět za každou cenu obilí a maso. 
+Socialistické zemědělství drancováním vlastní půdy ničilo svůj výrobní prostředek; 
+ještě méně mu záleželo na udržení zvěře. 
+Drobná polní zvěř nikoho ze zemědělců nezajímala. 
+Trochu jinak to za socialismu bylo s velkou lesní zvěří, zejména jelení. 
+Velké lesy byly státním a vojenským majetkem a bylo nutné uspokojit stoupající zájem politických funkcionářů, ministerských úředníků a zájemců z generálních i podnikových ředitelství o "lidovou" myslivost. 
+Po vlně dělnických ředitelů z padesátých let si osvojili i noví rychloinženýři a straničtí doktoři brzy "panské choutky" a vyžadovali šlechtické výsady. 
+K uspokojení stoupajících požadavků "profesionálních revolucionářů" bylo nutno držet příslušné množství zvěře bez ohledu na úživnost revíru, na škody i na kvalitu zvěře, která se odstřelem nejlepších kusů a vysokými stavy nedala udržet. 
+R. 1976 hlásal nápis nad vstupní branou v Českých Budějovicích cosi o socialistické myslivosti dělníků a rolníků. 
+Uvnitř bylo možno vidět trofeje rolníka Ceaušeska, nebo dělníka Kadára i našich "pracujících". 
+Ale vraťme se do doby osvícenských panovníků a šlechty a sledujme změny v ekosystému. 
+Zvyšováním výměry zemědělské půdy, jak jsme již řekli, docházelo k úbytku velké lesní zvěře. 
+Stále však bylo dost velkých lesních celků se smíšenými úživnými porosty. 
+Tyto lesy nebyly díky své nepřístupnosti využívány pro těžbu dřeva. 
+Životní podmínky drobné zvěře se s rozvíjejícím se zemědělstvím stále zlepšovaly. 
+K vrcholu došlo po zrušení roboty a rozdrobení polního majetku. 
+Drobná políčka sousedící svými mezemi s roklinami a úvozy plnými trnek a šípků, rybníky a mokřiny zarostlé rákosím, selské lesíky v mírném klimatu většiny našeho území utvořily, spolu s již zmíněnými zákony, podmínky pro pravidelné oscilace stavu (přemnožení) drobné zvěře. 
+Také způsob lovu, i přes vynález střelných zbraní, umožnil přemnožení. 
+Lovec v českých zemích dodržoval (aniž by je znal) ekologické podmínky pro udržení oscilací a ponechával minimálně polovinu populace k dalšímu chovu. 
+Toho se docílilo tím, že na žádném pozemku nebyl hon víc jak jedenkrát za rok. 
+Koroptve byly loveny malými skupinkami lovců s ohaři a bylo zvykem ponechat některá malá hejna neporušena, u zajíců se provádělo šetrné "české ploužení". 
+Živočichy lze rozdělit podle velikosti přírůstku populace na typy "r" s exponenciálním neboli geometrickým růstem, a na typy "K" (Vesmír 71, 43, 1992), jejichž individuální a populační hustota je trvale vysoká podle kapacity prostředí. 
+Typickými představiteli typu "r" jsou koroptve a zajícovití (konkrétně náš zajíc polní); 
+po kulminaci jejich populace v letních měsících by v zimním období docházelo k vysoké mortalitě a k prudkému poklesu stavů. 
+Dobu kulminace však předcházel lovec a "sklízel" svých 30 - 50 %. 
+To byly r. 1935 3 milióny koroptví a 2 milióny zajíců v českých zemích. 
+Ke kolísání populací v průběhu let docházelo působením výrazných klimatických změn. 
+Velké mrazy, vysoký sníh a podzimní deště ovlivňovaly stavy zvěře. 
+Zimní úživnost zajišťovaly ozimy a četné meze a remízky, zejména v pahorkatinách, a myslivecké přikrmování. 
+Při pravidelném přemnožování drobné zvěře, kdy odpor prostředí, znatelný pouze v zimních měsících (a minimalizovaný přikrmováním), umožňoval vysoké stavy zvěře, byla pozornost upřena na predátory. 
+Neobstála ani kožešinová zvěř, včetně té nejcennější (kun, vyder). 
+Byla lovena i v době letní, kdy kožešina byla bezcenná, přestože škody nebyly tak zřejmé a prokazatelné jako u pernatých dravců, zejména jestřába. 
+Je třeba si přiznat, že s přemnožením drobné zvěře by přirozeně docházelo k zvýšení stavu predátorů, aby byla zachována rovnováha v přírodě. 
+Avšak výsadní právo lovce si vyhradil člověk! 
+Ten sázel, zveleboval pozemky, komoroval koroptve, líhl bažanty, krmil v zimě, prohrnoval sníh na ozimech, hlídal revíry před největší škodnou - toulavými psy a kočkami; 
+ale za to chtěl právo lovit sám. 
+Zajímavou zvěří, kterou nelze opomenout, je prase divoké - "černá zvěř". 
+I u ní vztah k životnímu prostředí a vliv loveckých zákonů ovlivnily množství. 
+Vrátíme-li se opět do historie zemědělství, zjistíme, že rozšiřováním orné půdy této zvěře ubývalo. 
+Škody páchané divočáky na polích vedly k tomu, že osvícený Josef II. patentem r. 1786 nejen potvrdil zákaz z r. 1770 chovat tuto zvěř mimo obory, ale dokonce ji umožnil každému lovit. 
+Patent obsahoval i ustanovení o náhradě škod způsobených divočáky na polích. 
+Zároveň byly zakládány pečlivě udržované monokulturní plantáže lesů, které neposkytovaly úkryt, klid a už vůbec dostatek potravy černé zvěři. 
+A drobný rolník chránil svá políčka, takže nakonec, v době mezi válkami, byla u nás černá zvěř téměř vyhubena. 
+Během 2. světové války pak došlo k rušení nákladných oborních chovů, ploty byly porušeny. 
+Poválečné rozšíření divokých prasat je připisováno únikům z obor, ale i tlaku válečné fronty od východu a populačnímu tlaku z okolních hor. 
+Lze vysledovat i vliv předpisů o zbraních; 
+po obsazení Československa bylo předepsáno lovit spárkatou zvěř kulovou střelou a současně bylo omezeno držení kulových zbraní. 
+Toto omezení pokračovalo v padesátých letech a trvá dodnes. 
+Polesí se zvětšila, lesy zpustly, houštiny zůstaly neprořezány, a vinou zákona o pasečném hospodářství lesa vznikaly větrné polomy. 
+To vše způsobilo zlepšení podmínek černé zvěře. 
+Vliv měla i obtížnost lovu. 
+Černý rytíř je nevyzpytatelný a mimo obory nelze na jeho lov zvát pohodlné prominentní hosty. 
+Při současné absenci drobné zvěře a možnosti společných lovů "jednotnou střelou" - brokovnicí jen díky lovu divočáků se zachovala lidovost naší myslivosti. 
+Nelze zde obsáhnout všechny složitosti ekologie lovné zvěře. 
+Vrátil bych se však ještě k úvodní myšlence: vliv člověka na životní prostředí má vliv i na množství zvěře. 
+Z historie je známo, že rozsáhlé kraje Texasu, Tenessee a jihovýchodní Ukrajiny se měnily v pouště jen proto, že zde zemědělci prováděli totéž, co provádíme nyní u nás. 
+Vybuchují vejce 
+Když se vejce v mikrovlnné troubě peče jako volské oko, má se především propíchnout žloutek. 
+Když se to neučiní, může vejce po vyndání z trouby explodovat při jídle a popálit oči (New Engl. J. Med 325 , 1799, 1991). 
+Nebo mít brýle, nebo nejíst vejce. 
+Vratislav Schreiber 
+Jmenovitě slovo vlastenec pozbylo ... celý svůj kredit. 
+Patriot znamená všude jinde až posavad, a znamenalo také u nás před čtyřiceti lety, řádného muže, jenž s vlastní svou škodou a s mnohými oběťmi o to se přičíněl, aby národ jeho a otců země zvelebena a před jinými vlastmi oslavena byla. 
+Nemožno tedy ode všech lidí žádati, aby dle takového smyslu byli patrioti: obyčejný člověk stará se jen výhradně o svou a své rodiny výživu, všechno ostatní jest mu nepraktické, kračka, kaprice; 
+... 
+KAREL HAVLÍČEK BOROVSKÝ, Dílo I 
+Odeon, Praha 1988, str. 330 
+S. Lusk, V. Baruš, J. Vostradovský: RYBY V NAŠICH VODÁCH. 
+2. vyd., Academia Praha 1992, 248 stran, 56 obrázků, 12 barevných příloh (86 obrázků), náklad 8000, cena 79 Kčs. 
+V nakladatelství Academia vyšlo po devíti letech přepracované vydání této úspěšné knihy. 
+Čtenáři se mohou v úvodní části seznámit se zařazením ryb v živočišné říši, se stavbou těla našich ryb, s jejich životními projevy a nároky, s rozmnožováním a vývojem, věkem a růstem, potravou, rybí produkcí, původem naší ichtyofauny a její ochranou i aklimatizačními pokusy. 
+Největší část publikace tvoří podrobné popisy všech našich druhů ryb s údaji o jejich rozšíření, biologii a významu. 
+U devatenácti druhů je uvedena i schematická mapka rozšíření v rámci ČSFR. 
+V textu jsou v příslušných místech rozmístěny klíče k určování čeledí a rodů našich ryb. 
+Při určování druhu se předpokládá využití poznávacích znaků uvedených přímo u popisů jednotlivých druhů. 
+Závěr publikace tvoří kapitoly o našem rybářství a rybníkářství, akvakulturách a ochraně vodního prostředí. 
+V kapitole 7 je uveden soupis doporučené literatury, čítající 48 pramenů, kde může zájemce případně vyhledat další podrobnosti. 
+Knížka je napsána přehledně, čtivě, se snahou zpřístupnit nejširší veřejnosti základní údaje o našich rybách a souvisejících otázkách. 
+Při porovnávání prvního a druhého vydání je patrný záměr autorů doplnit nejnovější poznatky, co se týče biologie jednotlivých druhů, biotechnologických přístupů k jejich rozmnožování a odchovu násad, včetně jejich vysazování jako významného stabilizačního faktoru populací méně běžných druhů. 
+Zásadně byla přepracována kapitola 5, kde nalezneme velice aktuální podkapitoly o ochraně ryb a aklimatizačních pokusech, doplněné přehlednými tabulkami. 
+Barevná příloha se skládá vesměs z kvalitních snímků. 
+Bohužel, od prvního vydání se nepodařilo zkompletovat barevné fotografie všech našich ryb, takže čtenář je takto ochuzen o 14 druhů. 
+V knize lze nalézt i několik drobných nepřesností. 
+Tak např. na str. 130 je mylně uvedeno, že plotice perleťová byla doložena nálezem v československém úseku Dunaje r. 1979 (správně má být 1975 - článek byl publikován teprve r. 1979). 
+Na str. 79 je použit český název plotice jezerní , zatímco v ostatních částech knihy je tentýž druh nazýván plotice perleťová. 
+Na str. 105 je správně upozorněno na novou změnu latinského názvu pstruha duhového, avšak s chybným přepisem druhového jména (správně má být mykiss) . 
+Na str. 206 byla použita špatná koncovka v latinském druhovém jménu ježdíka obecného, která neodpovídá gramatickému rodu rodového jména (správně tedy cernuus) . 
+Uvedené drobné nesrovnalosti nemohou zásadně ovlivnit celkově jednoznačně příznivý dojem z této publikace. 
+Je možné shrnout, že nové, přepracované vydání tohoto titulu je zdařilý počin, poněvadž na našem knižním trhu je trvalá poptávka po kvalitních rybářských publikacích. 
+A k těm kniha "Ryby našich vod " bezesporu patří. 
+RNDr. Lubomír Hanel, CSc. 
+Věda o správném myšlení 
+Před časem jsme si na tomto místě položili otázku, zda může existovat věda o vědomí. 
+Byla zde obtíž: zatímco vědy usilují o objektivní poznání, o vědomí víme jen z vnitřní zkušenosti, každý sám pro sebe. 
+Nedopadne to pak stejně i s myšlením, uvažováním a usuzováním? 
+Ano i ne. 
+Je pravda, že prožitek myšlení je intimní záležitostí myslícího. 
+Naproti tomu výsledek a i postup myšlení lze (za normálních okolností) sdělovat druhým. 
+Společně s nimi pak můžeme tento postup zkoumat a hodnotit co do správnosti. 
+Již Aristoteles vytvořil základy logiky - vědy o myšlení. 
+Přesněji řečeno vědy o správném myšlení. 
+Snad ještě přesněji: vědy o správnosti myšlení. 
+K logice jako vědě, stejně jako k tomu, co se běžně označuje jako "logické" (jednání, mluvení apod.), jsem vždy měl velký respekt. 
+Cit pro logiku nám leckdy usnadní vyznat se v něčem složitém, s někým se lépe dohodnout, někdy nám i pomůže někoho úmyslně poplést. 
+Leč dovede nás i svést. 
+Běžné lidské vyjadřování je totiž daleko více založeno na smyslu , tj. na tom, o čem se mluví, jak, proč a že se o tom mluví, než na formě, ba i správnosti řečeného. 
+Zastaví-li se dívka se svým mládencem u výlohy a jen tak prohodí "Není to krásný prstýnek?", pak je spíše zralá na nějaký třpytný dárek, než že by toužila po pravdivé odpovědi typu "Viděl jsem lepší" nebo "Já se v tom nevyznám." 
+Logika vždy odděluje jednu stránku lidského vyjadřování (a potažmo myšlení) a programově se na ni omezuje. 
+Je to stránka formální (oproti stránce obsahové ). 
+Pokud se zajímá i o obsah, je to tehdy, kdy jej lze nějak objektivizovat a formalizovat. 
+Jsem dalek toto omezení logice vyčítat - nemůže se mu vyhnout, chce-li být objektivní, chce-li, jako každá věda, usilovat o společné, sdělitelné a uchovatelné poznání. 
+Logikové by však neměli zapomenout na vše, od čeho abstrahovali v domnění, že to se správným myšlením nemá co dělat. 
+Je tu totiž otázka, zda ostré oddělování formální stránky od obsahové je vždy možné. 
+Přinejmenším je třeba zkoumat případy, kdy je rozhraní mezi obojím nezřetelné nebo unikavé. 
+K takovému zkoumání jsou půvabným nástrojem rozličné jazykové hříčky a paradoxy . 
+Všimněme si třeba, že věta " Dobré víno není levné " je logicky ekvivalentní větě " Levné víno není dobré ", každá z nich však říká něco jiného. 
+Nebo jiný příklad, když už jde řeč o víně: " Existuje aspoň jeden člověk, o němž platí, že má-li on rád víno, pak každý má rád víno. " 
+Vypadá to divně, ale plyne to z čisté logiky. 
+Nejslavnější je zajisté paradox lháře: 
+"Tato věta v uvozovkách není pravdivá" 
+Má-li totiž tato věta pravdu, pak lže, a nemá-li ji, nelže. 
+V obou případech zřejmý spor. 
+Spor je úhlavním nepřítelem logiky - a přece, odvažuji se tvrdit, zdravé myšlení si musí občas dovolit přepych sporu. 
+Například: jsem si jist, že mezi všemi výroky, které považuji za pravdivé, jsou jistě i takové, které neplatí. 
+I ony však, jak právě řečeno, patří k těm, které považuji za pravdivé. 
+Existuje vědní disciplína, na niž lze logiku použít lépe než na kteroukoliv jinou. 
+Je to matematika, věda, která je již ze svého principu plně formální a tudíž imunní vůči nahodilostem přirozeného světa. 
+Logice, která se zabývá matematickým myšlením (a která sama užívá matematických metod), říkáme matematická logika nebo též metamatematika . 
+Mezi základní objekty zájmu matematické logiky patří pojem důkazu, pojem (matematické) pravdy a formální teorie. 
+Důkaz je formální procedura, umožňující z jedněch výroků odvozovat výroky jiné, přičemž považujeme-li prvé za pravdivé, jsme oprávněni (ba i nuceni) považovat i ty druhé za pravdivé. 
+Lze tedy například zvolit několik výchozích "pravd" o přirozených číslech a definovat formální teorii čísel jako soubor všeho, co lze z těchto pravd dokázat. 
+Žádná takto definovaná teorie čísel však neobsáhne všechny pravdy o číslech (to, co o skutečných číslech platí). 
+To je slavná Gödelova věta o neúplnosti - příklad příspěvku matematické logiky k lidskému vědění. 
+Matematika je věda formální, její pojem správnosti je čistě logický a tedy zkoumatelný. 
+Jiné vědy to mají s posuzováním správnosti svého poznání choulostivější. 
+Chtějí totiž pozorovat, zpytovat a měřit reálný "vnější" svět, avšak mají k tomu jen takové prostředky, které vymyslel člověk. 
+Své poznatky chtějí interpretovat, vysvětlovat a hodnotit, avšak mají k tomu jen tu řeč, která je poznamenána lidskou zkušeností. 
+To samozřejmě neznamená, že pro ně neplatí logická metoda. 
+Logika patří ke kultuře každé vědy, protože patří ke kultuře myšlení. 
+Ivan M. Havel 
+Na obálce: Řez ostřicí ( Carex ), zvětšeno 230x, snímek Jiří Fiala k článku na straně 695 
+Nahoře: V Austrálii je známá z jury výborně zachovaná flóra a fauna ze silicitů na lokalitě Talbragar v Novém Jižním Walesu. 
+K významnějším fosilním rostlinám z této lokality patří damaroň Agathis jurassica. 
+Stromy tohoto rodu rostou v Austrálii dodnes. 
+Rozdíl mezi fosílií a živou rostlinou na snímku je 175 miliónů let. 
+Lokalita je proslulá i nálezy kompletních koster ryb 
+Vlevo: Isopogon latifolius , současný představitel gondwanské čeledi Proteaceae. 
+Snímky Jim Frazier a Densey Clyneová z knihy Mary E. Whiteové The Greening of Gondwana, Reed, 1990, k článku na str. 677 
+V savanách a polopouštích suchého vnitrozemí rostou akácie a baobaby, které známe spíše z Afriky a znovu nám zde připomínají rodovou podobnost flór někdejší Gondwany. 
+Na snímku Densey Clyneové je další pozoruhodná australská rostlina - stromovitý zástupce rodu Angophora 
+Rhacopteris ovata , rostlina, která dala jméno fosilní rhacopterisové květeně. 
+Zatímco v tropickém podnebí Evropy bujely uhlotvorné pralesy, Austrálii pokrývaly pralesy mírného pásu. 
+Tvořily je z velké části právě kapraďosemenné rostliny rodu Rhacopteris . 
+Tyto rostliny s vějířovitou nervaturou lístků jsou podobné některým evropským druhům ze spodního karbonu. 
+Rhacopterisová flóra je nejlépe doložena z Nového Jižního Walesu. 
+Snímky Jim Frazier z knihy Mary E. Whiteové The Greening of Gondwana 
+Nahoře: Ginkgoites australis z australského naleziště Koonwarra patří mezi první krytosemenné rostliny. 
+Snímky Jim Frazier z knihy Mary E. Whiteové The Greening of Gondwana 
+Kmen plavuně Subsigillaria sp., představitele rhacopterisové flóry. 
+Na přírůstcích kůry těchto plavuní je možno pozorovat dobu klidu ve vegetačním cyklu v podobě nahloučených zploštělých listových jizev a dobu vegetačního růstu charakterizovanou plně vyvinutými listovými jizvami 
+Dalšími druhy, které nám připomínají někdejší Gondwanu, jsou akácie. 
+Na snímku Densey Clyneová z knihy Mary E. Whiteové The Greening of Gondwana je druh Acacia longifolia 
+Samičí květy druhu Notophagus moorei . 
+Notofágové porosty se rozkládají v reliktních deštných pralesech Tasmánie, jihovýchodní Austrálie a na horách Nové Guineje. 
+Snímek Peter Valder z knihy Mary E. Whiteové The Greening of Gondwana 
+Pediastrum duplex , zvětšení 2000x, snímek Jiří Fiala 
+Nahoře: Korýš Parabathynella stygia , zvětšení 120x 
+Vlevo: Nymfa roztoče zákožky svrabové ( Sarcoptes scabiei ), původce svrabu, zvětšení 290x 
+Vpravo nahoře: Zelená řasa spájivka z rodu Mesotaenium, zvětšení 560x 
+Vpravo dole: Měřík ( Minium ), zvětšení asi aaax, všechny snímky Jiří Fiala 
+Řez jazykem krysy, zvětšení asi aaaax, snímek Jiří Fiala 
+8/8, na praporek, zarazit vpravo 
+Vladimír Janoušek 
+tempera, 1980, 36 x 36 cm 
+Vladimír Janoušek, Projekt sochy, tempera, 1975, 45 x 33 cm 
+Kresba Vladimír Renčín 
+Kresba Pavel Kantorek 
+"Všechno je v naprostým pořádku. 
+Právě jsem přišla na to, že když zmáčknu 3 a 5 současně, tak dostane ránu ten psycholog." 
+"To je vše, a pokud jde o vaši nejbližší budoucnost, dáte mi dvacet korun a odejdete zadem." 
+Kresba Pavel Kantorek 
+Kontinentální rozložení na rozhraní karbonu a permu, asi před 286 milióny let, z knihy Mary E. Whiteové The Greening of Gondwana 
+Rekonstrukce samičího květenství glossopterisové flóry, z knihy Mary E. Whiteové The Greening of Gondwana 
+Rekonstrukce samčího květenství glossopterisové flóry, z knihy Mary E. Whiteové The Greening of Gondwana 
+"Povídám, že tě ještě furt vidím." 
+Kresba Pavel Kantorek 
+"Voda!!!" 
+Kresba Pavel Kantorek 
+Kresba Pavel Kantorek 
+"Ukončili jsme statistickej průzkum škeblí. 
+6 % nemá ponětí, co se děje, a zbytku je to naprosto jedno." 
+Jiří Fiala jako gymnazista 
+Profesor Jiří Fiala 
+Vladimír Janoušek. 
+Nar. 30 . 11 .1922 v Přední Ždírnici u Nové Paky, zemřel v Praze 8. 9. 1986. 
+Studoval na Škole uměleckých řemesel v Brně (1941-42), r. 1942 začal studia na uměleckoprůmyslové škole v Praze. 
+Studia byla přerušena nasazením na práce v Říši, dokončil je po válce v ateliéru Josefa Wagnera (1950). 
+Byl členem Umělecké besedy a tvůrčího seskupení UB12. 
+Snímek z archívu Věry Janouškové 
+Distribuce Vesmíru pro nevidomé 
+Projevili jste zájem o adresy výrobců hlasového výstupu pro PC. 
+Tento způsob komunikace s osobním počítačem neumožňuje práci s programy, které pracují v grafickém režimu. 
+To platí i o operačním systému. 
+Je možná práce s textovými editory, s databázemi, překladači různých programovacích jazyků, s cizojazyčnými slovníky a dokonce lze hrát i textově orientované hry. 
+Možnosti komunikace nevidomých s PC jsou však širší. 
+Existují hmatové výstupy, které text napsaný na monitoru převádějí do bodového písma a připojit lze též čtecí přístroj "Optacon", který převádí do hmatové podoby čáru pod kursorem, tedy vlastně také pracuje v grafice. 
+Optaconem však nelze cokoli vkládat. 
+Pouze lze pohybem myši prohlížet obrazovku. 
+Výrobci hlasového výstupu jsou u nás dva: 
+Ing. Purkrt, Otvovice 100, okr. Kladno, tel. 0205-83155 
+SPEKTRA, Haštalská, Praha 1 tel. 231 59 09 
+Podle mého názoru produkt Ing. Purkrta mluví o něco lépe, ale oba výrobci se kus od kusu zlepšují.... 
+Program ke hlasovému výstupu umožňuje čtení v celku, po řádcích, po sloupcích, čtení jednotlivých oken atd. 
+Úsek textu, který nechci číst, mohu vynechat. 
+Jediný malý zádrhel se vyskytuje v některých článcích a spočívá v tom, že pisatel užívá místo nuly písmeno "o". 
+Vzhledově sice oba znaky vypadají podobně, ale mají odlišnou ASCII hodnotu, takže v číslech je čteno "o" místo nuly. 
+Je to ale opravdu drobnost, dá se na to zvyknout a počítat s tím. 
+Jinak vše jde krásně. 
+Mohu se zastavovat, vracet se na místa, která mne zajímají, dělat si poznámky, výpisky atd. 
+Jiří Jelínek Roztocká 1001 514 01 Jilemnice tel. (0432)3206 
+Vážení čtenáři, pokud je mezi Vašimi blízkými, přáteli či známými nevidomý, který má zájem o časopis Vesmír a který pracuje s počítačem, může od nás dostávat celé číslo vždy na disketě. 
+Tento způsob jsme již vyzkoušeli s panem Jelínkem, a zdá se, že to jde dobře. 
+Zakoupení karty pro hlasový výstup by neměl být velký problém, cena se má pohybovat okolo 7000 Kčs. 
+Bližší informace Vám jistě rádi podají na adresách uvedených v dopise pana Jelínka nebo přímo pan Jelínek. 
+Pokud odebíráte Vesmír a zašlete nám příslušný počet čistých disket (DD i HD - 5.25' i 3.5') a svoji adresu, můžeme Vám poslat soubory od čísla 5/92 včetně (zdarma). 
+Jedno číslo = cca 310 KB. 
+redakce 
+Jako poznámku uvádíme prosbu autorům píšícím na počítači, aby pečlivě dbali na rozlišování písmene O od čísla 0. 
+Jak vidíte, nepodaří se nám pokaždé všechny tyto omyly objevit a opravit, za což se čtenářům omlouváme. 
+Nová metoda odstraňování ropných skvrn 
+Firma Lockheed Missile and Space Co. (USA) vyvinula novou metodu umožňující stabilizaci a následné odstranění ropného znečištění z hladiny moře. 
+Při použití této metody se na znečištěné místo aplikuje preparát, který obsahuje práškový jíl, kulturu blíže nespecifikovaného mikroorganismu a dusíkaté hnojivo. 
+Práškový jíl (obchodní název Petro-Lock) slouží k sorpci ropy a brání jejímu ponoření pod hladinu. 
+Mikroorganismus (obchodní název Marine-D) metabolizuje ropu a sám může být potravou pro planktonní organismy. 
+Dusíkaté hnojivo je doplňkovým zdrojem živin pro použitou mikrobiální kulturu. 
+Technologie odstraňování ropného znečištění pomocí mikroorganismů živících se ropou se již prakticky využívá, avšak metodu založenou na stabilizaci a odstranění ropné skvrny pomocí preparátu, jenž se skládá z jílu, hnojiva a mikrobů, zatím nikdo nestudoval. 
+Laboratorní pokusy provedené r. 1991 byly úspěšné, proto se výzkumný tým vedený Tomem Worthingtonem chystá vyzkoušet metodu ve větším měřítku, ve speciálním bazénu firmy Lockheed, který má objem 2 milióny litrů a umožňuje simulaci mořských vln. 
+Záměrem výzkumného týmu je získat preparát, který by bylo možné rozprašovat v suché formě pomocí stlačeného vzduchu z paluby letadla nebo lodě (Chem. and Eng. News 70, 1992, č. 3, s. 20). 
+Petr Molík 
+44/34 
+Říjen ve vědě O čem se psalo ve světě i u nás Pozoruhodný život laureáta Nobelovy ceny za fyziku 
+S dílem a životem letošních laureátů Nobelovy ceny se samozřejmě budeme moci ve Vesmíru seznámit v některém z příštích čísel, jak nás k tomu zavazuje tradice. 
+Životní osudy jednoho z odměněných však vyvolaly na Západě, především ve francouzském tisku, značný ohlas - je totiž opravdovým dítětem našeho zmateného století. 
+Georges Charpak získal prestižní uznání za vynález mnohodrátové proporcionální komory. 
+Ale o tom ať na těchto stránkách pohovoří povolanější. 
+Za jeho francouzsky vyslovovaným příjmením se skrývá ukrajinský původ a místo narození v Polsku r. 1924. 
+Když mu bylo sedm let, emigroval s rodiči do Francie. 
+Studoval na prestižních vysokých školách v Paříži, Montpellier a Lyonu. 
+Jako mladý muž rád flámoval, běhal velice intenzívně (a úspěšně) za děvčaty a jeho politickému přesvědčení nestačil ani komunismus, ale prohlašoval se za kryptotrockistu... 
+Následoval odboj v okupované Francii (dnes to sám označuje spíš za hraní na odboj, něco prý jako hra Hurvínka na válku). 
+Nicméně ho to přivedlo na jeden rok do koncentračního tábora v Dachau. 
+Tam vyhrál život tím, že byl svými vězniteli považován za Francouze ukrajinského původu a Němci neodhalili jeho židovské předky. 
+Měl prý také velké štěstí, že jeho velitel v koncentráku, německý obersturmführer byl neobyčejně lidský a pomáhal své vězně chránit před příslušníky SS a dokonce umožnil sabotáž výstavby letiště, kde Charpak pracoval. 
+Nakonec údajně z něho nikdy nemohlo vzlétnout jediné letadlo. 
+Po válce ukončil prestižní Ecole des mines a - vstoupil do Komunistické strany Francie. 
+Francouzské "procesy" s Martym a Tillonem ho rychle přivedly k opouštění řad francouzských komunistů. 
+Přispělo k tomu (podle jeho slov) i "směšné chování G. Marchaise"... 
+Politickým člověkem však nikdy nepřestal být. 
+Velice důrazně se věnoval ochraně Andreje Sacharova a sovětských disidentských vědců. 
+Aktivně bojoval proti nukleárnímu zbrojení. 
+Dokonce napsal scénář filmu o nukleární válce, ale v Hollywoodu neuspěl. 
+Jeho životní zkušenost je však v tomto směru pesimistická: "Proti politikům je každý vědec nakonec jen šaškem." 
+Od r. 1959 pracoval v CERN. 
+Před třemi lety se rozhodl jít do důchodu, aby se věnoval soukromému vědeckému podnikání a pokusil se zhmotnit některé své objevy. 
+Prodal byt, venkovské sídlo a všechny peníze věnoval na společnost Biospace, kterou založil se svými přáteli. 
+Tato jeho poslední vášeň, konstruovat nové rychlejší přístroje na dešifrování lidských genů, ho zcela zruinovala. 
+Dva přístroje pracují, v jedné ženevské nemocnici a v Pasteurově ústavu v Paříži, nicméně snaha být úspěšným podnikatelem vyšla naprázdno. 
+Sám sebe hodnotí jako bídného obchodníka. 
+Když se ho nyní ptali, co udělá s osmi milióny franků, které letos představuje Nobelova cena, odpověděl, že - zaplatí dluhy... 
+A za to, co zbude, si koupí tak jedny, možná dvoje boty. 
+Což není obrazné sdělení, on prý si doopravdy odmítal koupit nové boty a chodí ve starých, protože potřeboval peníze na to, co považuje ve svém životě za nejdůležitější a nejzajímavější - experimentování. 
+O svém vynálezu detektoru elementárních částic říká, že měl prostě kliku... 
+Daleko víc si váží desítek jiných svých prací. 
+Třicet z nich se mu dosud nepodařilo udat a realizovat. 
+Stejně netradiční je jeho paní Dominika, která se také velice společensky angažuje, např. v boji proti drogám. 
+Charpak má tři děti - syn a dcera jsou lékaři, další syn biolog. 
+Nicméně např. u nich v rodině žilo několik čínských dětí, se kterými se po šest let po večerech učil matematiku, fyziku a chemii, aby úspěšně odmaturovaly. 
+Obecně oblíbený Charpak je také vášnivý i odvážný lyžař a fotografický záznam jeho sjezdu vyvolává hrůzu. 
+Nikdy nejezdí slalom, ale stále se řítí jen dopředu... 
+Finanční problémy evropské vědy 
+Evropský komisař pro vědu, výzkum a vývoj Filippo Maria Pandolfi požádal 11 ministrů vědy Evropského hospodářského společenství, aby jejich země přispěly k dokončení už rozpracovaných vědeckých programů navíc sumou 1.6 miliardy ECU. 
+Třetí rámcový program zahájený r. 1990 se totiž zpožďuje a tak skončí až r. 1994. 
+Čtvrtý program evropské vědeckotechnické spolupráce přitom měl začít už r. 1993, takže dojde k překrývání obou programů. 
+A to by si právě vyžádalo oněch 1.6 miliard ECU, které by měly členské státy sehnat navíc. 
+Za současné nesnadné situace, ve které se ocitají maastrichtské dohody, to nebude příliš jednoduché. 
+Podle F. M. Pandolfiho by v žádném případě neměly utrpět dvě oblasti spolupráce - sektor informatiky, na který je požadováno 625 miliónů ECU a sektor energetiky s navrhovanými 410 milióny ECU. 
+Mnozí vědci vidí jednu z příčin této riskantní situace evropské vědecké spolupráce i v nadměrné byrokratizaci ES. 
+Velké potíže velkých projektů 
+V tomto přehledu jsme se vícekrát zmiňovali o proměnlivých vlnách štědrosti i skrblictví, se kterými se potýkají velké americké projekty družicové stanice Freedom a gigantického urychlovače SSC. 
+Volební rok přinesl pro tyto programy opět údobí nejasností. 
+Vždyť na vědě se škrtá zdánlivě snadno, zvlášť na té základní, která chce studovat vesmír i hlubiny hmoty. 
+Návrh prezidenta G. Bushe předpokládal, že plné dvě třetiny rozpočtu na vědu připadnou třem projektům - studiu naší planety pomocí kosmických prostředků, družicové základně a urychlovači SSC. 
+Průzkum Země se zdá být většině normálních lidí i politiků tak závažný a užitečný, že dosud prochází seškrtáváním rozpočtů bez velké úhony. 
+Letošní rok je velmi laskavý k vesmírné stanici, v tomto kole zůstává neohrožena a američtí kosmičtí specialisté si pochvalují (uvidíme, jak dlouho), že mají zelenou... 
+Kritika letošního roku se zato soustředila na urychlovač, jehož výstavba by si podle současného odhadu měla vyžádat 8.5 miliardy dolarů. 
+Pro rozpočtový rok 1992-1993 požadoval G. Bush pro tuto aparaturu 650 miliónů dolarů. 
+Osmihodinová debata v americké sněmovně reprezentantů ji dokonce začala snižovat až k sumě 34 miliónů dolarů, což by pro SSC prý znamenalo vlastně rozsudek smrti. 
+A tak se začátkem podzimu čekalo, co řekne senát. 
+Společenství amerických fyziků zabývajících se elementárními částicemi zatím stačilo zmobilizovat své laureáty Nobelových cen a jejich pomocí zformovat příslušné lobby v kongresu. 
+Senátem tedy prošla úspěšně nejen družicová stanice, ale také urychlovač, na který byl senát ochoten poskytnout 550 miliónů, což by nebylo tak vzdálené kupě peněz, které požadoval končící prezident Bush. 
+Jaké stanovisko zaujme nový prezident? 
+Prý ušetřené peníze na vojenství je ochoten dát také civilnímu vědeckému výzkumu... 
+Celá tato finanční situace je složitá. 
+Těch 8.5 miliard dolarů na jediný přístroj nejsou peníze vyhozené nazdařbůh. 
+Ty se utrácejí zde na Zemi. 
+Stavba je svázána s obrovskými zakázkami, snižuje nezaměstnanost prakticky ve všech amerických státech. 
+Však se také o to, kde bude SSC umístěn, před lety rozhořela úplná ekonomická a politická bitva. 
+Projevem toho je, že Texas, který pro sebe umístění získal, sám na výstavbu přispívá plnou jednou miliardou dolarů ze svých finančních zdrojů. 
+Stále důležitější roli tu hraje mezinárodní vědecká spolupráce. 
+G. Bushovi mají někteří vědci za zlé, že se mu nepodařilo během prezidentského údobí přivézt z Japonska dohodu o miliardovém japonském příspěvku. 
+Stále se ozývají připomínky, že by v dnešním světě neměly být budovány dva obdobné přístroje - americký a evropský, oba kontinenty by se měly spojit. 
+Když však konkurence a kolegiální soupeření je i v této oblasti tak užitečné! 
+Rovněž není jasno, kde se vezmou peníze na dva nákladné detektory, které jsou neodmyslitelnou součástí přístroje. 
+Na gigantické projekty se s obavami pochopitelně stále dívají představitelé tzv. malé vědy. 
+Nedělají si moc velké iluze, že by se rozpočty na vědu v příštích dobách příliš zvyšovaly, a tak prestižní národní projekty mohou nečekaně ohrozit ty "nejchudší" a nejméně nákladné vědní obory. 
+Křehký život Země 
+Jako by nám nestačilo dost hororů, které si vyprodukuje sama lidská společnost. 
+V poslední době se objevují zprávy, že naši planetu ohrožuje vesmír - nejprve planetka Tutatis a teď zase kometa Swift-Tuttle. 
+Listopadová obloha nám ji nabídne k pozorování, přiblíží se ke Slunci nejblíže v prosinci. 
+Brian Marsden z Harvard Smithsonian Center for Astrophysics konstatoval, že se k naší hvězdě opět navrátí 11. července 2126. 
+Její dráhu však neznáme natolik přesně, aby nemohla dorazit do přísluní o 14 dnů dříve. 
+A v tom případě by se mohla 14. srpna 2126 srazit s naší Zemí. 
+Jak je tato kosmická střela velká, s jistotou dosud nevíme. 
+Patrně se podobá Halleyově kometě, takže by její jádro mohlo mít průměr kolem 10 km. 
+A srážka s tak velkým tělesem by už mohla mít tragický důsledek pro náš život. 
+Naštěstí je tato pravděpodobnost opravdu malá. 
+Při své značné kosmické rychlosti urazí kometa dráhu rovnající se průměru Země za pouhé tři a půl minuty, takže i kdyby se dráhy obou těles opravdu protly 14. srpna 2126, šance zásahu by byla 1 : 400. 
+A tak je v zájmu našich pravnuků, aby astronomové v prosinci studovali dráhu komety velice pečlivě a zpřesnili ji pro den návratu. 
+A pak má lidstvo 130 let čas, aby uvažovalo o tom, jak nebezpečí odvrátit. 
+Kometa se nám bude mezitím připomínat svými "dětmi" - Perseidami. 
+A střely planetek? 
+Kosmická služba Spacewatch, která má právě odhalit takovéto nebezpečné návštěvníky z kosmu, přináší první plody. 
+Američtí astronomové zjistili, že naše Země je planetkami ohroženější víc, než jsme dosud soudili. 
+Dříve měla věda k dispozici jen fotografické metody, a tak nebyla naděje, že bychom mohli uvidět na vlastní oči tělesa o menším průměru než 300 m. 
+Nová citlivější čidla zjistila, že v blízkosti Země proletí stokrát víc planetek o velikosti domu, než se předpokládalo. 
+V průměru každodenně profičí ve vzdálenosti menší, než je od nás Měsíc, na 50 (!) planetek větších než 10 m. 
+A každoročně se jich 5 střetne se Zemí. 
+Ke skutečně kosmické katastrofě, která nesmírně ovlivnila Zemi, došlo patrně opravdu naposledy před 65 milióny let. 
+Ke střetnutí, které by mohlo mít tragické následky pro lidstvo, může dojít každých sto let. 
+Mars v Toulouse 
+Francouzská kosmická agentura CNES se rozhodla vybudovat velice věrnou napodobeninu povrchu Marsu, na které by mohly být prověřovány budoucí dopravní prostředky pro tuto planetu. 
+Pozemský Mars bude pokryt krátery, bude mít světelné poměry odpovídající věrně skutečnosti, příslušnou gravitaci i podobu horizontu. 
+Při stavbě budou využity veškeré dostupné informace, které pošle k Zemi americká sonda Mars Observer vypuštěná letošního září. 
+Prvním vozítkem, jehož manévrovatelnost a řiditelnost tu budou prověřovat, se stane ruský marsochod, který by měl podle původních plánů odstartovat r. 1996. 
+Další pokrok projektu lidského genomu 
+Západní tisk psal v říjnu o dalším milníku zkoumání lidských genů. 
+Měly se o něj zasloužit dva týmy: tým Daniela Cohena ze Střediska studia lidského polymorfismu v Paříži, v němž pracují i japonští a američtí kolegové, a tým Davida Pageho s jeho spolupracovníky v anglické Cambridgi. 
+Obě skupiny publikovaly současně mapy lidského chromozómu. 
+Ve Francii to byla mapa dlouhého raménka chromozómu 21, v Anglii mapa chromozómu Y. 
+Hodnotí se to jako důkaz, že když bude dostatek času i peněz, je možno projekt HUGO kvalitně realizovat. 
+Francie a aids r. 1985 
+Již jsme se zmiňovali o lékařském skandálu ve Francii, kdy byli hemofilici léčeni krví nakaženou virem HIV. 
+Připomeňme, že bilance je opravdu tragická: 1500 nakažených pacientů, z nichž už umřelo (zcela bez své viny) 256. 
+Psali jsme, že se schyluje k soudnímu procesu. 
+K tomu v říjnu také skutečně došlo a tři z odpovědných lékařů byli odsouzeni. 
+Michel Garetta, který byl r. 1958 šéfem Národní transfúzní služby, dostal trest 4 roky vězení a pokutu půl miliónu franků. 
+Po rozsudku se ihned vrátil z USA, kde se podle mínění mnohých chtěl ukrýt před skandálem. 
+Jean-Pierre Allain, nyní profesor hematologie na cambridgeské univerzitě, působil v inkriminované době jako šéf výzkumu transfúzní služby a byl rozsudkem hodnocen jako osoba, která také nese odpovědnost za celý případ. 
+Byl odsouzen na 4 roky podmíněně. 
+Oba vědci mají také poskytnout náhradu 9.2 miliónů franků nakaženým obětem. 
+Tím však celá aféra nekončí. 
+Představitel francouzského zdravotnictví Jacques Roiux byl odvolán ze svého místa, rovněž tak Robert Netter, tehdejší ředitel Národní laboratoře zdraví. 
+A prezident F. Mitterrand se dal slyšet, že by měla být soudně posouzena odpovědnost dalších pracovníků, až po tehdejšího ministra zdravotnictví. 
+Obrna v Holandsku 
+Veřejnost v této zemi (a především lékaři) je znepokojena šířícím se výskytem obrny. 
+Zemřelo čtyřtýdenní nemluvně a onemocnění 22 lidí naznačuje možnost dalšího šíření choroby po celé zemi. 
+Nemoc se znovu vynořila v září v malém městě u Rotterdamu, další případy pak už ve třech severních oblastech státu. 
+Zavládla obava, že by mohlo dojít k podobnému rozšíření jako r. 1978, kdy se vyskytlo celkem 110 případů. 
+Je to opravdu znepokojivé, nejde jako dříve o šíření obrny mezi příslušníky ortodoxního kalvínského vyznání, kteří z náboženských důvodů odmítají očkování. 
+Druhé ohnisko výskytu obrny je mezi nelegálními přistěhovalci. 
+Ötztálský člověk vypovídá 
+Ojedinělý nález dávného Evropana, o kterém už Vesmír psal, je podrobován stále dlouhodobému výzkumu. 
+Některé nové poznatky nyní publikoval Torstein Sjøvold. 
+Nejpravděpodobnější se zdá, že muž zemřel během spánku. 
+V horách ho zastihla hustá mlha a silný vítr. 
+Patrně byl natolik unaven, že si lehl. 
+V noci teplota poklesla pod nulu a tak zmrzl. 
+Z pokrouceného levého ušního lalůčku antropologové usuzují, že ulehl na levém boku a hlavu položil na kámen. 
+Z opotřebení zubů se dá usuzovat na věk 25 - 40 let. 
+Vysoký byl 159 cm, což byla tehdy obvyklá výška mužů. 
+Radiouhlíkovou metodou se znovu ověřilo, že žil před 5300 lety. 
+Zpráva také informuje, proč se tělo tak dobře zachovalo. 
+Než bylo zaváto sněhem, vysušil je silný vítr. 
+A ledová mohyla navíc nebyla narušována výrazněji pohyby ledovce. 
+Některá poškození těla, např. výrazně zkroucený horní ret a lehce nesouměrný nos byla způsobena tlakem ledu. 
+Neobvyklá vpadlina na pravém ušním lalůčku mohla být způsobena nošením prstýnku nebo ozdobného kamínku. 
+Mumii chybějí vnější pohlavní orgány. 
+Antropologové soudí, že mohly odpadnout, když bylo tělo amatérsky vyhrabáváno z ledu. 
+Na samotném místě nálezu však je vědci při opětném letním průzkumu nenašli a je docela možné, že zapadly do organismu. 
+Dinosauři o svých příbuzných 
+Dinosauři, tito dávní plazi, už vrostli zásluhou generací paleontologů spolehlivě do vývojového stromu života. 
+Přesto některé detaily jejich příbuzenského vztahu k dnešním plazům a ptákům nejsou zcela jasné. 
+Nyní dva vědci, Gerard Muyzer z leydenské univerzity a Philip Sandberg z illinoiské univerzity našli v kostech dinosaura, který žil před 75 milióny let, molekuly jedné z bílkovin. 
+Právě tato toho mnoho o příbuzenských svazcích dinosaurů neprozradí. 
+Ale - když se dochovala tato organická látka, proč by nemohly být nalezeny bílkoviny, které budou hovornější? 
+Oba vědci zároveň určili podmínky, za kterých se mohou v kostech dinosaurů tyto stavební kameny dávného života uchovat. 
+Takže se tu nabízí návod k jejich vyhledávání v určitých konkrétních horninách. 
+Nejjižnější lesy u jižního pólu 
+Když věda pochopila, že putování kontinentů na Zemi je realitou, přestaly ji udivovat nálezy teplomilného života v dnešních antarktických končinách. 
+A právě nyní byly zjištěny stopy lesa rekordně blízkého jižnímu pólu. 
+Získali jsme důkaz, že v permu, před 260 milióny let, rostl les mezi dnešním 5 až 10 stupněm jižní šířky (viz též čl. na str. 677). 
+Nález pochází z Transarktického pohoří poblíž Rossova šelfového ledu. 
+Edith Taylorová z Ohio State University v Columbusu zjistila, že roční přírůstky stromu Glossopteris představovaly až 11.38 mm, což dokazuje, že les té doby nebyl ohrožován extrémními mrazy. 
+Počítačová modelování nabízela pro tato místa v údobí permu zimní teploty -30 oC až -40 oC a letní kolem nuly. 
+Toto území bylo tedy teplejší. 
+Letokruhy vypovídají, že stromy rostly po řadu měsíců velice rychle a pak najednou byl jejich růst zastaven nástupem polární noci. 
+Taylorová soudí, že permské lesy dnešní Antarktidy byly omezovány spíše nedostatkem světla než nízkými teplotami. 
+Aténská Akropole viděna rudě 
+Proslulá Akropolis vábila a vábí malíře. 
+Není divu, vždyť tento kopec nad hlavním městem Řecka byl osídlen už před čtyřmi tisíciletími. 
+Vědci si všimli zajímavého jevu. 
+Když se podíváme na malby umělců dejme tomu z poloviny minulého století, tak stavby dávných Řeků mají jinou barvu než dnes. 
+Jako bychom je viděli v jiném světle. 
+Někteří umělci je zpodobnili v narudlé až šedé, jiní v černé až bílé. 
+Což by se nemuselo zdát něčím neobvyklým, vždyť umělec má právo vidět svět svýma očima. 
+Jenže narudlá Akropole není výmyslem nebo rozmarem. 
+Německý badatel dr. Krumbheim nyní objasnil ony proměny barevnosti Akropole. 
+Kolem r. 1850 trpěly Atény značným suchem a to byly vhodné životní podmínky těch druhů hub, lišejníků a baktérií, které vylučují červenavá barviva. 
+Kolem r. 1900 se podnebí stalo vlhčí, na stěnách, sloupech a sochách Akropole se uchytily jiné druhy a stavby získaly zabarvení zelenavé s odstíny černé. 
+Od r. 1920 zavládly opět nové podmínky, možná sušší klima, které přinutilo živé organismy, aby se zahryzly dovnitř mramoru - do vrstvičky 2 mm - 1 cm. 
+Tento život - houby, lišejníky i baktérie ovšem ničí slavné antické památky. 
+Dr. Krumbheim tvrdí, že jim neodolá za tisíciletí 4 mm - 5 cm (!) mramoru. 
+Život má nepřestavitelnou sílu! 
+Mikroorganismy např. dokáží ze stěny Akropole vytlačit ven kus mramoru o hmotnosti až 2 kg. 
+Autor nezůstává u těchto konstatování, navrhuje postup, při kterém by bylo možno určitým plynem prodloužit Akropoli výrazně život. 
+Na čtyřech úlomcích mramoru ho dokázal zbavit jeho nepřátel. 
+Ivo Budil 
+Profesor Miroslav Plavec (*1925) vystudoval přírodovědeckou fakultu UK v Praze. 
+Působil na Ondřejovské observatoři Astronomického ústavu ČSAV a podílel se na výstavbě dvoumetrového teleskopu. 
+Nyní působí jako profesor astronomie na Kalifornské univerzitě v Los Angeles. 
+Prof. RNDr. Jaroslav Drobník, CSc. 
+(*1929) vystudoval přírodovědeckou fakultu Univerzity Karlovy v Praze. 
+Je ředitelem Biotechnologického ústavu UK a zabývá se biopolymery. 
+PhDr. Michal Lutovský 
+RNDr. Václav Cílek, CSc. 
+(*1955) vystudoval geologii na přírodovědecké fakultě Univerzity Karlovy v Praze. 
+V Geologickém ústavu ČSAV se zabývá geologií kenozoika. 
+Doc. RNDr. Jozef Kelemen, CSc. (*1951) je samostatným vedeckým pracovníkom Katedry umelej inteligencie Matematicko-fyzikálnej fakulty UK v Bratislave. 
+Je spoluautorem knihy Základy umělé inteligence, ALFA, Bratislava 1992. 
+Doc. MUDr. Milena Černá, DrSc. 
+(*1943) vystudovala lékařskou fakultu hygienickou UK v Praze. 
+V referenční laboratoři genotoxikologie při Státním zdravotnickém ústavu se zabývá sledováním genotoxických látek v prostředí a jejich vlivem na organismus. 
+Prof. RNDr. Petr Vopěnka, DrSc. 
+(*1935), vystudoval matematicko-fyzikální fakultu Univerzity Karlovy v Praze. 
+Je spoluautorem knihy The Theory of Semisets (1972, spolu s P. Hájkem), autorem knih Mathematics in the Alternative Set Theory (1979), Úvod do matematiky v alternatívnej teórii množín (1989), Rozpravy s geometrií (1989), Druhé rozpravy s geometrií (1991). 
+MUDr. František Koukolík, CSc. 
+(*1941) vystudoval fakultu všeobecného lékařství Karlovy univerzity v Praze. 
+Ve fakultní Thomayerově nemocnici se zabývá zejména neuropatologií. 
+R. 1992 mu byla Československou akademií věd udělena cena za popularizaci vědy. 
+RNDr. Jiří Král (*1963) vystudoval genetiku na přírodovědecké fakultě UK v Praze. 
+Zde se na katedře zoologie zabývá cytogenetikou bezobratlých. 
+František Kovařík (*1965) vystudoval SPŠ elektrotechnickou. 
+Je externím pracovníkem Národního muzea a zabývá se chovem a systematikou štírů, sklípkanů a také částečně bičovců a solifug. 
+Soukromý a veřejný život králíka 
+Podle mnoha mýtů žili králíci a zajíci původně na Měsíci a teprve vzájemnými dohodami měsíčních bohyň s Matkou Zemí začali svůj pozemský život. 
+Nejsou to tedy zvířata ledajaká. 
+Jenže na zemi se jejich osudy rozešly. 
+Zajíci si zachovali zdánlivou svobodu a volnost, ale za cenu zbabělosti. 
+Jejich úmysly jsou zaječí a když o někom řekneme, že má za ušima, myslím si, že jde také o vychytralost zaječí. 
+Králíky naproti tomu čekaly přeplněné kolonie, které se nakonec změnily ve vězení - králíkárny. 
+Snad žádné zvíře na světě není člověkem vězněno tak, jako králíci. 
+Nikdo o králíkovi však neřekne, že by byl zbabělý. 
+Ale i přes tento osud, možná právě jím, si zachovali své vznešené lunární vlastnosti. 
+Jsou ztělesněním plodnosti (ale i symbolem žádostivosti) a takto bývají také zobrazováni u mileneckých dvojic, ba dokonce králík je jedním z atributů Venuše. 
+A současně jsou kupodivu i symbolem čistoty - králík u nohou Panny Marie představuje vítězství čistoty. 
+Pozoruhodné je i to, že se tomu vězněnému tvorovi dostalo pojmenování, které je zdrobnělinou krále, byť by to bylo trochu nedopatřením (překladem přes starou němčinu, do níž se to dostalo jako špatně čtený latinský název cuniculus - küniglin, což bylo zase špatně pochopeno jako zdrobnělina ke künig - König, král); 
+důležité je ale to, že tomu jazykové cítění nebránilo. 
+Musí tady být tedy něco víc a my bychom to chtěli vědět; 
+vědět více o soukromém i veřejném životě králíků. 
+Zdá se, že na takové otázky nám zoologie ani etologie odpověď nedá (ostatně udělal už někdo etologii králíků?). 
+Je taková kniha, napsal ji Richard Adams a jmenuje se Daleká cesta za domovem. 
+Je o kolonii králíků, kteří musí utéct před pokračující civilizací a na své pouti poznají rozličné cizí králičí kolonie, než si najdou svůj vlastní domov. 
+Z této knihy pro děti se dozvíme o všelijakých státoprávních otázkách, rozličných formách demokracie i totalitních (ne)pořádků možná více, než z objemných knih sociologů a politologů. 
+A pak je tady Zorka Ságlová. 
+Její králičí kolonie začínají vznikat v sedmdesátých letech a tisíce králíků se tam seskupují do rozličných geometrických řádů. 
+Králíci se tam množí, jako když razítkujete. 
+Zpočátku jsou všichni ti králíčci anonymní, své vznešené atributy nesou tiše a skrytě, ale nejsou bázliví. 
+Později se začínají shlukovat do velkých králíků (někdy je jich k tomu třeba 2412), kteří pak začnou vstupovat do otevřených dialogů, ba dokonce se začínají vybarvovat - až jsou červenomodrobílí. 
+Nejsou to asi žádní hrdinové, ale vědí, co mají udělat. 
+Na posledních obrazech jsou už králíci zase sami, ve své důstojnosti, vážnosti, ale i něžnosti, se všemi sub- i (nad)lunárními atributy. 
+Začíná nová etapa soukromého a veřejného života králíků? 
+Jiří Fiala 
+Německo zastavuje výrobu freonů 
+Podle sdělení německého Sdružení podniků chemického průmyslu bude v SRN nejpozději r. 1995 zastavena výroba plně halogenovaných chlórovaných a fluorovaných uhlovodíků (freonů). 
+Výroba se již snížila ze 124000 tun r. 1986 na 64000 tun r. 1991. 
+Tím Německo dosáhlo snížení výraznějšího, než bylo plánováno. 
+Výrobní podniky se totiž již dříve zavázaly snížit produkci těchto látek r. 1991 na 87000 tun a r. 1993 na 62000 tun. 
+Dosažený postup zastavování výroby dává reálný předpoklad, že Německo dodrží předpisy Evropských společenství, které zakazují výrobu chlorofluorokarbonů a halonů po 1. červenci r. 1997 (Chem. and Eng. News 70, 1992, č. 4, s. 18). 
+Petr Molík 
+23-34 
+Podivná volba ruských akademiků 
+"To snad není pravda", je inovace naší češtiny z posledních let. 
+Podobná reakce by patřila článku v Nature z 25. června "Hlasování Ruské akademie vylučuje židy." 
+Volby v Ruské akademii věd probíhají stejně jako v bývalé AV SSSR. 
+Oddělení věd dávají návrhy a plénum o nich hlasuje. 
+Červnové volby přinesly překvapující výsledek - většina kandidátů na akademiky se židovskými jmény, kteří byli navrženi odděleními, volbu v plénu prohrála. 
+Patří mezi ně např. známí jaderní fyzici S. Gerštejn, I. Guverič a I. Feinberg. 
+Akademikem se zato stal známý teoretik antisemitismu I. Šafarevič. 
+Podle dávných vzorů se členy Akademie stali i politici: V. Šorin, předseda parlamentní komise pro vědu a techniku, akademikem R. Chazbulatov, předseda parlamentu, členem-korespondentem. 
+Jiří Koryta 
+27-34 
+Otevření neeukleidovských geometrických světů 
+Čtvrté rozpravy s geometrií 
+PETR VOPĚNKA 
+ÚVOD 
+Objev neeukleidovského geometrického světa a první kroky neeukleidovské hyperbolické geometrie patří nepochybně do toho proudu matematiky, který nazýváme matematikou geometrického názoru a jehož páteří je studium klasických geometrických objektů v jejich strnulosti. 
+Zároveň se však již nacházejí na samotné hranici tohoto proudu. 
+Přímé nahlížení do hyperbolického geometrického světa je totiž dopřáno jen těm nejtrpělivějším. 
+Pokud se nám nedaří, musíme si pomáhat buď čistou logikou, odtrženou od geometrického názoru, nebo nahlížením do nějakého modelu vytvořeného v eukleidovském geometrickém světě. 
+Ostatně modelování, které ve své obecnosti již nenáleží do námi sledovaného proudu matematiky, bylo nejprve objeveno k tomu účelu, aby jeho prostřednictvím byla hyperbolická geometrie svedena ke geometrickému názoru zjednanému pro eukleidovský geometrický svět. 
+V první kapitole těchto rozprav se seznámíme s hyperbolickým světem. 
+Ukončíme ji však, aniž bychom předvedli, jakým způsobem se můžeme utvrdit v jeho oprávněnosti, to znamená, aniž bychom vytvářeli nějaké jeho modely. 
+Tento zjevný nedostatek využijeme k jinému účelu. 
+Takto totiž navodíme to období ve vývoji matematiky, v němž geometři museli vážit, zda ti, kdož hovořili o různých možných geometrických světech, jsou v právu, nebo zda jejich řeči jsou toliko nesmyslným blouzněním. 
+Toto období bývá v pojednáních o neeukleidovské geometrii zkracováno na nejmenší možnou míru, případně zcela vynecháváno. 
+Tomu, kdo se s neeuklidovskou geometrií seznamuje až z těchto našich rozprav, tak umožňujeme, aby v tomto období setrval delší dobu a mohl je hlouběji prožít. 
+A tomu, kdo je k sobě kritický, aby zpytoval, na kterou stranu by se v té době postavil. 
+Nejdříve objeveným neeukleidovským geometrickým světem byl svět hyperbolický. 
+V tom také spočívá a odtud se odvíjí i jeho význam pro vývoj matematiky. 
+Eliptický geometrický svět, který je z řady hledisek mnohem pozoruhodnější, tak zůstal poněkud v jeho stínu. 
+Abychom to napravili, a také abychom ukázali, že hyperbolická geometrie není jedinou neeukleidovskou geometrií, věnovali jsme druhou kapitolu některým základním poznatkům eliptické geometrie. 
+Protože se však v našich rozpravách vyhýbáme analytické a diferenciální geometrii, je i tato kapitola zpracována v duchu matematiky geometrického názoru, což je z hlediska historického vývoje dosti nepřirozené. 
+K přestavování vývojových posloupností jsme totiž občas nuceni právě naší snahou vydělit z matematiky jen jeden její vývojový proud. 
+Na druhé straně, námi zvolený postup nezřídka ukazuje přirozenou cestu, jakou mohlo být toho či onoho dosaženo jen v rámci jednoho proudu matematiky. 
+Náš postup při výkladu eliptické geometrie je toho příkladem. 
+První kroky neeukleidovské hyperbolické geometrie byly provázeny mnoha podivuhodnostmi v chování jejích objevitelů, jmenovitě Gausse, což vyvolalo řadu nejrůznějších dohadů. 
+Pro pobavení čtenáře je k těmto rozpravám přidán dodatek Trýznivé tajemství, v němž je podán jeden z možných výkladů událostí té doby. 
+Napsal jsem jej pro své potěšení, když jsem se zotavoval po těžkém onemocnění, kdy mi lékaři zakázali tělesnou i duševní práci. 
+1. 
+HYPERBOLICKÝ GEOMETRICKÝ SVĚT 
+Vše se nám daří. 
+Není záhady, kterou bychom neuměli vysvětlit, není překážky, kterou bychom nedovedli překonat. 
+I smrt bude možno odstranit, nebo alespoň lidský život stále prodlužovat, hlásá Jean Antoine de Condorcet. 
+Svět je poznatelný, věda je všemohoucí. 
+Její cesta je před námi zřetelně narýsovaná, stačí se po ní vydat. 
+To je úkolem devatenáctého století, od něhož si my, probuzené a osvobozené lidstvo, tolik slibujeme. 
+Samozřejmě že mně, to je jednotlivci, se toho příliš mnoho zdařit nemusí, a také lecjaká záhada zůstane pro mne do smrti záhadou a leckteré překážky se mi asi nepodaří zdolat, a zvlášť smutné je, že se asi již nedožiji toho, až budeme umět délku lidského života alespoň zdvojnásobit. 
+Ale lidstvo, tedy my, to je něco jiného. 
+I ono se bude muset potýkat s nesnadnými překážkami, ale společným úsilím nás všech je bude vítězně zdolávat. 
+Lidstvo má schopnosti andělské, cíle jsou vznešené, práce je radostná, a proto "v náruč spějte, milióny". 
+Přirozenou povinností každého pochopitelně je, aby podle svých schopností přispěl ke společnému dílu, aby se zapojil do práce ve prospěch celku. 
+Za těchto okolností se ovšem musíme zbavit každého, kdo nepochopil, kde je jeho místo. 
+Zde totiž není nic k nepochopení, on pouze pochopit nechce a svévolně nás brzdí na naší cestě k lepším zítřkům. 
+"Celá naše filozofie vychází z nesprávné základny. 
+Počíná tím, že považuje člověka za individuum, a nikoliv, jak by měla, za bytost náležející celku." 
+Tato slova pronesl na smrtelném loži Michail Bakunin a stěží bychom hledali výstižnější vyjádření druhé, to je odvrácené stránky přisvojení si andělských schopností lidstvem. 
+Společenství, v nichž zájem celku byl vždy stavěn vysoko nad zájmy jednotlivců, mají nyní otevřené možnosti prosadit se v Evropě. 
+Jakmile si osvojí potřebné znalosti, mohou si právem nárokovat dokonce vedoucí úlohu. 
+Proto také bude v jejich zájmu, aby se tento stav lidských myslí udržel na věčné časy. 
+Podnětem k tomuto radostnému tanci, který střídavě přecházel v sevřený pochod přesně vyrovnaných zástupů, řídících se - více než v dálce se ztrácející hudbou - ryčnými povely kaprálů "levá, levá!", byly úspěchy přírodovědy. 
+Přitom odpovědnost za to, že na počátku devatenáctého století byly tyto úspěchy tak vysoko ceněny, padá do jisté míry též na hlavu Kantovu. 
+Novověká přírodověda začíná již v dobách Galileových a Descartesových. 
+Ve svých nárocích na univerzální postižení reálného světa byla však srážena varovnými hlasy, ozývajícími se za průlivem Lamanšským, z nichž zvláště hlas Humeův otřásal jejími základy. 
+Přitom některé výklady světa na její půdě, jako například Leibnizova nauka o monádách, měly značně spekulativní povahu a neumožňovaly ověření, čímž této nedůvěře nahrávaly. 
+Stručně řečeno, spor byl veden o to, zda přírodní zákony jsou jen naše zevšeobecněné zkušenosti, a tedy důsledně vzato, žádnými přírodními zákony vlastně nejsou - jak v podstatě hlásal David Hume - nebo zda jsme s to zachytit zákony světa v jejich nejčistší podobě a zda se to tedy podařilo například Leibnizovi v jeho nauce o monádách - což v podstatě tvrdil Christian Wolff. 
+Východisko ze sporu těchto dvou zcela protichůdných stanovisek nachází Immanuel Kant. 
+Na jedné straně uznává, že vytváření výkladů světa překračujících veškerou možnou zkušenost - byť by to byly výklady sebedůmyslnější - nepatří do vědy, jejímž cílem je odkrývat zákony světa, a nikoliv je hádat, nebo světu spekulativně podkládat. 
+Hranicí vědeckých výkladů je právě hranice možné zkušenosti. 
+Například různé věci můžeme poznávat jen tak, jak nám jsou dány, a nikoliv tak, jak jsou samy o sobě. 
+Vskutku, mám-li opravdu vědět, čím je sám o sobě můj pes, musel bych jím být. 
+V tomto zvláštním případě jsou tedy hranice vědeckého poznání vyznačeny velmi zřetelně. 
+Zastáncům všemohoucnosti nebylo ovšem vhod, že tím jsou tak nepokrytě ukázána místa vědě nepřístupná. 
+Neuznávání těchto hranic pak vede například k mylným výkladům toho, co si lidé opravdu myslí, nebo k "vědecky podloženým" přesvědčením, že víme, co je pro ně dobré, takže se často nestačíme divit, když zjistíme, že oni to za příliš dobré zrovna nepovažují. 
+Neméně urputný a v mnohém náročnější zápas musel Kant svést s druhou stranou, jejíž přední mluvčí, David Hume, zpochybňoval přírodovědu jakožto vědu odkrývající zákony světa. 
+Zde tedy šlo o to, zda přírodověda je vůbec možná a jak je možná. 
+V tomto směru poskytli Kantovi oporu nejvýznamnější novověcí přírodovědci, a to tím, jakým způsobem učinili své objevy. 
+Tak například již první z nich, Galileo Galilei, neodvodil zákon volného pádu ze zkušenosti. 
+To by ostatně nebylo ani možné, neboť se snadno přesvědčíme, že kámen, list a papír nepadají k zemi stejně rychle. 
+Z tohoto hlediska je zákon volného pádu dokonce v rozporu se zkušeností. 
+Objev zákona volného pádu tak předchází před zkušeností, kterou jej bude možno potvrdit, až bude vytvořeno vzduchoprázdné prostředí. 
+Podobně je tomu i s objevy celé řady dalších zákonů. 
+To ale znamená, že je možné i apriorní poznání, to je takové, které předchází před zkušeností. 
+Právě toto apriorní poznání tvoří nejvlastnější náplň přírodovědy, neboť je to poznání čisté, to je nezatížené různými shluky nežádoucích jevů, objevujících se při našem bezprostředním styku s reálným světem a zatemňujících nám zákony světa tak, jako odpor vzduchu či vzdušný vír nám zakrývají zákon volného pádu. 
+Proto jenom toto apriorní poznání je s to dostát vysokým nárokům přírodovědy, a jen díky tomuto apriornímu poznání je čistá přírodověda vůbec možná. 
+Za nejvýznamnější a základní složku toho, co umožňuje toto apriorní poznání, označuje Kant prostor. 
+Vskutku, prostor, jakožto čistý názor, jakožto forma, v níž dochází k uskutečňování reálných objektů, rozhodující o jejich tvarech a velikostech, nám umožňuje provádět úvahy o tvarech a velikostech a v době, o níž pojednáváme, též již o pohybech reálných objektů, aniž bychom se opírali o zkušenosti s těmito objekty. 
+Přitom prostor se nám otevřel ve své čistotě spolu s geometrickým světem a od okamžiku, kdy si tento čistý prostor osvojíme, stává se pro nás zdrojem nezvratných jistot. 
+Jinými slovy, prostor je základním principem umožňujícím nám osvětlovat reálný svět a poznávat jeho zákony v naprosté čistotě. 
+Je možné představit si toliko jediný prostor, tvrdí Kant. 
+Toto tvrzení je ovšem úhelným kamenem celého Kantova řešení uvedeného sporu. 
+Je-li správné, pak jen stěží budeme schopni vznášet proti Kantovu výkladu nějaké námitky. 
+V takovém případě totiž v renesanci nedošlo ke ztotožnění reálného prostoru s prostorem geometrickým, ale jen k uvědomění si toho, že v obou případech jde o týž prostor, či lépe řečeno, k počátkům cílevědomého těžení z toho, že v obou případech jde o týž prostor. 
+Nutnosti z klasického geometrického prostoru jsou tedy nutnostmi z prostoru reálného a jejich znalosti jsou znalostí zákonů reálného světa. 
+Poznatky geometrické tak mohou předcházet před zkušeností s reálnými objekty; 
+například mohu sedět doma, nahlížet do geometrického prostoru, a přitom získávat poznatky o tom, jak se musí pohybovat planeta Mars. 
+Krátce řečeno, přírodověda je schopná odkrývat zákony reálného světa a matematika opírající se o klasický geometrický svět je pro ni jedním z nejvhodnějších nástrojů. 
+Kantovo povýšení klasického geometrického prostoru na jeden ze základních zdrojů našeho poznání o reálném světě přimělo matematiky, aby stejně jako Kant očistil vědu, očistili i geometrii od všeho, co zavání spekulacemi se zásvětnem. 
+Tím ovšem kromě jiného vzrostl tlak na vypracování takového výkladu infinitezimálního výkladu, jenž by se neopíral o nekonečně malé veličiny, a také projektivní rozšíření geometrického světa by jen tak snadno neušlo přísnému posudku, kdyby je nebylo možno opřít o výklad nevlastních bodů jakožto směrů, a podobně. 
+Krátce řečeno, matematici se postupně stále více zajímali o samotné základy matematiky. 
+První plody úsilí vynaloženého v tomto směru pak na sebe nenechaly dlouho čekat. 
+Je možné představit si různé prostory. 
+S tímto tvrzením přichází v první polovině devatenáctého století několik odvážných myslitelů. 
+Tito lidé, kteří takto vědomě vystoupili z jednotného šiku k jasným cílům pochodujícího lidstva, to neměli v životě lehké. 
+Museli snášet výsměch a urážky těch, jejichž jedinou předností bylo často jen to, že poslušně kráčeli v řadě. 
+Teprve když dav byl přinucen uznat, že tito rozvratníci mají pravdu, začal je oslavovat; 
+to se však stalo až po jejich smrti. 
+Ani tento otřes však ještě nezvrátil přesvědčení, že vysoké nároky přírodovědy jsou oprávněné. 
+Jsou-li totiž možné různé geometrické prostory, pak stále ještě lze Kantův výklad zachránit. 
+Reálný prostor je totiž jedním z nich, takže podaří-li se nám zjistit, který z nich to je, bude vše opět v naprostém pořádku. 
+Zjistíme-li, že reálný prostor je jiným prostorem, než je klasický prostor eukleidovský, pak ovšem budeme muset některé poznatky o reálném světě poopravit. 
+Matematická přírodověda se tak z této první pohromy vzpamatovala a znovu si prosadila, že byla všeobecně uznávána za nejvýznamnější výdobytek novověkého lidstva. 
+V každém případě byl objev neeukleidovských geometrických světů a zdárný rozvoj jim příslušejících neeukleidovských geometrií, to je osvětlování těchto světů, prvním vážným zpochybněním Kantova řešení shora uvedeného sporu. 
+Avšak i když se postavíme na stanovisko, že Kant tento spor nevyřešil a že snahy opravit naznačeným způsobem jeho výklad nejsou příliš nadějné, musíme si přiznat, že vyhmátl podstatu novověké matematické přírodovědy a že ji usměrnil do mezí chladného, v antice zrozeného kritického rozumu. 
+Problém pátého postulátu 
+Od dob Eukleidových "spočívala na krásném těle geometrie skvrna". 
+Neúspěchy při řešení problému pátého Eukleidova postulátu byly považovány za "ostudnou část matematiky". 
+Přitom však z antiky přešlo do novověku pouze povědomí, že s pátým postulátem je problém, kdežto samotný tento problém ve svém původním znění již nic neříkal, a při stávajícím pojetí geometrie ani nic říkat nemohl. 
+Původní problém pátého postulátu, který jsme se pokoušeli oživit v prvních Rozpravách s geometrií, přestal být v klasickém, to je do absolutního nekonečna rozepnutém geometrickém světě, problémem. 
+Přirozená uskutečnitelnost byla nahrazena uskutečnitelností klasickou a pátý postulát byl plně v souladu s výchozími zásadami klasického výkladu geometrického prostoru. 
+Ostatně o platnosti pátého postulátu v klasickém geometrickém světě nikdo nepochyboval a dodnes nikdo nepochybuje. 
+Zároveň byl v této době pátý postulát vyslovován již v novém znění, které zakrývalo jeho původní poslání postulátu, to je základní geometrické úlohy. 
+Rozumělo se jím totiž tvrzení, že k libovolné přímce p lze libovolným bodem P, jenž na ní neleží, vést v rovině určené přímkou p a bodem P toliko jedinou přímku, která přímku p nikdy neprotne. 
+Protože o pravdivosti pátého postulátu nepochybujeme, pak má-li být s pátým postulátem vůbec nějaký problém, může jím být pouze problém pátý postulát dokázat. 
+Abychom se přiblížili době, o níž pojednáváme, budeme i my v dalším rozumět pátým postulátem shora uvedené tvrzení a problémem pátého postulátu problém toto tvrzení dokázat. 
+V této souvislosti ovšem okamžitě vyvstává otázka, co to znamená pátý postulát dokázat. 
+Vždyť to, co nahlížíme jako pravdivé, není třeba dokazovat. 
+Eukleides však často dokazuje i taková tvrzení, která bychom mu uznali za pravdivá, i kdyby je nedokazoval. 
+Na Eukleidových Základech nás uchvacuje právě ona dokonalost, spočívající v železné logice, s níž Eukleides přivádí důkazy různých tvrzení až k těm nejjistějším evidencím. 
+Navíc, některá taková evidentní tvrzení vyslovuje jako axiómy nebo postuláty a na ně se pak při svých důkazech odvolává. 
+To budí dojem, že se Eukleides opírá o názor pouze u axiómů a postulátů, kdežto ostatní tvrzení z nich dokazuje čistými logickými důkazy, to je takovými důkazy, během nichž již nic dalšího z názoru nepřijímáme. 
+V tom tedy spočívá dokonalost Eukleidových Základů a v tom jsou uznávaným vzorem pro budování nejen ostatních částí matematiky, ale i jiných věd. 
+Z uvedeného hlediska pak spatřujeme původ problému pátého postulátu v Eukleidově rozmrzelosti nad tím, že se nejprve domníval, že se bez tohoto postulátu obejde, a teprve když se mu to nepodařilo, byl jej nucen přibrat; 
+což doslova vzato je vlastně pravda, avšak "obejít se bez pátého postulátu" má nyní jiný význam. 
+Ostatně již svým zněním, které je mnohem složitější než znění jiných postulátů, pátý postulát kráse Eukleidových Základů nepřidává. 
+Problém pátého postulátu tak dostává novou podobu. 
+Jde totiž o čistý logický důkaz pátého postulátu, který se opíral pouze o Eukleidovy axiómy nebo zbývající postuláty. 
+Geometři, kteří se o řešení problému pátého postulátu začali pokoušet, brzy zjistili, že Eukleidovy Základy nejsou tak "dokonalé", jak se zprvu domnívali. 
+Pochopitelně, Eukleides ve svých důkazech užívá řady dalších pravidel bezprostředních důsledků, a byť to jsou pravidla názorná, za čistě logická je uznat nemůžeme. 
+Toto zjištění bylo velkým rozčarováním, neboť dílo, které bylo považováno za vzor dokonalosti, mělo najednou k "dokonalosti" daleko. 
+S takovým posuzováním Eukleidových Základů se setkáváme i v dnešní době. 
+Omyl spočívá v tom, že v Základech hledáme jinou dokonalost než tu, která v nich vskutku je a kterou jsme se snažili odkrýt v prvních Rozpravách s geometrií. 
+Přitom toto nové chápání dokonalosti nemíníme nikterak odsuzovat, neboť jsme si dobře vědomi, jak významnou úlohu sehrálo v dalším vývoji matematiky. 
+Od pokusů řešit problém pátého postulátu nebylo upuštěno ani po zklamání z "dokonalosti" Eukleidových základů. 
+Nyní ovšem již bylo dovoleno odvolávat se při důkazech pátého postulátu na názor ve všech těch případech, kdy tak činil Eukleides bezděčně. 
+Za více než dva tisíce let však geometrie učinila značné pokroky, a proto vyvstala otázka, na která další názorná tvrzení - v Eukleidových Základech se nevyskytující - se můžeme při důkazu pátého postulátu odvolávat. 
+Zároveň byla podána řada důkazů pátého postulátu, které se na takováto tvrzení odvolávaly. 
+Rozhodnutí o tom, zda ten či onen takovýto důkaz lze uznat za řešení problému pátého postulátu, záviselo tedy na tom, zda to bude ostatními geometry schváleno. 
+Každý takový důkaz se však vždy opíral o nějaké tvrzení, které co do průzračnosti bylo rovnocenné pátému postulátu, a proto, někdy až po jistém váhání byl ostatními geometry odmítnut. 
+Stavba předem odsouzeného světa 
+Neúspěchy při hledání důkazu pátého postulátu naznačovaly, že nalezení tohoto důkazu nebude snadnou záležitostí. 
+Je-li však důkaz pátého postulátu vskutku obtížný a spletitý, pak jej při dosavadním přístupu můžeme objevit vlastně jen šťastnou náhodou. 
+Chceme-li tedy pátý postulát dokázat, neměli bychom hledat jeho důkaz bezhlavě a spoléhat se na to, že se nám jej podaří uhádnout, ale měli bychom se poohlédnout po nějakém spořádaném a bezpečně k cíli vedoucím postupu, jímž bychom se mohli příslušného důkazu dobrat. 
+První, kdo takto uvažoval a také navrhl postup vedoucí k nalezení důkazu pátého postulátu, byl patrně Giorolamo Saccheri. 
+Jím navržený postup se opírá o myšlenku důkazu sporem. 
+Saccheri si uvědomil, že z tohoto vzoru důkazu lze vytěžit mnohem více, než bylo zvykem, a pro myšlenku důkazu sporem tak nalezl širší uplatnění. 
+Až dosud byla myšlenka důkazu sporem užívána jen jaksi uzavřeným způsobem. 
+Tvrzení T je dokázáno sporem, jestliže negace tvrzení T vede ke sporu s rozumem nebo s prostorem. 
+Tento vzor důkazu má tedy oprávnění teprve tehdy, když se nám podaří přivést negaci tvrzení T ke sporu, to znamená, až objevíme cestu, po níž se k tomuto sporu dobereme. 
+Jinými slovy, důkaz sporem čerpá oprávnění až ze svého provedení. 
+Tím je v důkazu sporem myšlenka tohoto vzoru důkazu uzavřená, to je, nemůže být rozvíjena, aniž by nebyla dovedena do konce. 
+Saccheri si uvědomil, že myšlenky důkazu sporem lze využít i otevřeným způsobem, to je, že může mít oprávnění i tehdy, když příslušný důkaz není doveden k úspěšnému zakončení. 
+Své oprávnění totiž může čerpat i z toho, že nám poslouží k nalezení příslušného důkazu sporem, tedy k vyhledání dosavadního oprávnění. 
+Takového otevřeného užití myšlenky důkazu sporem hodlal Saccheri využít právě při hledání důkazu pátého postulátu, a to rozhodujícím způsobem. 
+Trpělivě, spořádaně a přísně logicky začneme stavět jakýsi nepřirozený geometrický svět, v němž pátý postulát neplatí, v němž však platí zbývající Eukleidovy postuláty, axiómy i ostatní názorná tvrzení, která Eukleides bezpečně používal. 
+Protože pátý postulát lze dokázat, o čemž jsme v tuto chvíli skálopevně přesvědčeni, vede jeho negace ke sporu, a tedy tento nepřirozený svět se musí zhroutit. 
+Až se to stane, bude pátý postulát dokázán, a sice sporem. 
+K tomu je ovšem nezbytné, abychom si při stavbě tohoto nepřirozeného a předem ke zhroucení odsouzeného geometrického světa počínali obezřetně, tedy abychom se přitom například neodvolávali na taková tvrzení z Eukleidových Základů, jejichž důkazy pátý postulát využívají, nebo abychom se neodvolávali na nějaká později objevená názorná tvrzení, která nejsou v Eukleidových Základech obsažená, a podobně. 
+Stavíme-li takovýto předem odsouzený geometrický svět, pak ovšem nevíme, kdy se nám naše stavba zhroutí a jak se zhroutí. 
+Abychom její zhroucení urychlili, budeme se pochopitelně snažit získávat především takové poznatky o tomto světě, které jsou důsledkem negace pátého postulátu, neboť právě toto tvrzení je hlavní příčinou nemožnosti tohoto světa. 
+Nesmíme však být netrpěliví a očekávat, že ke zhroucení tohoto světa dojde velmi brzy, neboť z předcházející zkušenosti již víme, že důkaz pátého postulátu, byť by šlo o důkaz sporem, tak snadno nenalezneme. 
+Proto také nesmíme osvětlování tohoto světa provádět jednostranně, ale právě naopak, musíme tento svět osvětlovat pokud možno co nejvšestranněji, neboť nevíme, ve kterém směru se hledaný spor nachází, případně zda tento spor nevznikne až ze spojení nějakých poměrně značně různorodých poznatků o tomto světě. 
+Krátce řečeno, při osvětlování tohoto světa si budeme počínat tak, jako by tento svět byl možný, to je budeme hromadit různé poznatky o tomto světě, a nikoliv netrpělivě vyhlížet spor; 
+ten se nám totiž časem ukáže sám. 
+Nemožnost tohoto světa, spolu s hluboce zakotveným přesvědčením, k němuž nás svádí ta složka klasického výkladu absolutní nekonečnosti, která se opírá o laskavost boží, živí naši víru, že se sporu dočkáme. 
+Věříme totiž, že co je nemožné, toho nemožnost lze nahlédnout již před obzorem, byť bychom si jej museli poněkud rozšířit. 
+Svoji nemožnost nám musí ukázat sám tento svět, jakmile do něj hlouběji nahlédneme, jakmile se s ním podrobněji seznámíme. 
+Některé poznatky, které budeme o tomto předem odsouzeném světě získávat, budou ovšem značně podivné, neboť budou ve sporu s názornými poznatky o klasickém geometrickém světě. 
+To nás bude svádět k tomu, abychom již některý takový zvlášť podivný poznatek prohlásili za zhroucení tohoto světa nebo alespoň za příznak jeho zhroucení. 
+Tomuto svodu neodolal ani Saccheri, čemuž nasvědčuje již název jeho spisu "Eukleides vší poskvrny zbavený". 
+Nutno však ocenit, že si nakonec byl vědom, že se mu nepodařilo jím budovaný předem odsouzený svět rozbít, i když se domníval, že se již setkal s prvními příznaky jeho zhroucení. 
+Přes nespornou užitečnost shora popsaného otevřeného užití myšlenky důkazu sporem není tento způsob mezi matematiky oblíben. 
+Stavba předem odsouzeného světa vyžaduje značné sebezapření, neboť má pečeť neužitečné práce. 
+Při stavbě takového světa totiž vybudujeme leccos, co se na závěrečném sporu ani nepodílí a co v okamžiku nalezení tohoto sporu vezme za své. 
+Větší část naší práce a důmyslu do ní vloženého tak přijde nazmar. 
+Nepodaří-li se nám takový svět dovést až ke zhroucení, pak si dokonce nejsme jisti, zda vůbec to něco, co jsme vytvořili, k závěrečnému sporu přispěje. 
+Také z tohoto hlediska musíme shovívavě posuzovat nedočkavost, s níž Saccheri předčasně označoval jím budovaný svět za zhroucený. 
+Kdyby tento svět byl vskutku nemožný, mohl by někdo jiný nalézt příslušný spor zcela jiným způsobem, než jakým postupoval Saccheri, a tím celé jeho dílo znehodnotit. 
+Shora uvedené otevřené užití myšlenky důkazu sporem nesmíme zaměňovat za případ, kdy matematici budují nějaký svět, o němž se později ukáže, že není možný. 
+V tomto případě se totiž matematici domnívají, že konají tvůrčí práci. 
+Kdyby tušili, že jimi budovaný svět není možný, nevěnovali by jeho výstavbě tolik úsilí, ale snažili by se příslušný spor objevit okamžitě, což by je však mnohdy stálo mnohem více úsilí. 
+472/55 
+V této souvislosti nabývají také jiné perspektivy experimenty agentury NASA studující uzavřené ekologické život-udržující systémy, nebo experiment Biosphere 2 anebo ruský experiment Bios 3. 
+Tak by se Galaxií mohly šířit mini-biosféry a jako ve známé Heinleinově povídce by naše budoucí Země - suchá, spálená a mrtvá - mohla být v jejich budoucích písních a příbězích vzpomínána jako mýtické místo "zelených strání Země". 
+Nature 360, 721-723, 1992 
+Nature 360, 707, 1992 
+Globální teplota, skleníkový efekt a Arktida 
+Ale vraťme se do přijatelnější časové škály. 
+Modely atmosféry předpovídají ve vysokých zeměpisných šířkách oteplení způsobené skleníkovými plyny (resp. pozitivní zpětnou vazbou mezi teplotou, ledovcovou pokrývkou a povrchovým albedem). 
+Analýza 27000 teplotních profilů měřených během posledních 40 let (jednak radiosondou na ruských ledovcových plovoucích stanicích a jednak radiosondami shazovanými při amerických leteckých průzkumech) překvapivě neprokázaly zvýšení teploty povrchu předpovídané modely atmosféry. 
+Naopak, zaznamenaly statisticky významné ochlazení povrchu během zimy a podzimu v oblasti západního arktického oceánu. 
+Na první pohled by se zdálo, že to svědčí o nesouladu mezi současnými modely atmosféry a skutečným vývojem klimatu. 
+John Walsh z Illinoiské univerzity v Urbaně však v komentáři k této práci připomíná, že modelové experimenty Oglesbyho a Saltzmana (Nature 361, 300-301, 1993), které sledují růst koncentrace oxidu uhličitého až do 450 ppm (což je koncentrace, které by mělo být dosaženo r. 2048) ukazují, že 40 let je příliš krátká doba na statisticky průkazné změny. 
+Měřitelné a průkazné změny by se podle něj měly projevit v horizontu 70-100 let. 
+Nature 361, 335-337, 1993 
+Radioaktivita hadího jedu 
+Značná část území bývalého Sovětského svazu je kontaminována různými radioaktivními nuklidy- ať již z plánovaných vypouštění ze závodů na jaderné palivo, z jaderných elektráren, z nehod a z pokusů s jadernými zbraněmi. 
+Informace o těchto kontaminacích bývaly utajovány. 
+Nicméně zajímavé svědectví o této kontaminaci podává radioaktivita hadího jedu. 
+Jediný had, který je rozšířen po celém území bývalého Sovětského svazu , je zmije (Vipera berus). 
+Je známo, že akumulační koeficient nuklidu 90Sr dosahuje 150, zatímco u ptáků 20-50, savců okolo 10. 
+Migrace hadů je velmi omezená, takže radioaktivita jedu podává svědectví o dané lokalitě. 
+Nature 361, 409, 1992 
+Popiska k obr. na str. 174 
+Schéma ilustrující pozitivní a negativní vlivy růstu svítivosti Slunce v modelu Caldeiry a Kastingse: rostoucí svítivost ohřívá Zemi, zvyšuje střední globální teplotu. 
+To zvyšuje zvětrávání křemičitých hornin a rychlost úniku vodíku do kosmického prostoru. 
+Při teplotách dosahujících 50 oC má růst teploty negativní vliv na biologickou produktivitu. 
+Zvýšené zvětrávání snižuje koncentraci oxidu uhličitého v atmosféře. 
+Dobu života na Zemi tedy ovlivňuje buď nedostatek oxidu uhličitého, vysoké teploty a nebo ztráta vody. 
+HLEMÝŽĎŮV PROBLÉM 
+Uvažujeme nejprve listy pevného průměru a měníme průměrnou hustotu rho (tj., rho je průměrný počet listů na jednotku plochy) s jakou jsou listy náhodně rovnoměrně rozloženy v rovině. 
+Tím nechceme říci, že listy samotné jsou rozloženy rovnoměrně. 
+Jen jejich pravděpodobnostní rozložení je rovnoměrné; 
+pravděpodobnost, že určitý bod roviny je pokryt listem , nezávisí na tom, který bod uvažujeme. 
+Matematik by přesněji řekl, že pravděpodobnostní rozložení středů listů je dáno Poissonovým rozložením s hustotou rho. 
+Shlukem listů obsahujícím pevně daný bod, např. počátek souřadnic 0, míníme souvislou komponentu sjednocení všech listů obsahující daný bod (tj. sjednocení všech listů, na které se z daného bodu dostaneme "suchou nohou"). 
+Pro formulaci problému je výhodné uvažovat hodně veliké jezírko, nebo ještě lépe abstraktní "nekonečné jezírko". 
+To umožňuje odhlédnout od podružných okolností jako je jeho tvar apod. 
+Pak mohou nastat dvě alternativy: shluk je buď konečný nebo nekonečný. 
+Existuje-li nekonečný shluk, znamená to též existenci hlemýžďovy zkratky i v hodně velkém jezírku. 
+Tvrzení o její existenci je pak možné zformulovat takto: 
+Existuje určitá hodnota rho_c taková, že, je-li rho > rho_c, pak pro každé typické náhodné rozložení listů je shluk obsahující počátek nekonečný, je-li rho < rho_c, je tento shluk konečný. 
+Ve výše uvedeném tvrzení jsou důležitá slova 'každé typické náhodné rozložení listů'. 
+Samozřejmě, je možné si představit velmi nerovnoměrné konkrétní rozložení listů s velkou průměrnou hustotou, při kterém zkratka neexistuje. 
+Taková situace však není typická - pro ("nekonečně") velké jezírko nastane jen se zanedbatelně malou pravděpodobností. 
+Původně zformulovaný problém, ve kterém naopak uvažujeme hustotu listů pevnou a měníme rovnoměrně v čase jejich poloměr, je ekvivalentní výše uvedené formulaci. 
+Existence kritické hodnoty rho_c se přenáší na existenci dne D, po kterém již zkratka existuje. 
+PERKOLACE 
+Jak hlemýžďův problém tak model ferromagnetu se dá chápat jako jisté zobecnění problému perkolace. 
+V její nejjednodušší verzi uvažujeme dvourozměrnou čtvercovou mřížku, jejíž hrany obsazujeme vzájemně nezávisle tak, že pravděpodobnost obsazení určité hrany je p (a pravděpodobnost, že hrana není obsazena, je 1-p). 
+Viz obr. 4, ve kterém jsou obsazené hrany vyznačeny plně. 
+Zhruba řečeno, pro typickou konfiguraci hran je počet obsazených hran p-násobkem počtu všech hran a každá taková konfigurace se bere se stejnou pravděpodobností. 
+Ukazuje se, že existuje kritická hodnota pc pravděpodobnosti. 
+Kdykoliv p > pc, pravděpodobnost že protilehlé strany celé mřížky jsou propojeny obsazenými hranami (na obr. 4 je takto propojena horní a dolní hrana mřížky) je skoro 1, zatímco když p pc v každé typické konfiguraci (tj. s pravděpodobností 1) existují nekonečně velké shluky, zatímco pro p < pc jsou v typické konfiguraci všechny shluky konečné. 
+Nalézt konkrétní hodnotu pc není jednoduché. 
+Ve zde popsaném perkolačním problému se to před několika lety podařilo H. Kestenovi. 
+Na několika desítkách stran textu dokázal tvrzení s velejednoduchou formulací: pc = 1/2 
+Vymítání Laplaceova démona 
+PETR KŮRKA 
+Démon s dvousetletou praxí ve vědeckých ústavech hledá vhodné uplatnění. 
+Laplaceův démon to má čím dál tím těžší. 
+Při své všeinformovanosti je brán za slovo a požaduje se od něj nejen předpovídání planetárních pohybů, ale i předvídání pohybů hrací kostky, Turingova stroje nebo atmosféry. 
+Přitom již jeho role poradce hazardních hráčů na něj klade značné nároky. 
+Nestačí, aby jeho informovanost byla nesmírná, musí být přímo nekonečná, tj. nekonečně přesná. 
+Jako poradce programátorů musí být navíc nadán nekonečnou umělou inteligencí a schopností s přehledem zvládat algoritmicky neřešitelné úlohy. 
+V biologii se o jeho uplatnění vede dlouhý spor. 
+Nejlépe se mu daří v laboratořích preformistů, je ovšem vybaven mikroskopem s nekonečnou rozlišovací schopností, aby rozeznal všechny úrovně do sebe vložených zárodečných buněk. 
+V moderní době se však stále více specializuje na věštění z nukleových kyselin. 
+S darwinistickou biologií má určité problémy podobně jako s hazardními hráči. 
+Absolutní náhoda není jeho obor. 
+Vůbec se necítí dobře v prigoginovské nerovnovážné termodynamice. 
+Přechod přes bifurkační body mu působí nevýslovné utrpení. 
+Zcela se míjí s portmannovskou biologií, které příliš nerozumí. 
+Dichotomie mezi nutností a náhodou vystupuje v posledních letech do popředí v souvislosti s chaotickou dynamikou. 
+Prototypem determinismu je v matematice deterministický dynamický systém, ve fyzice newtonovská mechanika nebo i rovnovážná termodynamika. 
+Úspěch těchto fyzikálních teorií vedl k jejich ztotožnění se skutečností, a to i v takových detailech, jako je struktura reálných čísel. 
+Proto se dlouho považovalo za samozřejmé, že stav systému hmotných bodů je určen jejich pozicemi a rychlostmi a že tato data jsou reálná čísla se všemi desetinnými místy, přesto že to představuje nekonečné množství informace. 
+Tento paradox se objevil až s chaotickou dynamikou, ve které právě vzdálená desetinná místa vystupují na povrch. 
+Prototypem náhodnosti je v matematice stochastický proces, ve fyzice hrací kostka nebo kvantová mechanika s absolutně náhodnými událostmi, nevysvětlitelnými žádnými skrytými proměnnými. 
+Svět založený na náhodě sice není určen dopředu, děje se ale stále stejným způsobem - podle určitého pravděpodobnostního scénáře. 
+Chaotická dynamika ovšem ukazuje, že stochastické systémy lze ekvivalentně popsat deterministickými systémy, a to systémy poměrně jednoduchými, i když tato jednoduchost nemusí být na první pohled patrna. 
+Zdá se, že mezi náhodou a nutností není zase až tak zásadní rozdíl. 
+Je pozoruhodné, že nový podnět k překonání dichotomie mezi náhodou a nutností přichází z teoretické biologie. 
+Objevuje se pohled na život jako na dynamický děj na rozhraní mezi nehybností a chaosem. 
+Teprve zde nalézáme dynamické systémy se vskutku netriviálním chováním. 
+Mimo jiné proto, že v nich lze použít libovolný algoritmus. 
+Otevírající se oblast na rozhraní mezi nehybností a chaosem umožňuje pochopit svět jako smysluplný text, a tím překonat dichotomii mezi náhodou a nutností. 
+Vždyť texty jsou dynamické děje par excellence. 
+Jejich deterministické nebo stochastické popisy jsou sice možné, ale zcela neadekvátní. 
+Texty nejsou připraveny předem v nějaké platonské databance, a nevznikají ani náhodným mačkáním kláves armádou opic. 
+Stejně tak svět není determinován svým přítomným stavem, a ani nevzniká náhodně. 
+Spíše je projevem smysluplné řeči a tím i výzvou, abychom jejímu poselství naslouchali a pokoušeli se mu porozumět. 
+Hrot skanovacího tunelovacího mikroskopu štěpí molekuly 
+Možnosti využití skanovacího tunelovacího mikroskopu (STM) se dále rozšiřují. 
+Byly jím již například nakresleny obrazce o rozměrech jednotlivých molekul na povrchu některých materiálů nebo přenášeny jednotlivé atomy a molekuly z jednoho místa na druhé. 
+Nyní bylo publikováno použití STM k rozštěpení molekuly adsorbované na povrchu vhodného nosiče a ke zkoumání produktů tohoto štěpení (Science 255, 1232, 1992). 
+Chemik Phaedon Avouris a fyzik Robert E. Walkup z Thomas J. Watson Research Center firmy IBM v Yorktown Hights (stát New York) a Gerald Dujardin (fyzik z univerzity Paříž-jih, Orsay, Francie) předvedli tuto novou možnost s použitím molekul dekaboranu(14) (B10H14) adsorbovaných na křemíkovém povrchu. 
+Nejprve získali přímé obrazy molekul pomocí STM. 
+Potom zvýšili elektrické napětí a při pohybu hrotu STM přes cílovou molekulu ji proudem nízkoenergetických elektronů rozštěpili. 
+Ačkoliv jsou si jisti, že se jim podařilo rozdělit molekuly dekaboranu na části, nepodařilo se zmíněným vědcům zatím určit, jaké produkty přitom vznikly. 
+Uvádějí, že takovýto selektivní disociační proces by mohl být v praxi využit k řízení chemických reakcí jednotlivých molekul na povrchu materiálů, např. pro účely lokálního dopování křemíkových nanostruktur bórem a jinými atomy (Chem. and Eng. News. 
+Petr Molík 
+VĚDA PŘED 100 LETY OČIMA VESMÍRU 
+O postavení úřednictva při c. k. přírodopisném dvorním museu dovídáme se některých podrobností z pamětního spisu, v kterém poukazují blíže na poměry, v nichž se nalézají. 
+Skutečně neuvěřitelné jest faktum, že otevřením nové nádherné budovy musejní poměry úřednictva, oproti těm, které panovaly v zařízení a správě bývalých dvorních přírodopisných kabinetů, nejen že se nezlepšily, nýbrž netušenou měrou se v neprospěch veškerých vědeckých sil při museu zaměstnaných zhoršily. 
+Při bývalých dvorních kabinetech, které nyní přestěhovány jsou do nového musea, zařízena byla místa tří ředitelů, z nichž každý spravoval jedno oddělení, v novém museu zařízeno přírodopisných oddělení pět, kterým však postaven v čelo ředitel jeden. 
+Kustodové a asistenti jsou finančně daleko nepříznivěji postaveni než učitelé gymnasijní, ačkoliv se od nich vyžaduje přinejmenším tatáž kvalifikace jako od těchto... 
+Nejsmutnější jest však postavení t. zv. "vědeckých výpomocných pracovníků," ... jsou dekretem jmenovaní a pod přísahu vzati, avšak nepožívají žádného platu, ani příbytečného a rovněž žádných nároků na pensi... 
+Vesmír 15. února 1893, str. 106 
+Petrolej jako lék. 
+Nechceme se tu dotýkati moderního upotřebení petroleje v therapii některých kožních neduhů. 
+Také naftolismus, čili opájení se parami petrolejovými pouštíme se zřetele. 
+Upoutal nás malý historický doklad výše uvedeného hesla, který lze těžko někam zařaditi. 
+Zdá se, že je v tom známý rys starší therapie a vůbec léčby národů méně inteligentních, užívají-li léků ohavných neb odporných, přikládajíce jim vydatný účinek léčivý. 
+Překládáme z lapidární starší němčiny cestopisu z polovice minulého století. 
+Autor vykonal pouť z Londýna do Ruska, popsal svou cestu a Němci to přeložili. 
+Vypravuje se tu, že "Rusové pijí petrolej k posílení srdce a jako lék. 
+Užívá-li se vnitřně, účinkuje prý proti kamenu (rozuměj močovému), také proti chorobám prsním a venerickým chorobám velmi dobře, a také proti bolení hlavy. 
+Užívá se ho také zevně jako léku proti skorbutickým chorobám, při dně, při křeči. 
+Třeba ho však jenom přiložiti ku poškozené (rozuměj: nemocné) části..." 
+Vesmír 15. února 1893, str. 107 
+Pramen mýdlový. 
+Přirozený pramen mýdlový objeven byl 68 mil od mysu Buffalo, v Dakotě. 
+Mýdlo pění se v horkém prameni a tuhne na vzduchu. 
+Vypadá jako měkký jíl a může se lopatkou sbírati... 
+Vesmír 1. března 1893, str. 120 
