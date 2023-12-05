@@ -1,7 +1,7 @@
 # UD-MULTIGENRE
 A dataset of instance-level text genre annotations from the paper:
 
-**"UD-MULTIGENRE - a UD-based dataset of instance-level genre annotations"** (Danilova, V., Stymne, S., to be published at The Workshop on Multilingual Representations Learning, EMNLP 2023)
+[**"UD-MULTIGENRE - a UD-based dataset of instance-level genre annotations"**](https://aclanthology.org/2023.mrl-1.19/) (Danilova & Stymne, MRL-WS EMNLP 2023)
 
 It is a reorganization of 63 treebanks from UD version 2.11 [Universal Dependencies](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-4923). It currently covers 17 text genres in 38 languages. The total size of the dataset (training and development) in tokens is 11096.9k, and in sentences - 657.4k. In addition, the test set currently includes data from 17 treebanks for five genres and 14 low-resource languages (119k tokens and 7.2k sentences).
 
