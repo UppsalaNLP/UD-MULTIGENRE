@@ -56,3 +56,6 @@ The repository contains the following data:
 | textbook         |              | Educational literature, textbooks                                                                              |
 | wiki             | ✔            | Main Wikipedia articles. Wikihow, Wikinews, Wikitravel, and Wikianswers are not considered in this category    |
 
+## References
+
+Vera Danilova and Sara Stymne. 2023. UD-MULTIGENRE – a UD-Based Dataset Enriched with Instance-Level Genre Annotations. In Proceedings of the 3rd Workshop on Multi-lingual Representation Learning (MRL), pages 253–267, Singapore. Association for Computational Linguistics.
