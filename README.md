@@ -35,10 +35,10 @@ The repository contains the following data:
 - **evaluation_scores_LAS.csv** contains the table of LAS scores 
 achieved by genre-specific parsers on 14 low-resource targets. For five text genres (social, fiction, news, wiki, spoken), parsers were trained on gold UD-MULTIGENRE and on the data generated using the clustering-based approach. The details can be found in the paper cited above.
 
-- **build** to build this dataset clone and from the `build` folder run 
+- **build** to build this dataset, clone and from the `build` folder run 
 
 ```bash
-python3 build.py /path/to/Universal_Dependencies_2.11_folder
+$ python3 build.py /path/to/Universal_Dependencies_2.11_folder
 ```
 
 ## Genre selection criteria
