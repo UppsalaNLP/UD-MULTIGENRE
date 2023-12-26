@@ -33,7 +33,7 @@ The repository contains the following data:
 ```
 **nopattern** value of prefix pattern is used for single-genre treebanks where the whole treebank is assigned to a specific genre.
 - **evaluation_scores_LAS.csv** contains the table of LAS scores 
-achieved by genre-specific parsers on 14 low-resource targets. 10 parsers were trained on both gold UD-MULTIGENRE and data generated using the clustering-based approach, for five text genres (social, fiction, news, wiki, spoken). The details can be found in the paper cited above.
+achieved by genre-specific parsers on 14 low-resource targets. For five text genres (social, fiction, news, wiki, spoken), parsers were trained on gold UD-MULTIGENRE and on the data generated using the clustering-based approach. The details can be found in the paper cited above.
 
 - **build** to build this dataset clone and from the `build` folder run 
 
