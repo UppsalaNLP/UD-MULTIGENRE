@@ -1,0 +1,119 @@
+När en användare ansluter till en SQL Server-databas genom ett Microsoft Access-projekt, aktiveras anslutningen genom ett Windows NT-användarkonto. 
+SQL Server verifierar att kontonamnet och lösenordet verifierades när användaren loggade in och beviljar åtkomst till databasen, utan att kräva inloggningsnamn och lösenord separat. 
+Om du har gjort en standardinstallation av Microsoft SQL Server 2000 Desktop Engine med integrerad säkerhet, måste användaren vara medlem i administratörsgruppen på den dator där Access-projektet finns. 
+Detta gör det svårt att ge andra användare tillträde till Access-projektet. 
+Det finns för närvarande inget enkelt sätt för systemadministratören att skapa nya inloggningskonton till den lokalt installerade SQL Server-databasen förutom SQL-verktyg eller Transact-SQL (TSQL) -kommandon. 
+Mer information om TSQL hittar du på webbplatsen http://officeupdate.microsoft.com/, Microsoft Developer Network. 
+Du kan använda säkerhetsläget för åtkomst till SQL Server-databasen på en dator med Windows NT. 
+Genom att ange egenskaperna på Visa-menyn, kan du aktivera blandat säkerhetsläge. 
+Genom att använda standardkontot SA, får användare tillgång till SQL Server-databasen via Access-projektet utan några ytterligare säkerhetskrav. 
+SQL Server-administratören kan öka säkerheten genom att ändra lösenordet för standardkontot SA. 
+Om kryssrutan Aktivera användarnamn för systemadministratören (SA) ska aktiveras måste följande krav uppfyllas. 
+Access-projektet måste vara anslutet till en SQL Server-databas (version 7.0 eller senare) eller en Microsoft SQL Server 2000 Desktop Engine. 
+SQL Server-databasen måste köras på Windows NT. 
+SQL Server måste köras på samma dator som Access-projektet. 
+Den aktuella Windows NT-användaren måste vara medlem i datorns administratörsgrupp. 
+Den aktuella SQL Server-användaren måste vara medlem i systemadministratörsrollen. 
+När du har ändrat säkerhetsläge bör du ändra lösenordet för SA genom att använda kommandot Ange inloggningslösenord (peka på Säkerhet på Verktyg-menyn). 
+Vissa av hyperlänkarna i det här avsnittet leder till webben. 
+Om XML-data och Access 
+XML (Extensible Markup Language) är standardspråket för att beskriva och överföra data på webbplatser, på samma sätt som HTML (Hypertext Markup Language) är standardspråket för att skapa och visa webbsidor. 
+Microsoft Access innehåller funktioner både för att importera och exportera XML-data och för att omvandla data till och från andra format med hjälp av XML-relaterade filer. 
+XML 
+Att flytta information på Internet och mellan olika program har alltid inneburit svårigheter på grund av skillnader i dataformat och strukturer. 
+HTML fungerar utmärkt för att visa text och bilder i webbläsare, men dess möjlighet att definiera data och datastrukturer är begränsad. 
+HTML beskriver hur en webbsida ska se ut, medan XML definierar informationen och beskriver hur den ska struktureras. 
+XML är ett dataöverföringsformat såtillvida att det ger dig möjlighet att utbyta data mellan olika system och program. 
+XML skiljer informationen från presentationen, vilket innebär att XML-data kan presenteras på flera olika sätt med hjälp av olika presentationsfiler. 
+XML är ett standardbaserat protokoll som definieras av World Wide Web Consortium (W3C). 
+XML-protokollet består av en uppsättning regler, riktlinjer och konventioner för utformning av dataformat och datastrukturer på ett sätt som ger filer som är enkla att skapa och enkla att läsa av olika datorer och program. 
+Dessutom är XML-definierade strukturer entydiga, dvs självbeskrivande och plattformsoberoende. 
+Liksom HTML utnyttjar XML märken och attribut, men medan HTML anger vad varje märke och attribut betyder (dvs hur informationen mellan dem ser ut i en webbläsare), använder XML bara märkena för att avgränsa stycken av information och överlämnar tolkningen av informationen helt och hållet till programmet som läser den. 
+Mer information om XML finns på webbplatsen. 
+Importera XML-data 
+Access innehåller flera alternativ för att använda data från många externa källor. 
+Med XML är det enklare att överföra informationen från nästan vilket externt program som helst och använda den i Access. 
+Du kan: 
+Använda en XSLT-fil (Extensible Stylesheet Language Transformation) för att omvandla informationen till Access-dataformat. 
+Med kommandot Importera (peka på Hämta externa data på Arkiv-menyn) kan du importera XML-datafiler i Access. 
+När du väljer det här kommandot visas dialogrutan Importera där du kan välja ett XML-dokument eller ett schema som beskriver informationens struktur. 
+Du kan bara importera ett dokument i taget till Access. 
+Informationen måste ha ett format som kan identifieras av Access, antingen som ett inbyggt format eller med hjälp av ett schema. 
+Lägg märke till att du inte kan välja en del av ett XML-dokument när du importerar XML-data, utan du måste importera hela filen. 
+Du kan omvandla den ursprungliga XML-informationen till ett visst Access-format genom att välja något av alternativen i dialogrutan Importera XML. 
+Du kan också ange om befintliga tabeller ska skrivas över eller om informationen ska läggas till utöver den befintliga informationen. 
+Vad är XML-scheman? 
+XML-scheman används för att beskriva strukturen för information i ett vanligt format som kunder, andra webbläsare och många XML-kompatibla program kan identifiera. 
+I ett schema definieras närmare bestämt reglerna för ett XML-datadokument, t.ex elementnamn och datatyper, vilka element som kan förekomma tillsammans och vilka attribut som är tillgängliga för varje element. 
+Schemat utgör en modell för ett XML-datadokument som definierar märkenas och textens placering i alla dokument som refererar till schemat. 
+Access stöder XML-schemastandarden XSD. 
+XSD är en standard som har föreslagits av World Wide Web Consortium (W3C) och som är utformad som en grundläggande infrastruktur för att beskriva typen och strukturen för XML-dokument. 
+Genom att använda ett schema kan du se till att alla XML-dokument som används för att importera data till Access eller exportera data från Access till något annat format innehåller specifik information och överensstämmer med en definierad struktur. 
+Du kan också tillhandahålla schemat till andra företag och avdelningar så att de vet hur data som skickas till dig ska struktureras, och de kan i sin tur ge dig sitt schema. 
+Visa XML-data 
+XML-syntaxen (märkena och deras placering i dokumentet) definierar och beskriver informationen i ett XML-dokument men anger inte hur den ska visas. 
+I tidigare program och vissa aktuella versioner användes CSS-formatmallar (Cascading Style Sheets, dvs övergripande formatmallar) för att informera webbläsaren om hur XML-informationen skulle visas. 
+En CSS-mall är emellertid inte alltid ett bra alternativ, eftersom sådana är skrivna på ett speciellt språk. Det innebär att utvecklaren måste använda ett annat språk för att skriva, ändra eller tolka strukturen i formatmallen. 
+Med en CSS-formatmall kan du bara ange formateringen av varje XML-element men inte styra resultatet i särskilt hög grad. 
+XSL-formatmallar (Extensible Stylesheet Language) är däremot betydligt mer flexibla än CSS-filer. 
+Med en XSL-formatmall kan du välja exakt vilken information som ska visas, ange informationens ordning eller disposition och ändra eller lägga till information. 
+Du kan använda ett filter på ett rad- eller kolumnfält om du vill visa de översta eller nedersta n elementen baserat på en summa. 
+Exempelvis de bästa eller sämsta 25 % av försäljarna baserat på antalet hanterade order. 
+Kombinera flera filter 
+Du kan kombinera filter. 
+Varje nytt filter som du anger läggs till de filter som du redan använder. 
+När du använder Filtrera enligt markering, tas dock villkorsstyrda filter bort från fältet innan Filtrera enligt markering används. 
+Villkorsstyrda filter fungerar oberoende av varandra. 
+Resultatet av ett villkorstyrt filter påverkar inte resultatet av ett annat. 
+Ett autofilter används alltid före villkorsstyrda filter, oavsett i vilken ordning de lades till. 
+Om du till exempel använder ett villkorstyrt filter för att visa de två städer med störst försäljning, och ett autofilter på fältet Leveransstad för att inkludera endast fem städer, visas de två städer med störst försäljning av dessa fem städer i pivottabellvyn. 
+Ta bort och återanvända ett filter 
+Filterinställningarna bevaras dock, så när du sätter på autofiltreringen igen döljs eller visas data som doldes eller visades tidigare. 
+Filterinställningarna kvarstår när du ändrar layouten och flyttar fält. 
+Om du tar bort ett fält och sedan lägger till det igen kommer samma poster som tidigare att döljas. 
+Om du inte vill behålla dina filterinställningar, kontrollerar du att knappen Autofilter inte är markerad innan du börjar markera element som ska filtreras. 
+Om den inte är det aktiveras filtreringsfunktionen automatiskt när du markerar nya poster och tidigare filterinställningar tas bort. 
+Identifiera filter som är igång 
+När element i ett fält döljs av autofiltrering eller Filtrera enligt markering, är den nedrullningsbara pilen Fältpil i fältet blå. 
+Klicka på den blåa pilen för att se vilket filter som för närvarande tillämpas. 
+När element i ett fält döljs av villkorsstyrd filtrering, visas en tratt till vänster om den nedrullningsbara pilen Fältpil. 
+Mer information om det aktuella filtret hittar du i dialogrutan Egenskaper. 
+Konsekvenser av att filtrera beräkningar 
+Summor kan endast inkludera visade data eller både synliga och dolda data. 
+Om att anpassa en kontroll 
+I designläget i ett formulär, en rapport eller på en dataåtkomstsida kan du formatera en kontroll på följande sätt: 
+Storlek. 
+Du kan ändra storleken på en kontroll med hjälp av storlekshandtagen eller använda samma höjd och bredd som för en annan kontroll. 
+När du arbetar i designläget i ett formulär eller en rapport kan du använda linjalen som hjälp när du vill ändra storlek på kontroller. 
+Måttenheten för linjalen bygger på de nationella inställningarna på Kontrollpanelen i Microsoft Windows. 
+Färg, genomskinlighet och specialeffekter 
+Du kan byta färg på en kontroll eller göra den genomskinlig. 
+Du kan också framhäva en kontroll med hjälp av specialeffekter. 
+Du kan t.ex ange att en kontroll ska vara upphöjd, nedsänkt eller etsad. 
+I ett formulär eller en rapport kan du också ange att en kontroll ska vara skuggad eller mejslad. 
+Kantlinjer. 
+Du kan ange färgen och bredden för kontrollernas kantlinjer. 
+Du kan också ange linjeformatet för kantlinjer, t.ex att en kantlinje ska vara streckad eller prickad. 
+Textens utseende. 
+Du kan ange teckensnittet och teckenstorleken för text i en kontroll. 
+Du kan också göra text i en kontroll fet, kursiv eller understruken. 
+Placering. 
+Du kan flytta en kontroll eller justera den i förhållande till en annan kontroll. 
+Du kan öka eller minska avståndet mellan kontroller eller ange att kontrollerna ska vara jämnt fördelade. 
+Ändra egenskaperna för flera kontroller på en gång 
+Du kan ändra egenskapsinställningar för en grupp av kontroller av samma typ eller för en grupp av kontroller av olika typer. 
+Om du markerar kontroller av olika typer visas bara de egenskaper som är gemensamma för gruppen i egenskapsrutan. 
+Om alla kontrollerna har samma egenskapsinställning visas den i egenskapsrutan. Annars är just den rutan tom. 
+Om du ändrar inställningen gäller ändringen för alla markerade kontroller. 
+Om du vill markera flera kontroller samtidigt på en dataåtkomstsida, måste Microsoft Internet Explorer 5.5 eller senare vara installerat på datorn. 
+I ett formulär eller en rapport visas aldrig egenskapen Namn när mer än en kontroll är markerad, eftersom kontrollnamn måste vara unika. 
+Om gruppering av data i pivottabell- och pivotdiagramvy 
+Gruppera efter intervall i pivottabell- och pivotdiagramvy 
+Du grupperar element genom att ange typ av intervall och storleken på intervallet. 
+Du kan till exempel gruppera ett fält med datumvärden i olika månader och ange intervallet till 2, och på så sätt skapa grupper som Jan-Feb, Mar-Apr, osv 
+Vilken typ av intervall som du kan ange för ett fält beror på fältets datatyp. 
+Numeriska fält 
+Du kan gruppera intervaller av alla heltal, till exempel 1, 2, 5, 100 osv Du kan exempelvis gruppera fältet Anställningsnr i grupperna 1-100, 101-200, osv 
+Datum- och tidsfält 
+Du kan gruppera i intervaller som exempelvis veckor och kvartal. 
+Du kan till exempel gruppera värdena i fältet Leveransdatum i månader om du vill visa data för order som expedierades i januari, order som expedierades i februari osv 

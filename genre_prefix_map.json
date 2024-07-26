@@ -47,11 +47,6 @@
                 "sent_id = tea": "This subcorpus contains 5 million words scientific texts. The PhD dissertations make up about half of it, the remaining half contains scientific journals like Eesti Arst, Arvutitehnika ja Andmet\u00f6\u00f6tlus, Agraarteadus, the yearbooks of Emakeele Selts and Eesti Matemaatika Selts etc.  (source)[https://www.cl.ut.ee/korpused/grammatikakorpus/teakirjeldus/]"
             }
         },
-        "French": {
-            "Sequoia": {
-                "sent_id = emea-fr": "European Medicines Ageny reports. Contains descriptions of medicines, the corresponding clinical studies, as well as recommendations for patients /contains guide genre/ (source)[https://github.com/UniversalDependencies/UD_French-Sequoia]"
-            }
-        },
         "Lithuanian": {
             "ALKSNIS": {
                 "sent_id = .*rec": "Mokslin\u0117s recenzijos - scientific reviews as per documentation in Alksnio_3.0_sandara.docx (source)[https://github.com/Semantika2/Alksnis-v.3.0/blob/master/Alksnio_3.0_sandara.docx]",
@@ -71,7 +66,6 @@
         "Romanian": {
             "RRT": {
                 "newdoc id = DGLR": "Academic: document ids: DGLR-1-300, DGLR-b1, DGLR-b2, DGLR-b3, DGLR-noi-b1 (source)[https://github.com/UniversalDependencies/UD_Romanian-RRT]",
-                "newdoc id = EMEA": "European Medicines Agency documents /contains guide genre/ (source)[https://github.com/UniversalDependencies/UD_Romanian-RRT]",
                 "newdoc id = PhysicsCompSciMath": "scientific (Physics, Mathematics and Computer Science) sub-corpus (source)[https://github.com/UniversalDependencies/UD_Romanian-RRT]"
             },
             "SiMoNERo": {
@@ -275,21 +269,18 @@
             "GUM": {
                 "sent_id = GUM_voyage": "Wikivoyage (source)[https://gucorpling.org/gum/]",
                 "sent_id = GUM_whow": "wikiHow (source)[https://gucorpling.org/gum/]"
+            },
+            "LinES": {
+                "sent_id = .*doc1": "Microsoft Access 2002 Online Manual. Information about the source is provided by the main developer (source)[https://github.com/UniversalDependencies/UD_English-LinES]"
             }
         },
-        "Turkish": {
-            "BOUN": {
-                "sent_id = ins": "contains instructional sentences (from a recipe) from Turkish National Corpus, manual verification showed that this annotation is mixed and noisy (source)[https://github.com/UniversalDependencies/UD_Turkish-BOUN]",
-                "sent_id = pop": "contains instructional sentences (from a recipe) from Turkish National Corpus, manual verification showed that this annotation is mixed and noisy (source)[https://github.com/UniversalDependencies/UD_Turkish-BOUN]"
+        "Swedish": {
+            "LinES": {
+                "sent_id = .*doc1": "Microsoft Access 2002 Online Manual. Swedish translation of the English LinES. Information about the source is provided by the main developer (source)[https://github.com/UniversalDependencies/UD_Swedish-LinES]"
             }
         }
     },
     "interview": {
-        "Bulgarian": {
-            "BTB": {
-                "sent_id = Standard": "contains interviews with Bulgarian businessmen and politicians as well as news /contains news genre/"
-            }
-        },
         "English": {
             "GUM": {
                 "sent_id = GUM_interview": "Wikinews interviews (source)[https://gucorpling.org/gum/]"
@@ -303,6 +294,11 @@
         "Scottish Gaelic": {
             "ARCOSG": {
                 "sent_id = p\\d": "Public interview p01: Peataichean, conversation on Coinneach Mac\u00ccomhair's programme, p02: Fred MacAulay and Martin MacDonald, p03: John MacInnes and William Matheson, p04: Geamaichean Sholais 1, conversation on Coinneach Mac\u00ccomhair's programme (test), p05: Geamaichean Sholais 2 (dev), p06: Bonn Comhraidh, 1980s political discussion programme, p07: Conversation on Coinneach Mac\u00ccomhair's programme 2000-01-17 part 1, p08: Conversation on Coinneach Mac\u00ccomhair's programme 2000-01-17 part 2 (source)[https://github.com/UniversalDependencies/UD_Scottish_Gaelic-ARCOSG]"
+            }
+        },
+        "Western Armenian": {
+            "ArmTDP": {
+                "sent_id = reviews": "interview with Mark Nshanyan about literary criticism (source)[https://inknagir.org/?p=7228]"
             }
         }
     },
@@ -670,12 +666,7 @@
             "Tourism": {
                 "nopattern": "hotel/restaurant reviews of a booking company (source)[https://github.com/UniversalDependencies/UD_Turkish-Tourism]"
             }
-        },
-        "Western Armenian": {
-            "ArmTDP": {
-                "sent_id = reviews": "literary critics by Mark Nshanyan (source)[https://inknagir.org/?p=7228]"
-            }
-        }
+        }  
     },
     "social": {
         "Belarusian": {

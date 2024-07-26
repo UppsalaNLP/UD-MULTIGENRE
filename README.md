@@ -3,7 +3,7 @@ A dataset of instance-level text genre annotations from the paper:
 
 [**"UD-MULTIGENRE - a UD-based dataset of instance-level genre annotations"**](https://aclanthology.org/2023.mrl-1.19/) (Danilova & Stymne, MRL-WS EMNLP 2023)
 
-It is a reorganization of 63 treebanks from UD version 2.11 [Universal Dependencies](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-4923). It currently covers 17 text genres in 38 languages. The total size of the dataset (training and development) in tokens is 11096.9k, and in sentences - 657.4k. In addition, the test set currently includes data from 17 treebanks for five genres and 14 low-resource languages (119k tokens and 7.2k sentences).
+It is a reorganization of 63 treebanks from UD version 2.11 [Universal Dependencies](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-4923). It currently covers 17 text genres in 38 languages. In addition, the test set currently includes data from 17 treebanks for five genres and 14 low-resource languages (119k tokens and 7.2k sentences).
 
 The dataset enables new research as well as re-evaluation and a deeper understanding of prior research on genre-based data selection for cross-lingual dependency parsing. In addition, it is highly relevant for the research direction that investigates cross-lingual genre representation and classification.
 
@@ -66,3 +66,14 @@ $ python3 build.py /path/to/Universal_Dependencies_2.11_folder
 ## References
 
 Vera Danilova and Sara Stymne. 2023. UD-MULTIGENRE – a UD-Based Dataset Enriched with Instance-Level Genre Annotations. In Proceedings of the 3rd Workshop on Multi-lingual Representation Learning (MRL), pages 253–267, Singapore. Association for Computational Linguistics.
+
+## Changelog
+
+From v 1.0 to 1.1
+- added guide data for English and Swedish (Microsoft 2002 Online Help manual, LinES treebank)
+- added interview data for Western Armenian
+- removed Western Armenian from reviews
+- removed academic (specifically, instances corresponding to EMEA reports) from Romanian and French
+due to mixed genre (instructions, academic)
+- removed Turkish from guide due to mixed genre (non-fiction, recipe)
+- removed Bulgarian from interview due to mixed genre (interview, news)

@@ -1,24 +1,32 @@
 #!/usr/bin/python3
 from collections import defaultdict
 
-
 ##################
-# create mapping #
+# mapping 
 ##################
 
 map_lang = defaultdict(dict)
 
+##################
+# Italian 
+##################
+
 map_lang['Italian']['TWITTIRO'] = {'social' : []}
 map_lang['Italian']['PoSTWITA'] = {'social' : []}
-map_lang['Italian']['ISDT'] = {'news' : ['sent_id = 2Parole', 'sent_id = isst_tanl'], 
-                               'parliament' : ['sent_id = 2_Europarl'],
+map_lang['Italian']['ISDT'] = {'news' : ['sent_id = 2Parole', 
+                                         'sent_id = isst_tanl'], 
+                              'parliament' : ['sent_id = 2_Europarl'],
                               'QA' : ['sent_id = quest'], 
-                               'wiki' : ['sent_id = .*WIKI'], 
-                               'legal' : ['sent_id = splet']
+                              'wiki' : ['sent_id = .*WIKI'], 
+                              'legal' : ['sent_id = splet']
                               }
 map_lang['Italian']['ParlaMint'] = {'parliament' : []}
 map_lang['Italian']['MarkIT'] = {'learner_essays' : []}
-###############
+
+##################
+# English 
+##################
+
 map_lang['English']['GUMReddit'] = {'social' : []}
 map_lang['English']['Tweebank'] = {'social' : []} 
 map_lang['English']['EWT'] = {'social' : ['sent_id = newsgroup'],
@@ -33,19 +41,30 @@ map_lang['English']['GUM'] = {'news' : ['sent_id = GUM_news'],
                             'nonfiction_prose' : ['newdoc id = GUM_bio'],
                              'parliament' : ['sent_id = GUM_speech'], 
                              'spoken' : ['sent_id = GUM_conversation'],
-                             'guide' : ['sent_id = GUM_whow', 'sent_id = GUM_voyage'], 
+                             'guide' : ['sent_id = GUM_whow', 
+                                        'sent_id = GUM_voyage'], 
                               'interview' : ['sent_id = GUM_interview'],
                               'textbook' : ['sent_id = GUM_textbook']
                              } 
 map_lang['English']['Atis'] = {'spoken' : []}
 map_lang['English']['LinES'] = {'fiction' : ['sent_id = .*doc[234678]'],
-                               'parliament': ['sent_id = .*doc5']}
-###############
+                               'parliament': ['sent_id = .*doc5'],
+                               'guide': ['sent_id = .*doc1']}
+
+##################
+# Estonian 
+##################
+
 map_lang['Estonian']['EDT'] = {'news' : ['sent_id = aja'],
                                'academic' : ['sent_id = tea'], 
                                'fiction' : ['sent_id = ilu']}
-map_lang['Estonian']['EWT'] = {'social' : ['sent_id = .*foorum', 'sent_id = kom']}
-###############
+map_lang['Estonian']['EWT'] = {'social' : ['sent_id = .*foorum', 
+                                           'sent_id = kom']}
+
+##################
+# Erzya 
+##################
+
 map_lang['Erzya']['JR'] = {
                            'nonfiction_prose': ['sent_id = NujanjVidjaz2007'],
                           'fiction': [
@@ -65,14 +84,21 @@ map_lang['Erzya']['JR'] = {
                               'sent_id = Bryzhinskij',
                               'sent_id = Anoshkin'                         
                           ]}
-###############
+
+##################
+# Belarusian 
+##################
+
 map_lang['Belarusian']['HSE'] = {'social' : ['genre = social'], 
                                  'news' : ['genre = news'],
                                  'nonfiction_prose' : ['sent_id = Narodnaja-proza-belarusau-Padzvinnja'], 
                                  'fiction' : ['genre = fiction'], 
                                  'wiki' : ['genre = wiki']}
 
-###############
+##################
+# Russian 
+##################
+
 map_lang['Russian']['Taiga'] = {'social' : ['genre = social'],
                                 'QA' : ['genre = QA'], 
                                 'reviews' : ['genre = review']
@@ -122,17 +148,29 @@ map_lang['Russian']['SynTagRus'] = {'news' : ['sent_id = newsYa'
 
 
 map_lang['Russian']['GSD'] = {'wiki' : []}
-###############
+
+##################
+# Hindi
+##################
+
 map_lang['Hindi']['HDTB'] = {'news' : []}
-###############
+
+##################
+# Turkish 
+##################
+
 map_lang['Turkish']['BOUN'] = {'news' : ['sent_id = news'], 
-                               'guide' : ['sent_id = ins'], #contains sentences from a recipe and some nonfiction
+                              #  'guide' : ['sent_id = ins'], #contains sentences from a recipe and some nonfiction
                                'nonfiction_prose' : ['sent_id = bio',#biographies
                                                     'sent_id = ess'#essays
                                                     ]}
 map_lang['Turkish']['Tourism'] = {'reviews' : []}
 map_lang['Turkish']['Atis'] = {'spoken' : []}
-#######################
+
+##################
+# Western Armenian 
+##################
+
 map_lang['Western Armenian']['ArmTDP'] = {'nonfiction_prose' : ['sent_id = nonfiction-002I',
                                                                ],#https://inknagir.org/?author=13 #'sent_id = nonfiction-(?!002I)'
                                           
@@ -143,64 +181,104 @@ map_lang['Western Armenian']['ArmTDP'] = {'nonfiction_prose' : ['sent_id = nonfi
                                          'fiction' : ['sent_id = fiction'], 
                                           'blog' : ['sent_id = blog'],#https://hayerenblog.wordpress.com/2021/12/23/%D5%A1%D6%82%D5%BD%D5%BF%D6%80%D5%AB%D5%B8%D5%B5-%D5%B4%D5%A7%D5%BB-%D5%B0%D5%AB%D5%B6%D5%A3-%D5%A1%D5%B4%D5%AB%D5%BD-%D5%AA%D5%A2/
                                           #https://darperag21.net/%D5%B6%D5%A5%D6%80%D5%A3%D5%A1%D5%B2%D5%A9%D5%B6-%D5%A7-%D5%B8%D6%80-%D5%A9%D5%A7%D5%9B-%D5%A1%D6%80%D5%BF%D5%A1%D5%BD%D5%A1%D5%B0%D5%B4%D5%A1%D5%B6%D5%AB-%D5%BF%D5%A1%D6%80%D5%BF%D5%B2%D5%B6%D5%B8/
-                                          'reviews':['sent_id = reviews'],
+                                          'interview':['sent_id = reviews'], #https://inknagir.org/?p=7228
                                           'social' : ['sent_id = social'], 
                                           'wiki' : ['sent_id = wiki'],
                                           'spoken' : ['sent_id = spoken']
                                          }
+
+##################
+# Armenian 
+##################
+
 map_lang['Armenian']['ArmTDP'] = {
                                 'nonfiction_prose':['sent_id = nonfiction-005F',
                                                     #dev
-                                                    'sent_id = nonfiction-006Q',#- reflective prose. It discusses the concept of youthfulness and responsibility                                     
+                                                    'sent_id = nonfiction-006Q',# - reflective prose. It discusses the concept of youthfulness and responsibility                                     
                                                    ], #https://hrantmatevossian.org/hy/works/id/i-skzbane-er-bann autobiographical
-                                'blog':['sent_id = blog','sent_id = nonfiction-006U'],#https://manukyanmarianna.wordpress.com/2021/11/18/համբերություն-քեզ-մարդ-ջան-գուրգեն-խ/
+                                'blog':['sent_id = blog',
+                                        'sent_id = nonfiction-006U'],#https://manukyanmarianna.wordpress.com/2021/11/18/համբերություն-քեզ-մարդ-ջան-գուրգեն-խ/
                                  'fiction':['sent_id = fiction'],
                                  'news':['sent_id = news'], #golosarmenii.am
                                  'legal':['sent_id = legal'],
-    
                                  }
 #test - https://www.grakantert.am/archives/6614 - fiction
+
 map_lang['Armenian']['BSUT'] = {'nonfiction_prose' : ['sent_id = nonfiction'], #dev https://granish.org/qnarakan-poemi-herosy/ - biographical narrative
                                 
                                 #dev
                                 'blog':['sent_id = blog'],
                                  'fiction':['sent_id = fiction'],
                                  'news':['sent_id = news'],
-                                 'legal':['sent_id = legal', 'sent_id = government'],
+                                 'legal':['sent_id = legal', 
+                                          'sent_id = government'],
                                'wiki' : ['sent_id = wiki']}
 #nonfiction test: literary survey https://granish.org/anmoruuki-pakuughi/
-###############
+
+##################
+# Dutch 
+##################
+
 map_lang['Dutch']['LassySmall'] = {'wiki' : []}
 map_lang['Dutch']['Alpino'] = {'news' : ['sent_id = cdb'],
-                              'QA' : ['sent_id = qa', 'sent_id = wpspel']}
+                              'QA' : ['sent_id = qa', 
+                                      'sent_id = wpspel']}
+
 #sent_id = WR-P-P-H: dev and train-periodicals and magazines
 # http://nederbooms.ccl.kuleuven.be/eng/lassytb
-###############
+
+##################
+# Slovenian 
+##################
+
 map_lang['Slovenian']['SSJ'] = {'wiki' : ['sent_id = .*sl']}
 map_lang['Slovenian']['SST'] = {'spoken' : []}
-###############
+
+##################
+# French 
+##################
+
 map_lang['French']['Sequoia'] = {'wiki' : ['sent_id = frwiki'],
-                                'academic' : ['sent_id = emea-fr'], #a mix of guide and academic
+                                # 'academic' : ['sent_id = emea-fr'], #a mix of guide and academic
                                 'parliament' : ['sent_id = Europar'],
                                 'news' : ['sent_id = annodis.er']}
 map_lang['French']['Rhapsodie'] = {'spoken' : []}
 map_lang['French']['ParisStories'] = {'spoken' : []}
+
 ###############
 # code-switch
+###############
+
 map_lang['Turkish German']['SAGT'] = {'spoken' : []}
 #map_lang['Hindi English']['HIENCS'] = {'social' : []}
-###############
+
+##################
+# Naija 
+##################
+
 map_lang['Naija']['NSC'] = {'spoken' : []}
-###############
+
+##################
+# Norwegian 
+##################
+
 map_lang['Norwegian']['NynorskLIA'] = {'spoken' : []}
-###############
+
+##################
+# Finnish 
+##################
+
 map_lang['Finnish']['TDT'] = {'wiki' : ['sent_id = w\d+'],
                              'news' : ['sent_id = wn\d+'],
                              'legal' : ['sent_id = j'],
                              'blog' : ['sent_id = b'],
                              'fiction' : ['sent_id = f'],
                              'parliament' : ['sent_id = e']}
-###############
+
+##################
+# Slovak 
+##################
+
 map_lang['Slovak']['SNK'] = {#'blog' : ['sent_id = blogsme'],
                              'fiction' : ['sent_id = rozpravky',
                                          'sent_id = orwell',
@@ -209,23 +287,33 @@ map_lang['Slovak']['SNK'] = {#'blog' : ['sent_id = blogsme'],
                                          'sent_id = milosferko'],
                              'legal' : ['sent_id = programvyhlasenie'],#goverment
                              # 'nonfiction_religious' : ['sent_id = patmos'], #religious #https://patmos.sk/
-                             'news' : ['sent_id = inzine', 'sent_id = sme' ],#news https://sk.wikipedia.org/wiki/InZine, sme.sk 
+                             'news' : ['sent_id = inzine', 
+                                       'sent_id = sme' ],#news https://sk.wikipedia.org/wiki/InZine, sme.sk 
                              'wiki' : ['sent_id = wikipedia']
 } 
-###############
+
+##################
+# Czech 
+##################
+
 map_lang['Czech']['CAC'] = {
     'legal' : ['sent_id = a'],#administrative
     'news' : ['sent_id = n'], #newspapers
     'academic' : ['sent_id = s']}
 # the "s20w" part identifies the source document, where "w" means "written", "20" is the document id number and "s" means scientific (while "a20w" is the twentieth document from the administrative genre, and "n20w" from newspapers).
 map_lang['Czech']['PDT'] = {
-    'news' : ['sent_id = l', 'sent_id = m'],
+    'news' : ['sent_id = l', 
+              'sent_id = m'],
     'academic' : ['sent_id = v']#popular scientific articles
     #,l (ln) and m (mf) are mainstream daily papers (news, commentaries, but also
   #sports results and TV programs) #c (cmpr) is a business weekly #v #(vesm) contains popular scientific articles (the hardest to parse: long
 }
 map_lang['Czech']['FicTree'] = {'fiction' : []}
-###############
+
+##################
+# Polish 
+##################
+
 map_lang['Polish']['LFG'] = {'social' : ['genre = social'],
                             'news' : ['genre = news'],
                             'fiction' : ['genre = fiction'],
@@ -233,37 +321,68 @@ map_lang['Polish']['LFG'] = {'social' : ['genre = social'],
                              'spoken' :['genre = spoken']
                             }
 # LFG About 42.1% of sentences represent the fiction genre, 39.1% – news, 7.4% – nonfiction, 7.3% – spoken, 3% – interactive Internet texts (forums, chatrooms, etc.), and there are also traces of static Internet pages (0.8%), academic style (0.3%) and legal texts (0.1%). For each sentence, genre is explicitly given in a comment to this sentence.
-###############
-map_lang['Bulgarian']['BTB'] = {'fiction' : ['sent_id = bg-lit', 'sent_id = for-lit', 'sent_id = kamu'],
+
+##################
+# Bulgarian 
+##################
+
+map_lang['Bulgarian']['BTB'] = {'fiction' : ['sent_id = bg-lit', 
+                                             'sent_id = for-lit', 
+                                             'sent_id = kamu'],
                                'legal' : ['sent_id = constitution'],
-                               'academic' : ['sent_id = kleinke', 'sent_id = euro'],
+                               'academic' : ['sent_id = kleinke',
+                                             'sent_id = euro'],
                                 'nonfiction_prose' : ['sent_id = girl'],
-                                'news' : ['sent_id = Novinar', 'sent_id = Sega', 'sent_id = president'],
-                               'interview' : ['sent_id = Standard']#mix of interview and news
+                                'news' : ['sent_id = Novinar', 
+                                          'sent_id = Sega', 
+                                          'sent_id = president'],
+                              #  'interview' : ['sent_id = Standard'] #mix of interview and news
                                 }                               
-###############
+##################
+# Catalan 
+##################
+
 map_lang['Catalan']['AnCora'] = {'news' : []}
 # EFE (75,000) ACN (225,000) El Periódico: (200,000)
-###############
-map_lang['Croatian']['SET'] = {'news' : ['sent_id = news', 'sent_id = set']
+
+##################
+# Croatian 
+##################
+
+map_lang['Croatian']['SET'] = {'news' : ['sent_id = news', 
+                                         'sent_id = set']
                               }
 # SET Times news
-###############
+
+##################
+# Portuguese 
+##################
+
 map_lang['Portuguese']['PetroGold'] = {'academic' : []}
 #academic texts from the oil & gas domain in Brazilian Portuguese processed in full: only elements such as summary, abstract, appendices and bibliographic references were excluded, as well as figures, graphs, formulas and tables. 
-###############
-map_lang['Romanian']['RRT'] = {'legal' : ['newdoc id = Acquis', 'newdoc id = JRC'],
+
+##################
+# Romanian 
+##################
+
+map_lang['Romanian']['RRT'] = {'legal' : ['newdoc id = Acquis', 
+                                          'newdoc id = JRC'],
                                'news' : ['newdoc id = Agenda'],
                                'fiction' : ['newdoc id = 1984Orwell',
                                             'newdoc id = Literatura'],
                                'academic' : ['newdoc id = PhysicsCompSciMath',
                                               'newdoc id = DGLR', 
-                                             'newdoc id = EMEA'],#mix of academic and guide
+                                            #  'newdoc id = EMEA'#mix of academic and guide
+                                             ],
                                'wiki' : ['newdoc id = Wikipedia']
                                
 }
 map_lang['Romanian']['SiMoNERo'] = {'academic' : []}
-###############
+
+##################
+# German 
+##################
+
 map_lang['German']['GSD'] = {'reviews' : []}
 # train: Reviews=s1-s1500, News=s1501-s2200, Web=s2201-s14118 
 # By searching for a selection of sentences in the s2201-s14118 
@@ -273,21 +392,42 @@ map_lang['German']['GSD'] = {'reviews' : []}
 # test: Reviews=s1-s301, News=s302-s977
 map_lang['German']['HDT'] = {'news' : []}
 #The content of the articles ranges from formulaic periodic updates on new BIOS revisions and processor models or quarterly earnings of tech companies over features about general trends in the hardware and software market to general coverage of social, legal and political issues in cyberspace, sometimes in the form of extensive weekly editorial comments. 
-###############
+
+##################
+# Greek 
+##################
+
 map_lang['Greek']['GDT'] = {'news' : ['sent_id = .*elwikinews'],
                             'parliament' : ['sent_id = .*ep-sessions']}
-###############
+
+##################
+# Hebrew 
+##################
+
 map_lang['Hebrew']['HTB'] = {'news' : []} #`Ha'aretz` newspaper
 map_lang['Hebrew']['IAHLTwiki'] = {'wiki' : []}
-###############
+
+##################
+# Icelandic 
+##################
+
 map_lang['Icelandic']['Modern'] = {'parliament' : ['sent_id = ALTHINGI'], #speeches
                                    'news' : ['sent_id = RUV']}#sports
-###############
+
+##################
+# Indonesian 
+##################
+
 map_lang['Indonesian']['CSUI'] = {'news' : []}
 # news in formal Indonesian (the majority is economic news)
-###############
+
+##################
+# Lithuanian 
+##################
+
 # news nonfiction legal scientific
-map_lang['Lithuanian']['ALKSNIS'] = {'academic' : ['sent_id = .*rec', 'sent_id = mok_santr'],
+map_lang['Lithuanian']['ALKSNIS'] = {'academic' : ['sent_id = .*rec', 
+                                                   'sent_id = mok_santr'],
                                      'legal' : [
                                              #train
                                              'sent_id = Veiklos_ataskaita', 
@@ -298,32 +438,59 @@ map_lang['Lithuanian']['ALKSNIS'] = {'academic' : ['sent_id = .*rec', 'sent_id =
                                             'send_id = 2004_AM_Isak', 'sent_id = 2009_komunikatas'],
                                      'news' : ['sent_id = kd'],
                                 
-                                    'fiction' : ['sent_id = Navakas', 'sent_id = Katkus', 'sent_id = Parulskis', 'sent_id = Jonuskaite',
+                                    'fiction' : ['sent_id = Navakas', 
+                                                 'sent_id = Katkus', 
+                                                 'sent_id = Parulskis', 
+                                                 'sent_id = Jonuskaite',
                                                 #dev
                                                  'sent_id = Serelyte'
                                                 ]
                                     }
-###############
+##################
+# Scottish Gaelic 
+##################
+
 map_lang['Scottish Gaelic']['ARCOSG'] = {'fiction' : ['sent_id = f0'],
                                         'news' : ['sent_id = ns'],
-                                        'spoken' : ['sent_id = c', 'sent_id = n\d'],
+                                        'spoken' : ['sent_id = c', 
+                                                    'sent_id = n\d'],
                                         'interview' : ['sent_id = p\d']
                                         }
-###############
+##################
+# Chinese 
+##################
+
 map_lang['Chinese']['GSD'] = {'wiki' : []}
-###############
+
+##################
+# Maltese 
+##################
+
 map_lang['Maltese']['MUDT'] = {'fiction' : ['sent_id = .*F'],
                                'parliament': ['sent_id = .*P']} #also newspaper interviews
 #J NEWS annotation includes op-eds, opinion-based articles
 #nonfiction N also includes blogs, wikipedia, which we consider separate genres
-###############
+
+##################
+# Uyghur 
+##################
+
 map_lang['Uyghur']['UDT'] = {'fiction' : []}
 # The sentences come from literature texts / 
 # reading material for primary and middle school, 
 # including stories, records and reports.
-###############
+
+##################
+# Swedish 
+##################
+
 map_lang['Swedish']['LinES'] = {'fiction' : ['sent_id = .*doc[234678]'],
-                               'parliament': ['sent_id = .*doc5']}
-###############
+                               'parliament': ['sent_id = .*doc5'],
+                               'guide': ['sent_id = .*doc1']}
+
+##################
+# Afrikaans 
+##################
+
 map_lang['Afrikaans']['AfriBooms'] = {'legal': []}
 ###############

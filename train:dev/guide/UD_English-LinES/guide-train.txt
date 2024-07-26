@@ -1,0 +1,357 @@
+Show All 
+About ANSI SQL query mode 
+Some of the content in this topic may not be applicable to some languages. 
+You can create SQL queries in one of two ANSI SQL query modes: 
+ANSI-89 describes the traditional Jet SQL syntax. 
+This mode conforms closely to the ANSI-89 Level 1 specification, but is not ANSI-89 Level 1 compliant. 
+Certain ANSI-89 SQL features are not implemented and the wildcard characters conform to the Visual Basic for Applications (VBA) specification, not SQL. 
+ANSI-92 provides new reserved words, syntax rules, and wildcard characters that enhance your ability to create queries, filters, and SQL statements. 
+This mode conforms closely to the ANSI-92 Level 1 specification, but is not ANSI-92 Level 1 compliant. 
+This query mode has more of the ANSI syntax, and the wildcard characters conform to the SQL specification. 
+In Microsoft Access 2000 using ADOX, you could programmatically create queries that used ANSI-92 SQL syntax. 
+However, any queries you created were not visible in the Database window because there was no option to set this mode in the user interface. 
+Now in Access 2002, you can set the ANSI SQL query mode through the user interface for the current database and as the default setting for new databases. 
+Why use ANSI-92 SQL? 
+You may want to use ANSI-92 SQL for the following reasons: 
+You anticipate upsizing your application in the future to an Access project and want to create queries that will run with minimal changes in a Microsoft SQL Server database. 
+You want to take advantage of the new features not found in ANSI-89 SQL, such as: 
+Changing security settings by using the GRANT and REVOKE SQL statements 
+Using DISTINCT in an aggregate function reference, for example, SUM-DISTINCT-Price 
+Using the LIMIT TO nn ROWS clause to limit the number of rows returned by a query 
+Why you should avoid mixing queries created under different ANSI SQL query modes 
+The ANSI SQL query mode default for new Access databases in 2002 and 2000 file formats 
+ANSI-89 is the default setting for a new Access database in 2002 and 2000 file format. 
+You can not set the SQL query mode new database default to ANSI-92 in 2000 file format because the option is disabled; 
+ANSI-89 is the only query mode setting available for a database in Access 2000 file format. 
+About using connection files 
+A connection file stores information about a connection to a data source (such as an OLE DB data source) and the data associated with the connection. 
+In Microsoft Access, you can use a connection file to bind one or more data access pages to a data source. 
+When you open a page, Access reads the connection file that is linked to the page, and based on the contents of the connection file, connects the page to the appropriate data source. 
+A connection file uses one of the following file formats: 
+Office Data Connection (.odc) 
+A file format that uses HTML and XML to store the connection information. 
+You can view or edit the contents of the file in any text editor. 
+Universal Data Link (.udl) 
+A standard file format provided by Microsoft Data Links to create file-persistent OLE DB data source object definitions. 
+Benefits of using a connection file 
+Using a connection file simplifies the task of deploying related data access pages. 
+Pages that connect to a common data source can share a single connection file. 
+If you move or copy the data source, instead of updating the ConnectionString property of each dependent page, you only need to edit the connection information in the connection file to make the pages point to the right location or database. 
+Linking a page to a connection file 
+When creating a data access page, you can choose whether you want to link the page to a connection file or simply use a connection file without creating a link. 
+You can also choose whether you want to use an existing connection file or create a new one. 
+Linking to a connection file 
+When you establish a link between the connection file and a page, the page's ConnectionFile property is set to the name of the file. 
+Each time you open the page, Access will read the connection file, extract the connection information, and set the ConnectionString property of the page. 
+Using a connection file without creating a link 
+When creating a page, you can use the contents of a connection file to set the ConnectionString property of the page, but choose not to create a link between the page and the connection file. 
+Changing the connection information of a page 
+When a connection file is used 
+Either change the ConnectionFile property of the page to point to a different connection file, or edit the connection file in a text editor. 
+If you choose to edit the connection file, remember that all other pages that use the connection file will also be affected by the changes you make. 
+If you edit the ConnectionString property of a page that is linked to a connection file, the link will be broken and the ConnectionFile property will be set to null. 
+When a connection file is not used 
+Either create a link between the page and a connection file by setting the ConnectionFile property, or edit the ConnectionString property. 
+When you create a link, Access will automatically set the ConnectionString property based on the contents of the connection file. 
+Convert a previous-version data access page 
+A page created using Microsoft Access 2000 must be converted before it can be used with Access 2002. 
+Open the page in Access 2002 Design view. 
+Access will create a backup copy of the page (pagefilename.bak.htm) at the same location as the original data access page file. 
+If you want to revert to the Access 2000 version of the page, delete the converted file, rename the backup copy, and then connect the page to the database. 
+If the data access page includes any Microsoft Office Web Components (a PivotTable list, chart, or spreadsheet), only users with a valid Microsoft Office 2002 license will be able to use those components. 
+About analyzing data 
+Microsoft Access provides several techniques to help you analyze data. 
+Create a crosstab query 
+You can use a crosstab query to calculate and restructure data for easier analysis. 
+Crosstab queries calculate a sum, average, count, or other type of total for data that is grouped by two types of information – one down the left side of the datasheet and another across the top. 
+Comparison of a crosstab and a select query 
+1 A select query 
+2 A crosstab query based on the select query 
+Add a PivotTable list to a data access page 
+A PivotTable list is an interactive table that you can use to analyze data dynamically from within a Web browser. 
+At run time, users can change the layout of the PivotTable list. 
+They can move the fields that are displayed in the row, column, and data area of the PivotTable list, or add or remove fields from the list. 
+Users can also filter, sort, and group data. 
+The following illustration shows a PivotTable list on the Orders data access page. 
+PivotTable list on a data access page 
+View a datasheet or form in PivotTable view 
+Access 2002 provides a PivotTable view for datasheets and forms. 
+In this view, you can build an interactive report using the fields underlying the datasheet or form. 
+The view uses a Microsoft Office PivotTable Component, so you can do all the things that you can do on a PivotTable list. 
+You can add fields to the view, move or remove fields, and filter, sort, and group data. 
+The following illustration shows the Employees table in PivotTable view. 
+Datasheet in PivotTable view 
+About customizing the layout of a PivotTable or PivotChart view 
+Customizing the layout of a PivotTable view 
+You can control how the data is presented in a PivotTable view by customizing the layout. 
+A different layout lets you calculate and compare summarized values for different elements in your data, or display summaries for a subset of the data. 
+Using the drop areas 
+You change the layout by moving the fields to predefined drop areas within the PivotTable view workspace. 
+Drop areas in PivotTable view 
+1 Drop areas 
+2 Detail area 
+After you move fields to the drop areas so that the drop area captions are covered up, you can still drag additional fields to the areas. 
+Moving fields to the row or column areas 
+When you move a field to the row area, the unique items of data within the field are displayed down the rows of the PivotTable view. 
+When you move a field to the column area, the unique items of data are displayed across the columns. 
+Moving fields to the detail area 
+To view total or detail data from the underlying record source, move fields to the detail area. 
+Moving fields to the filter area 
+Filter fields allow you to confine the view to a particular part of the available data. 
+For example, when you move a Product field to the filter area, you can display data for one product at a time. 
+Moving row or column fields to a higher or lower level 
+When a view has multiple row and column fields, the fields that are closest to the detail data are referred to as inner fields. 
+The other fields are outer fields. 
+You can switch the inner and outer fields. 
+Example of inner and outer row fields 
+2 Outer row field 
+2 Inner row field 
+3 Outer field items 
+4 Items for the inner field are repeated for each item in the outer field. 
+Adding and removing fields 
+The layout of a PivotTable view does not have to include all of the fields that are available from the underlying record source. 
+You can also remove fields that you no longer want to see from the PivotTable view layout. 
+Customizing the layout of a PivotChart view 
+You change the layout of a chart by moving the fields to predefined drop areas within the chart workspace. 
+To do this, drop areas must be shown in the chart. 
+Drop areas are displayed differently depending on the chart type. 
+For example, a series drop area is not displayed for a pie chart because pie charts consist of only one series. 
+Additionally, it is written in a style similar to an XML document using a combination of XML-like tags and HTML to create a template for a specific style of output. 
+Note that you are not required to link either a CSS file or an XSL style sheet to an XML document in order for Internet Explorer 5 (and later versions) to display the document. 
+Internet Explorer has a default, built-in style sheet that displays the XML source as a (collapsible|expandable) tree. 
+You can use style sheets to insure that the XML-based Web pages on your intranet or Website are consistent and present a uniform appearance without having to add HTML to each page. 
+About Extensible Stylesheet Language Transformation (XSLT) 
+XSL for Transformation (XSLT) is a specification that is currently under development by the World Wide Web Consortium (W3C), and supported by Access. 
+XSLT is an XML-based language that allows one XML document to be mapped, or transformed, into another XML document. 
+This provides a way of transforming an XML document's presentation information from a source format to a target format and back again. 
+Typically, a developer creates an XSL transformation file that, when applied to an XML document during export, interprets or transforms the XML data into a presentation format that can be recognized by another application, such as Service Advertising Protocol (SAP) or a custom purchase order format. 
+XSLT has many of the constructs (structures and commands) found in other programming languages which allow the developer to use variables, loops and iterations, and conditional statements. 
+This gives the developer considerable control over the output of the XML data. 
+About exporting to XML files 
+Exporting data and database objects to an XML file is a convenient way to move and store your information in a format that can readily be used across the Web. 
+In Access, you can export the data, the schema (data structure), or both, to XML files. 
+Export data to an XML file and, optionally, use an XSLT to transform the data to another format. 
+Export the data schema using XML Schema standard (XSD). 
+Export the data behind forms and reports to an XML file. 
+You can also transform the data to another presentation format using an Extensible Style Language (XSL) file during the export process. 
+You can export tables, queries, and the data behind forms or reports from a Microsoft Access database (.mdb) as well as tables, views, stored produces, functions, and the data behind forms and reports from a Microsoft Access project (.adp). 
+Exporting tables, queries, views, datasheets, forms or reports 
+You can export a database object as an XML document in several ways: 
+You can export just the data from a table, query, datasheet, form, or report into an XML file. 
+This data is saved to a file named .xml. 
+You can export just the schema (data structure) of a table, query, datasheet, form, or report to an XML schema file. 
+An XML schema file is a formal specification of the rules for an XML document, providing a series of element names, as well as which elements are allowed in the document and in what combinations. 
+If you select to save the schema as XSD, the file is saved as .xsd. 
+Note 
+When you export a table to an XML document, you can also export related tables. 
+For example, if you export a table of Customers Orders, you can also choose to export a related Orders Details table and Customers table into the same file. 
+If selected, you can also save the structure of a table, query, datasheet, form, or report into a file that describes the presentation and connection information. 
+For forms and reports, this file is saved in an XML-based language called ReportML which provides presentation data as well as a data model for creating a data access page. 
+For tables, queries-views, and datasheets, the presentation file is a spreadsheet-like template. 
+This file is saved as _report.xml. 
+In addition, when you choose to save the data as XML, you can specify that the data be transformed to a custom display format by using an existing .xsl file. 
+If no .xsl file is specified, the data is saved in standard XML format. 
+Note that if no data is selected for export then a presentation format is also unavailable. 
+What is ReportML? 
+ReportML is a "language" developed by Microsoft and specific to Access which can be used to describe Access database objects in XML. 
+The ReportML language is made up of a set of tags that describe a form, report or data access page's properties, events, and attributes. 
+When you export data from Access to an XML file, you choose to save the structure of a form or report into a ReportML format. 
+The ReportML file can be used to convert the saved data into a data access page. 
+Well-formed documents 
+Any XML document produced by Access is well-formed, which means that it conforms to the basic rules of XML. 
+That is: 
+Each XML document must have a unique root element (an element encompassing the entire document). 
+All start and end tags match. 
+XML tags are case-sensitive. 
+For each start tag, there is a corresponding end tag. 
+Empty elements can be denoted by a special shorthand tag. 
+Again, XML tags are case-sensitive. 
+Access ReportML will not write out any empty tags. 
+Elements do not overlap. 
+In other words, start and end tag must be properly nested within other elements. 
+Certain reserve characters are part of the XML syntax and will not be interpreted as themselves if used in the data portion of an element. 
+You need to substitute a special character sequence (called an "entity" by XML) as follows: 
+Character 
+Entity 
+The following is an example of a well-formed XML document: 
+where: 
+is a declaration that states that this is an XML document and gives the version number. 
+The declaration is optional but is recommended in any XML document. 
+is the root element which encompasses the entire document. 
+is a start tag and is an end tag which together describe an element of data, in this case, the customer's name. 
+Notice that each tag set has both start and end tags and is case sensitive, and that the tag sets are properly nested within each other. 
+Also notice the entity &amp;apos; which will be transformed to an apostrophe when the data is imported by the receiving application. 
+The apostrophe has a special purpose in an XML document and can be misinterpreted if used directly in the text. 
+The converted data will be displayed as Mom's Boston Crab Meat. 
+White space can be used throughout the document to enhance readability. 
+If a schema is specified while exporting from Access, then the XML documents created are considered to be valid XML documents. 
+This means that in addition to being well-formed, the documents conform to a defined schema. 
+About exporting or copying a PivotTable view to Excel or other applications 
+If you are familiar with Microsoft Excel PivotTable reports and want to work with the data in Excel, there are two ways to accomplish this. 
+Exporting data to an interactive Excel PivotTable report 
+To view and modify the contents of a PivotTable view by using Excel, you can export the PivotTable view to Excel. 
+Preparing for export to Excel 
+Excel PivotTable reports can not display detail fields. 
+When you export to Excel, detail fields will be available on the PivotTable toolbar in Excel, but the fields won't be displayed in the report. 
+If you want the Excel PivotTable report to reflect the appearance of the PivotTable view, before you export to an Excel PivotTable report, either move all the fields out of the detail area, or hide detail data for items and cells so that the detail area is not displayed. 
+After you export 
+You might notice some differences in your PivotTable view after you export it to Excel. 
+This is because PivotTable views use the Microsoft Office PivotTable Component, and Excel PivotTable reports either do not support certain PivotTable list features, or they implement some features differently. 
+For information about differences between PivotTable lists and Excel PivotTable reports, see Excel Help. 
+Copying data to another program for noninteractive use 
+Copying to other programs 
+You can also copy data displayed in a PivotTable view to other programs, such as Microsoft FrontPage. 
+When you copy data to a program other than Excel or Word that does not support the HTML format used by PivotTable views, the data is copied as unformatted text. 
+About filtering data in PivotTable view 
+You can use the filter feature to find specific data values or all data that matches a value. 
+Filtering techniques 
+Filtering a field (Autofiltering) 
+You can filter fields in the row, column, and detail areas. 
+When you filter a field, you select one or more items of data in the field that you want to view, and hide the other items. 
+Filtered PivotTable list or view 
+1 First, the Sport field is filtered to display only Golf sales. 
+2 and then the Quarter field is filtered to display only Golf sales in Qtr3. 
+3 When you filter a field, the drop-down arrow Field arrow for the filtered field changes to blue instead of black, and the AutoFilter button on the toolbar is selected. 
+Filtering a field is particularly helpful when you have a large amount of source data but you want to focus on specific areas. 
+2 Category field Region filtered to show South and West region items 
+Conditional filtering 
+You can apply a filter to a series or category field to show the top or bottom n items based on a total. 
+For example, you can filter for the three cities that generated the most sales or the five products that are least profitable. 
+Instead of n items, you can also choose to filter for a certain percentage of items. 
+For example, you can filter for the top 25 % or bottom 25 % of salespeople based on the number of orders handled. 
+If there are 40 salespeople, after the filter is applied, you will see data for 10 people. 
+When you filter a field, you can display the data for a single item, or you can select some items to display and other items to hide. 
+Chart with category field 
+Chart with category field filtered 
+1 Category field Region showing all items (not filtered) 
+You can filter on more than one field at a time to further narrow the focus. 
+Filtering based on the data in one cell (Filter by Selection) 
+You can filter a field to display only data that matches the value in a selected cell. 
+Filtering by selection is particularly useful for fields in the detail area, when you want to view all of the rows that contain a particular value. 
+Using a field in the Filter axis 
+You can also filter data by using filter fields. 
+When you select one or more items in the filter field, the data that's displayed and calculated in the entire PivotTable view changes to reflect those items. 
+You can add new filter fields or move existing fields to the filter area. 
+Filter field example 
+1 Filter field 
+Conditional filtering 
+Rules for moving an interior horizontal line 
+If you move the line upward, the distance between the moving line and the nearest parallel line below remains constant, and the perpendicular line above the moving line contracts. 
+If you move the line downward, the distance between the moving line and the nearest parallel line below remains constant, and the perpendicular line above the moving line lengthens. 
+Rules for moving an exterior line 
+If you are moving the line away from the center of the grid, the nearest parallel line doesn't move, and the distance between the line you are moving and the nearest parallel line grows larger. 
+If you are moving the line towards the center of the grid, the nearest parallel line doesn't move, and the distance between the line you are moving and the nearest parallel line grows smaller. 
+Copy a line in a grid of grouped lines 
+Select the line you want to copy and press CTRL–C. 
+Press CTRL–V to paste the line. 
+When you copy an interior vertical line, the new line is halfway between the line you copied and the line to the right of the line you copied. 
+When you copy an interior horizontal line, the new line is halfway between the line you copied and the line below the line you copied. 
+When you copy an exterior line, the new line is located halfway between the line you copied and the nearest line parallel to the line you copied. 
+After you paste the line, you do not need to recreate the group – the new line is automatically part of the group. 
+About handling Null values in calculations 
+The aggregate functions won't include records containing blank (Null) values in their calculations. 
+For example, the Count function returns a count of all the records without Null values. 
+If you want to find the total number of records including those with Nullvalues, use Count with the wildcard character. 
+To count Null values when using the other aggregate functions, use the Nz function, which converts Null values to zeroes so they are included in a calculation. 
+If some records in one of the fields you used in the expression might have a Null value, you can convert the Null value to zero using the Nz function as shown in the following example: 
+About installing, licensing, and distributing Office Web Components 
+When you design a Web page using Microsoft Office Web Components, any user with a Microsoft Office 2002 license can interact with the components in the browser to the level of interactivity you provide. 
+That is, a user with an appropriate license can make changes to data in a spreadsheet, change formatting, drag fields in a chart or PivotTable List, and so on, as long as you didn't protect these options at design time. 
+Users with an Office 2002 license can also create, design, and modify components in a design environment such as Microsoft FrontPage or Microsoft Access. 
+Users who do not have Office 2002 licenses can view the components and the data in them, and can print the view of the components, but they can not interact with the components or manipulate them in a design environment. 
+This means that if you distribute a Web page that uses components, users who have Office 2002 licenses will have access to all functionality provided, but users without a license can only view the data and information you've provided. 
+Installing the Office Web Components 
+Microsoft Office Web Components are installed with Microsoft Office 2002 and Microsoft Office applications, or they can be installed separately from an installation point provided by the Web page designer. 
+When you distribute a Web page that uses components, users who do not have the components installed will be prompted to install the components, provided the Web page designer configures the components to do so. 
+The Web page designer must also provide an installation point for the components and a pointer to that location on the component installation page. 
+For more information, see the Microsoft Office 2002 Resource Kit. 
+Once the Office Web Components are installed, users who have access to an Office 2002 license will be able to interact with and make changes to the components. 
+Users without licenses will be able to view and print the components and the data in them, but they can not interact with or make changes to them. 
+Details on licensing and functionality 
+Office 2002 installed on computer 
+Users have full functionality and interactivity with components, including run-time and design-time capabilities. 
+Office 2002 application installed on computer 
+Users can interact with the component in design mode in that application only (not in the browser or in other applications). 
+Office 2002 site license (user doesn't have Office 2002 installed on computer, but user's organization has an enterprise or site license agreement) 
+However, the Web page designer must provide a location from which components can be downloaded, and must reference the site license in a license package file (.lpk) that is associated with one or more Web pages. 
+You use the License Package Authoring Tool to create an appropriate license file for pages. 
+For more information, see MSDN Online. 
+No Office 2002, Office 2002 applications, or site licenses 
+Users can view and print the components in view-only mode, but they can not interact with the components or use the design capabilities. 
+About avoiding the mixing of queries created under different ANSI SQL query modes 
+The two ANSI SQL query modes, ANSI-89 and ANSI-92, are not compatible. 
+When you create a Microsoft Access database, you need to decide which query mode you are going to use, because mixing queries created in both query modes could produce runtime errors or unexpected results. 
+The range of data types, reserved words, and wildcard characters are different in each query mode. 
+Example of a query using wildcard characters 
+A query that uses wildcard characters in a criteria expression can produce different results under each query mode. 
+For example, if you run: 
+An ANSI-89 SQL query in a database set to ANSI-92 query mode, such as: 
+SELECT asterisk FROM Customers WHERE Country Like U % 
+It returns all customers from a (country|region) named "U % ", not all (countries|regions) beginning with the letter "U ", because the percent sign (%) is not a wildcard character in ANSI-89 SQL. 
+Example of a query with a duplicate field and alias name 
+If a query uses an alias that is the same as a base column name and you create a calculated field using the ambiguous name, the query will produce different results under each query mode. 
+How to avoid problems caused by mixing queries under different ANSI SQL query modes in the same database 
+In general, avoid doing the following to prevent problems caused by mixing queries created under different ANSI SQL query modes: 
+Converting an Access database set to ANSI-92 SQL query mode from 2002 file format to 2000 or 97 file format. 
+ANSI-92 SQL query mode is only supported in the 2002 file format. 
+Changing the ANSI SQL query mode for the current database after you've created one or more queries. 
+If you must do this, retest the existing queries to ensure that they still run or produce expected results, and rewrite the queries if necessary. 
+Importing queries created under one ANSI SQL query mode into an Access database set to another mode, or exporting queries created under one ANSI SQL query mode to an Access database set to another mode. 
+Changing the ANSI SQL query mode in an existing application. 
+This could break your application and require rewriting your application. 
+In Access 2000, you can only programmatically change the ANSI SQL query mode and any queries created under ANSI-92 mode were hidden in the Database window. 
+In Access 2002, you or a user can change ANSI SQL query mode through the user interface and ANSI-92 queries are no longer hidden in the Database window, so you should prevent accidental or intentional changes to the ANSI SQL query mode of your application by protecting your code and preventing the changing of the query mode through the application's user interface. 
+Using ambiguous aliases and column names. 
+To avoid confusion, ensure that aliases and column names are always unique in an SQL statement. 
+About how Access searches for reference libraries 
+The Visual Basic project of a Microsoft Access file contains references to object libraries, and it can also contain references to other files, including other Access files. 
+The locations of referenced files are specified in the References dialog box that is available from the References command on the Tools menu in the Visual Basic Editor. 
+When you open an Access file, if Access doesn't find a referenced file in the specified location, it searches for the reference as follows. 
+First, Access searches for a RefLibPaths key in the following location in the Microsoft Windows Registry: 
+If the key exists, Access checks for the existence of a value name that matches the name of the referenced file. 
+If it finds a matching value name, Access loads the reference from the path specified in the corresponding value data. 
+If Access doesn't find a RefLibPaths key, it searches for the referenced file in the locations listed below in the following order: 
+Application folder containing the application (the folder where Msaccess.exe is located). 
+Current folder. 
+System folders (the System and System32 folders located in the Windows or WINNT folder). 
+PATH environment variable. 
+For more information about environment variables, see Windows Help. 
+The folder that contains the Access file, and any subfolders located in that folder. 
+If Access still can't find the reference after performing this search, you must fix the reference manually. 
+About saving an object as a data access page 
+You can also save tables, views, stored procedures, functions, and forms in a Microsoft Access project as a data access page. 
+Saving an object as a data access page enables you to quickly convert an object into a page, and allows users of your application to review, enter, and analyze data over the Internet or an intranet. 
+For example, if you have a sales report that you want to make available over the Web, instead of creating a data access page and customizing it to look like the sales report, you can save the report as a data access page. 
+Using the Save As command on the File menu will save a data access page that is similar in appearance and functionality to the original report. 
+If you want to make changes to the design of the resulting page, you can open the page in Design view and make any changes you want. 
+The default view – the view in which the object is open when you carry out the Save As command – determines the design of the data access page. 
+The following table lists the outcome of each view. 
+Default view (current view) 
+Outcome 
+Datasheet view 
+A page that has controls arranged as a datasheet 
+Form view 
+PivotTable view 
+A page that uses a Microsoft Office PivotTable Component 
+PivotChart view 
+A page that uses a Microsoft Office Chart Component 
+If you carry out the Save As command after making changes to the object's formatting, but before saving your changes, the current formatting – not the saved formatting – will be used to create the page. 
+Implications of using the Save As command 
+Control support 
+Such controls will be left unbound on a page. 
+Subforms and subreports 
+Subforms and subreports on a form or report are not converted when you carry out the Save As command. 
+However, you can open the page in Design view and create additional group levels to make the page appear similar to the original object. 
+Control naming 
+Controls on forms and reports need not have unique names, but names of controls on a page must be unique. 
+While creating the page, Access will change control names that are not unique. 
+Controls in the header and footer sections 
+Controls in the Form, Report, or page header sections will be placed as unbound controls in the caption section of the outermost group level. 
+Controls in the Form, Report, or page footer sections will be placed as unbound controls in the navigation section of the outermost group level. 
+Code in a form or report that can not run from a data access page is imported into the page as a comment block at the end of the document. 
+Pictures in a form or report are converted to bitmaps and placed in a folder named "Images ". 
+Group level properties 
+By default, the AllowAdditions, AllowDeletions, and AllowEdits properties of all group levels in a data access page created from a report are set to False. 
+However, you can open the page in Design view and change the property settings. 
+Expressions that refer to form or subform properties are ignored. 
+About sorting data in PivotTable or PivotChart view 

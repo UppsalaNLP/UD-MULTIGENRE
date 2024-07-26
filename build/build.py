@@ -2,10 +2,7 @@
 
 import argparse, sys, os, re, logging
 from collections import defaultdict
-import itertools
-import random
 import pandas as pd
-import numpy as np
 import pickle
 
 from sklearn.model_selection import train_test_split
@@ -192,11 +189,6 @@ def main():
             r"[Error] Please introduce a valid UD folder path and try again. Could not find the path '{args.ud_path}'")
         exit(1)
 
-    # Load treebanks
-    ud_path = "ud-treebanks-experiments"
-    ud = UniversalDependencies.from_directory(ud_path, ud_filter=None, verbose=True)
-    logger.info('UD data loaded successfully')
-
     # Load Nynorsk data
     nyblogtrain = load_f('Nynorsk_data/Nynorsk_blog_train.pkl')
     nyparltrain = load_f('Nynorsk_data/Nynorsk_parl_train.pkl')
@@ -208,6 +200,11 @@ def main():
     nyredev = load_f('Nynorsk_data/Nynorsk_legal_dev.pkl')
     nynewsdev = load_f('Nynorsk_data/Nynorsk_news_dev.pkl')
     logger.info('Nynorsk data loaded successfully')
+
+    # Load treebanks
+    ud_path = args.ud_path
+    ud = UniversalDependencies.from_directory(ud_path, ud_filter=None, verbose=True)
+    logger.info('UD data loaded successfully')
 
     # Initialize train and dev dicts
     training_data = defaultdict(dict)

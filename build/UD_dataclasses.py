@@ -4,13 +4,8 @@
 # This code is from https://github.com/personads/ud-selection/blob/main/lib/data.py
 
 
-import pandas
 import logging, os, re
 from collections import OrderedDict
-import conllu
-import pickle
-
-
 
 #
 # Primary Universal Dependencies Data Classes
