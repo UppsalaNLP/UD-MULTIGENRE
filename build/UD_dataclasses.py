@@ -1,21 +1,20 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# This code is from https://github.com/personads/ud-selection/blob/main/lib/data.py
+# This code is adapted from https://github.com/personads/ud-selection/blob/main/lib/data.py
 
 
 import logging, os, re
 from collections import OrderedDict
-
-#
-# Primary Universal Dependencies Data Classes
-#
-
+from mapping import map_lang
+from collections import defaultdict
+from cluster_patterns import *
 
 class UniversalDependencies:
 	def __init__(self, treebanks=[]):
 		self._treebanks = treebanks
-		self._index_map = self._build_index_map() # corpus_index -> (treebank_index, sentence_index)
+		# corpus_index -> (treebank_index, sentence_index)
+		self._index_map = self._build_index_map() 
 
 	def __repr__(self):
 		return f'<UniversalDependencies: {len(self._treebanks)} treebanks, {len(self)} sentences>'
@@ -85,6 +84,7 @@ class UniversalDependencies:
 			tb_name_match = re.match(r'UD_(.+)-(.+)', tb_dir)
 			if not tb_name_match:
 				continue
+
 			language = tb_name_match[1].replace('_', ' ')
 			tb_name = tb_name_match[2]
 
@@ -164,8 +164,63 @@ class UniversalDependencies:
 	def get_sentences_by_file(self):
 		for tb_file, sentences in self._get_sentences_by_criterion(self.get_treebank_file_of_index):
 			yield tb_file, sentences
+	
+	# added a function to check whether the mapping is valid
+	def validate_patterns_by_treebank(self, verbose=False):
 
-# In[ ]:
+		"""
+		Checks if patterns from the mapping.py file are present in the current version's treebank.
+		Returns: 1) True if all patterns are found, False otherwise, and 2) a dictionary of patterns for each treebank identifier
+		"""
+
+		treebanks = defaultdict(list)
+		for tb_split in self._treebanks:
+			# if tb has patterns in mapping.py, then add
+			language = '_'.join(tb_split._meta['Language'].split())
+			tb_patterns = map_lang[language][tb_split._meta['Treebank']].values()
+			if sum(list(tb_patterns),[]):
+				treebanks[language+'+'+tb_split._meta['Treebank']]+=[tb_split]
+
+		sentences_by_treebank = {
+			tb_id: [sentence for tb in tb_group for sentence in tb.get_sentences()]
+			for tb_id, tb_group in treebanks.items()
+		}
+
+		mapping_valid=True
+		patterns_by_treebank = defaultdict(dict)
+		for tb_id in sentences_by_treebank.keys():
+			pattern_list=[]
+			for sentence in sentences_by_treebank[tb_id]:
+				pattern_list+=list(filter(lambda item: any(id_key in item
+																for id_key in ["sent_id", "newdoc id", "doc_id", "newdoc_id", "newdoc", "genre"]), 
+																sentence.get_comments()))
+				
+			pattern_list='\n'.join(pattern_list)
+			language = tb_id.split('+')[0]
+			language = '_'.join(language.split()) # format as in mapping.py 
+			treebank = tb_id.split('+')[1]
+			# mapping patterns for the treebank	
+			mapping_patterns = sum(list(map_lang[language][treebank].values()), [])
+			found_patterns = [
+				match.group() 
+				for ptrn in mapping_patterns 
+				if (match := re.search(ptrn, pattern_list))
+			]
+			if verbose:
+				###########################################
+				print("Treebank: ", tb_id)
+				print("Mapping Patterns:", mapping_patterns)
+				print("Found Patterns:", found_patterns)
+				############################################
+
+			if len(mapping_patterns) != len(found_patterns):
+				mapping_valid=False
+
+			patterns_by_treebank[tb_id]={'mapping_patterns': mapping_patterns,
+								'found_patterns': found_patterns}
+			
+		return mapping_valid, patterns_by_treebank
+		
 
 
 class UniversalDependenciesTreebank:
@@ -189,6 +244,7 @@ class UniversalDependenciesTreebank:
 	@staticmethod
 	def from_conllu(path, name=None, meta=None, start_idx=0, ud_filter=None):
 		sentences = []
+
 		with open(path, 'r', encoding='utf8') as fp:
 			cur_lines = []
 			for line_idx, line in enumerate(fp):
@@ -200,6 +256,7 @@ class UniversalDependenciesTreebank:
 						sentence = UniversalDependenciesSentence.from_conllu(start_idx + len(sentences), cur_lines)
 						# if filter is set, set any sentences not matching the filter to None
 						if (ud_filter is not None) and (not ud_filter(sentence, meta)): sentence = None
+						
 						# append sentence to results
 						sentences.append(sentence)
 					except Exception as err:
@@ -211,8 +268,9 @@ class UniversalDependenciesTreebank:
 					cur_lines = []
 					continue
 				cur_lines.append(line)
+		
 		return UniversalDependenciesTreebank(sentences=sentences, name=name, meta=meta)
-
+	
 	def to_tokens(self):
 		sentences = []
 		for sentence in self:
@@ -259,13 +317,46 @@ class UniversalDependenciesTreebank:
 		statistics['metadata'] = list(sorted(statistics['metadata']))
 
 		return statistics
+	
+	# new: clustering patterns
+	def get_pattern_clusters(self, verbose=False, min_cluster_size=50):
+		"""
+		Groups patterns into clusters using HDBSCAN.
+		Returns a dictionary of clusters.
+		"""
+		tb=self
+		treebank_patterns = []
+		for sentence in tb:
+			treebank_patterns += list(filter(lambda item: any(id_key in item[0] 
+													for id_key in ["sent_id", "newdoc id", "doc_id", "newdoc_id", "newdoc"]), 
+													sentence.get_metadata().items()))
+		
+		treebank_patterns_dict = defaultdict(list)
+		for key, value in treebank_patterns:
+			treebank_patterns_dict[key].append(value)
 
+		clusters_dict = defaultdict(list)
+		longest_common_substrings = []
+		for key in treebank_patterns_dict.keys():
+			clusters = cluster_strings_hdbscan(treebank_patterns_dict[key], min_cluster_size=min_cluster_size)
+			clusters_dict[key] = clusters
 
+			# Find longest common substring shared by all members in a cluster
+			for label, members in clusters.items():
+				if label != -1:
+					longest_common_substrings+=[longest_common_substring(members)]
 
-
-
-# In[ ]:
-
+			if verbose:
+				print(f"""\n{'-'*100}\n*Pattern clusters*\nIdentifier: {key}\nTreebank: {self._meta['Treebank']}\nLanguage: {self._meta['Language']}""")
+				for label, members in clusters.items():
+					if label == -1:
+						print(f"\n{'-'*100}\nNoise: {members}")
+					else:
+						print(f"\n{'-'*100}\nCluster {label}: {members}")
+						print("Longest Common Substring: ", longest_common_substring(members))
+		
+		return clusters_dict, longest_common_substrings
+		
 
 class UniversalDependenciesSentence:
 	def __init__(self, idx, tokens, comments=[]):
