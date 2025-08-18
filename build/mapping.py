@@ -17,7 +17,7 @@ map_lang['Italian']['ISDT'] = {'news' : ['sent_id = 2Parole',
                                          'sent_id = isst_tanl'], 
                               'parliament' : ['sent_id = 2_Europarl'],
                               'QA' : ['sent_id = quest'], 
-                              'wiki' : ['sent_id = .*WIKI'], 
+                              'wiki' : [r'sent_id = .*WIKI'], 
                               'legal' : ['sent_id = splet']
                               }
 map_lang['Italian']['ParlaMint'] = {'parliament' : []}
@@ -28,7 +28,7 @@ map_lang['Italian']['MarkIT'] = {'learner_essays' : []}
 ##################
 
 map_lang['English']['GUMReddit'] = {'social' : []}
-map_lang['English']['Tweebank'] = {'social' : []} 
+map_lang['English']['Tweebank'] = {'social' : []} # not available in UD, DM me on GitHub
 map_lang['English']['EWT'] = {'social' : ['sent_id = newsgroup'],
                              'QA' : ['sent_id = answers'],
                              'reviews' : ['sent_id = reviews'],
@@ -47,9 +47,9 @@ map_lang['English']['GUM'] = {'news' : ['sent_id = GUM_news'],
                               'textbook' : ['sent_id = GUM_textbook']
                              } 
 map_lang['English']['Atis'] = {'spoken' : []}
-map_lang['English']['LinES'] = {'fiction' : ['sent_id = .*doc[234678]'],
-                               'parliament': ['sent_id = .*doc5'],
-                               'guide': ['sent_id = .*doc1']}
+map_lang['English']['LinES'] = {'fiction' : [r'sent_id = .*doc[234678]'],
+                               'parliament': [r'sent_id = .*doc5'],
+                               'guide': [r'sent_id = .*doc1']}
 
 ##################
 # Estonian 
@@ -58,7 +58,7 @@ map_lang['English']['LinES'] = {'fiction' : ['sent_id = .*doc[234678]'],
 map_lang['Estonian']['EDT'] = {'news' : ['sent_id = aja'],
                                'academic' : ['sent_id = tea'], 
                                'fiction' : ['sent_id = ilu']}
-map_lang['Estonian']['EWT'] = {'social' : ['sent_id = .*foorum', 
+map_lang['Estonian']['EWT'] = {'social' : [r'sent_id = .*foorum', 
                                            'sent_id = kom']}
 
 ##################
@@ -112,7 +112,7 @@ map_lang['Russian']['SynTagRus'] = {'news' : ['sent_id = newsYa'
                                    'academic' : [#train
                                                    'sent_id = 2020_Corpus2_0Kto_nasledil', #science: https://nplus1.ru/material/2020/09/17/trace
                                                    'sent_id = 2017Apresyan_1', #science: https://www.trv-science.ru/2017/02/yuri-apresyan-mathwalks/
-                                                   'sent_id = .*Kriptografiya', #popular science journal, contains interview parts: https://poisknews.ru/magazine/15295/
+                                                   r'sent_id = .*Kriptografiya', #popular science journal, contains interview parts: https://poisknews.ru/magazine/15295/
                                                   #dev                                                    #dev
                                                    'sent_id = 2007Chuvstvo_spravedlivosti.xml', #https://www.nkj.ru/archive/articles/3387/ #Science and life, Article by Yu. Frolov, 
                                                    'sent_id = 2003Biologiya.xml', #https://zoom.cnews.ru/rnd/article/item/evolyutsionnaya_biologiya_i_vysokie_tehnologii_simbioz_budushchego
@@ -133,12 +133,12 @@ map_lang['Russian']['SynTagRus'] = {'news' : ['sent_id = newsYa'
                                                     'sent_id = 2020_RFFIIndoneziya_ot_ada_do_raya.xml_700', #http://www.nm1925.ru/Archive/Journal6_2019_3/Content/Publication6_7138/Default.aspx 
                                                     'sent_id = 2020_Corpus2_0Velikoe_pereselenie', #https://www.vestnik-evropy.ru/issues/night-the-great-migration.htmljournal: "Vestnik Evropy", literature, politics, philosophy,culture
                                                     'sent_id = 2018V_strane_mormonov.xml', #https://magazines.gorky.media/druzhba/2017/12/moya-amerika-zhizn-v-strane-mormonov.html
-                                                    'sent_id = 2019Lingvistika_i_morzhevanie.xml' #https://snob.ru/profile/28809/blog/85851/
+                                                    'sent_id = 2019Lingvistika_i_morzhevanie.xml', #https://snob.ru/profile/28809/blog/85851/
                                                     #dev
-                                                    'sent_id = 2003A_on_myatezhnyi.xml'#https://www.nkj.ru/archive/articles/2542/
+                                                    'sent_id = 2003A_on_myatezhnyi.xml',#https://www.nkj.ru/archive/articles/2542/
                                                     'sent_id = 2007Chelovek_na_tribune.xml'#biography of Roman Abramovich
                                                          ],
-                                    'interview' : ['sent_id = .*Interviyu'],
+                                    'interview' : [r'sent_id = .*Interviyu'],
                                     'wiki' : ['genre = wiki', 
                                               'sent_id = 2013Algoritm.xml', #https://ru.wikipedia.org/wiki/Алгоритм
                                               'sent_id = 2012Galileo_Galilei.xml'#https://ru.wikipedia.org/wiki/Галилей,_Галилео                                                      }
@@ -171,7 +171,7 @@ map_lang['Turkish']['Atis'] = {'spoken' : []}
 # Western Armenian 
 ##################
 
-map_lang['Western Armenian']['ArmTDP'] = {'nonfiction_prose' : ['sent_id = nonfiction-002I',
+map_lang['Western_Armenian']['ArmTDP'] = {'nonfiction_prose' : ['sent_id = nonfiction-002I',
                                                                ],#https://inknagir.org/?author=13 #'sent_id = nonfiction-(?!002I)'
                                           
                                           #dev
@@ -231,7 +231,7 @@ map_lang['Dutch']['Alpino'] = {'news' : ['sent_id = cdb'],
 # Slovenian 
 ##################
 
-map_lang['Slovenian']['SSJ'] = {'wiki' : ['sent_id = .*sl']}
+map_lang['Slovenian']['SSJ'] = {'wiki' : [r'sent_id = .*sl']}
 map_lang['Slovenian']['SST'] = {'spoken' : []}
 
 ##################
@@ -246,11 +246,11 @@ map_lang['French']['Rhapsodie'] = {'spoken' : []}
 map_lang['French']['ParisStories'] = {'spoken' : []}
 
 ###############
-# code-switch
+# Code-Switch
 ###############
 
-map_lang['Turkish German']['SAGT'] = {'spoken' : []}
-#map_lang['Hindi English']['HIENCS'] = {'social' : []}
+map_lang['Turkish_German']['SAGT'] = {'spoken' : []}
+#map_lang['Hindi English']['HIENCS'] = {'social' : []} # Code-Switching treebank, available from: https://github.com/UniversalDependencies/UD_Hindi_English-HIENCS
 
 ##################
 # Naija 
@@ -262,14 +262,14 @@ map_lang['Naija']['NSC'] = {'spoken' : []}
 # Norwegian 
 ##################
 
-map_lang['Norwegian']['NynorskLIA'] = {'spoken' : []}
+map_lang['Norwegian']['NynorskLIA'] = {'spoken' : []} # Not in UD: # https://github.com/UniversalDependencies/UD_Norwegian-NynorskLIA
 
 ##################
 # Finnish 
 ##################
 
-map_lang['Finnish']['TDT'] = {'wiki' : ['sent_id = w\d+'],
-                             'news' : ['sent_id = wn\d+'],
+map_lang['Finnish']['TDT'] = {'wiki' : [r'sent_id = w\d+'],
+                             'news' : [r'sent_id = wn\d+'],
                              'legal' : ['sent_id = j'],
                              'blog' : ['sent_id = b'],
                              'fiction' : ['sent_id = f'],
@@ -297,16 +297,19 @@ map_lang['Slovak']['SNK'] = {#'blog' : ['sent_id = blogsme'],
 ##################
 
 map_lang['Czech']['CAC'] = {
-    'legal' : ['sent_id = a'],#administrative
-    'news' : ['sent_id = n'], #newspapers
+    'legal' : ['sent_id = a'],# administrative
+    'news' : ['sent_id = n'], # newspapers
     'academic' : ['sent_id = s']}
 # the "s20w" part identifies the source document, where "w" means "written", "20" is the document id number and "s" means scientific (while "a20w" is the twentieth document from the administrative genre, and "n20w" from newspapers).
-map_lang['Czech']['PDT'] = {
+map_lang['Czech']['PDTC'] = {
     'news' : ['sent_id = l', 
-              'sent_id = m'],
-    'academic' : ['sent_id = v']#popular scientific articles
-    #,l (ln) and m (mf) are mainstream daily papers (news, commentaries, but also
-  #sports results and TV programs) #c (cmpr) is a business weekly #v #(vesm) contains popular scientific articles (the hardest to parse: long
+              'sent_id = m',
+              'sent_id = w'], # translations of Wall Street Journal
+    'academic' : ['sent_id = v']# popular scientific articles
+  # l (ln) and m (mf) are mainstream daily papers (news, commentaries, but also sports results and TV programs) 
+  # c (cmpr) is a business weekly 
+  # v (vesm) contains popular scientific articles (the hardest to parse: long
+  # s (pdtsc) are the transcribed dialogs from PDTSC.
 }
 map_lang['Czech']['FicTree'] = {'fiction' : []}
 
@@ -397,8 +400,8 @@ map_lang['German']['HDT'] = {'news' : []}
 # Greek 
 ##################
 
-map_lang['Greek']['GDT'] = {'news' : ['sent_id = .*elwikinews'],
-                            'parliament' : ['sent_id = .*ep-sessions']}
+map_lang['Greek']['GDT'] = {'news' : [r'sent_id = .*elwikinews'],
+                            'parliament' : [r'sent_id = .*ep-sessions']}
 
 ##################
 # Hebrew 
@@ -426,7 +429,7 @@ map_lang['Indonesian']['CSUI'] = {'news' : []}
 ##################
 
 # news nonfiction legal scientific
-map_lang['Lithuanian']['ALKSNIS'] = {'academic' : ['sent_id = .*rec', 
+map_lang['Lithuanian']['ALKSNIS'] = {'academic' : [r'sent_id = .*rec', 
                                                    'sent_id = mok_santr'],
                                      'legal' : [
                                              #train
@@ -435,7 +438,8 @@ map_lang['Lithuanian']['ALKSNIS'] = {'academic' : ['sent_id = .*rec',
                                             'sent_id = Smulkiojo_ir_vidutinio', 
                                             'sent_id = Nutarimas_kulturos_politikos',
                                             #dev
-                                            'send_id = 2004_AM_Isak', 'sent_id = 2009_komunikatas'],
+                                            'sent_id = 2004_AM_Isak', 
+                                            'sent_id = 2009_komunikatas'],
                                      'news' : ['sent_id = kd'],
                                 
                                     'fiction' : ['sent_id = Navakas', 
@@ -450,11 +454,11 @@ map_lang['Lithuanian']['ALKSNIS'] = {'academic' : ['sent_id = .*rec',
 # Scottish Gaelic 
 ##################
 
-map_lang['Scottish Gaelic']['ARCOSG'] = {'fiction' : ['sent_id = f0'],
+map_lang['Scottish_Gaelic']['ARCOSG'] = {'fiction' : ['sent_id = f0'],
                                         'news' : ['sent_id = ns'],
                                         'spoken' : ['sent_id = c', 
-                                                    'sent_id = n\d'],
-                                        'interview' : ['sent_id = p\d']
+                                                    r'sent_id = n\d+'],
+                                        'interview' : [r'sent_id = p\d+']
                                         }
 ##################
 # Chinese 
@@ -466,8 +470,8 @@ map_lang['Chinese']['GSD'] = {'wiki' : []}
 # Maltese 
 ##################
 
-map_lang['Maltese']['MUDT'] = {'fiction' : ['sent_id = .*F'],
-                               'parliament': ['sent_id = .*P']} #also newspaper interviews
+map_lang['Maltese']['MUDT'] = {'fiction' : [r'sent_id = .*F'],
+                               'parliament': [r'sent_id = .*P']} #also newspaper interviews
 #J NEWS annotation includes op-eds, opinion-based articles
 #nonfiction N also includes blogs, wikipedia, which we consider separate genres
 
@@ -484,9 +488,9 @@ map_lang['Uyghur']['UDT'] = {'fiction' : []}
 # Swedish 
 ##################
 
-map_lang['Swedish']['LinES'] = {'fiction' : ['sent_id = .*doc[234678]'],
-                               'parliament': ['sent_id = .*doc5'],
-                               'guide': ['sent_id = .*doc1']}
+map_lang['Swedish']['LinES'] = {'fiction' : [r'sent_id = .*doc[234678]'],
+                               'parliament': [r'sent_id = .*doc5'],
+                               'guide': [r'sent_id = .*doc1']}
 
 ##################
 # Afrikaans 
