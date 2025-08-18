@@ -73,10 +73,10 @@ Danilova, Vera and Sara Stymne. 2023. [UD-MULTIGENRE – a UD-Based Dataset Enri
 ## Change Log
 **From v 1.1 to 1.2**
 - Updated to support the latest Universal Dependencies version (v2.16).
-- Enhanced `UD_dataclasses.py`:
+- Enhanced `build/UD_dataclasses.py`:
     - Added `validate_patterns_by_treebank` to the `UniversalDependencies` class for validating the genre mapping (`mapping.py`) against a new UD version.
     - Added `get_pattern_clusters` to the `UniversalDependenciesTreebank` class for clustering prefix patterns within a treebank and extracting the longest common substrings in each cluster.
-- Introduced the `load_and_update.ipynb` notebook, which:
+- Introduced the `build/load_and_update.ipynb` notebook, which:
     - Loads a new UD version.
     - Selects treebanks with available genre mappings.
     - Validates and clusters prefix patterns.
