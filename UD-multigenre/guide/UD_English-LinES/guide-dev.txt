@@ -1,0 +1,119 @@
+When a user connects to the SQL Server database through a Microsoft Access project, the connection is enabled through a Windows NT user account. 
+SQL Server verifies that the account name and password were validated when the user logged on to the system and grants access to the database, without requiring a separate logon name or password. 
+With the default installation of the Microsoft SQL Server 2000 Desktop Engine with integrated security, the user must be a member of the administrator group for the machine on which the Access project resides. 
+This makes it difficult to allow other users to gain access to the Access project. 
+There is currently no simple way for the system administrator to create new logon accounts to the locally installed SQL Server database except by using SQL Tools or Transact-SQL (TSQL) commands. 
+See the http://officeupdate.microsoft.com/, Microsoft Developer Network Web site for more information on TSQL. 
+You can change the security mode for accessing the SQL Server database on a computer running Windows NT. 
+By setting properties from the View menu, you can enable mixed mode security. 
+Using the default SA account, users can access the SQL Server database through the Access project without any additional security requirements. 
+The administrator of the SQL Server can also add additional security by changing the default SA account password. 
+In order for the Enable system administrator (SA) user name check box to be enabled, the following must be true. 
+The Access project must be connected to a SQL Server 7.0 (or later) database or a Microsoft SQL Server 2000 Desktop Engine. 
+The SQL Server database must be running on a Windows NT platform. 
+The SQL Server must be running on the same computer as the Access project. 
+The current Windows NT user must be an Administrator for the computer. 
+The current SQL Server user must be a member of the System Administrator role. 
+After changing the security mode, it is strongly recommended that the SA password be changed by using the Set Login Password command (on the Tools menu, point to Security). 
+Some of the hyperlinks in this topic go to the Web. 
+About XML data and Access 
+Extensible Markup Language (XML) is the standard language for describing and delivering data on the Web, just as Hypertext Markup Language (HTML) is the standard language for creating and displaying Web pages. 
+Microsoft Access provides ways to both import and export XML data as well as transform the data to and from other formats using XML related files. 
+About XML 
+Moving information across the Internet and between software applications has always been difficult due to differences in data formats and proprietary structures. 
+HTML, while well suited for providing text and image display information for Web browsers, is limited in its ability to define data and data structures. 
+HTML describes how a Web page should look, whereas XML defines the data and describes how the data should be structured. 
+XML is a data interchange format in that it allows you to exchange data between dissimilar systems or applications. 
+XML separates the data from the presentation so that the same XML data can be presented in multiple ways by using different presentation files. 
+XML is a standards-based protocol that is governed by the World Wide Web Consortium (W3C). 
+The XML protocol is a set of rules, guidelines, and conventions for designing data formats and structures, in a way that produces files that are easy to generate and easily read by different computers and applications. 
+In addition, XML defined structures are unambiguous; that is, they are self-describing and platform-independent. 
+Like HTML, XML makes use of tags and attributes, but while HTML specifies what each tag and attribute means (and thus how the data between them will look in a browser), XML uses the tags only to delimit pieces of data, and leaves the interpretation of the data completely to the application that reads it. 
+Additional information about XML can be found on the web site. 
+About importing XML data 
+Access provides choices for using data from many external sources. 
+XML makes it easier to transform the data from almost any external application for use by Access. 
+You can: 
+Use an Extensible Stylesheet Language Transformation (XSLT) file to transform the data into an Access data format. 
+You can use the Import command (point to Get External Data on the File menu) to import XML data files into Access. 
+This command displays the Import dialog box so that you can select an XML document as well as a schema, which describes the structure of the data. 
+You can only import a single document at a time into Access. 
+The data must be in a format that Access recognizes, either in a native format or through the use of a schema. 
+Note that when importing XML data, you can not choose a subset of the XML document; the entire file has to be imported. 
+You can transform the native XML data into a specific Access format by choosing from the options in the Import XML dialog box. 
+You can also specify whether to overwrite any existing tables or append to existing data. 
+What are XML schemas 
+You use XML schemas to describe the structure of data in a common format that customers, other Web browsers, and any number of XML-enabled software programs can recognize. 
+Specifically, schemas define the rules of an XML data document, including element names and data types, which elements can appear in combination, and which attributes are available for each element. 
+Schemas provide a model for an XML data document which defines the arrangement of tags and text within all documents referencing the schema. 
+Access supports the XML Schema standard (XSD). 
+XSD is a proposed World Wide Web Consortium (W3C) standard designed as a basic infrastructure for describing the type and structure of XML documents. 
+By using a schema, you can ensure that any XML document that is used to import data into Access or export from Access to another format contains specific data and conforms to a defined structure. 
+You can also provide the schema to other businesses and applications so that they know how they should structure any data they provide to you and they, in turn, can provide their schema to you. 
+Displaying XML data 
+XML syntax (the tags and their placement in a document) defines and describes the data in an XML document but doesn't indicate how the data should be displayed. 
+In earlier applications and in some current uses, Cascading Style Sheets (CSS) were used to tell the browser how to display the XML data. 
+However, a CSS isn't always a good choice because they are written in a specialized language which means that the developer has to use another language in order to write, modify, or understand the structure of the style sheet. 
+A CSS merely allows you to specify the formatting of each XML element without much control over the output. 
+On the other hand, an Extensible Stylesheet Language (XSL) style sheet is considerably more flexible than a CSS file. 
+It allows you to precisely select the data that will be displayed, to specify the order or arrangement of the data, and to modify or add information. 
+You can apply a filter to a row or column field to show the top or bottom n items based on a total. 
+For example, you can filter for the top or bottom 25 % of salespeople based on the number of orders handled. 
+Combining multiple filters 
+Filters are additive. 
+Each filter you apply is added to the ones you already have in effect. 
+However, when you apply a filter by selection, the conditional filter already applied on the field is removed before the filter by selection is applied. 
+Conditional filters are independent of each other. 
+The result of one conditional filter does not affect the result of another. 
+An autofilter is always applied before a conditional filter, regardless of the order in which you applied them. 
+For example, if you set a conditional filter to show the top two cities based on sales, followed by an autofilter on the ShippedCity field to include only five cities, the PivotTable view will show the top two of the five cities you selected. 
+Removing and reapplying a filter 
+However, the filter settings are retained, so that when you turn autofiltering back on, the data that was previously displayed or hidden is again displayed or hidden. 
+Filter settings are retained when you move fields to change the layout. 
+Also, if you remove a field and later add the field back to the layout, the same items are again hidden. 
+If you don't want to retain your filter selections, make sure the AutoFilter button is not selected before you start selecting items to filter. 
+If the button is not selected, selecting new items to filter automatically turns filtering on and removes your former filter settings. 
+Identifying filters that are currently in effect 
+When items in a field are hidden by autofiltering or filter by selection, the drop-down arrow Field arrow in the field label is blue. 
+Click the blue arrow to see the filter that is in effect. 
+When items in a field are hidden by conditional filtering, a funnel appears to the left of the drop-down arrow Field arrow. 
+You can get more information about the current filter in the Properties dialog box. 
+Effects of filtering on calculations 
+Totals can include only the displayed data, or both visible and hidden data. 
+About customizing a control 
+In Design view of a form, report, or data access page, you can format a control in the following ways: 
+Size. 
+You can resize a control by using the sizing handles, or you can resize a control to the height or width of another control. 
+When you are in Design view of a form or report, you can use the ruler to help you resize controls. 
+The width of the ruler's unit of measure is based on the regional settings in Microsoft Windows Control Panel. 
+Color, transparency, and special effects. 
+You can change the color of a control or make it transparent. 
+You can also emphasize the appearance of a control by using special effects. 
+For example, you can specify that a control is raised, sunken, or etched. 
+On a form or report, you can also specify that a control is shadowed or chiseled. 
+Borders. 
+You can set the color and width of borders of controls. 
+Also, you can set the line style of borders. For example, you can specify that a border consists of dashes or dots. 
+Appearance of text. 
+You can specify the font and font size for text in a control. 
+Also, you can make the text in a control bold, italic, or underlined. 
+Position. 
+You can move a control or align it relative to another control. 
+You can increase or decrease the space between controls, or you can specify that controls are evenly spaced. 
+About changing the properties of several controls at once 
+You can change property settings for a group of controls of the same type or for a group of controls of different types. 
+If you select controls of different types, Microsoft Access displays only the properties that are shared by the group in the property sheet. 
+If all the controls that you've selected share the same property setting, that setting appears in the property sheet; otherwise, that property box is blank. 
+If you change the property setting, the change is applied to all selected controls. 
+To select several controls at once in a data access page, you must have Microsoft Internet Explorer 5.5 installed on your computer. 
+In a form or report, the Name property never appears when more than one control is selected because control names must be unique. 
+About grouping data in PivotTable and PivotChart view 
+Grouping on intervals in PivotTable and PivotChart view 
+You can group items by specifying the type of interval and the size of the interval. 
+For example, you can group a field with date values into different months, and specify the interval as 2, to create groups such as Jan-Feb, Mar-Apr, and so on. 
+The type of interval you can specify for a field depends on the data type of the field. 
+Numeric fields 
+You can group in intervals of any integer, such as 1, 2, 5, 100, and so on. For example, you can group the EmployeeID field into groups of 1-100, 101-200, and so on. 
+Date and time fields 
+You can group in intervals such as days, weeks, and quarters. 
+For example, you can group the values in the ShippedDate field into months to show data for orders shipped in January, orders shipped in February, and so on. 

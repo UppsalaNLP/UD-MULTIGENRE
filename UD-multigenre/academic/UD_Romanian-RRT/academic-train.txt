@@ -1,0 +1,1100 @@
+2) Tensiunea de frânare Uf variază liniar cu frecvența v a radiației incidente; ea nu este dependentă de fluxul luminos. 
+Prin tensiune de frânare se înțelege tensiunea necesară pentru anularea curentului din circuit. 
+3) Pentru o anumită valoare a frecvenței, v0, numită prag fotoelectric, tensiunea de frânare este nulă. 
+Pentru v < v0 efectul fotoelectric nu se mai produce. 
+v0 este o caracteristică a metalului. 
+Fizica clasică nu poate explica aceste legi. 
+Clasic, ne-am fi așteptat ca la creșterea fluxului luminos electronul extras să aibă viteze mai mari. 
+Experiența arată că la creșterea intensității luminii se mărește numai numărul de electroni emiși în unitatea de timp, dar nu și energia lor. 
+Energia electronilor emiși depinde numai de frecvența luminii incidente (nu și de intensitate). 
+În 1905 Albert Einstein nu numai că a postulat caracterul cuantic al proceselor de absorbție și emisie a radiației (ipoteză introdusă de Planck), ci a susținut că astfel de proprietăți sunt inerente naturii radiației însăși (energia dintr-un fascicul de lumină monocromatică sosește în porții de valoare hv; 
+această cuantă de energie poate fi transferată complet unui electron atunci când acesta este încă în metal). 
+Din relația (154) se constată că energia electronilor emiși crește liniar cu frecvența, dar este independentă de intensitatea luminii. 
+Numărul de electroni emiși este proporțional cu numărul cuantelor incidente și deci cu intensitatea luminii. 
+Pentru o anumită tensiune de frânare Uf electronii nu mai ajung la anod, deoarece lucrul forțelor electrostatice compensează energia cinetică a electronilor ieșiți din metal. 
+Millikan a verificat experimental relația (154), trasând curbele de variație a energiei cinetice a electronilor emiși în funcție de frecvența radiației incidente, pentru diferite metale, obținând drepte paralele din a căror pantă a determinat constanta lui Planck. 
+În anul 1923 Arthur Compton a constatat că radiațiile X difuzate (împrăștiate) de electronii „liberi ” din atomii grafitului sau parafinei sunt formate atât din radiații ce nu și-au modificat lungimea de undă, cât și din radiații care și-au mărit lungimea de undă. 
+Prin electroni „liberi ” se înțeleg acei electroni a căror energie de legătură cu atomul de care aparțin este mai mică decât energia fotonului incident. 
+Electronii de valență ai elementelor ușoare (Li, Be, B) sunt slab legați în atom, putând fi considerați ca electroni „liberi ”. 
+Fenomenul nu poate fi explicat pe baza teoriei ondulatorii (clasice). 
+Ca și efectul fotoelectric, efectul Compton poate fi interpretat corect doar admițând că radiațiile X, asemenea radiațiilor luminoase, au un caracter corpuscular, fiind formate din fotoni cu o energie determinată. 
+Având o masă foarte mică, electronul poate ajunge ușor la viteze mari și deci calculul privind „ciocnirea ” fotonului de energie hv0 cu un electron liber trebuie efectuat pe baza teoriei relativității. 
+Pentru simplificarea calculelor vom presupune că electronul se află în repaus înainte de „ciocnire ”. 
+Se constată că valoarea deplasării Compton delta lambda crește când unghiul de difuzie theta crește de la 0 la pi, este independentă de natura substanței difuzante (la unghiuri de difuzie egale) și de lungimea de undă lambda 0 a radiației incidente. 
+Intensitatea radiației deplasate crește cu theta și scade cu Z (numărul de ordine al substanței difuzante). 
+Intensitatea radiației difuzate la lungimea de undă lambda scade dacă lambda 0 crește. 
+Pentru a explica stabilitatea și spectrul atomilor de hidrogen, Bohr a introdus în anul 1913 două postulate: 
+1) Electronul se poate roti în jurul nucleului numai pe anumite orbite circulare staționare (atomul poate exista numai într-un șir discret de stări staționare). 
+În aceste stări staționare energia este constantă; electronul nu absoarbe și nu emite energie (în contradicție cu legile electromagnetismului clasic, în care o sarcină în mișcare accelerată emite un spectru continuu de radiație). 
+2) Atomul absoarbe sau emite energie numai la trecerea dintr-o stare staționară în altă stare staționară. 
+Orbita electronului este determinată de condiția de echilibru dinamic (forța centripetă este forța electrostatică). 
+Semnul minus al energiei totale arată că între electron și nucleu se exercită o forță de atracție, astfel că energia electronului legat de nucleu este mai mică decât energia electronului liber, separat de nucleu. 
+Deci semnul minus arată că electronul se află într-o stare legată în atom. 
+S-a presupus că nucleul este fix, lucru care este incorect, deoarece atât nucleul, cât și electronul se rotesc în jurul centrului lor de masă comun. 
+Centrul de masă comun se confundă cu nucleul numai atunci când masa nucleului este infinit de mare față de masa electronului. 
+Această corecție a constantei Rydberg produce o deplasare a spectrului în cazul diferiților izotopi, numită deplasare izotopică. 
+Liniile seriilor spectrale Lyman, Balmer și Paschen au fost descoperite cu mult timp înaintea lui Bohr. 
+Intensitatea liniilor spectrale scade treptat pe măsură ce se micșorează lungimea de undă. 
+Nu există o separare netă între seriile spectrale, acestea suprapunându-se parțial. 
+Fiecare serie spectrală are o lungime de undă limită, începând de la care apare apoi spectrul continuu (limita seriei se obține pentru k = infinit). 
+O confirmare directă a existenței nivelelor de energie discrete în atom este dată de principiul de combinare al lui Ritz, descoperit cu opt ani înainte ca teoria lui Bohr să fie expusă. 
+Acest principiu arată că dacă se dau numerele de undă pentru două linii spectrale ale aceleiași serii, diferența lor va fi egală cu numărul de undă pentru o a treia linie spectrală a aceluiași atom (experimental nu se observă toate liniile spectrale determinate pe baza acestui principiu, datorită existenței unor reguli de selecție). 
+O altă confirmare a teoriei lui Bohr cu privire la existența nivelelor de energie discrete în atom a fost dată de experiențele lui Franck și Hertz din 1913. 
+Prin bombardarea atomilor cu electroni, atomii absorb numai acele porții de energie care corespund exact unei energii de excitare a lor. 
+Electronii obținuți prin încălzirea unui filament F sunt accelerați de câmpul electric dintre filament și grila G. 
+Placa A din apropierea grilei se află la un potențial mai scăzut decât grila (diferența de potențial dintre grilă și placă fiind de 0,5 V). 
+În interiorul tubului în care se găsesc cei trei electrozi se află vapori de mercur la presiunea de circa 1 torr (1 mm Hg). 
+Dacă diferența de potențial Ug dintre filament și grilă crește, în circuitul plăcii apare un curent care prezintă scăderi bruște pentru valori ale tensiunii egale cu un multiplu de 4,9 V. 
+Fiind încărcată pozitiv în raport cu placa, grila poate capta electronii care și-au pierdut aproape complet energia în urma ciocnirilor inelastice suferite cu atomii de mercur (acești electroni nu pot învinge potențialul de frânare dintre grilă și placă). 
+În urma ciocnirii inelastice energia electronilor este transferată atomilor de mercur, care trec într-o stare excitată, dar revin la starea inițială după un timp foarte scurt, prin emisia unei radiații cu lungimea de undă 2537 A. 
+Pentru U = 9,8 V are loc o ciocnire neelastică într-un punct aflat la mijlocul distanței dintre filament și grilă, când electronul are energia de 4,9 eV și o altă ciocnire neelastică în apropierea grilei, când electronul accelerat atinge din nou 4,9 eV și pierde această energie, care este preluată de un atom de mercur. 
+Astfel se verifică ipoteza discontinuității stărilor energetice ale atomilor. 
+Sommerfeld tratează relativist mișcarea electronului pe o orbită eliptică, justificând existența structurii fine a liniilor spectrale, dar nici modelul său nu este acceptabil, deoarece folosește noțiunea de traiectorie bine definită. 
+Radiațiile X descoperite de Rontgen în 1895 sunt radiații electromagnetice de mare energie, ale căror lungimi de undă sunt cuprinse între 0,0005 A și 10 A. 
+Ele sunt produse prin bombardarea unei ținte metalice de către electroni de mare energie. 
+Un dispozitiv pentru obținerea radiațiilor X este format dintr-un tub de sticlă vidat în care termoelectronii emiși de catodul K bombardează anodul A. 
+Tuburile de puteri mari au un înveliș metalic cu ferestre special amenajate, care pot fi străbătute de radiațiile X emise. 
+Anodul poate fi răcit prin circulație de apă sau de ulei. 
+Radiația X poate fi pusă în evidență cu ajutorul unor ecrane fluorescente (platinocianura de bariu, wolframatul de calciu), al unor plăci fotografice sau cu un detector bazat pe ionizarea unui gaz. 
+Spectrele de radiații X sunt de două feluri: spectre continue și spectre discrete. 
+Spectrul de raze X emis de anodul bombardat cu electroni rapizi este o suprapunere a unui spectru continuu cu un spectru discret. 
+Înainte de a ajunge în repaus, un electron poate emite mai mulți fotoni. 
+Fotonul de radiație X cu energia cea mai mare (lungimea de undă minimă) corespunde cazului când electronul pierde toată energia sa în cursul unei singure interacțiuni. 
+Am neglijat energia cinetică a electronilor la catod, astfel că atunci când electronii lovesc ținta au o energie cinetică eU, U fiind diferența de potențial aplicată electrozilor, iar e sarcina electronului. 
+Există astfel o frecvență maximă (lungime de undă minimă) care limitează spectrul continuu al radiațiilor X. 
+Această lungime de undă minimă depinde numai de tensiunea de accelerare și nu este dependentă de natura atomului țintă. 
+Spre lungimi de undă mici intensitatea radiației X are o scădere bruscă, în timp ce pentru lungimi de undă mari scăderea intensității este asimptotică. 
+La creșterea tensiunii de accelerare spectrul continuu de raze X se deplasează în regiunea lungimilor de undă scurte, iar intensitatea radiației emise crește. 
+Spectrele discrete de raze X, numite și spectre caracteristice de linii, se datorează unui alt tip de interacțiune între electronul accelerat și atomul țintei, prin care unul din electronii cu număr cuantic principal mic aflat pe o pătură electronică interioară este expulzat (smuls) din atom, atomul rămânând într-o stare ionizată, excitată. 
+La revenirea atomului în starea inițială (prin ocuparea nivelului energetic liber de către un electron din păturile electronice exterioare) se emite un foton X caracteristic atomului țintă. 
+Creșterea în continuare a tensiunii de accelerare duce la o creștere a intensității spectrului caracteristic, fără a modifica poziția maximelor. 
+Datorită sarcinii mari a nucleului, electronii cei mai apropiați de nucleu sunt legați aproape exclusiv de nucleu și de aceea se mișcă asemenea electronului din atomul de hidrogen. 
+Un limbaj de programare reprezintă o interfață între problema de rezolvat și programul de rezolvare. 
+Limbajul de programare, prin specificarea unor acțiuni care trebuie executate eficient, este apropiat de mașină. 
+Pe de altă parte, el trebuie să fie apropiat de problema de rezolvat, astfel încât soluția problemei să fie exprimată direct și concis. 
+Trecerea de la specificarea problemei la program nu este directă, ci presupune parcurgerea mai multor etape. 
+Limbajul C a fost creat de Dennis Ritchie și Brian Kernighan și implementat pe o mașină DEC PDP11, cu intenția înlocuirii limbajului de asamblare. 
+Limbajul are precursori direcți limbajele BCPL (Richards) și B (Thompson). 
+Limbajul este folosit ca mediu de programare pentru sistemul de operare UNIX. 
+Limbajul a fost standardizat în 1983 și 1989. 
+Limbajul C + + a fost dezvoltat de Bjarne Stroustrup pornind de la limbajul C, începând din anul 1980. 
+C + + împrumută din Simula 67 conceptul de clasă și din limbajul Algol 68 - supraîncărcarea operatorilor. 
+Dintre noutățile introduse de C + + menționăm: moștenirea multiplă, funcțiile membre statice și funcțiile membre constante, șabloanele, tratarea excepțiilor, identificarea tipurilor la execuție, spațiile de nume, etc. 
+Deși C + + este considerat o extensie a limbajului C, cele două limbaje se bazează pe paradigme de programare diferite. 
+Limbajul C folosește paradigma programării procedurale și structurate. 
+Conform acesteia, un program este privit ca o mulțime ierarhică de blocuri și proceduri (funcții). 
+Limbajul C + + folosește paradigma programării orientate pe obiecte, potrivit căreia un program este constituit dintr-o mulțime de obiecte care interacționează. 
+Elementul constructiv al unui program C este funcția. 
+Un program este constituit dintr-o mulțime de funcții, declarate pe un singur nivel (fără a se imbrica unele în altele), grupate în module program. 
+O funcție este o secțiune de program, identificată printr-un nume și parametrizată, construită folosind declarații, definiții și instrucțiuni de prelucrare. 
+Atunci când este apelată, funcția calculează un anumit rezultat sau realizează un anumit efect. 
+Funcția main () este prezentă în orice program C. 
+Execuția programului începe cu main (). 
+Funcția main () poate întoarce un rezultat întreg (int) sau nici un rezultat (void). 
+Numai în C este posibil să nu specificăm tipul rezultatului întors de funcție, acesta fiind considerat în mod implicit int. 
+Programul folosește un comentariu, delimitat prin / * și * / care, prin explicații în limbaj natural, crește claritatea programului. 
+Comentariul este constituit dintr-o linie sau mai multe linii, sau poate apărea în interiorul unei linii. 
+Nu se pot include comentarii în interiorul altor comentarii. 
+Acest fișier conține prototipurile unei serii de funcții de intrare și ieșire folosite de majoritatea programelor C. 
+Fișierele antet au prin convenție extensia h. 
+Să se stabilească dacă un număr este sau nu palindrom (are aceeași reprezentare citit de la stânga sau de la dreapta). 
+Corpul buclei este format dintr-o singură instrucțiune. 
+Repetarea se face cel puțin o dată. 
+Plasarea acestei instrucțiuni în corpul unui ciclu are ca efect terminarea iterației curente și trecerea la iterația următoare. 
+O secvență de numere întregi este terminată prin 0. 
+Să se calculeze suma termenilor pozitivi din secvență. 
+Are ca efect ieșirea dintr-o instrucțiune de ciclare sau dintr-o instrucțiune switch, pentru a face alternativele disjuncte (în caz contrar dintr-o alternativă se trece în următoarea). 
+Permite implementarea unor cicluri cu mai multe ieșiri plasate oriunde în interiorul ciclului. 
+Orice funcție nedeclarată void va trebui să întoarcă un rezultat. 
+Tipul acestui rezultat este specificat în antetul funcției. 
+Transmiterea acestui rezultat este realizată de o instrucțiune return inclusă în corpul funcției. 
+De pe mediul de intrare se citește un număr real R reprezentând un unghi exprimat în radiani. 
+Să se convertească în grade, minute și secunde centesimale. 
+Se citesc trei numere reale pozitive ordonate crescător. 
+Să se verifice dacă acestea pot să reprezinte laturile unui triunghi și în caz afirmativ să se stabilească natura triunghiului: isoscel, echilateral, dreptunghic sau oarecare și să se calculeze aria sa. 
+În C noțiunea de funcție este esențială, deoarece asigură un mecanism de abstractizare a controlului: 
+rezolvarea unei părți a problemei poate fi încredințată unei funcții, moment în care suntem preocupați de ce face funcția, fără a intra în detalii privind cum face funcția anumite operații. 
+Însăși programul principal este o funcție cu numele main (), iar programul C este reprezentat de o mulțime de definiri de variabile și de funcții. 
+În utilizarea curentă, o funcție trebuie să fie definită înainte de a fi apelată. 
+Aceasta impune o definire a funcțiilor programului în ordinea sortării topologice a acestora: 
+astfel mai întâi se vor defini funcțiile care nu apelează alte funcții, apoi funcțiile care apelează funcții deja definite. 
+O funcție se definește prin antetul și corpul funcției. 
+Funcțiile nu pot fi incluse unele în altele. 
+Toate funcțiile se declară pe același nivel cu funcția main. 
+În versiunile mai vechi ale limbajului, în antetul funcției parametrii sunt numai enumerați, urmând a fi declarați ulterior. 
+Lista de parametri, în acest caz, este o enumerare de identificatori separați prin virgule. 
+În cazul în care apelul funcției precede definiția, trebuie dat, la începutul textului sursă, un prototip al funcției, care să anunțe că definiția funcției va urma și să furnizeze tipul rezultatului returnat de funcție și tipul parametrilor, pentru a permite compilatorului să facă verificările necesare. 
+Așadar, un efect lateral (sau secundar), reprezintă modificarea de către funcție a unor variabile externe. 
+În multe situații aceste efecte sunt nedorite, duc la apariția unor erori greu de localizat, făcând programele neclare, greu de urmărit, cu rezultate dependente de ordinea în care se aplică funcțiile care prezintă efecte secundare. 
+Astfel într-o expresie în care termenii sunt apeluri de funcții, comutarea a doi termeni ar putea conduce la rezultate diferite! 
+Pentru programele mari este mai comod ca acestea să fie constituite din mai multe fișiere sursă, întrucât programul este conceput de mai mulți programatori (echipă) și fiecare funcție poate constitui un fișier sursă, ușurându-se în acest mod testarea. 
+Reamintim că o funcție nu poate fi împărțită între mai multe fișiere. 
+Un program C este un ansamblu de obiecte externe: variabile și funcții. 
+O variabilă externă este o variabilă definită în afara oricărei funcții, fiind astfel accesibilă din orice funcție. 
+Am văzut că funcțiile pot comunica între ele prin variabile externe sau globale. 
+Orice funcție poate accesa o variabilă externă, referindu-se la aceasta prin numele ei, dacă acest nume a fost declarat. 
+Prin urmare, variabilele externe au ca domeniu (sunt văzute și pot fi accesate din) întregul fișier sursă în care sunt definite. 
+Durata de viață a unei variabile externe (adică intervalul în care memoria este alocată) coincide cu durata în care programul C este activ. 
+Variabilele externe sunt permanente: ele rețin valori între apelurile diferitelor funcții. 
+Spre deosebire de variabilele externe, variabilele interne (numite și automatice sau locale) au un domeniu mult mai restrâns - ele sunt cunoscute numai în interiorul funcției în care sunt definite. 
+Durata de viață a variabilelor interne este mult mai scurtă ca a variabilelor externe – alocarea de memorie se face la intrarea în funcție, pentru ca la părăsirea funcției, memoria ocupată de variabilă să fie eliberată. 
+Între ele, funcțiile sunt întotdeauna externe, pentru că nu pot fi definite în interiorul altor funcții (ca în Pascal). 
+Programarea orientată pe obiecte constă în identificarea unor obiecte, cu operații (metode) specifice asociate și realizarea comunicării între aceste obiecte prin intermediul unor mesaje. 
+Elementul constructiv – obiectul este o instanță a unei clase (tip de dată definită de utilizator). 
+Clasele sunt membre ale unei ierarhii și sunt corelate între ele prin relații de moștenire. 
+Un limbaj de programare pune la dispoziția utilizatorilor un număr de tipuri primitive (sau predefinite). 
+Astfel în C avem ca tipuri primitive char, int, float, etc. 
+O clasă reprezintă un tip definit de utilizator. 
+Declararea unei clase se face într-o manieră asemănătoare declarării structurilor și conține atât date cât și funcții (metode) și putem declara variabile de acest tip nou. 
+Un obiect este un exemplar sau o instanță a unei clase (în vechea terminologie obiectul este echivalent unei variabile, iar clasa este echivalentul unui tip definit de utilizator). 
+Clasa de memorare arată când, cum și unde se alocă memorie pentru o variabilă. 
+Orice variabilă are o clasă de memorare care rezultă fie din declarația ei, fie implicit din locul unde este definită variabila. 
+Citește instrucțiunea - pe durata acestui ciclu se transmite adresa instrucțiunii de executat și se aduce, din memorie, instrucțiunea în CPU (ciclul Fetch). 
+Decodifică instrucțiunea (și în paralel citește un posibil operand de 16 biți). 
+Transmite adresa și citește un operand sursă din memorie, dacă se specifică în instrucțiune, și citește valoarea registrului destinație (ciclul Read). 
+Execută instrucțiunea (ciclul Execution). 
+Transmite adresa și scrie rezultatul în memorie, dacă instrucțiunea cere (ciclul Write). 
+Se activează pe magistrala de adrese adresa unei locații de memorie sau a unui port I / O și se memorează într-un registru de adrese extern. 
+Se generează semnalul de comandă corespunzător pentru citire / scriere date. 
+Dispozitivul selectat (memoria sau portul I / O) realizează transferul de date și transmite procesorului un semnal de răspuns, pentru a încheia ciclul. 
+La procesorul 386 / 486 acest registru (EFLAGS) are 32 biți, dintre care ultimii 16 sunt identici cu aceștia, dar în plus mai sunt utilizați încă doi biți (16 și 17) care au următoarea semnificație: 
+RF (Resume Flag) - acest indicator dezactivează, temporar, excepțiile de depanare (debug), astfel încât să se poată restarta o instrucțiune după o excepție de depanare, fără a se genera, imediat, o altă excepție de depanare. 
+VM (Virtual 8086 Mode) - acest bit indică că se execută un program 8086, dacă este poziționat pe 1. 
+Bitul VM furnizează modul V86, în modul protejat de operare. 
+Un TSS este un segment special de memorie pe care procesorul îl utilizează pentru a suporta mutitasking. 
+Acesta conține o copie a tuturor registrelor ce trebuie salvate, pentru a reface starea unui task. 
+El mai conține valori ce sunt asociate task-ului, dar nu sunt memorate în registrele CPU. 
+TSS conține trei selectori de segment de stivă, adiționali, (SS0, SS1, SS2), și trei pointeri de stivă corespunzători (ESP0, ESP1, ESP2). 
+Când un apel sau întrerupere, printr-o poartă, determină o modificare în privilegiu, noile ESP sunt încărcate din TSS. 
+Registrul de task (TR) conține selectorul TSS activ, curent. 
+Când apare o comutare de task, toate registrele task-ului curent executat sunt salvate în TSS-ul activ. 
+Registrul task se încarcă apoi cu selectorul unui nou TSS, și fiecare registru general este încărcat cu valorile respective, din noul TSS. 
+Procesorul are două spații de adrese fizice distincte: memoria și I / O (intrări / ieșiri). 
+Locațiile din spațiul I / O sunt denumite registre dispozitiv sau porturi de I / O. 
+În general perifericele sunt plasate în acest spațiu deși procesorul poate permite maparea (suprapunerea) în memorie a perifericelor. 
+Pentru a accesa acest spațiu nu se utilizează registre segment, și deci nici mecanismul de segmentare sau paginare. 
+Pinul M specifică spațiul de memorie adresat (fizică sau I / O). 
+Instrucțiunile I / O IN și respectiv OUT pot furniza adresa direct în instrucțiune, ca o constantă de 8 biți (deci pentru porturile din spațiul 0-255), sau indirect prin registrul DX (deci pentru tot spațiul de 64 K). 
+Aceste instrucțiuni permit scanarea biților din cel de-al doilea operand direct, începând cu bitul mai puțin semnificativ (forward) sau invers (reverse), pentru a determina primul bit egal cu 1. 
+Dacă toți biții sunt zero, ZF = 1, altfel ZF = 0 și registrul destinație va reține indexul primului bit 1 din operandul sursă. 
+Deplasările pot fi aritmetice sau logice. 
+Se poate deplasa operandul destinație cu până la 31 de biți, corespunzător operandului contor, codificat în instrucțiune (sunt luați în considerare numai ultimii 5 biți ai acestuia). 
+În cazul rotațiilor, biții deplasați în afara operandului nu sunt pierduți, ca în cazul deplasărilor, ci sunt rotiți (circulați) înapoi către celălalt capăt al operandului. 
+Începând cu procesoarele 286, contorul, chiar dacă este diferit de 1, poate fi specificat în instrucțiune, ca dată imediată. 
+Există cinci operații de bază care operează pe șiruri de lungime de până la un segment (64K la 286, respectiv 4G la 386 / 486), și permit: mutare, comparare de șiruri, scanarea unui șir pentru o valoare și transfer la / de la acumulator. 
+Aceste operații de bază pot fi precedate de un prefix special de un octet care are ca efect repetarea instrucțiunii prin hardware. 
+Repetiția se poate termina printr-o varietate de condiții, iar o operație repetată poate fi întreruptă sau suspendată. 
+O instrucțiune pe șir poate avea un operand sursă, un operand destinație sau pe amândoi. 
+Șirul sursă este în DS sau într-un alt segment. 
+Șirul destinație se află, întotdeauna, în segmentul dat de registrul ES. 
+Transferă un element din acumulator (AL, AX, EAX) în șirul destinație, și actualizează DI pentru a referi următorul element. 
+Instrucțiunea poate fi precedată de prefixul REP și astfel se poate inițializa un șir cu o constantă. 
+Orice spațiu normat are o structură naturală de spațiu metric și orice spațiu prehilbertian are o structură naturală de spațiu normat. 
+Constanta q se numește ordinul quantilei. 
+Mediana este quantila de ordinul doi. 
+Quantilele de ordinul patru împart setul de date în patru grupe egale și se numesc quartile. 
+Quartilele sunt în număr de trei, notate de obicei cu Q1, Q2, Q3. 
+Quartila Q1 este un număr cu proprietatea că o pătrime din date au valori mai mici decât Q1 și trei pătrimi din date au valori mai mari decât Q1. 
+Quartila Q2 este un număr cu proprietatea că jumătate din date au valori mai mici decât Q2 și jumătate din date au valori mai mari decât Q2. 
+Quartila Q2 este chiar mediana. 
+Quartila Q3 este un număr cu proprietatea că trei pătrimi din date au valori mai mici decât Q3 și o pătrime din date au valori mai mari decât Q3. 
+Seria de distribuție a statisticilor de eșantioane este seria de distribuție a statisticilor de un anumit tip obținute pentru eșantioane de aceeași mărime. 
+Media este statistica folosită cel mai frecvent în cazul eșantioanelor și de aceea este foarte importantă. 
+Într-un spațiu metric, orice șir convergent este șir Cauchy. 
+Teorema limită centrală se referă la seria de distribuție a mediei tuturor eșantioanelor aleatoare de aceeași mărime n. 
+Teorema limită centrală oferă informații asupra seriei de distribuție a mediilor eșantioanelor descriind forma repartiției mediilor tuturor eșantioanelor (aproape normală). 
+Ea stabilește relația dintre media populației și media seriei de distribuție a mediilor tuturor eșantioanelor și relația dintre deviația standard a populației și deviația standard a seriei de distribuție a mediilor eșantioanelor. 
+Deoarece seria de distribuție a mediilor eșantioanelor este aproape normală putem stabili legături probabiliste între media populației și media unui eșantion. 
+Considerăm o populație a cărei medie nu o cunoaștem și ne punem problema s-o găsim. 
+Pentru acest scop considerăm un eșantion aleator de dimensiune n pentru care determinăm media. 
+Media eșantionului este o estimare punctuală a mediei populației. 
+Un interval mărginit (a, b) folosit pentru a estima valoarea unui anumit parametru gamma al populației se numește interval de estimare. 
+Valorile a, b (capetele intervalului) sunt calculate din eșantionul care este folosit pentru estimare. 
+Nivelul de neîncredere alpha este probabilitatea ca statistica eșantionului să aibe valoarea în afara intervalului de estimare. 
+Un spațiu metric cu proprietatea că orice șir Cauchy este convergent este numit spațiu complet. 
+Nivelul de încredere (coeficient de încredere) 1 - alpha este probabilitatea ca statistica eșantionului să se afle în intervalul de estimare ales. 
+Intervalul de încredere este un interval de estimare cu un nivel de încredere 1 - alpha specificat. 
+Eroarea maximă de estimare este jumătatea lungimii intervalului de încredere cu nivelul de încredere 1 - alpha 
+Spațiile normate complete se numesc spații Banach iar spațiile prehilbertiene complete sunt numite spații Hilbert. 
+Într-un spațiu metric, orice șir Cauchy este mărginit. 
+Într-un spațiu Banach, o serie absolut convergentă este convergentă. 
+Formulele (28) au sens pentru orice funcție f integrabilă pe intervalul închis [- pi, pi] și permit asocierea de serii trigonometrice unei clase foarte largi de funcții. 
+Vom prezenta pe parcursul acestei secțiuni condiții suficiente pentru ca o astfel de serie să fie convergentă (punctual, uniform), condiții suficiente ca suma seriei să coincidă cu funcția f corespunzătoare, etc. 
+Posibilitatea reprezentării unei funcții ca sumă a unei serii trigonometrice sau posibilitatea aproximării ei (într-un anumit sens) cu polinoame trigonometrice este foarte utilă în multe aplicații. 
+Dacă se modifică valorile luate de o funcție continuă pe porțiuni într-un număr finit de puncte, funcția rezultată rămâne continuă pe porțiuni. 
+Mulțimea Q + a numerelor raționale pozitive este numărabilă. 
+Are sens să se pună problema dacă o funcție reală g este sau nu continuă pe porțiuni chiar dacă există un număr finit de puncte din domeniu în care ea nu este definită. 
+Fie f o funcție reală continuă pe porțiuni. 
+Dacă modificăm valorile pe care le ia f într-un număr finit de puncte din [- pi, pi] seria Fourier asociată nu se modifică. 
+Fără a restrânge generalitatea, vom considera doar funcții cu proprietatea f (- pi) = f (pi). 
+Orice astfel de funcție este restricția la [- pi, pi] a unei funcții periodice cu perioada 2pi (pentru care am păstrat aceeași notație). 
+Prin spațiu metric se înțelege orice mulțime nevidă pe care s-a definit o distanță, iar prin spațiu normat orice spațiu vectorial pe care s-a definit o normă. 
+Noțiunea de spațiu metric este mult mai generală decât cea de spațiu normat și în același timp cu o structură matematică mult mai săracă. 
+Elementele unui spațiu normat pot fi descrise prin utilizarea unei baze în spațiul vectorial corespunzător. 
+Noțiunea de spațiu metric fiind foarte generală, elementele pe care le implică sunt, în general, insuficiente pentru a permite descrierea unor sisteme fizice. 
+Spațiile metrice care intervin în modelele matematice utilizate în fizică sunt, în general, spații normate sau submulțimi ale unor spații normate. 
+Alegând pentru fiecare număr fracția ireductibilă corespunzătoare formăm un șir punând mai întâi fracțiile cu suma dintre numărător și numitor egală cu 1, apoi cele pentru care suma este 2, apoi cele pentru care suma este 3, etc. 
+În general, punctul de la care se pleacă în construcția unui model matematic este un spațiu normat. 
+Orice submulțime nevidă a unui spațiu normat are o structură naturală de spațiu metric. 
+În anumite aplicații este utilă cunoașterea comportării unei funcții f în vecinătatea unui punct a fără a lua în considerare valoarea pe care o ia funcția în punctul a (în cazul în care ea este definită în a). 
+În particular, este util să se știe ce se întâmplă cu valorile f (x) ale funcției când x se apropie din ce în ce mai mult de punctul a. 
+Pentru ca problema să aibă sens este necesar ca domeniul de definiție al lui f să conțină puncte oricât de apropiate de a, diferite de a. 
+Vom studia comportarea unei funcții în vecinătatea unui punct a aparținând domeniului de definiție comparând valoarea funcției în a cu valorile luate în vecinătatea lui a. 
+Punctele lui D care nu sunt puncte de acumulare se numesc puncte izolate. 
+Orice funcție derivabilă într-un punct este continuă în acel punct. 
+Statistica este știința colectării, clasificării, prezentării, interpretării datelor numerice și a folosirii acestora pentru a formula concluzii și a lua decizii. 
+Statistica și probabilitățile sunt două domenii strâns legate, dar distincte ale matematicii. 
+Rezultă imediat că mulțimea Q a tuturor numerelor raționale este și ea numărabilă. 
+Se spune că ” probabilitățile sunt vehiculul statisticii ”. 
+Aceasta este adevărat în sensul că dacă nu ar fi legile probabiliste teoria statistică nu ar fi posibilă. 
+Pentru a ilustra însă diferența dintre probabilități și statistică să considerăm două urne: una probabilistă și una statistică. 
+În cazul urnei probabiliste se știe că urna conține 5 bile albe, 5 bile negre și 5 bile roșii; 
+problema de probabilitate este dacă scoatem o bilă, care este șansa ca aceasta să fie albă? 
+În cazul unei urne statistice nu cunoaștem care este combinația de bile din urnă. 
+Extragem un eșantion și din acest eșantion conjecturăm ce credem că se găsește în urnă. 
+Populația este o colecție (mulțime) de indivizi, obiecte sau date numerice obținute prin măsurători ale cărei proprietăți trebuiesc analizate. 
+Eșantionul este o submulțime a unei populații. 
+O variabilă de răspuns (sau simplu variabilă) este o caracteristică (de obicei numerică) care prezintă interes în cazul fiecărui element (individ) al unei populații. 
+În secțiunea anterioară am prezentat noțiuni și rezultate referitoare la șiruri de elemente din R. 
+Parametru este o caracteristică numerică a unei populații. 
+O statistică este o caracteristică numerică a unui eșantion. 
+Un recensământ este o enumerare sau o listare a fiecărui element al populației împreună cu data (valoarea variabilei) corespunzătoare elementului. 
+Proiectarea eșantionului înseamnă stabilirea procedurii de alegere a elementelor eșantionului din cadrul eșantionului. 
+Eșantioane bazate pe reprezentativitate sunt acelea pentru care elementele se aleg astfel încât din perspectiva variabilei de răspuns, elementul ales să fie reprezentativ pentru populație. 
+Un eșantion de mărimea n este eșantion probabilist aleator dacă orice eșantion de mărimea n ales din același cadru are aceeași probabilitate să fie ales. 
+Un eșantion probabilist aleator pentru care elementele sunt selectate dintr-un cadru în care elementele au aceeași probabilitate să fie alese se numește eșantion aleator simplu. 
+Eșantionul sistematic se construiește alegând fiecare al k-lea element din cadrul eșantionului. 
+Un eșantion obținut în urma stratificării cadrului eșantionului și prin selectarea unui număr dat de elemente din fiecare strat se numește eșantion stratificat. 
+Eșantion cotă (sau eșantion proporțional) este un eșantion stratificat care se construiește prin selectarea unui număr de elemente din fiecare strat după o anumită cotă sau proporțional cu mărimea stratului. 
+Unele dintre aceste noțiuni pot fi extinse pentru a deveni aplicabile șirurilor de elemente din spații mult mai generale. 
+Frecvența f (din coloana a doua) arată de câte ori apare valoarea variabilei x în setul de date. 
+Seria de distribuție este un ansamblu de două șiruri finite dintre care primul este șirul elementelor distincte din setul de date statistice sau șirul claselor obținute prin gruparea elementelor din setul de date statistice, iar cel de-al doilea este șirul de frecvențe corespunzătoare. 
+Valoarea datei care apare cu cea mai mare frecvență într-o serie de distribuție de date statistice se numește mod. 
+Clasa cu cea mai mare frecvență într-o serie de distribuție de date grupate se numește clasă modală. 
+Seria bimodală este o serie de distribuție de date grupate în care apar două clase modale, separate de clase cu frecvență mai joasă. 
+Frecvența cumulată a unei clase este suma frecvențelor tuturor claselor cu valori mai mici (marca mai mică). 
+Tabelele statistice sunt foarte variate și se folosesc pentru ordonarea datelor statistice dintr-un set de date în vederea aplicării metodelor de calcul și de interpretare statistică. 
+Graficele de reprezentare a seriilor statistice fără grupare se numesc diagrame. 
+O histogramă are următoarele componente: 
+Un titlu care identifică populația la care se referă; 
+Noțiunile de șir convergent, șir mărginit și de șir Cauchy se definesc cu ajutorul funcției modul. 
+O scară orizontală pe care se identifică variabila X, valorile limitelor claselor, frontierele claselor, mărcile claselor. 
+O scară verticală pe care se identifică frecvențele pentru fiecare clasă. 
+Frecvența relativă (este o măsură proporțională cu frecvența în cauză) se obține prin împărțirea frecvenței clasei la numărul total de elemente din setul de date. 
+O categorie de caracteristici numerice asociate unui set de date statistice sunt: parametrii tendinței centrale în cazul populațiilor și statistici ale tendinței centrale în cazul eșantioanelor. 
+Întrucât aceștia au definiții analoage vom prezenta doar statistici ale tendinței centrale. 
+Media aritmetică m a setului de date statistice {x1, x2, ..., xn} este prin definiție suma acestor date împărțită la numărul datelor. 
+Parametrii și statisticile dispersiei sunt: plaja, deviația medie absolută, varianța, deviația standard și coeficientul de variație. 
+Aceste valori numerice descriu mărimea împrăștierii ori a variabilităților datelor. 
+Datele strâns grupate vor avea împrăștiere mică, iar cele care nu sunt grupate (sunt împrăștiate) vor avea o dispersie mai mare. 
+Este important de remarcat faptul că demonstrațiile rezultatelor prezentate nu se bazează direct pe definiția modulului. 
+Plaja P este diferența dintre cea mai mare (H) și cea mai mică (L) valoare a valorilor xi dintr-un set de date. 
+Deviația medie absolută, varianța și deviația standard măsoară dispersia față de media aritmetică. 
+Cu toate că acest parametru al împrăștierii nu se folosește frecvent, el este o măsură a împrăștierii și arată distanța medie la care se află o valoare a variabilei X față de media aritmetică. 
+Mai există o cale de eliminare a reducerii deviațiilor. 
+Ridicând la pătrat deviațiile individuale acestea devin pozitive (sau zero). 
+Când aceste pătrate sunt adunate rezultatul este pozitiv. 
+Deviația standard a fost definită cu o formulă. 
+Se poate pune întrebarea ce reprezintă ea în realitate? 
+Un răspuns la această întrebare poate fi dat cu inegalitatea lui Cebîșev din care rezultă că pentru orice serie de distribuție fracțiunea de date situată la cel mult k unități de deviație standard față de medie este cel puțin 1 - 1 / (k * k), unde k este un număr pozitiv oarecare mai mare ca 1. 
+Rezultă în particular că pentru orice serie de distribuție fracțiunea de date situată la cel mult k = 2 unități de deviație standard față de medie este de cel puțin 75% din totalul de date. 
+Afirmația rezultă din teorema precedentă ținând seama de faptul că șirurile de numere reale xn și yn sunt convergente dacă și numai dacă sunt șiruri Cauchy. 
+Dacă k = 3 atunci este 89% din totalul de date. 
+Conform regulii empirice dacă o serie de repartiție este normală atunci fracțiunea de date situate la cel mult o unitate de deviație standard s față de medie este aproximativ 68%, iar fracțiunea de date situate la cel mult două unități de deviație standard s față de medie este aproximativ 95%. 
+Coeficientul de variație V este prin definiție V = 100 * s / m; 
+Coeficientul de variație este o statistică relativă a dispersiei și se folosește la compararea dispersiei diferitelor variabile (caracteristici). 
+V poate lua valori între 0 și 100%. 
+Dacă V este aproape de 100% (V > 75%), atunci populația studiată statistic este eterogenă și media m nu este reprezentativă. 
+De cele mai multe ori în asemenea cazuri este necesară separarea populației statistice în mai multe grupe omogene, care se studiază separat. 
+Parametri și statistici ai poziției se folosesc pentru a descrie locația unei date în raport cu celelalte date. 
+Quantilele sunt valori numerice care împart setul de date în q grupe egale. 
+Mediana me a unui set de date statistice distincte ordonate după mărime x1 < x2 < ... < xn este numărul care împarte setul de date în două grupe egale ca număr. 
+Dacă V este aproape de zero (V < 35%), atunci populația studiată statistic este omogenă și media m este reprezentativă pentru această populație. 
+titlul de președinte de onoare a mai fost conferit în 1985 președintelui Republicii și s-a menținut până în 1989. 
+remarcabilă este aici insistența de a nu se interveni în text. 
+Textele îi grupează pe autori în opt clase tipologice, potrivit criteriului estetic și contextului tematic și stilistic. 
+A. scrie poezii scurte sau ultrascurte, bazate pe mici combinații oximoronice. 
+călătoria spre izvoare se înfățișează ca o paradigmă a valorizării etice a destinului uman. 
+Traducerile, cu precădere din limba sârbă și germană, îi vizează mai ales pe scriitorii bănățeni contemporani. 
+Trecutul viu instituie corespondențe cu ciclul pillatian, intitulat tot astfel în volumul Pe Argeș în sus (1923). 
+A. recurge aici la o deliberată și inteligent condusă subminare a structurilor și procedeelor consfințite. 
+Tehnica narativă mizează pe alternanța planurilor și pe schimbarea neașteptată a vocilor. 
+Materialele nu sunt reproduse – de aceea nu există nici o semnătură –, conținutul lor fiind rezumat de către antologatori. 
+Revista avea patru pagini, care vor spori cu timpul, ajungând în 1937 la 18. 
+Încă de la înființare, instituția academică a reunit personalitățile reprezentative ale științei, culturii și artelor. 
+Cel mai bine ilustrat este compartimentul traducerilor, unde sunt de semnalat nume multe și autori foarte diferiți valoric. 
+ALMANAHUL ÎNVĂȚĂTORULUI ROMÂN, publicație editată la Sibiu în 1899 și 1900, întocmită de Iosif Velcean. 
+Foarte bogat ilustrată este secțiunea rezervată criticii și istoriei literare, unde, din nou, predomină numele contemporanilor. 
+Numărul din 1987 grupează materialele sub genericul Microdicționar de presă literară. 
+La rubrica „Din marii scriitori pentru tineret ” sunt inserate numeroase adaptări din clasicii literaturii universale. 
+Dintre acestea se detașează Luceafărul, tipărit în volumul din 1883 – prima apariție a capodoperei lui M. Eminescu. 
+În compartimentul poeziei, nume de rezonanță alternează cu acelea ale unor versificatori mai modești și chiar obscuri. 
+Așa au luat ființă, spre exemplu, premiile „Petre Antonescu ”, „C. 
+Dan Mănucă analizează corespondența lui Traian Bratu cu germanistul Th. 
+Eclectismul cel mai desăvârșit ne servește, alături de talent, drept criteriu de îndrumare. 
+Textele cu caracter eseistic alternează cu prozele scurte, inedite. 
+De la numărul 2–3 / 1973, Liviu Papuc este înlocuit în funcție de Andrei Corbea. 
+Printre ei, pot fi semnalați Florin Faifer, Ioan Buduca, Magda Ciopraga. 
+În colaborare cu Ion Zamfirescu, a coordonat volumul Teatrul românesc contemporan. 
+Rezultate notabile va înregistra, însă, ca istoric și teoretician al teatrului. 
+Pe alocuri, istoria familiei pare a se îmbina cu istoria provinciei și a țării. 
+În Minunea de la Tismana se reface, după tradiția monastică, viața sfântului Nicodim, întemeietorul lăcașului. 
+„Prolegomenele ” sunt concepute ca un „discurs filosofic ” adresat națiunii la redobândirea conștiinței de sine. 
+Limpezimea criteriilor axiologice recomandă o singură scară de valori estetice, validată integral de timp. 
+Lucrare de mare amploare, Dicționarul limbii române a stat în permanență în atenția forului academic. 
+Pentru el se fac destul de mari concesii, în scopul de a-i câștiga abonamentul. 
+învață mai apoi, cum s-a presupus, teologia la Kiev. 
+O mențiune merită prefața ce aborda, în spirit luminist, aspecte privitoare la constituirea limbajului științific. 
+Fiecare schimbare a redactorului-șef corespunde cu o schimbare de format. 
+Membrii societății s-au străduit să impună și în literatură spiritul autohton, considerat dintr-o perspectivă idilică. 
+A.c. izbutise să-și asigure opt sute de abonați și se difuza și în Transilvania. 
+Gazeta apărea, potrivit afirmației redactorului, pentru a permite „talentelor născânde ” să se exprime. 
+Cultura, se afirmă, trebuie răspândită în popor prin orice mijloace. 
+În intervalul 1948–1977, „Memoriile ” dispar, înlocuite fiind de reviste de specialitate aparținând institutelor academice. 
+Alte domenii atacate în aria epicului merg de la proza latină clasică până la literaturile anglo-saxone. 
+Este eliberat în 1964, prin decret general de grațiere. 
+Un îndemn la Iubire – izvor al vieții și învierii adresează părintele Galeriu. 
+tipărirea lui a început în 2001 (au apărut până în prezent volumele I – VIII). 
+Lirica lui A. este dificil de încadrat într-o formulă de istorie literară ori în contextul poeziei actuale. 
+Renumele lui A. în anumite cercuri nu se justifică decât într-o mică măsură prin creația sa. 
+Străbătând întreaga Europă, studentul maramureșean confruntă stările de lucruri întâlnite cu situația de acasă. 
+Lirica sa, de o mare bogăție imagistică, dezvăluie o sensibilitate înclinată spre reflexie și visare. 
+În chiar anul absolvirii beneficiază de o bursă de studii în Marea Britanie, la Universitatea Edinburgh. 
+Somnul e asimilat morții, inerției, opririi sterpe a vieții. 
+La înmormântări se respectă, odată cu ceremonia religioasă, multe obiceiuri și superstiții. 
+Activează ca ziarist la „Scânteia tineretului ” (1963–1983) și „România liberă ” (1983–1997). 
+A fost argat și miner, apoi a luptat în războiul civil din Rusia (1918–1920). 
+Nu trebuie exagerat totuși caracterul ei de publicație „populară ”, ceea ce ar minimaliza-o. 
+A fondat organizația „Răsăritul ” (1928) a scriitorilor din RASS Moldovenească. 
+Prin bogata ei activitate creatoare, A.R. contribuie substanțial la afirmarea spiritualității naționale, a patrimoniului cultural al poporului român. 
+” Se identifică aici liricul sedus de ascensional și transfigurat, macedonskian, de beatitudini celeste. 
+Și-a prins să-mi placă / acest eu însumi fără pată, suav și curățat de fum. 
+„Ard vitele, sub aburi, sosite de la muncă / cu iarba-n pântec. 
+„E-nlăuntrul meu înzestrat cu luxuri / selenar de clar și chenar mișcării. 
+/ Luminez grădini și agit în fluxuri / apele mării. 
+/ Și-am să te-ascult încet, nespus de-ncet / când timpul vine calm și trece peste. 
+În toate cazurile, expresia e concentrată, tinzând nu întâmplător spre forma extremă și insolită a haikuului. 
+Începând din 1998, când călătorește pentru prima oară în Noua Zeelandă, interesul său cultural se reorientează către Antipozi. 
+Astfel, Al. Vlahuță se oprește asupra liricii Adei Negri. 
+Este consemnată întâlnirea celor de la „Adonis ” cu T. Arghezi, eveniment petrecut în 1940. 
+Merite de înainte-mergător, ce-i vor fi recunoscute târziu, are în domeniul literaturii științifico-fantastice. 
+La ocuparea Bucureștiului, A., fiind premilitar, trebuie să se refugieze în Moldova. 
+Limba, susținea el, ar trebui purificată de cuvinte nelatine, tot așa cum slovele trebuie îndepărtate neîntârziat. 
+Din anul 2000, ziua de 4 aprilie a fost declarată Ziua națională a Academiei Române. 
+Pe lângă cronici, A. iscălește și numeroase articole în care își exprimă opiniile despre problemele teatrului în epocă. 
+Deficitară în latura documentară, lucrarea conține bune pagini evocatoare, împletind nostalgia lumii vechi cu ironia bonomă. 
+Ca și Umberto Eco, A. abandonează studiul teoretic erudit în favoarea romanului pseudoistoric. 
+Ceea ce este însă în primul rând caracteristic pentru modul de a proceda al scriitorului este postura de observator. 
+Familia izbutise să intre în protipendada ieșeană, însă cunoaște curând declinul. 
+Primele trei cărți au fost premiate în 1909 de Academia Română. 
+Pe un plan restrâns, mai ales tipologic, scriitorul îl precede pe I. L. Caragiale. 
+Numit, în 1911, inspector în Ministerul Cultelor și Artelor, are de suportat alte atacuri în presă. 
+La 27 octombrie 1914, în cursul unei dispute violente cu soția sa, recurge la revolver. 
+Mobilitatea percepțiilor imprimă discursului un caracter difluent, accentuat de înclinația către inefabil și mister. 
+a făcut un stagiu de specializare în literatura comparată la Universitatea Indiana din Bloomington, SUA (1981). 
+ACADEMICA, revistă de știință, cultură și artă a Academiei Române înființată la 17 august 1990. 
+Portretul se deduce din discursul biografic, în care viața se împletește foarte strâns cu opera. 
+Așa cum îl preia A., carnavalescul se reduce la grotesc și caricatural. 
+De altfel, aria de preocupări privind poezia îmbrățișează permanent spații culturale largi. 
+N-au nici statute – poate pentru a nu ispiti pe nimeni să nu le asculte. 
+” Probabil că același „consens liber ” a acționat și în cazul destrămării cenaclului. 
+Este al doilea dintre cei opt copii născuți în familia Anei 
+Cu indignare, vehemență sau cu mustrări părintești, denunță păcatele obștei, îndeosebi ireligiozitatea și nesupunerea în fața cârmuitorului. 
+A îndeplinit și funcțiile de prodecan și decan la aceeași facultate. 
+Segmentul temporal cercetat cu predilecție este secolul al XIX-lea. 
+Este fiul moșierului Nicolae Antonescu și al Zoei Antonescu (n. Micescu), înrudită cu familia Brătianu. 
+Piesa împletește, cam nebulos și fantasmagoric, legenda creației cu mitul dacic. 
+Cu o apariție lunară, A. este condusă de președintele Academiei Române, în calitate de director. 
+Contemporane, aceste „vieți paralele ” întrețin un dialog subtil, luminându-se reciproc. 
+Anuarul s-a bucurat de o foarte bună primire din partea specialiștilor. 
+În studiul Bălcescu și „Cântarea României ”, A. atribuie istoricului muntean paternitatea misteriosului poem. 
+În polemici, ia partea lui Hasdeu și sare ca ars când cineva îi contestă maestrului său vreo teorie. 
+Transferat la Orlat, lângă Sibiu, rămâne aici până în 1919, cu o întrerupere în timpul războiului. 
+Eleutheriades, desene de Șt. Munteanu, fotografii de Dan Eremia Grigorescu, Aurelia Leicard ș.a. îmbogățesc ilustrația revistei. 
+Ele comunică de fapt lipsa de comunicare, de fior liric, o absență. 
+pietrificarea emoției este dublată de conștiința propriei goliri interioare și a neputinței de exprimare poetică. 
+Procesul a fost judecat în februarie 1878, iar împricinații eliberați. 
+Crima poate fi și rezultatul egoismului exacerbat, care alunecă spre demență (Înainte de proces). 
+planurile întretăiate țin aici de grotesc, înțeles ca amplificare necontrolată a sensibilității primare închise într-o existență tragică. 
+Începe publicarea în foileton a studiului lui Al. Mironescu privind Contribuția științelor experimentale la problema epistemologică. 
+Originară din Asiria și datând din secolele al VI-lea și al V-lea î. 
+Mai înainte, copii ale cărții au circulat în limbile siriacă, arabă, armeană. 
+Între octombrie 1870 și noiembrie 1872, din motive personale, Timotei Cipariu întrerupe apariția revistei. 
+Pentru scriitor, acești ani înseamnă o perioadă de acumulări. 
+Am ucis pe Dumnezeu e o încercare de a clarifica raporturile dintre individ și dumnezeire. 
+Mahalaua în care sărăcia îl obligă să trăiască este doar semnul exterior al unei decăderi mult mai adânci. 
+Se vede că experiența politică și diplomatică nu l-a ajutat să înțeleagă încotro evoluau lucrurile. 
+Părinții, necăsătoriți, vor fi uniți în semnătura scriitorului, legalizată ca nume oficial în 1956. 
+După o ucenicie la mănăstirea Cernica, îmbracă haina monahală sub numele de Iosif. 
+Ajutat de mitropolitul Iosif Gheorghian, pleacă, pentru studii teologice, în Elveția, la Fribourg. 
+este cunoscută și sub numele de Școala Română din Roma. 
+Audiază cursuri la Universitate, călătorește, în 1910 stând câteva luni la Paris. 
+Aspirând la idealitate și la împlinirea de sine, a făcut gesturi oportuniste, ce-i contraziceau credințele. 
+Căci A. refuza morala restrictivă și exploata contradicția, complementaritățile, libertatea redefinirilor de sine. 
+Nu-și uită obligațiile confesionale și, la Beiuș, tipărește numeroase broșuri cu caracter religios. 
+„Urechea lui, închisă pentru graiuri, / Cu scamă s-a umplut, de mucigaiuri. 
+Oralitatea tonului și umorul transcriu minunarea poetului în fața imprevizibilei naturi umane. 
+/ Ascultă, harul a trecut prin ei / Virginal, candid și holtei. 
+Sufletul, confruntat cu înțelesul ascuns al existenței, se mișcă între ecouri, reminiscențe, oglinzi ale visului. 
+menirea de a risipi „maladia confuziunii ” și de a restabili adevărul revine pamfletului. 
+Fierarul afirmă forța faptei, țăranul a împrumutat înțelepciunea pământului. 
+Instinctul posesiv, febra puterii stârnesc vituperația și cheamă pedeapsa divină. 
+În doar cinci ani, Vasile Pârvan a reușit să imprime Școlii din Roma o puternică dezvoltare. 
+În pofida intențiilor ce îl animă, autorul nu-și depășește mediocritatea nici când scrie proză. 
+În câteva reportaje A. elogiază omul simplu, faptele obișnuite, cotidiene, fără a cădea în banalitate. 
+Alte romane, precum Acasă și Pe drumuri, sunt interzise de cenzură. 
+Arestat de turci, reușește să evadeze și emigrează la Paris. 
+A scris și versuri originale, fără să fi avut o înzestrare deosebită pentru poezie. 
+La Paris intră în cercul intelectualilor revoluționari francezi, făcând o impresie deosebită prin cultura și distincția ei intelectuală. 
+Prin clasele de pictură și arhitectură, introduse la Academie, se anticipă crearea învățământului artistic. 
+Momentul Unirii Principatelor îl găsește în tabăra separatiștilor, contrazicând parcă scrierile în care militase pentru idealul României unite. 
+Sub vălul alegoriei, sunt atacate vicii general-umane și sociale, „străinomania ” ce bântuie epoca. 
+Soluțiile propuse ar asigura unitatea etnică prin cea lingvistică, limitându-se ereziile filologice. 
+Junimismul („noua direcție negruțiană în literatură ”) este, de asemenea, atacat. 
+Între anii 1966 și 1973, literatura beneficiază de un spațiu mai întins. 
+Predilecția pentru situații-limită ajunge aici la paroxism și generează pagini tipice de melodramă. 
+A.B.C., ziar care apare la București din noiembrie 1934 până în ianuarie 1935, sub direcția lui Em. 
+Programul schițat conține, comparat cu acela din 1866, și câteva elemente noi. 
+A. își propune să răspândească cultura și învățătura în rândul țăranilor. 
+este vorba întotdeauna de un refuz global, cu implicații mai mult sau mai puțin artistice, mai mult sau mai puțin teoretice. 
+Dar formula poetică promovată la „unu ” privilegiază simbioza unor orientări diferite într-un fenomen literar distinct. 
+Abandonându-se unei atitudini grav sentimentale, el reface un univers tradiționalist fixat în evenimentele vârstei. 
+În prima ei fază, când a avut un caracter cultural mai pronunțat, revista dispunea de rubrici variate. 
+În 1862 este transferat, ca referent și judecător, la Pesta. 
+A mai colaborat la „Revista de filosofie ”, „Gazeta literară ”, „Era socialistă ”. 
+Din 1990 predă literatura comparată la Universitatea de Vest din Timișoara. 
+El a parcurs însă un drum ascuns în anii optzeci, scrisul devenind pentru autor o supapă de supraviețuire. 
+Odată cu încheierea războiului, A. se întoarce la Cluj (în martie 1945). 
+Spiritual, caustic, cu un gust pronunțat pentru caricatură, B. este un Daumier al prozei satirice românești. 
+Divorțând, se va recăsători în 1902 cu Ovid Densusianu, de care se desparte curând. 
+În fond, ceea ce contează în procesul imitației este rezultatul. 
+închide simbolul liric, repetă amănuntele, pictează cu aceeași culoare, stinge tonurile. 
+/ Te uită cum ninge Decembre … / Nu râde … citește-nainte. 
+Rimbaud invita poetul modern să viziteze nevăzutul, neauzitul, nepipăitul și nemirosibilul pentru a putea reinventa poezia. 
+ea umple toată conștiința reflexivă a poetului, manifestată printr-o atentă notație. 
+pentru a-și susține familia, mama (n. Sütő) se angajează muncitoare într-o fabrică de încălțăminte. 
+Emigrează în România, unde își ia bacalaureatul la Liceul „Mircea cel Bătrân ” din Constanța. 
+Conflictul este sumar, dar amplificat prin paranteze care introduc elemente de atmosferă, gesturi sau comportamente specifice. 
+Cum, de obicei, dramatismul este subiacent umorului, scriitorul îl convertește ușor în șarjă dezlănțuită. 
+Câteodată piesele abordează teme de existență mai grave și, nu de puține ori, moravurile societății totalitare. 
+„te-am citit, te-am notat, te-am bifat, ești a mea ”. 
+George, agronomul care a inventat un aparat de reglat timpul, e din familia inadaptabililor din nuvelistica veche. 
+Piesa se termină bine, onestitatea triumfă, proiectele diabolicului Pamfil eșuează. 
+Îndrăgostit de doctorița din sat, vrea s-o cucerească, dar în final femeia îl părăsește pentru altul. 
+Urmează școala primară în comuna natală, dar o întrerupe în 1940, odată cu cedarea Cadrilaterului. 
+După înfrângerea revoluției, a luat drumul exilului, acționând în Franța pentru împlinirea dezideratelor de unitate ale românilor. 
+Câtva timp a lucrat ca redactor la Radio București și ca inspector al Fundațiilor Regale. 
+Ar fi vrut să traducă în românește opera autoarei engleze, dar împrejurările nu i-au permis. 
+Spațiile dintre marile personalități, mai puțin ori deloc reprezentate, sunt investigate în Studii italiene. 
+În numărul 14 / 1912 este anunțată moartea lui I. L. Caragiale, într-un necrolog nesemnat. 
+Așa se întâmplă în Sectarii (1938), roman-pamflet la adresa politicianismului. 
+Geneza unor tipuri sau motive s-a confundat adeseori cu geneza genului însuși. 
+Iar aceasta e dominată de un preaplin al vitalității inconștiente cum literatura română nu cunoscuse până atunci. 
+„Cine se gândește se ofilește ” (A patra). 
+Alteori personajul acceptă viața ca pe o fericire edenică (Onu). 
+„Strigoiul ” este forța coercitivă a societății închise, pentru care prezent și trecut se confundă. 
+Întunecate, rudimentare, peisajele creează granițe inospitaliere altor sentimente în afara acelora pe care le presupune povestirea. 
+Când aceasta debutează cu o descriere întunecată, ea devine parcă mai izbutită, curgând mai liber. 
+Din decembrie 1933 (numărul 31–33), poartă subtitlul „Revistă literară ”. 
+Scriitorului îi convin „ceasurile de seară ”, care trezesc întrebări despre „taina vieții ”. 
+Nocturnul produce o stare de detașare spirituală, însă mereu supravegheată. 
+La rubrica „Foileton ”, Emil Isac compune un medalion Ady Endre. 
+Povestitor înnăscut, lui A. îi place vizibil să detalieze, adesea redundant și monoton. 
+Este ca o prevestire a caracterului mohorât al conflictului, chiar dacă personajele „pozitive ” vor câștiga în final. 
+Lupta lor este însă chinuitoare, victoria va fi dobândită trudnic, după tribulații asupra cărora naratorul insistă pe îndelete. 
+El zugrăvește mai cu seamă intelectualitatea satelor de peste munți, compusă din preoți, notari, doctori. 
+Spre deosebire de alte periodice satirice ale epocii, în A. satira și literatura se împletesc reușit. 
+Citite în serie, cărțile sale trădează o amprentă stilistică unică și o rețetă inconfundabilă. 
+Cu toate acestea, cartea e foarte greu, dacă nu imposibil de povestit. 
+; Știu, spuse ea, că va veni o revoluție. 
+Sub aceeași semnătură este publicată și cronica la recent apăruta Condiția umană a lui André Malraux. 
+Cu toate acestea, destinul personajelor rămâne neatins de presiunea conjuncturii, ascultând mai curând de o providență livrescă. 
+Pentru doi ani, postul de prim-redactor este ocupat de I. N. Roman. 
+Atitudinea față de acest tip de modelare – pe care tot autorul o sugerează personajelor – rămâne ambiguă. 
+Tot Ileana Vrancea recuperează din arhivele israeliene o parte a corespondenței lui Ion Caraion cu istoricul Theodor Lavi. 
+Dorin Tudoran se întreține apoi cu Jean François Revel pe marginea necesității de a accelera dispariția comunismului. 
+Din „Revista Fundațiilor Regale ” sunt extrase însemnările lui D. Caracostea despre Slatina și ținuturile Oltului. 
+Același C. Dumitrache cercetează contribuția lui D. Popovici pe tărâmul istoriografiei eminesciene. 
+Împreună cu Sașa Wolkonski, Ion Caraion tălmăcește și un Sonet de Rainer Maria Rilke. 
+Se întâlnesc, totuși, numele profesorilor universitari Emil Brancovici și Ion Simionescu. 
+Singura traducere din E. A. Poe este semnată cu pseudonimul Coronius. 
+Emigrat în Germania, la finele anului 1980, se stabilește în 1981 la Freiburg im Breisgau. 
+Totodată și-a concentrat atenția asupra scrierilor eminesciene, încercând să contribuie la popularizarea lor în spațiul lingvistic german. 
+Tot în 1895, prim-redactor este numit C. Bacalbașa care, cu încetul, modifică și componența redacției. 
+Revista închină, cum era firesc, cele mai multe materiale operei lui Liviu Rebreanu și familiei sale. 
+A. abordează subiectele alese prevalându-se de dubla lui competență de cunoscător al gândirii indiene și al culturii occidentale. 
+Reia colaborarea la „Flacăra ” și „Convorbiri literare ”, aici îndeplinind și sarcini redacționale. 
+Nota elegiacă, mai plină în volumul Domus taciturna, mișcă desenul și îi imprimă rezonanțele caducității. 
+În 1934 redacția salută apariția volumului Pe Mureș și pe Târnave, doine și strigături culese de Horia Teculescu. 
+Personajelor lui le place să relateze întâmplări, unele de-a dreptul spectaculoase. 
+O spunem tare, chiar la octavă de doriți, ca să se audă. 
+Picioarele „desculțe ” constituie un simbol și un laitmotiv al povestirilor, punând încă o dată în lumină opoziția. 
+După un scurt popas la Aiud, pleacă la Budapesta, în căutare de lucru. 
+A. își rezervă regia textelor și pasajele de legătură, folosind, în filmul evenimentelor, și propriile amintiri. 
+Orientarea politică se păstrează, deși sunt de semnalat unele nuanțe noi, în pas cu evoluția socială. 
+Scriitor popular, cum singur se considera, A. a servit, prin toate manifestările sale, un crez. 
+Publicația a fost inițiată de un grup de tineri în frunte cu Geo Dumitrescu. 
+Publicația își propune să încurajeze avântul creator al „albatroșilor, acestor temerari tineri scriitori ”. 
+Medalioane sunt dedicate lui Pascal, Byron, Avram Iancu, Gh. Lazăr. 
+Din anul 1870, el era înlocuit cu Vincențiu Babeș, care va conduce gazeta până la începutul anului 1876. 
+În primul număr se publica un articol de fond semnat de frații Mocsonyi, care sprijineau financiar periodicul. 
+În mai multe rânduri, prin intermediul gazetei, intelectualii de la sate au fost îndemnați să culeagă literatură populară. 
+[…] De aceea milităm pentru o artă care să acopere toată întinderea și adâncimea vieții. 
+Națiunile mari, se spune aici, au progresat și prin acțiunea socială a poeziei. 
+Poetul, se arăta mai departe, trebuie să fie un agitator național și social. 
+Graur și fostul secretar de redacție I. Rosenthal, care se va retrage în 1924, înlocuit de Em. 
+Redactorii s-au străduit să contribuie la realizarea unității culturale a românilor. 
+Preferințele se îndreptau către I. Heliade-Rădulescu, D. Bolintineanu și V. Alecsandri, ale căror versuri sunt des reproduse. 
+Acesta va fi Iosif Popescu, sub a cărui conducere revista va reapărea de la 15 octombrie 1878. 
+Poezii populare culese în Macedonia au tipărit I. Fotianu, I. Santo și junimistul I. D. Caragiani. 
+Publicistica lui politică și culturală se menține în limitele unei respectări necondiționate a prescripțiilor cenzurii. 
+Gazeta nu obține însă audiența scontată și, după unsprezece numere, Vellescu renunță la editarea ei. 
+. Criticile sunt îndreptate și spre literatura „directorului mofturilor bucureștene ”. 
+Provine dintr-o familie de țărani înstăriți, Maria (n. Simion) și Ion Albu. 
+” Semnează versuri Valentin Raus, Victor Ilieșiu, Letiția Papu, Valeriu Anania (Miezonoptică). 
+Cu timpul, muncile aspre ale câmpiei sunt evocate ca acte rituale, esențiale și sacre. 
+Din ianuarie 1899, conducerea suplimentului este luată de C. Mille, care schimbă și echipa redacțională. 
+„Tata a murit acum doi ani, într-un spital / al țăranilor fără pământ. 
+” Versurile-comentariu vorbesc de o cumplită degradare umană, sub presiunea istoriei absurde. 
+beatitudinea prilejuită de miracolul vieții, al clipei germinale, când „Firea iese din sine ”. 
+În A. se poate recunoaște azi un scriitor de prim-plan al generației 60. 
+Scrie versuri înflăcărate (Hora Unirei), care se recită și se cântă cu însuflețire. 
+Renunță însă în favoarea lui C. Negri, susținând apoi, cu multă căldură, pe Al. I. Cuza. 
+Bolnav de cancer, se va stinge în conacul de la Mircești. 
+A fost o zodie norocoasă aceea în care s-a născut scriitorul. 
+Nici un curent, dintre cele care străbat epoca, nu și-l poate cu totul integra. 
+A., care cunoaște pe Seneca, Plutarh, Tit Liviu, se servește de izvoare latinești și bizantine. 
+Publicația va reapărea, sub titlul „Actualitatea ”, din 1913 până în 1928. 
+Sobrietatea stilului și unele însușiri de povestitor nu reușesc să salveze o literatură prea îndatorată comenzilor ideologice. 
+În 1905 a făcut parte din grupul celor care au editat „Tribuna Dobrogei ”. 
+Povestirile, nuvelele și romanele lui A. trimit, în cea mai mare parte, la universul rural. 
+Ideea pe care se ridică întreaga construcție narativă din Rătăcire este clasicul antagonism dintre țărani și boieri. 
+Conflictul, plasat după 1860, constituie un element esențial în fresca evenimentelor politice și sociale. 
+Câteva personaje reapar și în al doilea roman, Sybaris. 
+Bine informat, cu lecturi moderne „la zi ”, criticul surprinde însă prin redistribuirea accentelor interpretative. 
+/ Lumea e totuși frumoasă, / pururi aș sta s-o contemplu. 
+„Lumină de acvariu / Draperia decolorată / Accentuează oboseala amurgului. 
+În urma cercetărilor în arhive, a întocmit o istorie a neamului românesc. 
+/ / Afară vântul citește afișe, / Ploaia măruntă le spală. 
+atmosfera câștigă în principal din notația fugară și din ironia tandră care se pune în scenă. 
+Schema detectivistică reprezintă mai curând un pretext narativ pentru dramatizarea și personalizarea unor psihologii și identități. 
+Axat pe căutarea adevărului personal, ca și pe gravitatea singurătății comunitare, romanul acordă numai în aparență pondere mediului. 
+„Hitler reușește să mobilizeze, mai prompt ca în 1914, lumea împotriva patriei lui Goethe. 
+Cronicar literar de gust și perspicacitate, A., ca autoare de cărți, cultivă mai cu seamă eseul. 
+Sunt citați și „exploatați ” inteligent autori ca H. Wölfflin, W. Worringer, G. 
+Selecții din cronicile sale literare adună volumele Castelul lui Don Quijote și Transilvania și verile cu polen. 
+În aprilie 1990 părăsește Editura Cartea Românească pentru revista „22 ”, al cărei redactor-șef devine în septembrie 1991. 
+În fiecare se poate citi cu folos o categorie socio-psihologică. 
+A debutat cu poezie în revista „Luceafărul ” (1958). 
+Astfel încât, prins în jocul de oglinzi verbale, fiecare actor este văzut aproape simultan din toate unghiurile. 
+Din 1989 până în 2003, A. a părăsit literatura și s-a dăruit cu înfrigurare gazetăriei politice. 
+Aderând la autonomia esteticului, el se așază, în esență, sub scutul ideilor lui E. Lovinescu. 
+Gazetarul A. practică simultan eseul, foiletonul, polemica, interviul și cronica. 
+Cu toate că experimentează neobosit, el nu poate asimila substanțial modelul proustian, gidian sau kafkian. 
+Vocea autorului pus pe filosofare sceptică rostește panseuri fals compasive. 
+Cazuistica aceasta se dovedește un suport inadecvat pentru ideea de predestinare, agitată pe tot parcursul narațiunii. 
+În romanul Femeia cu carnea albă câștigă teren fibra ludică a imaginației. 
+E un joc ce se vrea inițiatic, regresiune spre „duhul ” primar. 
+Foarte bogat și dens este compartimentul rezervat traducerilor, chiar dacă și aici domină reluările. 
+Pentru a-și merita destinul exemplar, cei doi îndrăgostiți îmbină suplețea și tăria, înfruntă nedreptatea și sfidează moartea. 
+Acesta din urmă primește replica lui Ioan Valahul, imaginat ca un simbol de sinteză arhaică și de logică etnică, dotat cu simțul eternității. 
+Scrisul său confirmă o vocație nemilos concurată de erupțiile vanitoase ale unui prozator confiscat inițial de lăcomia realului, și mai apoi de parada erudiției. 
+O dreaptă ierarhizare a valorilor literare românești, dincolo de flama adversităților, nu poate ocoli „testul Barbu ” (Mihai Ungheanu). 
+Aspirând către marea lumină necreată a spiritului pur, poetul s-a oprit de câteva ori pe granița care desparte creatul de increat. 
+Intenționalitatea de orice natură, crede el, împinge Antigona, Ajax, Filoctet și Oedip la Colona în abisurile nonartei. 
+B. e admis, în 1908, bursier, la Iași, al Liceului Internat, încheind mai apoi, strălucit, în fruntea promoției. 
+Publică frecvent sau reproduce scrieri din celelalte provincii, încurajează discuțiile despre limbă și literatură, utile în aflarea unei orientări comune. 
+Pentru a umple un gol, publică, mai cu seamă în anii de început, istorioare și nuvele, scrieri de factură romantică. 
+În martie 1849, după înfrângerea mișcării, se refugiază în Țara Românească, de unde, după arestări și eliberări succesive, ajunge la Viena. 
+O broșură poartă titlul După un veac de teatru românesc (1937), o alta, Organizarea teatrului (1938). 
+Inclusă ca monolog al lui Zefir în Trandafirii roșii, declanșa, la fiecare reprezentație, manifestări de entuziasm patriotic. 
+Aici autorul examinează problemele de prozodie și mijloacele artistice ale creației populare autohtone, amintește genurile folclorice și dă o imagine asupra folcloristicii românești. 
+În celelalte proze, autorul alunecă spre artificial, senzațional și fantasmagoric, înspre relatarea fără relief a faptului oarecare. 
+Un portretist remarcabil, evitând pitorescul și anecdotica de colportaj, se arată A. în medalioanele de regizori și de actori. 
+După cum proza lui B. dispune de o densă încărcătură de veridicitate, unele „însemnări și amintiri ” mimează reflexele epicului plăsmuit. 
+Cu o viziune nedisimulat tezistă, confruntând două „lumi aparte ”, nuvela Datorii uitate se clădește pe complexul poporanist al vinovăției. 
+În pătimirile ei, declanșate de farsa crudă a unor răutăcioși, se ivește, în contraefect, o nuanță de ridicol. 
+Muzicale, de o cursivitate prozodică aproape ireproșabilă, poeziile lui B. sunt înrudite cu versurile cantabile ale lui I. Minulescu. 
+Tocmai de aceea, orice întâmplare care bruschează obișnuințele se supradimensionează incredibil, trezind o neliniște vecină cu panica (Spre Slatina). 
+Cum îi plăcea să citească, se angajează ca bibliotecar la liceul din Silistra (1926–1932), aici îndeplinind și funcția de pedagog. 
+Oprindu-se asupra controversatului termen de „supramarionetă ”, exegetul nu înțelege prin el „actorul-păpușă ”, ci un interpret de superperformanță. 
+Cele câteva poezii apărute în „Vlăstarul ” nu anunțau în nici un fel fronda și agresivitatea exclusivistă etalate în Fugind de neant (1946). 
+Autorul îl instalează în nebunie ca într-o nouă realitate, securizantă, prin care „farsa jocului de-a viața ” este suprimată. 
+Inerția, abulia și eșecurile acestui tânăr intelectual sunt simptome ale unei împotriviri organice la norma care obligă individul să intre într-un rol anume. 
+Dacă arta este „deformarea lumii fizice prin duh ”, a plăsmui înseamnă a prilejui „o logodnă între natural și supranatural ”. 
+Poet al stărilor antinomice, ignorând nuanțele intermediare, nu departe de exaltările lui B. se află și opusul acelei atitudini, la fel de radical afirmată. 
+Parte din motivele populare incluse în roman au fost prelucrate de Anton Pann, altele au îmbogățit povestirile lui Petre Dulfu despre Păcală. 
+B. este unul dintre primii care introduc acest element esențial în cercetarea comparatistă românească, extinzând studiul comparativ și asupra literaturilor populare. 
+Traducerea fragmentelor incluse în argumentație îi aparține eseistului (care a tălmăcit, în întregime, Furtuna, rămasă în manuscris). 
+Datinile și obiceiurile apar ca niște coordonate fundamentale ale traiului isvorenilor, generând drame și acționând ciclic, implacabil, asemenea destinului. 
+Copiile manuscrise din secolul al XVI-lea nu permit stabilirea unor cronologii exacte, din cauza unor erori de copiere a colofoanelor criptate. 
+Cartea se va laiciza, b. mari și bine înzestrate se vor ivi pe lângă universități, literatura va îmbrăca limbile națiunilor. 
+Un Nicodim de la Tismana, un Gavriil Uric de la Neamț au creat b. de manuscrise pe care însă vicisitudinile le-au risipit în patru vânturi. 
+în b. acestui rafinat boier va găsi Varlaam al Moldovei acel catehism al calvinilor pe care îl va combate cu atâta energie. 
+Rubrica „Am citit pentru dumneavoastră ” prezintă cărțile Nomenklatura de Mihai Volenski și Autopsia unei lovituri de stat de Radu Portocală. 
+Începe Facultatea de Medicină în 1937 la Universitatea din Poznan și o termină în 1943 la București, unde emigrase din cauza războiului. 
+Ca poet, B. este sensibil influențat de simbolism, de care neputându-se desprinde, vădește o carență de originalitate. 
+A profesat ca jurist în Timișoara, apoi a devenit cadru didactic la Facultatea de Filologie a Universității din localitate. 
+Aici Gh. Naghiu și Gh. Ciuhandu realizează studii extinse de istorie literară și culturală, privind primele publicații religioase din Arad. 
+A rămas mereu el însuși, din care pricină partea originală a Istoriei sale, cam de pe la 1320, va îmbrăca un pronunțat caracter memorialistic. 
+„Tristețea metafizică ” traversează un stadiu anxios (În marea trecere) și apoi chinuitor (Lauda somnului), spre o resemnare înțeleaptă. 
+Fără a opune acestei concepții un nu categoric, B. se întreabă, prin tot ce expune și istorisește, dacă acesta e întreg adevărul. 
+Contestat în violente campanii de presă, consilierul economic al regelui Carol al II-lea își caută o compensație în spațiul ficțiunii. 
+Între acestea se detașează apropierea de filosofia lui S. Kierkegaard și de curentul produs mai târziu de acesta prin interpretările lui Husserl și Heidegger. 
+B. consideră cuvintele realități concrete și invită nu la o lectură, ci la o vizionare din interior a poemelor. 
+Manifestările vieții sociale amplifică până la halucinație senzația de artificial, de spectacol bizar, dominat de habitudini și convenții stupide, eșuat în absurd. 
+Concepută într-o manieră tradiționalistă, cu nuanțe folclorice, poezia lui B. este axată, mai ales, pe motivul evocării meleagurilor natale. 
+Mă întreb cum să nu râzi în fața unui Eminescu nud și cum să nu-ți închipui instantaneu figurile altor scriitori în aceeași ipostază. 
+„Pe lespezi de piatră se zdruncină ziua / și totuși mai suge lumină șopârla / murmură frunza de viță absența / boabelor ei de dulceață. 
+Tenace și decis în opțiuni, trece în Regat, la sfârșitul lui 1890, încercând să-și termine facultatea la București. 
+La B. Delavrancea a apreciat curățenia limbii din proză și unitatea construcției dramatice, lui M. Sadoveanu îi este investigată arta de povestitor. 
+Mai mult decât oricine, Bogdan-Duică a reprezentat un istoricism intransigent, adesea confundat cu un exagerat cult al mărunțișului literar. 
+Avea darul unei vorbiri captivante, unind discursul savant cu limpezimea și căldura sufletească a celui ce știe să rămână în miezul lucrurilor. 
+O viziune estetică a realității și o conștiință fulgurantă produc tablouri de neuitat, pagini antologice trasate cu un simț tragic revelatoriu. 
+Părinții lui, aromâni ale căror nume nu sunt cunoscute, au emigrat în Austro-Ungaria după distrugerea totală a orașului lor din sudul Dunării. 
+El este un meditativ, un obișnuit al dialogului reflexiv, citând frecvent filosofi în textele sale, ceea ce le face demne de tot interesul. 
+După licență (1973), se specializează în restaurarea picturii de șevalet, la Muzeul de Artă din București (1973–1977). 
+Este fiul Elenei (n. Branea) și al lui Iulian Boldea, lucrător (șef de tren) la CFR. 
+Pentru necunoscătorul subdialectului bănățean, limbajul pare prea încărcat de regionalisme lexicale și sintactice, dar textul rămâne perfect accesibil. 
+O influență considerabilă, notează B., a avut-o melosul românesc asupra cântecului popular ucrainean din Moldova și Bucovina. 
+Suferința devine principalul conținut al trăirii, și imaginile care induc stări de neliniște, timorare, urât, oboseală predomină. 
+Ceea ce urmărește, operând cu instrumente de precizie, este să reconstituie „îndărătul operei ” fizionomia autorului și atitudinea lui în fața vieții. 
+Redacția anunță în primul număr scopul revistei, care susține programul Partidului Național Român, militând îndeosebi pentru drepturile culturale ale românilor din Transilvania. 
+Aglomerarea citadină îl neurastenizează pe poet, care vede, „prin ceață ”, „copaci goi ” luminați de felinare anemice. 
+Dragostea, moartea, melancolia limitei, spaima, aspirația astrală trec printr-o fibră individualizată, care își simte și își strigă fragilitatea. 
+Ideea concepției vinovate, constitutivă momentului cosmogonic originar, este revelată și retrăită prin ritualul dramatic din Soarele și Luna. 
+/ sub cea din urmă rază de soare, / un glas tăios ca o sabie / îi striga să se urce în corabie. 
+O pace ca după cutremur se lasă peste orășel, aruncând în definitivă izolare și inutilitate o existență meschină, fără sens. 
+Schițele și nuvelele din volumul intitulat pillatian Eternități de o clipă (1982) sunt axate pe introspecția unor stări-limită. 
+Mobilizat la Ministerul de Război, va colabora la „Adevărul ” și „Patria ”, susținând ieșirea României din neutralitate. 
+Foarte înrudit cu actorii săi este și povestitorul, de la început cu un aer de bătrân, care nu prea se miră de nimic. 
+D. Isac recenzează mai ales cărți de filosofie, iar Pimen Constantinescu traduce din Horațiu, Sully Prudhomme, Fr. Coppée, Otto Ludwig. 
+A efectuat stagii de specializare și documentare la Moscova, Paris, Berlin și a participat la congrese și colocvii științifice naționale și internaționale. 
+din martie 1913 cuvântul „artistică ” este suprimat din subtitlu, iar din iunie 1915, subtitlul e redus la „Revistă ilustrată ”. 
+Izvorât din intuiții, din viziuni poetice, epicul, ca și ideea, este descarcerat, lăsat să ființeze întru-un spațiu deschis, subiectiv. 
+Căutarea armoniei muzicale, mirajul purității conferă rezonanțe proprii unui limbaj poetic ce sună adesea ca o reminiscență (Simfonia rustică). 
+De Crăciunul lui 1942, Radio București îi difuzează Noaptea sfântă, „motiv religios în patru tablouri ”, în versuri. 
+Modul de prezentare preferat, acela al unei înșiruiri cronologice pe stagiuni, i-a solicitat ani îndelungați de muncă. 
+Dacă evoluția unei literaturi se decide în momentele de ruptură, de discontinuitate, Istoria ieroglifică reprezintă un astfel de moment. 
+Dacă nu inventivitatea comică impresionează în toate aceste texte, în schimb e vădit scrupulul stilistic, ce avea să devină teribil, torturant. 
+Bun cunoscător al vieții românilor din sudul Dunării, C. s-a decis să le popularizeze folclorul, foarte puțin știut în România. 
+Tot lui Gherea îi este dedicat și articolul Pesimismul în literatură al lui Caion, în care tonul polemic predomină. 
+Pronunțarea dialectală, transilvăneană și arhaică, notată de copiști, mărește farmecul straniu al tâlcurilor cu vădite trimiteri eschatologice. 
+Sămănătorismul său excesiv și dogmatic l-a descalificat în ochii moderniștilor, care i-au reproșat insensibilitatea la literatura mai nouă. 
+Impresionează, de asemenea, starea sufletească a bătrânei mame, bine surprinsă într-una dintre variantele culese de G. Dem. Teodorescu. 
+C. ataca reformele preconizate de Al. I. Cuza și de M. Kogălniceanu, înlocuind revista „Nichipercea ”, care fusese suspendată în mai 1864. 
+Nu termină însă decât cursurile Facultății de Litere și Filosofie, în 1919, după ce aproape un an, în timpul războiului, este mobilizat. 
+Saltul înapoi, spre Pascal (spre „spațiul imensității copleșitoare, terifiante ”) este justificat, afectiv, de imaginea dinainte. 
+Noutatea și efectul de surpriză, atât de elogiate de poeții dadaiști, sunt întreținute tocmai de contradicțiile interne ale unei astfel de poezii. 
+Revista găzduiește și numeroase traduceri din Zola, Henry Kistermaeckens, Arthur Conan Doyle, François Coppée, Georges Courteline. 
+Lui i se alătură Constanța Chiralievskaia, care transpune în foileton romanul lui V. D. Waschirov – De ce se prăbușesc imperiile. 
+Numărul 5 / 1913 găzduiește necrologul Aurel Vlaicu, iar numărul 26–27 / 1915 comemorează 25 de ani de la moartea lui V. Alecsandri. 
+În cadrul foiletonului gazetei, Pantazi Ghica publică prelucrarea unei legende populare (Mărgăritărel) și schița Un amor de toamnă. 
+După ce a lucrat un timp ca învățător, și-a dat diferența examenelor de liceu pentru a putea frecventa învățământul superior. 
+Prin multe dintre subiectele alese, prin personaje și atitudini, prozatorul se dovedește un precursor al sămănătorismului, precum și al poporanismului. 
+În primul volum de nuvele, Flori de câmp (1900), sunt surprinse câteva caractere violente, capabile chiar de crimă. 
+Dimensiunea psihologică rămâne una de suprafață, A. mulțumindu-se să creeze personaje după o schemă morală simplificatoare, în alb și negru. 
+Dragostea dintre doi tineri, protagoniștii romanului, proveniți din cele două straturi sociale aflate în neostoită înfruntare, nu poate înfrânge prejudecățile. 
+Astfel, Duduia, bătrână, se reîntoarce pe meleagurile unde trăise alături de Bujor pentru a muri răpusă de remușcare. 
+” Aceleași idei sunt susținute de E. Lovinescu și de I. Ludo, ultimul polemizând cu Nae Ionescu și cu A. C. Cuza. 
+Aici Mihail Sebastian își delimitează opiniile (68 / 1934) de grupul de la ziarul „Cuvântul ”, unde funcționa ca redactor. 
+În mai 1990 se stabilește la Cluj-Napoca, unde devine redactor – și cronicar literar – al revistei „Tribuna ”. 
+A urmat Liceul „Dimitrie Cantemir ” din București și apoi cursurile Institutului de Arhitectură „Ion Mincu ” (1955–1961). 
+Consistente, meticulos construite, eseurile ei procedează la asedierea solid organizată a unor chestiuni de teoria artei și de hermeneutică literară. 
+Arestată la 25 mai 1950 și trimisă la Canal, eliberată în 1952 și din nou arestată în 1959, A. M. reușește să părăsească țara după 1970. 
+Întârzii / prin preajma arborilor mari, îmi place / să privesc trecătorii singuratici / însă nu schimb nici un cuvânt cu nimeni. 
+Primul dintre cei cinci copii ai Deborei (Dobrișei, n. Iosub) și ai lui Avram Adercu, primește la naștere numele Froim Zeilic. 
+Se stabilește la București din 1920 și este, timp de două decenii, funcționar la Ministerul Muncii și Ocrotirilor Sociale. 
+Ca și N. Davidescu, B. Fundoianu, I. Vinea și alții, semnalează nume mari ale poeziei moderne românești în chiar momentul apariției lor. 
+A.B.C., revistă social-politică și culturală editată de Asociația „Echinox ” și apărută în 1990 la Cluj-Napoca, în două numere. 
+Numele acestuia va figura până la numărul 4 / 1911, când, pe ultima pagină, e trecut ca redactor-responsabil Ioan Flueraș. 
+O Iosif selectează poemele lui Petöfi, Eroi în zdrențe și Apostolul, și, alături de Dimitrie Anghel, traduce Minerul lui Ibsen. 
+aceste schimbări aduc și o orientare politică nouă, A. îndepărtându-se de gazetele socialiste, dar rămânând un cotidian democratic, antidinastic, republican. 
+Tot atunci, C. Mille începe seria de însemnări intitulată Letopisiți, care continuă cu succes de public mai mulți ani. 
+În maniera sa caracteristică, a îndrăznelilor impudice, Ștefan Agopian propune un scurt remember narativ (Despre penicilină și timbre). 
+Și profilul revistei se modifică, apar mai des articole politice, se continuă campaniile antidinastice ale „Adevărului ”. 
+O nuvelă romanțioasă, cu toate însemnele unei scrieri juvenile, Pe terasă, îi aparține lui Gr. Pișculescu (Gala Galaction). 
+Al. Vlahuță și B. Delavrancea sunt, în 1893, comentați favorabil, dar criticați în 1894, după declanșarea polemicii cu „Viața ”. 
+În schimb, structura revistei rămâne relativ stabilă, ca și paginația, A. l. și a. dobândind astfel un profil distinct printre revistele culturale postrevoluționare. 
+Și faptul se străvede chiar din sumarul foarte eteroclit, care se adresa în primul rând unui cititor mediu, chiar puțin cultivat. 
+El a pledat cauza înaltei profesionalități a scrisului, scos din păienjenișul diverselor diletantisme, prezente, chiar din plin, și în paginile revistei. 
+Anii colaborării lui în viața revistei, care au marcat în chip evident o nouă etapă, coincid cu epoca marilor creații ale lui Călinescu. 
+În 1855 se afla canonic și rector la seminarul român din Oradea, iar în 1857 – prepozit capitular la Lugoj. 
+Studiile le-a urmat la Fălticeni și la Academia din Iași (fosta Academie Mihăileană), pe care a absolvit-o în 1856. 
+Lipsa de finețe a umorului, jocurile de cuvinte neinspirate, lexicul cu reminiscențe italienizante îl împiedică să fie un scriitor satiric remarcabil. 
+Pădurar, gospodar înstărit, știutor de carte, tatăl se va muta mai târziu ca „vigil de pădure ” în ținutul Odorheiului. 
+Prestigiul lui A. crește considerabil din 1902, când începe să publice în paginile „Luceafărului ”, scos la Budapesta de Oct. 
+Născut „dintr-o nevoie socială adânc simțită ”, ziarul abordează, pe lângă informația economică, socială, politică, și pe aceea culturală. 
+Ipodiacon și apoi diacon, este hirotonit preot în aprilie, după ce, cu o lună mai înainte, se căsătorise cu Maria Aurelia Radu. 
+Tot în aprilie, este numit preot (de rit unit) în comuna Bucium-Șasa, din Munții Apuseni, unde rămâne până în mai 1910. 
+Este și motivul care îl determină să părăsească Partidul Național Român și să se afilieze, în 1927, Partidului Poporului. 
+aici personajul se întoarce de la intenția de a-și părăsi satul nu din cauza „datoriei ”, ci a milei adânc omenești. 
+Din sămănătorism, A. preia doar cadrul general, pe care îl modifică mult, trecându-l prin filtrul propriu. 
+el ajunge un fel de conducător al satului nu atât prin exemplu personal, cât prin firea-i răzbunătoare și aprigă. 
+Clară rămâne doar pornirea dintotdeauna a scriitorului împotriva demagogiei de toate nuanțele, care a generat un partid „de dreapta extremă ”. 
+„Note literare ”, tot nesemnate, cuprinzând scurte anunțuri legate îndeosebi de aparițiile editoriale din țară și din străinătate. 
+Scriitorul deține un vast repertoriu de situații dramatice, generate îndeosebi de stingerea și reproducerea pasiunilor, izbucnirilor vitale, transpuse în finaluri concise. 
+Față de cele povestite, e cuprins de „o durere necunoscută, aspră și rece ” (Umbra unui om). 
+Memoriile lui tind să consolideze un destin de tip tradițional și idealizat, spre deosebire de un Gib I. Mihăescu, care ilustrează tipul antieroului. 
+însă are o minimă conștiință de sine, față de care – și nu față de divinitate – se simte răspunzător (Săptămâna patimilor). 
+Uneori, astfel de eroi par a urî viața (Fefeleaga, Dura lex), deși atitudinea lor este ambivalentă. 
+„A trăi ” înseamnă pur și simplu „a trăi ”, a te lăsa cuprins și dominat de izbucnirile vitalității. 
+Așa termină Iosif Rodean (din Arhanghelii), unul dintre cele mai puternice caractere pe care le-a dat romanul românesc. 
+Personajele cele mai realizate sunt oameni care nu pot trăi în izolare, precum la Mihail Sadoveanu, ci au un puternic spirit comunitar. 
+Personajele coborâtoare imediat din țărănime păstrează însă o mare forță expresivă și, mai ales, au o originală inserare în narațiune. 
+Scriitorul construiește un personaj, de preferință, prin gesturi, analiza psihologică mărginindu-se la sugestii, cu detalii puține, dar esențializate. 
+Astfel, omul e legat permanent de crepuscular și de durere, din care se desprinde și ia contur (Vechi pădurari). 
+Ignorând aproape cu totul peisajul citadin, scriitorul se oprește asupra celui rural, nu totdeauna luminos, dar sugestiv prin asprimea liniilor. 
+Atmosfera este de trai „în întuneric ”, povestirile fiind organic structurate pe absența luminii, ca simbol al vieții întregi. 
+În concordanță cu peisajul sunt și locuințele personajelor, în mod obișnuit cenușii, rar luminoase, bântuite de duhuri (Vedenia, Jandarmul). 
+Articolul-program este substituit de poezia argheziană Absolutio, republicată cu modificări, sub titlul Binecuvântare, în volumul Cuvinte potrivite. 
+Primul roman apare în „Luceafărul ” (1912), cu titlul Povestea unei vieți, reluat în volum abia în 1926. 
+Romanul Strigoiul, încheiat în vara lui 1944, apare abia în 1969, iar Faraonii se tipărește în 1961. 
+Unele povestiri ample (Popa Man, Păscălierul, Dolor, Stana, Prăpastia) pot fi considerate romane de dimensiuni reduse. 
+Alcătuite după o arhitectură supravegheată, urmează canoanele tradiționale de la sfârșitul secolului al XIX-lea și începutul secolului al XX-lea. 
+în alte împrejurări, cele mai numeroase, debutul are loc într-o atmosferă apăsătoare de claustrare, concretizată de regulă prin încăperi sumbre, posomorâte. 
+Arhanghelii este reprezentativ sub acest raport, primele lui rânduri fiind constituite din descrierea interiorului seminarului pe care urmează să-l părăsească Vasile Murășanu. 
+Amplificând o preferință a povestirilor, romancierul are ambiția de a construi destine, vizibilă încă din Legea trupului și din Căsnicia lui Ludovic Petrescu. 
+În general, el stăpânește o foarte strânsă logică a narațiunii, fluxul principal este urmărit cu rigurozitate, chiar rigid uneori. 
+Cel mai expresiv sub acest aspect rămâne Arhanghelii, care marchează un punct de referință în romanul nostru, cu deosebire prin întărirea caracterului realist. 
+Pentru întâia oară în romanul românesc se întâlnește o atât de strânsă înlănțuire de invenții epice, de o amploare controlată îndeaproape și cu răceală. 
+Izolat și timid, A. a ignorat cu desăvârșire opiniile critice despre el, cunoscându-le doar accidental, pe unele. 
+Așa cum Mircea Nedelciu inventează rețeta unui roman „împotriva memoriei ”, A. brevetează formula „povestirii în pofida istoriei ”. 
+Romanul consacră o tehnică epică amenințată în scrierile ulterioare să alunece în manierism, transformând pe autor în propriul său epigon. 
+„Adevăratul mister al facerii textului – explică el – este refacerea existenței înseși, cu ajutorul unei gramatici eliberate de orice servitute. 
+Se rețin și opiniile despre ortodoxie ale Mitropolitului Olteniei, Nestor Vornicescu, intervievat de Elena Cruceru și C. Dumitrache. 
+Cuprinde texte în limbile română, germană, italiană, franceză și rusă, edite și inedite, traduceri în și din aceste limbi. 
+D. Albulescu traduce din spaniolă Trei dizertații ale iscusitului cavaler Don Quijote de la Mancha, însoțite de ilustrațiile lui G. Tomaziu. 
+Din poezia europeană sunt reproduse în original texte de Eugenio Montale, Salvatore Quasimodo, Umberto Saba, Paul Celan. 
+Atât traducerile basmelor eminesciene, în proză și versuri, cât și poeziile traduse în germană stau mărturie pentru această strădanie stilistică. 
+Condamnat la șapte ani de închisoare, a fost pus în libertate în aprilie 1964, în baza decretului de grațiere referitor la deținuții politici. 
+A participat la colocvii și congrese științifice internaționale, a făcut o călătorie de studii în India (vizitând centrele importante de sanscritologie). 
+Recenzii scriu B. Poligriv, Emil Manu, Mircea Damian, cronică teatrală, Sandu Mille, Rodica Hodoș, Vasile Cărăbuș. 
+Volumul de eseuri culturologice care interesează un public mult mai larg decât cel al specialiștilor ori pasionaților de indianistică este Arhaic și universal. 
+Între 1914 și 1940, funcționează, cu intermitențe, ca angajat la Ministerul Instrucțiunii și la Ministerul Muncii și Ocrotirilor Sociale. 
+Celebrând soarele, marea, pământul, focul, versul se lasă mișcat de sensibilitatea unui spirit modern, trecut prin filieră romantică și simbolistă. 
+A. nu va fi totuși actor, ci bibliotecar la Fundația Universității, unde va funcționa din 1913 până la pensionare. 
+Elementele simboliste (parcul, grădina, parfumuri, mirajul depărtării, cântecul și plânsul fântânilor) tulbură „helenicul vis ” al poetului. 
+În pofida stereotipiei imagistice, a travestiului clasicizant, renunțarea la emfaza retorică și tendința de interiorizare a expresiei sunt ceea ce interesează în lirica lui. 
+Socotind acest fapt drept un atentat la autoritatea consulului rus Karl von Kotzebue, mare amator de whist, domnitorul a dispus suspendarea revistei. 
+Adresându-se, prin chiar titlul ei, românilor din toate provinciile, A.r. s-a străduit să le țină trează conștiința națională. 
+Elogiul femeii fascinante, stăpânite de eros, ce deține parcă o putere de seducție vrăjitorească, este însuși elogiul feminității. 
+După trei clase elementare făcute în sat, un unchi îl înscrie la școala maghiară de stat din Vințu de Jos. 
+A. fuge însă peste munți, la Caracal, unde e ucenic, apoi calfă în atelierul de tâmplărie al moșului său, Laurențiu Albani. 
+În 1913, intră în redacția săptămânalului „Adevărul ”, publicație a secției române a Partidului Social Democrat din Ungaria. 
+„Logodit cu pana ”, va suporta și riscurile, fiind deținut trei luni la Vác pentru delict de presă. 
+Piesa a fost jucată, ca și un alt text dramatic, Kogălniceanu (rămas în manuscris), de studenți prin diferite localități transilvănene. 
+Aproape neobservat trece și romanul Atlantida (1945), cu toate că se raporta la cea mai strictă actualitate și anticipa orientarea societății postbelice. 
+Experiența scriitoricească și participarea directă la evenimente se fac simțite în dialoguri, în selecția faptelor și în coloratura afectivă a mărturiilor. 
+Ziarul își propune, pe lângă „ridicarea neamului ”, să apere și „adevărata Biserică ”, prin care e desemnat ritul unitarian. 
+Dar programul, respectat în liniile lui mari de-a lungul celor unsprezece ani de apariție, pare să fie redactat de Georgiu Popa. 
+Tot de aici poate fi aflată structura Academiei Române la 31 decembrie 1990, pot fi consultate stenogramele adunărilor generale extraordinare din 22 ianuarie și 2 februarie 1990. 
+A. este unul dintre primele periodice românești care tipărește cu consecvență literatură populară, culeasă din Transilvania și Bucovina de At. 
+Poetul are datoria de a prevesti evoluția evenimentelor istorice, de a pregăti mișcările sociale, așa cum făcuse Andrei Mureșanu la 1848. 
+Sub pseudonimul Cassiu se ascunde Al. Roman, un atent și pătrunzător observator al moravurilor din mediile urbane ardelenești, comentate cu umor și vioiciune. 
+Poet romantic el însuși, redactorul s-a arătat generos cu colegii de generație și, totodată, un constant prețuitor al liricii înaintașilor. 
+O direcție literară nu se indica, dar poate fi dedusă din studierea materialului beletristic și a publicisticii apărute și corespunde întru totul vederilor lui Asachi. 
+se urmărește mersul de ansamblu al politicii europene, se comentează descoperirile științifice, se dau informații geografice sau istorice. 
+ACADEMIA ROMÂNĂ, cel mai înalt for de cultură și de știință al țării, care funcționează neîntrerupt din 1866 până în prezent. 
+Un program vag, redactat în termeni ezitanți, este propus prin articolul Albine și viespi, tipărit în primul număr. 
+Totodată, va evita „satira greoaie și bădărănoasă ”, optând pentru o satiră și o critică apropiate de artă. 
+În ipostază de cronicar dramatic, Ștefan Vellescu se arată avizat, iar remarcile sale, adesea critice, sunt, cele mai multe, îndreptățite. 
+„De aceea ochiul meu așteaptă pe câmpie / să vină o lacrimă din acel viitor dureros / care înainte de a fi poate plânge. 
+În volumul Stâlpi (1974) se întâlnesc versuri pe ritmuri populare mai jucăușe, nici ele debordând de optimism. 
+La A., pastelul, alcătuit din notații eliptice și sincopate, se interiorizează, iar poezia satului depășește documentarul etnografic. 
+Tot progresiv, se conturează și imaginea tragică a sfârșitului lumii rurale tradiționale, cu gesturile ei simple, de rezonanță cosmică. 
+Elev seminarist la Blaj, persevera, dând lecții particulare un răstimp, spre a putea urma dreptul la Cluj. 
+Se opune sincronismului (lovinescian) în numele autohtonismului (conceput nu la modul pășunist-etnografic, ci într-un registru elevat, de ținută intelectuală). 
+Cuprinderea temporală a ciclului e pe măsura amplorii sale, mergând de la epoca Unirii din 1859 până la începutul secolului al XX-lea. 
+Volumul de versuri Duhul pământului, în care realitatea este convertită în metaforă de extracție folclorică, dovedește vocația etică a scriitorului. 
+Tânărul frecventa în același timp și casa lui N. Beldiceanu, unde se citea poezie simbolistă și se făceau experiențe de „audiție colorată ”. 
+Pătruns de spiritul literaturii noi, fiind concomitent în contact cu tineri artiști și scriitori români aflați la Paris, el își limpezește vocea lirică. 
+O. Iosif, pe care îl cunoscuse la Paris, traduce poezii de Paul Verlaine, ce vor fi strânse în volum în 1903. 
+Astfel, mișcarea socialistă, îmbrățișată o vreme pentru idealul ei umanitarist, i se dezvăluie contradictorie, inconsistentă (Povestea unui mușuroi). 
+Nu sunt rare însă nici personificările facile, alegoriile sau infiltrațiile minor romantice, iar metaforele, puține, utilizează un material sămănătorist. 
+Deși sunt proiectate adesea în fantastic, deși includ ceva din mirajul trecutului resuscitat, portretele au totuși și o valoare documentară. 
+E înclinat spre confort și reverie, dar tânjește mereu să cutreiere prin ținuturi cu un soare blând și învăluitor. 
+Acest „carnet al unui ieșean ” e completat de „carnetul unui fost parizian ”, inclus în volumul Povestea celor necăjiți. 
+Nostalgia idealizatoare este limitată de o viziune lucidă a Parisului, Babilon modern, care înstrăinează și, mai mult, degradează social și psihic. 
+Fără ea nu s-ar înțelege proza de mai târziu a lui Arghezi, care perfecționează și sistematizează maniera angheliană. 
+Se detașează, prin masivitate și noutatea punctului de vedere, studiul despre I. L. Caragiale, interpretarea urmând teoria bahtiniană a carnavalescului. 
+În 1983 i s-a decernat Premiul „Perpessicius ” al revistei „Manuscriptum ” pentru editarea corespondenței lui V. Alecsandri. 
+„Capacitatea de a vedea scenic, de a transcrie nuanțele dialogului este afară din comun ” (G. Călinescu). 
+se vorbește uneori de » cenaclu « (fără majusculă), dar numai convențional, pentru a ști despre ce este vorba. 
+S-a pornit nu voluntar, în virtutea vreunui punct de onoare, ci spontan, datorită unui impuls colectiv, unui consens liber. 
+În ședința Academiei Române din 18 mai 1923, Vasile Pârvan a prezentat un prim raport asupra activității Școlii din Roma în anul școlar 1922–1923. 
+În numele acestui viitor, A. contestă sub raport artistic scrierile naturaliste și critică orientarea estetică de la „Contemporanul ”, mai ales pe C. Dobrogeanu-Gherea. 
+Dacă pare uneori infatuat și distant, mai ales în raport cu tânăra generație, față de cei apropiați se arată mereu afectuos, cu duioșii neașteptate. 
+„M-am hotărât, împreună cu prietenii Ion Albulescu și Dan Mihai Pavelescu, să înființez ceea ce se numește un holding. 
+Este autorul unui film documentar despre opera lui D. Paciurea, premiat la Festivalul filmului de artă de la Berlin (1978). 
+Luat rob de turci, este dus la Constantinopol, unde avea să-și dezvăluie înzestrarea pentru xilogravură, pictură și broderie. 
+Șansa unei revederi, deși minuțios pregătită și așteptată de fată, îi va fi negată din pricina unei reapariții fugare și inutile a tatălui rătăcitor. 
+Deși firescul mișcării și fluiditatea scriiturii sunt notabile, autorul, care insistă în direcția realismului psihologic, nu are propriu-zis instinct epic. 
+Cultura solidă pe care își construiește studiile consacrate Antichității nu alterează poezia scrisă de A., în sensul unei supraaglomerări de simboluri livrești. 
+A. convinge de autenticitatea ei în versuri cel mai adesea libere, de o fluență discret tânguitoare, care îi reușesc bine. 
+O întrebare și răspunsuri opționale implicite, din care își nutresc tensiunea discretă cele mai bune piese ale celor patru volume de versuri. 
+Rezultatul testului e pozitiv, mai cu seamă în linia tomnatic-inițiatică, bine servită de o scriitură alertă și de un fin spirit de observație. 
+Și-a luat doctoratul în filologie la Moscova, devenind profesor de estetică la Institutul de Arte Plastice „N. 
+El crede, romantic, în chemarea mesianică a omului de condei, cum și în menirea socială a artei. 
+Înzestrat cu un acut simț al tragicului mereu proiectat în orizont cosmic, A. este copleșit de un morb metafizic. 
+Împotriva catastrofei care se apropie, poetul încearcă să se apere printr-o irupție viscerală, tradusă adesea într-un cromatism strident. 
+Frecvente sunt însă prezentările de poeți, medalioanele, evocările, seria încheindu-se cu recenzii la cărțile recent apărute, românești și străine. 
+Ziarul își propune să apere elementul național, popoarele având datoria de a trăi și a se dezvolta potrivit „firii și geniului lor ”. 
+Gazeta publică discursul lui N. S. Dumitrescu rostit la Societatea „Tinerimea Română ”, cu prilejul împlinirii unui sfert de veac de la înființarea societății. 
+analiza fină și riguroasă urmărește să traseze profiluri caracteristice și să verifice intuițiile cronicarilor literari asupra reprezentativității anumitor autori români contemporani. 
+Înainte de a aborda stihurile mai vechi, stilisticianul examinează structura și valorile versului modern românesc, confruntat cu pulsațiile versificației franceze. 
+Despre scriitorii francezi (Sully Prudhomme, Émile Gebhart, Maurice Barrès ș.a.) și nu numai (Emerson), întocmește mici monografii. 
+Deși nu s-a considerat un scriitor, a lăsat o serie de confesiuni, multe mărturii autobiografice dezvăluind cel puțin un condei atent. 
+Se pot identifica alte afinități, cu obsesiile bacoviene, cu descriptivismul pillatian, cu ermetismul barbian ori cu onirismul lui Gellu Naum. 
+Piesele sunt recoltate din toate regiunile locuite de români, A. fiind cel dintâi care pune în evidență unitatea folclorului nostru. 
+În condițiile dominației austriece, ședința inaugurală a avut loc la 17 februarie 1876, din inițiativa lui Teodor V. Ștefanelli și a lui Ciprian Porumbescu. 
+Face parte din grupul studenților refugiați, național-țărăniști, sprijiniți de Comitetul Național, sub aripa lui Constantin Vișoianu și Alexandru Cretzeanu. 
+Jocul artistic astfel dezvăluit implică o anume arhaizare a cuvântului și o structură a frazei ce simulează și sugerează totodată înțelepciunea, tâlcul. 
+preocupată de dramele sufletești, investigate deseori prin întoarceri în timp, autoarea preferă ambianțele enigmatice, traversate de semne și gesturi greu de explicat. 
+Spre deosebire de nota cvasidominantă a prozei feminine, A. ocolește apelul la atmosfera liric-duioasă și la gingășiile stilistice explicite. 
+În volumul al doilea, distribuția se îmbogățește prin câteva personaje ce rezistă vitregiilor din acest microunivers dominat de ban. 
+Se stabilește la Sibiu, unde va profesa ca jurat-procurator pe lângă Consistoriul Episcopiei Ortodoxe și ca notar al Companiei grecești. 
+Debutul în volum a avut loc în colecția „Luceafărul ” (1962), cu Primăvară cosmică, prefața fiind semnată de Eusebiu Camilar. 
+Povestirea se încadrează în seria romanelor de Curte (fidelitatea unui vasal) și a cărților de înțelepciune, cu finalitate moralizatoare. 
+Ca în cazul oricărei cărți populare, structura este comună pe întreaga arie de răspândire, dar povestirea este modificată și autohtonizată de fiecare dată. 
+El dă și o versiune franceză a baladelor (1855), căreia Mérimée îi consacră o recenzie, comentată de Sainte-Beuve. 
+De asemenea, științele înrudite cu filologia, mai ales istoria și geografia, constituiau un obiectiv al preocupărilor științifice ale lui Cipariu. 
+De altfel, sub aspectul raporturilor culturale cu Occidentul, A. t. se detașează prin caracterul său de revistă bine informată. 
+Revenit în țară, probabil la începutul anului 1918, locuiește scurt timp la Iași, apoi se întoarce la București. 
+Schițele și nuvelele din culegerile următoare, Rochia albă, În regatul nopții, par file desprinse dintr-un blocnotes al romancierului. 
+Cărțile lui, în care este conturată o lume specifică, dominată de tragism, nu sunt însă niciodată pe măsura temerității proiectelor. 
+Excesele naturaliste din unele scene, care pot fi regăsite în mai toate romanele, nu se adună într-o caracteristică generală. 
+În versiune franceză este publicat și poemul lui Radu Gyr, Astă-noapte, Isus, dar indicându-se drept autor Anonymous. 
+Hexametrul greco-latin din Imnuri a fost echivalat cu macedonskianul vers de 17 silabe fără rimă, iar în epopee proza alternează cu pasajele versificate. 
+A rezultat din această sinteză o creație care nu interesează numai istoriografia (politică, a mentalităților, diplomatică), dar și literatura. 
+„Puțini știu ”, dezvăluia un cunoscut în 1931, că Tudor Arghezi este „pseudonimul propriului său nume ”. 
+Cu grupajul Denii … din volumul Kilometrul unu în cer revine lumea fabuloasă a ritualurilor folclorice și religioase, cu semnificații potențate de trecerea timpului. 
+Într-o atmosferă plină de prospețime, împletire de real și fabulos, se desfășoară idile grațioase sau fremătând de un senzualism frust. 
+Din suferința anilor dintâi dobândește dorința unei „ireductibile independențe ” și voința de a se construi prin sine însuși, împotriva împrejurărilor dușmănoase. 
+Cu mitropolitul Iosif Gheorghian (acesta îl recomandase referent de conferențiar pentru religiile comparate la Școala de ofițeri), traduce lucrarea reverendului francez H. 
+Acesta își face o reintrare explozivă în jurnalistică, atacând în „Facla ”, din mai 1911, pe mitropolitul în scaun, Athanasie Mironescu. 
+Fulminantele pamflete îl aduc pe fostul diacon, considerat încă în rândurile monahilor, în fața Consistoriului, care îl exclude din cin. 
+Ion I. C. Brătianu, sfătuit de I. Pillat, îi încredințează conducerea unei reviste care trebuia să contribuie la unificarea spirituală a neamului. 
+La un an după moartea soției sale, poetul se stinge și este înmormântat, după dorință, în grădina casei lor, la Mărțișor. 
+Poetul respinge viziunea instituționalizată, dogmatică, a unei divinități reprezentate convențional, apariție severă, instanță punitivă – Tatăl. 
+Moartea, despuiată de suferință, de speranța redempțiunii se reduce la recea numărătoare a cadavrelor (Dimineață, Morții). 
+Accente nemijlocit legate de împrejurările silnice (pizma, răzbunarea) se amestecă și ele în acest puternic, dar inegal volum. 
+Petecul de grădină e cuib cald, răni vechi se închid și, prinsă în legănarea generală, trecerea va fi lină, fără durere. 
+Subiectele sunt desprinse dintr-un Ev Mediu de poveste, cu eroi supradimensionați, așa cum apar ei în închipuirea rapsodului popular. 
+A., gândind panteic, nu a vorbit niciodată de urât, ci de „frumuseți de neant ” (Ploaia). 
+După ce A. D. Xenopol își asumă sarcina de director al publicației (în ianuarie 1894), în A. încep să se tipărească și scrieri literare. 
+istorice, culturale, sociale, economice, lingvistice, cu un cuvânt, articole cari îmbrățișează trecutul și viața culturală a ținutului nostru. 
+Dintre prozatori, Liviu Rebreanu este cu totul absent în preocupările celor care scriu în prima serie, fiind recuperat de colaboratorii celei noi. 
+Publicistul își afirmă încrederea în progres, pledează pentru democratizare și moralitate, apără drepturile țăranilor, are opțiuni antimonarhice. 
+A. a mai publicat culegeri de povestiri pentru copii, în care se îmbină tenta moralizatoare cu elemente de fabulos inspirate de folclor. 
+De asemenea, i se încredințează și catedra de declamație de la școala Societății Filarmonice, societate la întemeierea căreia a luat parte. 
+Inspirate de urcarea pe tron a lui Gheorghe Bibescu, „stanțele epice ” din volumul Prințul român (1843) sunt naive și exaltate. 
+Camil Petrescu pledează pentru Teatrul substanțial, E. Lovinescu publică articolul Spre alt teatru, T. Arghezi, tableta Transcrieri. 
+Numărul din ianuarie 1936, la care colaborează Gala Galaction (Povestea vieții mele) și Olga Greceanu, este închinat reginei Maria. 
+Este ilustrat aici un conflict între două generații arbitrat de un moderat, care nu-i altul decât purtătorul de voce al autorului. 
+Câteva reportaje de război consemnează faptele unei escadrile sanitare alcătuite din femei, a cărei misiune era de a transporta răniții grav de pe front. 
+În 1852 se căsătorește cu Edgar Quinet, istoric și scriitor francez, dedicându-se susținerii activității soțului ei și editării operelor acestuia. 
+Cultul datoriei și un dinamism pragmatic îl desemnează drept omul providențial într-o perioadă de tranziție spre modernizarea instituțiilor sociale și culturale. 
+În timpul Eteriei, se refugiază în Bucovina și Basarabia, întorcându-se la Iași în 1822, când saluta „restatornicirea ” domniilor pământene. 
+Conservatoriștii dau spectacole cu piese de Aug. von Kotzebue, prelucrate de A., sau din dramaturgia originală a acestuia. 
+Pervertirea cosmopolită a educației duce la inadaptare (Castorii), iar impostura provoacă răsturnarea valorilor (Momița la bal masché). 
+Inventivitatea epică, redusă, reclamată de însuși senzaționalul subiectelor istorice, este stimulată de imaginarul legendar și de poetica romantică. 
+Escadrila albă (1937) a stat la baza unui scenariu de film, realizat de cineaștii italieni în colaborare cu cei români. 
+Articolul Câteva observații filologice (1861) aducea argumente pentru folosirea unei ortografii bazate pe principiul fonetic, având ca model limba italiană. 
+În balade și în legende, Asachi s-a străduit să înjghebeze o mitologie literară română bizuindu-se pe tradiția populară. 
+Personaje exaltate, prinse în vârtejul unor patimi devoratoare, se zbuciumă amarnic într-un cadru somptuos, dar și lugubru. 
+El urmărește să determine punctele mitice din teritoriul moldav și să facă lista divinităților, spre a putea transporta în Dacia sistemul mitologic elin. 
+În două spirituale recenzii, îmbinând observația tăioasă cu ironia, el analizează volumele de versuri ale unor poeți locali. 
+Tânăra generație, scria Hogaș, va rămâne aproape necunoscută, deoarece A. nu s-a răspândit în afara cercului de cititori locali. 
+Poemul dramatic Odinioară (1919) descinde din tradiția literară a basmelor versificate și îmbină elemente de feerie cu cele ale teatrului istoric. 
+Un obiectiv important a fost să înlesnească tipărirea de cărți în limba română, încurajând astfel activitatea autorilor originali și a traducătorilor. 
+Este una dintre „utopiile ” lui A., ce datează, ca și toate celelalte, dintr-o perioadă anterioară debutului efectiv. 
+Acesta, împreună cu celălalt redactor, Gr. Tăbăcaru, i-a imprimat un caracter modern, definit de opțiunea limpede pentru estetica simbolistă. 
+Șt. Vellescu semnalează, printre primii, influența negativă pe care „drama de bulevard ” o are asupra moravurilor. 
+În același timp, remarcă situația dramaturgiei autohtone, obligată să abandoneze subiectele naționale și să imite modelele străine pentru a rezista concurenței. 
+Articolul Cultura națională, din 1863, semnat cu inițiala N., pledează pentru o cultură și o literatură bazate pe realitatea autohtonă. 
+A introdus genuri noi în literatură și a cultivat toate genurile literare și aproape toate speciile acestor genuri, de la fabulă până la roman. 
+Pe tărâm autohton, a. se supune celebrei ecuații conform căreia efectele contrastante sunt direct proporționale cu distanța față de centrul de iradiere. 
+A. susține că în spațiul românesc este foarte viu un creștinism cosmic, care și-a menținut prezența în pofida unor potrivnicii ideologice. 
+Poetul posedă o bună tehnică, se mișcă dezinvolt prin mai multe forme ritmice și strofice, este uneori un adevărat maestru al prozodiei. 
+Probabil stimulat de M. Dragomirescu, poetul încerca primele tălmăciri din Kohelet (Ecclesiast) în „Convorbiri critice ” (1907). 
+Curând, însă, începe să se manifeste boala (maladia lui Hodgkin), ultimii ei ani fiind un adevărat calvar. 
+Din 1710, la porunca domnitorului Nicolae Mavrocordat, A.U. transcrie letopisețele lui Grigore Ureche, Miron Costin și Nicolae Costin. 
+Letopisețul e întocmit într-o limbă destul de fluentă, cu vădite reminiscențe din textele biblice, cu care A.U. era familiarizat. 
+Un profesor impostor, Zugrăvescu, ajuns prin fraudă și compromisuri politice în fruntea instituției, dispune discreționar de soarta subalternilor săi. 
+E un efect al oboselii care se adună, dar și al dezamăgirilor ce contrariază sufletul ei încărcat de iluzii. 
+Dobândind prestigiu, va fi cooptat în Consiliul General al Partidului Social Democrat al Muncitorilor din România, de unde însă demisionează în 1894. 
+Prieten cu N. Bălcescu și C. Negri, a luat parte la revoluția de la 1848, sprijinind apoi intens emigrația română. 
+Exponent al școlii critice a „Contemporanului ”, pledând pentru arta cu tendință, nu acceptă în nici un chip estetica junimistă. 
+Sublocotenent în 1893, la geniu, va fi avansat în 1917 colonel, grad cu care se va pensiona. 
+Ulterior, B. va locui, până în preajma celui de-al doilea război mondial, în Italia, unde face propagandă culturii române. 
+Revenită în cotidianul care îi rezervă atâtea frustrări, adolescenta, apoi tânăra femeie nu-și reprimă deloc simțul hipertrofic al ridicolului. 
+Capitolul Prospecțiuni în critica poeziei urmărește, de pildă, cum au fost recenzate versurile lui O. Goga, Emil Isac, Adrian Maniu. 
+În 1959, B. se mută la București, unde devine unul dintre principalii animatori ai vieții literare din capitală. 
+Prin tată, B. se trăgea dintr-o veche familie boierească (Mustea), atestată pe vremea lui Ștefan cel Mare. 
+În 1933, familia B. se mută la București, în 1934, B. primește, alături de Tudor Arghezi, Premiul Național de Poezie. 
+Un mesaj care comunică, de cele mai multe ori, o sugestie despre tragicul existenței mărunte, solitare, fără orizonturi. 
+Îl izolează de lume și, totodată, îi sporește frica abisală – frica de lucruri și frica de fantasmele pe care le fabrică imaginația. 
+Ea îi va reda forma curat națională română, pentru ca să figureze cu toată demnitatea între și lângă surorile ei de origină latină. 
+Instalat în fotoliu, lângă soba în care trosnește focul, poetul contemplă prin geamuri peisajul polar de afară și ascultă vijelia. 
+Rezultă un număr destul de mare de poeme în care sunetele și parfumurile se cheamă și se confundă într-o muzică a suspinelor. 
+/ / Plâns de ape se repetă / Încă totu-i adormit – / Ca în vise s-a pornit / Roata morii – violetă. 
+La urmă, se observă că la el cercul s-a umplut de fantasme și că poemele ating temele grave ale existenței. 
+Secvențe, momente simbolice, chipuri, atmosferă se decupează lent, naratorul împingând amintirile înapoi în timp, până în anii Războiului pentru Independență. 
+Cronicarul nu se angajează în judecăți de valoare îndrăznețe, practică un comentariu moderat, animat de vibrație și căldură. 
+Dar numai o țară netrebnică, bolnavă, degenerată poate fi iubită cu pasiune ” (Tentația mizantropiei, 2000). 
+În „consecuențele morale ” așezate după fiecare piesă, B. arată o înțelegere mărginită, excesiv moralizantă, a operei dramaturgului englez. 
+Lipsit însă de mijloace materiale, se transferă la Școala de Literatură „Mihai Eminescu ”, unde beneficiază de casă și masă gratuit. 
+Jurnalul unei ființe greu de mulțumit (1932–1947), îngr. Doina Uricariu și Arșavir Acterian, postfață Doina Uricariu, București, 1991. 
+Prelucrată după un autor francez, rămas încă necunoscut, Morunul este o comedie de situații, adaptată desăvârșit realităților sociale românești. 
+Aici întâlnește pe Fănuș Neagu, Al. Căprariu, Victor Tulbure, Remus Luca, Aurel Martin ș.a., viitori scriitori. 
+Formula magică potolește spiritele, suspiciunile cele mai tenebroase dispar în clipa în care adversarul recunoaște cavalerește că preopinentul este un om de bună-credință. 
+Numai că, în epoca totalitarismului, cuvintele sunt folosite mai ales pentru a ascunde gândurile, nu pentru a le comunica. 
+El a inventat o mașină de detectat sunetele (subiectul din nuvela Acceleratorul) și mașina stimulează spiritul afacerist al vecinilor curioși. 
+B. s-a specializat în acest gen de comedie care sugerează răul mărunt, răul cotidian, micul infern uman. 
+El aduce copiilor o traistă plină cu afumături și vrea să-i ajute, din economiile lui, cu o sumă de bani. 
+Tatăl lui A., Aram Acterian, contabil la un magazin de manufactură, se lansase în comerțul cu cereale. 
+Copiii împart în chip echitabil darurile și, bucuroși că scapă din încurcătură, se grăbesc să-și conducă tatăl până la poarta casei. 
+Episoadele istoriei ardelenești dintre 1890 și 1914 sunt relatate cu obiectivitate, dar și cu detalii bogate, iar protagoniștii sunt portretizați sugestiv. 
+În capitolul intitulat Cosmos, B. descifrează în opera lui Sadoveanu „un simbolism cosmic inimitabil ”, primul element constituindu-l Soarele. 
+A obținut titlul de doctor în filologie cu teza Opera literară a lui G. Călinescu (susținută în 1973). 
+Va sfârși ca un „strigoi ”, într-un ospiciu, modelând din zăpadă – simbol lejer – o statuie. 
+Luat de val, privește cu simpatie mișcarea legionară, fără să se implice, el fiind un adept al lui Gandhi. 
+O secvență deosebită, cu valoare documentară în primul rând, se referă la activitatea desfășurată de B. în timpul domniei lui Alexandru Ioan Cuza. 
+Ion Minulescu a fost unul dintre cei care, recunoscându-i talentul în pictură, a influențat-o în sensul aderării la mișcarea modernă. 
+În clipa în care se anunță ocuparea Basarabiei, bolnavii capabili să se deplaseze hotărăsc să se întoarcă în România. 
+Ritmul narațiunii este trepidant, tensiunea situațiilor este însoțită de ironia amară, fină care străbate, de altfel, cartea, începând chiar de la titlu. 
+Personajele, oameni din felurite medii sociale, se încadrează într-o atmosferă de vacanță, asumându-și mentalitatea ludicului. 
+singurătatea asumată cu luciditate de scriitorul împărțit între obsesia cărții sale și iubirea pentru Simina este resimțită cu o durere similară sacrificiului stoic. 
+Stilul nu evită metafora temperată, denotând implicarea uneori puternică, dominantă chiar a emoționalității, turnată însă mai totdeauna în expresii calme. 
+Expunerea avansează calm pe spațiul întins al analizelor, coagulându-se uneori în pledoarii strânse, dirijate lucid spre finalitatea demonstrației de idei. 
+Nu lipsit de interes se relevă prozatorul în romanul Împăcare (1985), continuat cu Ultimii ani (1999). 
+De la școala siciliană la literatura Italiei contemporane, istoricul literar parcurge o arie întinsă și diversificată, punctând contribuțiile de referință. 
+Este răspândită în Transilvania și în nordul Moldovei și circulă pe melodii de cântec sau chiar de doină (în Maramureș). 
+Atunci când se recurge la un text de b. pentru îndeplinirea funcției de colindă, acesta este mult scurtat, uneori degradat. 
+Originea mult mai îndepărtată în timp a eposului este probată de existența b. mitico-fantastice (cum ar fi Soarele și luna). 
+Unele motive sunt răspândite pe zone mai restrânse (spațiul balcanic, de pildă) sau chiar numai într-o singură cultură. 
+A debutat, încă de pe băncile școlii, în 1928, la „Vlăstarul ”, colaborând, în continuare, la foarte multe publicații. 
+Blajinului August pălărierul, care întruchipează spiritul de toleranță, relația cu toposul domestic, i se opune fanaticul până la crimă Anghel. 
+În pofida acestor opoziții, cele două existențe ale lui Antipa totuși comunică, iar punțile dintre ele nu se limitează la personaje și situații. 
+Iminența ei stârnește în Antipa „vârtej, teamă, rușine, triumf ”, adică, altfel spus, tot haos. 
+” Haosul agitat de moartea intempestivă anunțată – și, în sens performativ, înfăptuită – de Antipa este înlocuit de o confuzie moleșită. 
+Privită în întregul ei, poezia se dovedește expresia unei conștiințe morale și politice, din ce în ce mai inconcesivă cu anormalitatea și nefirescul. 
+Cu numărul 2, din 26 ianuarie, I. L. Caragiale figurează ca girant responsabil și va păstra această însărcinare până la 12 ianuarie 1876. 
+În roman se amestecă anchetatori, voci, limbaje, timp narativ și secvențe temporale, paranteze, digresiuni, puneri în abis. 
+A. l. este editată în scopuri electorale de gruparea politică liberală rezultată în urma constituirii „coaliției de la Mazar-Pașa ”. 
+Între cei ce scriu în coloanele destinate literaturii se numără Pantazi Ghica, Ciru Oeconomu, G. Sion, Eniu D. Bălteanu și Al. Lăzărescu-Laerțiu. 
+Ca student al Facultății de Litere și Filosofie din București, va frecventa ședințele Institutului de Literatură și cenaclul lui Mihail Dragomirescu. 
+Profesorul l-a remarcat și, după licență (1931), l-a inclus în suita sa de asistenți onorifici. 
+Contribuțiile critice, semnate și cu pseudonimul Ion al Popii, indică o poziție antilovinesciană, cu evidente simpatii pentru „Gândirea ”. 
+Aluziv și încifrat la suprafață, de ecou expresionist, distilat, discursul liric trezește, prin vibrația lui de profunzime, rezonanțe grave. 
+A. stăruie asupra ideii de continuitate a romanilor în Dacia, precum și a legăturilor neîntrerupte cu cei așezați în sudul Dunării. 
+Având prilejul să asiste la repetițiile conduse de Al. Davila sau de Paul Gusty, prinde gust pentru meșteșugul regiei. 
+Avea să realizeze încă multe spectacole, din dramaturgia românească în special, făcându-și un punct de onoare din reprezentarea comediilor lui I. L. Caragiale. 
+Cu fiecare carte, poeta și-a adâncit adevărata vocație, obținând treptat sufragiile celor mai autorizați și exigenți critici. 
+În 1966, pe parcursul a două luni, predă la Viena un curs de artă scenică, la Seminarul „Max Reinhardt ”. 
+Dar comentariile sale așa-zicând teoretice (din „caietele de regie ” redactate în 1953 și 1956) dezamăgesc prin viziunea simplificatoare. 
+De-a lungul existenței, pe măsura diversificării preocupărilor ei, instituția a căutat să-și definească adecvat rolul și locul în societatea românească. 
+Studiul topologic este dublat de unul fenomenologic, interesat de cele trei tipuri de civilizație și de mentalitate care interferează în lumea lui Faulkner. 
+El se întoarce la câteva dintre momentele cruciale în care au fost proiectate, realizate sau ratate modernizarea și respectiv modernitatea României. 
+Această metanarațiune explicativă acoperă în carte episoade-cheie (Războiul de Independență, momentul Junimea, romantismul, perioada interbelică). 
+În 1833, se numără printre membrii Societății Filarmonice, „soțietate literară pentru cultura limbii ”, dar având și un program politic. 
+Pentru a dobândi o situație mai sigură, intră în armata națională cu gradul de cadet de cavalerie, apoi praporgic. 
+” Când se întoarce spre trecut, poetul se oprește asupra paginilor de istorie înnobilate de sângele eroilor căzuți pentru libertate. 
+Ambianța crepusculară, propice visării și reflecției, alunecarea în fantastic, ritmica timpului sunt sugerate prin sonoritate și imagine. 
+Scoasă sub patronajul Asociației Literare a României, revista nu reușește să reziste decât două numere, cel de al doilea având și un supliment. 
+Totuși sugestia de impasibilă clepsidră cosmică, de mecanică oarbă a universului domină și, prin ea, poemul vădește virtualități eminesciene. 
+Duhului meu se numără printre cele mai cunoscute creații ale lui A., expresie deplină a unei ironii superioare, desfășurată cu vervă. 
+Așa se explică numeroasele variante, dintre care unele au rezultat din contaminarea cu cărți populare înrudite (de exemplu, Istoria Troadei). 
+În 1964 se mută la Universitatea din București, unde, în 1968, își ia licența și devine asistent. 
+„Câte rânduri de viță n-au îmbrăcat dealul / din miile de neamuri, / și toate s-au uscat pe rând. 
+La 28 februarie 1974 s-a hotărât să existe numai o singură categorie de membri din străinătate, adică membri de onoare. 
+/ Cu cât sunt mai singur cu-atât ți-aud / Mai limpezi poruncile și-alerg smintit / Să le împlinesc. 
+Tehnica de creare a psihologiilor compozite, speculate lucid, fără tentația abisalului, dar convingător la nivelul ansamblului comportamental, suferă din pricina manierei monocorde. 
+În 1974 i s-a jucat prima piesă, Umbrele zilei, pe scena teatrului „Victor Ion Popa ” din Bârlad. 
+Statutul din 1948, ca și cele ce i-au urmat nu au mai înscris printre prevederile lor ținerea discursurilor de recepție. 
+dur, insurgent, coleric, autoetalându-și fără scrupule și fără pudoare experiențele de viață extrase din medii joase ori „subterane ”. 
+A. urmărește periplul poeziei începuturilor, de la „poezia-trudă ” la „poezia-divertisment ”, de la „poezia-adevăr ” la „poezia-ficțiune ”. 
+Al doilea volum, rămas în manuscris, a apărut postum, după 67 de ani, și cuprinde texte lirice culese în aceeași perioadă. 
+Prin colecția sa, a contribuit la cunoașterea folclorului unor zone puțin investigate până la el (Banat, Hunedoara și, mai ales, Bihor). 
+Fiu al Mariei și al lui Nicolae Alexiu, dascăl în satul prahovean Lunca Mare, A. a slujit cu modestie un crez, tradiția. 
+Necazuri, Răfuieli mărunte, Notele unui om necăjit cresc din amărăciuni și ostilități, A. rămânând adesea la relatarea faptului brut, primitiv. 
+În prezent este președinte director general al editurilor Hestia (fondată în 1991) și Anthropos (fondată în 1995). 
+ludicul își face simțită prezența, fără a se renunța însă la notarea exactă a stărilor complexe, la taină și mister. 
+Această problemă a fost discutată pe larg și la congresele filologilor români din 1925 și 1926, fără a se ajunge la un rezultat concret. 
+Dobrogea, în schimb, mai picturală, va inspira, în rama pitorescului decor, ceva mai multă libertate epică. 
+După absolvirea liceului la Vârșeț, urmează cursurile Facultății de Filosofie din Novi Sad, oraș unde se stabilește și unde își va desfășura activitatea. 
+Aproape dostoievskian, Andrei coace planul de a-l fura pe moș Victor, patronul cooperativei, și de a trece clandestin granița la sârbi. 
+Noaptea de hârtie (1971) este primul antiroman prin care se întrerupe tradiționalismul epic din literatura română a Voivodinei. 
+Teatrul (radiofonic) oscilează între suprarealism și absurd, sfidând conflictul în absența căruia personajele rămân enigmatice și evanescente. 
+Sub titlul Despre individualitate și nemurire, Dan Ursuleanu descoperă o colaborare a lui H. G. Wells la „Viața românească ” din 1930. 
+În numărul pe 1987, la rubrica „Ancheta noastră cu scriitorii ” răspund Ștefan Aug. Doinaș, Radu Cârneci și Eugen Simion. 
+Până în 1948, instituția a putut funcționa datorită donațiilor primite din partea unor particulari, subvențiile statului fiind reduse și nepermanente. 
+Cu prilejul unei noi ediții a „Țiganiadei ” lui I. Budai-Deleanu se intitulează o serie de considerații ale profesorului D. Popovici. 
+Sectorul publicisticii este bine ilustrat de Cezar Petrescu, Victor Braniște, Ion Agârbiceanu, Nicolae Iorga, Petru Groza. 
+George Bota evocă figura lui Iosif Vulcan, Al. Ciura pe aceea a lui George Barițiu, I. U. Soricu dă amintiri despre St. 
+Secțiunea de proză este acoperită de Eusebiu Camilar, Maria Arsene, Dan Petrașincu și G. Călinescu (Definiții pentru o nuvelă). 
+Sub genericul De la Caragiale citire …, sunt reunite câteva anecdote ce îl au drept protagonist pe marele dramaturg. 
+În 1839, el întreprinde împreună cu C. Negri și N. Docan un voiaj în Italia, care îi va lăsa amintiri deosebit de plăcute. 
+Dintre cele două articole a lui A. D. Xenopol, iese în relief cel intitulat Realism și idealism (1883). 
+Alături de partea de calendar, conținând și un istoric al editării calendarelor în Europa și în România, interesantă este secțiunea literară. 
+A. are o argumentație strânsă, însuflețită, cu izbucniri polemice, retorice, cu expresii metaforice nu lipsite de plasticitate. 
+În 1984, Ion Coja schițează portretul „Mitropolitului de la Păltiniș ”, Constantin Noica, la aniversarea a 75 de ani de viață. 
+Respectul pentru documentul istoric face ca viața cronicarului Miron Costin să fie descrisă și cu intenția de a explica o personalitate complexă, vag idealizată. 
+Imaginile ușor „suprarealiste ”, voit bizare, ivite dintr-un mod intelectual și descriptiv de a reconstitui sentimentul, rămân uneori obscure. 
+Uneori, mici scene evocate fragmentar se grupează ca elemente ale unei mitologii personale, schițate în limitele productive ale sugestiei. 
+Semnătura lui A. a putut fi întâlnită de-a lungul anilor în „România literară ”, „Contemporanul ”. 
+Substanța lirismului său degajă un sentiment vaporos de ironie înțelegătoare față de formele grotescului, văzute totuși, câteodată, printr-o lentilă care sporește frica. 
+Povestirea O judecată pe munte a fost apreciată de Șerban Cioculescu ca un „epos pastoral de o grandioasă primitivitate ”. 
+În 1852, imprimă primul număr al revistei „România literară ”, suspendată de cenzură mai înainte de a fi difuzată. 
+expunerea se colorează pe alocuri afectiv, împrumutând aspectul unor note de călătorie (ca în secvențele ce se referă la Italia, de pildă). 
+Seria apărută în timpul dictaturii comuniste se împarte în mai multe perioade, corespunzând profilului impus publicației de-a lungul vremii. 
+În genere se observă însă o accentuare progresivă a politizării actului de cultură, prin aservirea sa intereselor de partid. 
+După 1990 i s-a recunoscut A.R. dreptul „de a hotărî asupra îndreptărilor care se vor face normelor ortografice ale limbii române ”. 
+l. și a.r. a ajutat la formarea spiritului de breaslă în rândurile scriitorilor și artiștilor români de la sfârșitul secolului al XIX-lea. 
+P. Dulfu transpune fragmente din Euripide (Ifigenia în Aulida), I. N. Șuluțiu din Aug. von Kotzebue, iar I. Buda din Sacher-Masoch. 
+Și în chestiunile pedagogice A.f. are o atitudine înnoitoare, deoarece militează pentru un învățământ modern și pentru înființarea de școli normale. 
+Redacția este preocupată mai întâi de accesibilitatea materialelor (literare, istorice sau de informație științifică) și apoi de calitatea lor. 
+A. furnizase autorului anonim unele documente turcești și tătărești, traduse de el în română, limbă pe care nu o stăpânea deplin. 
+În cursul acestei etape, A. a cules în toate județele câmpiei dunărene și a înregistrat pe bandă peste 600 de balade. 
+Sunt reproduse chiar și legende orientale, ce dau un aer de fabulos unor episoade și sporesc dimensiunile epopeice ale domnitorului și ale oastei sale. 
+Istoric romantic și vizionar, el este, totodată, un scriitor-cronicar, înclinat spre moralizări, un pedagog al națiunii. 
+Este fiul Adelinei (n. Dragoman), de origine armeană pe linie paternă, și al lui Gheorghe Balotă, avocat. 
+Din 1995, în calitate de profesor invitat de literatură comparată, ține cursuri la universitățile din Cluj și București, Universitatea din Cluj numindu-l profesor-asociat. 
+În comentariile de artă, A. are opinii de om care gândește de multe ori în răspăr cu opiniile îndeobște admise. 
+Sumarul revistei confirmă acest program, în paginile ei republicându-se literatura marilor scriitori români, de la Vasile Alecsandri, la St. 
+Relatând pe un ton neutru, autorul știe încă să atragă participarea cititorului, care actualizează emoția tăinuită, însă nu absentă din volum. 
+fondul ancestral este topit într-o poveste de început de secol XX, în care lumea oierilor încearcă să reziste invaziei modernității. 
+„Jos era cerul verde strălucitor / și unde călcam se aprindeau / sori minusculi, unde dormeam / se deschideau izvoare ”. 
+Poate fi recunoscut aici un spirit ales, ironic și sceptic, capabil să formuleze concis și plastic judecăți generale. 
+Câmpia și Orașul, adevărații protagoniști ai Cărții de la Metopolis, își împart și dominația asupra universului fictiv din Iarna bărbaților. 
+Verbul „atârnă ” greu în această etapă, universul simțirii luptă cu densitatea substanței vitale, aflată în ebuliție cosmică. 
+Părinții, Maria (n. Comșa) și Paul Bănuțiu, judecător, se sting prematur, așa încât B. crește sub oblăduirea rudelor dinspre mamă. 
+Se împrietenește cu Gordon Craig și între cei doi se poartă o corespondență bogată privind concepția lor despre arta dramatică. 
+„Muncește și vei avea ” și „Citește, te vei lumina ”, revista se adresează în primul rând populației rurale de pe meleagurile ialomițene. 
+Cititor insațiabil, B. simțea nevoia unei demonstrații în acest sens, încredințând tiparului toate frământările sale literare și existențiale. 
+Până a pătrunde în circuitul didactic, tratamentul aplicat romanului și romancierului a sancționat drastic deviația de la normele curente, procustiene, din producția epocii. 
+În 1977 s-a stabilit la München, apoi la Sankt Peter, în Pădurea Neagră, unde a fondat Societatea Internațională „Musicosophia ”. 
+„Pentru români, Mihai Eminescu este sfânt, deoarece el a trăit cea mai sfântă dorință de a risipi negurile neștiinței spirituale ”. 
+Mezinul unei familii de mici proprietari, B. a absolvit în 1899 Școala Militară, urcând apoi în ierarhie până la gradul de viceamiral. 
+Se remarcă modul fericit în care coexistă rigoarea unei cercetări bazate pe o documentare serioasă și emoția unei spectatoare calificate. 
+O disperare care nu urcă pe culmi, o frământare izbucnind în emfază și în irațional agită solilocviul din Cartea întunerecului (1940). 
+Refugiat în Transilvania, urmărește acțiunile revoluționare ale maghiarilor și românilor, aflați, spre marele său regret, în conflict. 
+Mereu în primejdie de a fi arestat, B. se refugiază pentru o lună în tabăra lui Avram Iancu de la Câmpeni. 
+Dintre traducători, sunt de reținut Grigore Tănăsescu (cu două poeme de Goethe), Angela Ioan, care tălmăcește două schițe din Achile Campanile, și Anatol Ghermanschi. 
+În anii următori, funcția de redactor-șef a fost deținută de Sorin Pârvu, Camil Cezar Coțovanu, Dorin Popa, Sorin Antohi, Radu Andriescu, Marius Cristian. 
+Spre deosebire de Junimea, societatea nu a fost refractară noilor tendințe literare, acceptându-i ca membri pe Șt. Petică, N. D. Cocea, Gala Galaction, D. Anghel. 
+/ / Cioplindu-și-o cu mâinile subțiri, / neîntrecutul meșter din Cremona, / încă-nainte de-a o isprăvi, / i-a ascultat în vise melodia. 
+Revocat odată cu intrarea în dizgrație a lui Nicolae Titulescu, al cărui prieten și apropiat colaborator a fost, s-a retras la Paris, unde a trăit din avocatură. 
+Sumarele anilor 1922–1925 grupează materia în „Profesionale ”, „Cronici statistice ”, „Vesele ”, „Juridice ”, „Interne ” și „Externe ”. 
+După moartea lui N. Costin (1712) este desemnat de domnitor să redacteze cronica oficială a Moldovei – De a doua domnia lui Nicolae Alexandru Vodă, văleat 7720. 
+Craig răspunde printr-un gest cordial, scriind un „cuvânt înainte ” la cartea cea mai importantă a lui A., Pretexte pentru o dramaturgie românească (1936). 
+Procedând aidoma lui Miron Pompiliu, B. nu modifică textul, dar nici nu dă indicații asupra provenienței lui, decât cu totul sumar (cele mai multe sunt culese din Maramureș). 
+Orașul este „o fată bolnavă în agonie ”, casele par „femei tăcute ”, poetul se închipuie într-un sanatoriu, unde moartea face parte din cotidian. 
+Căci vocația lui a fost ziaristica, politică și culturală, „Nestorul presei românești ” – cum fusese numit – slujind-o mai bine de o jumătate de secol. 
+Scriitorul ar fi plecat, se pare, de la un caz real, în marginea căruia a închipuit o serie de evenimente ce se petrec în Moldova, în timpul războiului. 
+Călătorește în fiecare an, la diferite congrese, vizitând cu această ocazie orașe precum Paris, Varșovia, Geneva și făcând un tur prin Egipt, Palestina, Turcia. 
+O galerie a oamenilor politici români (2000), în care figurează și scriitori-politicieni precum C. A. Rosetti, M. Kogălniceanu, D. Bolintineanu, Duiliu Zamfirescu, I. G. Duca. 
+Competența lui B. în aria comparatismului se va concretiza în Proust, azi (1979) și în Compediu de literatură universală și comparată (I- II, 1997–1999). 
+Comparat cu Iulian Apostatul, e acuzat că „are pe dracu în el ” și că se ridică împotriva lui Dumnezeu, dintr-un „păcătos ” orgoliu intelectual. 
+Alta e modalitatea artistică în Imitație de coșmar (1995), unde nu realul preia atribute ale fabulosului, ci o scenerie onirică revelă uluitor un implicat al realului. 

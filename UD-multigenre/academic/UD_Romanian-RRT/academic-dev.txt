@@ -1,0 +1,106 @@
+Orice corp încălzit (T > 0 K) emite radiații de natură electromagnetică obținute pe seama mișcării de agitație termică a particulelor constituente ale corpului. 
+Aceste radiații emise de un corp aflat la o anumită temperatură se numesc radiații termice. 
+Radiația termică de echilibru apare atunci când în aceeași unitate de timp energia emisă de corp este egală cu energia radiației pe care o absoarbe corpul. 
+Dacă un corp încălzit este introdus într-o incintă cu pereții interiori complet reflectători, cu timpul se stabilește o radiație termică de echilibru, când temperatura corpului devine egală cu temperatura incintei. 
+Prin flux energetic radiant se înțelege energia emisă de corp în unitatea de timp. 
+Puterea de emisie (emisivitatea) sau radianța integrală se definește ca energia emisă în unitatea de timp prin unitatea de suprafață, în toate direcțiile, pentru toate frecvențele radiațiilor emise. 
+Acest corp absoarbe toată radiația incidentă. 
+Practic un corp negru poate fi considerat o incintă izotermă în care s-a practicat un orificiu și în care radiația incidentă va fi absorbită integral datorită reflexiilor și absorbțiilor succesive ce au loc la pereți. 
+Orificiul menționat poate fi văzut din orice punct al incintei sub un unghi mai mic de 0,01 steradiani. 
+Pereții unei incinte menținute la temperatură constantă emit și absorb continuu radiație electromagnetică (fotoni), iar la echilibru energiile emise și absorbite sunt egale. 
+Radiația din interiorul incintei poate fi studiată practicând o mică deschidere în peretele incintei; fotonii care ies din incintă constituie radiația corpului negru. 
+Intensitatea radiației emise de un mic orificiu din peretele cavității este proporțională cu densitatea de energie din interiorul cavității. 
+Pentru orice lungime de undă, intensitatea radiației emergente prin orificiu este întotdeauna mai mare decât intensitatea corespunzătoare emisiei unei suprafețe materiale menținute la aceeași temperatură ca și pereții cavității. 
+Cea mai mare putere de emisie o are negrul de fum și cel de platină (acestea absorb 97,6% din fasciculul incident). 
+Rezultă că pentru orice lungime de undă raportul dintre puterea emisă de o suprafață materială oarecare și puterea emisă de suprafața corpului negru este egal cu coeficientul de absorbție al materialului pentru lungimea de undă respectivă. 
+Suprafața corpului negru este deci o suprafață emițătoare convenabilă ca etalon. 
+Am folosit faptul că radiația termică de echilibru este izotropă (strălucirea nu este dependentă de direcție (unghiuri), adică nu este dependentă de poziția din cavitate). 
+Relația (117) stabilește legătura între strălucirea energetică B, care poate fi măsurată experimental și densitatea volumică de energie, care se determină teoretic (în interiorul unei incinte se stabilește o radiație de echilibru). 
+Radianța integrală a corpului negru este proporțională cu puterea a patra a temperaturii absolute. 
+Legea lui Wien este verificată experimental numai pentru lungimi de undă mici (ultraviolet). 
+Din legea lui Wien se obține legea lui Stefan-Boltzmann, care este verificată experimental. 
+Lungimea de undă corespunzătoare maximului densității volumice de energie spectrală a corpului negru este invers proporțională cu temperatura absolută. 
+Frecvența pentru care densitatea volumică de energie spectrală W are valoare maximă se obține egalând cu zero derivata lui W în raport cu V. 
+Pentru o stea, graficul densității volumice de energie spectrală este foarte asemănător cu cel al unui corp negru. 
+Ecuația (122) arată că pe măsură ce temperatura unui corp crește culoarea acestuia se schimbă (lungimea de undă scade). 
+Astfel s-a estimat temperatura suprafeței solare (5800 K), cunoscând lungimea de undă corespunzătoare maximului densității volumice de energie spectrală. 
+„Urc scara către cartiere vechi / pe unul din cele opt dealuri / ale orașului. 
+Se retrag A. Stavri și S. Sanielevici, încep să scrie Emil D. Fagure, Th. 
+De consemnat și rubricile „Teatru și muzică ”, „Plastice ”. 
+Iar simțământul patriotic alunecă uneori, din păcate, în xenofobie. 
+A susținut întotdeauna, în ortografie, principiul fonetic, combătând excesele și derapajele latiniste, italieniste, puriste. 
+Regalitatea literară a lui A. se întemeiază îndeosebi pe faima de poet. 
+El însuși se socotea, de altfel, un bard al națiunii. 
+O dragoste tihnită, ocolită de neliniști și suferințe, la care natura întreagă este chemată să ia parte. 
+Un imn e înălțat îndeletnicirilor agreste, săvârșite de țărani radioși. 
+Constatând penuria de piese originale, el își pune în gând să creeze anume un repertoriu românesc. 
+Decăderea boierimii și ridicarea burgheziei constituie un proces sugerat în Ginerele lui Hagi Petcu. 
+Volumul se deschide cu expunerea conținutului documentelor care legiferează funcționarea forumului academic (decrete, statute, hotărâri). 
+foiletoanele sunt, așa cum se obișnuia, preluate din ziarele franceze. 
+De prin 1878–1879, se petrece cu A. o metamorfoză. 
+Pentru a explica relegarea poetului latin la Tomis, dramaturgul alege o versiune romanțioasă. 
+Fondul narațiunilor lui A. este, așadar, autobiografic, narațiunile îmbrăcând de-a dreptul forma relatării de călătorie. 
+Prin 1862–1863, intenționa să-și înmănuncheze amintirile de călătorie într-un volum – Istoria călătoriilor mele. 
+Literatura română modernă nu e de conceput în afara prezenței sale carismatice. 
+Demisionat după lovitura de stat din februarie 1866, rămâne la Paris, unde își întemeiase o familie. 
+Eroul însuși povestește întâmplările, făcând o apologie a „dorului”, în sensul romanticului Sehnsucht autohtonizat. 
+Provine dintr-o familie de profesori (tatăl preda istoria, iar mama limba și literatura română). 
+Între 1967 și 1982 (când se pensionează) este cercetător la Institutul de Cercetări Pedagogice din București. 
+se încheie astfel scurta etapă „turbulentă” a lui A. în viața literară. 
+Uneori poziția față de un scriitor diferă de la un număr la altul, în funcție de părerile celui ce scrie articolul. 
+” Crima pusă la cale de personajul care decide în joacă soarta semenilor lui este una generatoare de haos. 
+Autorul este la curent cu toate tehnicile utilizate de romancierii moderni, de la Joyce la Robbe-Grillet. 
+Procedeele folosite împiedică sensul să se precizeze, îl fac să fie la rândul lui deviat și amestecat. 
+La moartea Regelui Munților, „durerea cuprindea cerul ”, amplificând printr-o metonimie uriașă semnificația unui destin. 
+De la profesorul bănățean Eftimie Murgu își însușește primele elemente de filosofie. 
+Vremea a vrut să selecteze și să păstreze însă chipul cărturarului îndrăgostit de frumusețea lumii antice. 
+În urma Dictatului de la Viena, familia Balotă este obligată să părăsească Clujul. 
+Întocmai ca Ioan Barac, poetul poate fi considerat un precursor al scrisului artistic de la noi. 
+În 1925 A. debutează cu versuri în revista „Cultura poporului ” (Cluj). 
+Deși își dă pe față alegerea și își revelează codul, el nu montează o campanie de explicitare. 
+„În tinerețe, am aruncat discuției cuvântul de lirism absolut. 
+Încă din 1904, B. exersează câteva localizări „din italienește ”, autorii nefiind menționați. 
+Eroii, trasați în tușe avântate, aspiră spre perfecțiune, au de multe ori calități excepționale. 
+B. este și autorul unora dintre primele meditații poetice din literatura română, influențate de preromantism. 
+predomină succesiunea imagistică particulară doinei, precum în Călugărița, Dudia sau Picuraru cătră vruta lui. 
+Îmbrăcată în haina vodevilului, satira este îndreptată împotriva micii boierimi și a parveniților. 
+Îndrăgostit de soția prietenului său, Filimon contribuie la moartea acestuia. 
+Neliniștea se revelează a fi însăși forța modelatoare a umanității din om. 
+În ianuarie 1879, o cronică dramatică nesemnată ataca spectacolul de la Teatrul Național cu O noapte furtunoasă de I. L. Caragiale. 
+Debutează editorial în 1930 cu romanul Piatra neagră, ce purta o scurtă recomandare semnată de Liviu Rebreanu. 
+Revendicându-se din estetica hegeliană, cartea lui B. nu i se subordonează întru totul. 
+Tensiunile declanșate de incongruențele eu – lume se atenuează, înlocuite fiind cu o stare de halucinație lucidă. 
+În dosarele poliției geneveze era notat ca „dangereux ”. 
+Mobilizat pe loc din cauza sănătății precare, îl ajută pe N. Iorga să scoată la Iași „Neamul românesc ”. 
+B., al cărui tată era profesor, urmează gimnaziul și două-trei clase liceale, înainte de a fi mobilizat. 
+doar răsfățatului Ionel Teodoreanu îi reproșează „imagismul prețios ”. 
+Cartea a impresionat, probabil, (și) prin aspectul ei de „roman polițist ” perfect construit. 
+Predomină însă originalitatea, imediat sesizabilă la parcurgerea oricărui poem. 
+Ambele texte elogiau mintea excepțional dotată a principelui moldovean, cunoștințele lui întinse. 
+/ Suferea de frigul cel mai cumplit, / boală socială – refuz organic / de adaptare la frigul lumii. 
+În 1854 se află la Londra, apoi iarăși în capitala Franței, dar, murindu-i părintele, trebuie să se întoarcă în țară. 
+În același interval, A. a elaborat și o metodologie a culegerii și transcrierii, adecvată relevării specificului genului și stilului cântecelor epice versificate. 
+Printr-un sistem ingenios, A. evidențiază o serie de caracteristici intime ale cântecului bătrânesc, care se manifestă în timpul executării acestuia de către performer. 
+Se observă efortul de lărgire a interesului științific, îndreptat acum și asupra metodologiei comparatiste și o atenuare a etnocentrismului cultural. 
+Centrul de greutate al preocupărilor academice se mută pe evenimente ocazionale, pe fondul unei priviri orientate nesmintit spre Răsărit. 
+În Cuvânt înainte, Al. Graur dezvăluie preocupările care intră în profilul Secției în seria reluată „după o foarte lungă întrerupere ”. 
+Sunt inserate pagini de proză, portrete și dialoguri literare de I. Peltz și două poeme de Al. Macedonski, Rondelul ctitorilor și Rondelul cascadelor. 
+Comentatorii poeziei românești se interesează de autori și de teme majore, începând cu Eminescu (Pavel Țugui și C. D. Papastate). 
+Dramaturgia, care ocupă un loc mult mai modest în preocupările cercetătorilor, nu scapă totuși atenției Sinei Dănciulescu-Leonte, Corneliei Cârstea și Rodicăi Iordache. 
+Nu sunt uitate literaturile clasice, cu precădere cea latină, și lirica unor popoare romanice (Romeo Magherescu). 
+În al doilea rând, pentru că poezia unui poet-călugăr nu poate fi înțeleasă fără o cultură și o trăire religioasă profundă. 
+Deși ales în Divanul ad-hoc al Moldovei, nu-și exercită, fiind suferind, mandatul de deputat al Bacăului. 
+Versurile lui A. din Poezii postume, eliberate de povara unui modernism căutat, izbutesc mai mult să dea expresie dramei personale. 
+Proza, tratând liric teme ca dezrădăcinarea ori viața „otrepelor sociale ”, a „oropsiților ”, e vădit anacronică. 
+De asemenea, instituția academică orientează și coordonează activitatea a 15 comitete naționale, 58 de comisii și șase colective de lucru. 
+Remarcat de societatea culturală „Transilvania ”, primește o bursă și pleacă, în anul 1871, la Torino, pentru a studia medicina. 
+Varietatea priveliștilor și bogăția muzeelor îl atrag și-l entuziasmează pretutindeni, la Roma, la Florența, Paris, Bruxelles. 
+Atmosfera unei aglomerări umane, trăsăturile caracteristice ale marilor orașe sau ale rusticelor localități italiene sunt sesizate și schițate cu un deosebit simț al veridicului. 
+Lexicul este încărcat de provincialisme, stilul nu e nici pe departe format, fiind serios afectat de febrilitatea cu care au fost scrise însemnările. 
+Crezul artistic capătă o nuanță mesianică, poeților atribuindu-li-se cea mai nobilă menire (Biserica versului, Poeților). 
+Rezultatele cercetărilor se regăsesc în cele peste 90 de reviste (dintre care peste 40 editate în limbi străine) ale institutelor academice. 
+Ca poetă, A. este dificil de alăturat unei grupări sau unei generații, mai apropiată fiind de poezia anilor ’ 70. 
+Conturând mai decis personajele decât în trecut, B. reia o temă tradițională a prozei românești, aceea a venirii de la sat la oraș. 
+Meditațiile pe marginea faptelor sunt legate de constatarea decăderii puterii de apărare a Țărilor Române, decădere atribuită corupției și lipsei de patriotism a boierilor. 
+Astfel, în numărul 35 / 1934, este publicată o fișă biografică Céline, alături de câteva impresii despre „o carte dantescă ”, Voyage au bout de la nuit. 
+” Odată cu Tobit, se inaugurează așa-numitul ciclu biblic, continuat cu Sara, care nu face decât să reia și să complice – cam forțat – formula. 

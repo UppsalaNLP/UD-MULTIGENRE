@@ -1,0 +1,357 @@
+Visa alla 
+Om ANSI SQL-frågeläge 
+En del av innehållet i det här avsnittet kanske inte gäller för vissa språk. 
+Du skapar SQL-frågor i något av två ANSI SQL-frågelägen: 
+ANSI-89 ger den traditionella Jet SQL-syntaxen. 
+Detta läge ligger nära specifikationen för ANSI-89 nivå 1, men det är inte kompatibelt med ANSI-89 nivå 1. 
+Vissa funktioner i ANSI-89 SQL är inte implementerade och jokertecknen är anpassade till specifikationen för Visual Basic for Applications (VBA), inte SQL. 
+ANSI-92 ger nya reserverade ord, syntax-regler och jokertecken som förbättrar möjligheterna att skapa frågor, filter och SQL-uttryck. 
+Detta läge ligger nära specifikationen för ANSI-92 nivå 1, men det är inte kompatibelt med ANSI-92 nivå 1. 
+Detta frågeläge innehåller mer ANSI-syntax och jokertecknen är anpassade till SQL-specifikationen. 
+Om du använder ADOX i Microsoft Access 2000, kan du programmatiskt skapa frågor som använder ANSI-92 SQL-syntax. 
+Frågor som du skapar syns dock inte i databasfönstret eftersom läget inte går att ange i användargränssnittet. 
+I Access 2002 kan du ange ANSI SQL-frågeläge via användargränssnittet i den aktuella databasen och som standardinställning i nya databaser. 
+Varför ska jag använda ANSI-92 SQL? 
+Det kan vara intressant att använda ANSI-92 SQL av följande anledningar: 
+Du funderar på att utvidga programmet till ett Access-projekt i framtiden och vill skapa frågor som behöver så få förändringar som möjligt för att köras i en Microsoft SQL Server-databas. 
+Du vill utnyttja de nya funktionerna som inte finns i ANSI-89 SQL, till exempel: 
+Ändra säkerhetsinställningar genom att använda SQL-uttrycken GRANT och REVOKE 
+Använda DISTINCT i en mängdfunktionsreferens, till exempel SUM-DISTINCT-Pris 
+Begränsa antalet rader som en fråga returnerar genom att använda villkoret LIMIT TO nn ROWS 
+Varför ska jag undvika att blanda frågor som skapats i olika ANSI SQL-frågelägen? 
+ANSI SQL är standardfrågeläget när du skapar nya Access-databaser i 2002- och 2000-filformat 
+ANSI-89 är standardinställningen för nya Access-databaser i 2002- och 2000-filformat. 
+Du kan inte ange SQL-frågeläge för nya databaser till ANSI-92 i 2000-filformat eftersom det alternativet är inaktiverat. 
+ANSI-89 är den enda frågelägesinställning som är tillgänglig för databaser i filformatet för Access 2000. 
+Om att använda anslutningsfiler 
+I en anslutningsfil lagras information om en anslutning till en datakälla (t.ex en OLE DB-datakälla) och informationen som hör till anslutningen. 
+I Microsoft Access kan du använda en anslutningsfil för att knyta en eller flera dataåtkomstsidor till en datakälla. 
+När du öppnar en sida läser Access anslutningsfilen som är länkad till sidan och ansluter sidan till rätt datakälla med hjälp av anslutningsfilens innehåll. 
+En anslutningsfil har något av följande filformat: 
+Office Data Connection (.odc) 
+Ett filformat som använder HTML och XML för att lagra anslutningsinformationen. 
+Du kan visa eller redigera innehållet i filen i en textredigerare. 
+Universal Data Link (.udl) 
+Ett standardfilformat från Microsoft Data Links med filoberoende objektdefinitioner för OLE DB-datakällor. 
+Fördelar med att använda en anslutningsfil 
+Om du använder en anslutningsfil blir det enklare att använda dataåtkomstsidor som hör ihop. 
+Sidor som ansluts till en gemensam datakälla kan ha en gemensam anslutningsfil. 
+Om du flyttar eller kopierar datakällan behöver du inte uppdatera egenskapen ConnectionString för varje beroende sida utan bara redigera anslutningsinformationen i anslutningsfilen och ange rätt sökväg eller databas för sidorna. 
+Länka en sida till en anslutningsfil 
+När du skapar en dataåtkomstsida kan du välja om du vill länka sidan till en anslutningsfil eller bara använda en anslutningsfil utan att skapa en länk. 
+Du kan också välja om du vill använda en befintlig anslutningsfil eller skapa en ny. 
+Länka till en anslutningsfil 
+När du upprättar en länk mellan anslutningsfilen och en sida anges namnet på filen för egenskapen ConnectionFile för sidan. 
+Varje gång du öppnar sidan läser Access anslutningsfilen, tolkar anslutningsinformationen och anger egenskapen ConnectionString för sidan. 
+Använda en anslutningsfil utan att skapa en länk 
+När du skapar en sida kan du använda innehållet i en anslutningsfil för att ange egenskapen ConnectionString för sidan men välja att inte skapa en länk mellan sidan och anslutningsfilen. 
+Ändra anslutningsinformationen för en sida 
+När en anslutningsfil används 
+Antingen ändrar du egenskapen ConnectionFile för sidan så att den leder till en annan anslutningsfil, eller också redigerar du anslutningsfilen i en textredigerare. 
+Om du väljer att redigera anslutningsfilen måste du tänka på att alla andra sidor som använder anslutningsfilen också påverkas av de ändringar som du gör. 
+Om du redigerar egenskapen ConnectionString för en sida som är länkad till en anslutningsfil bryts länken och egenskapen ConnectionFile får ett nullvärde. 
+När ingen anslutningsfil används 
+Antingen skapar du en länk mellan sidan och en anslutningsfil genom att ange egenskapen ConnectionFile, eller också redigerar du egenskapen ConnectionString. 
+När du skapar en länk anger Access egenskapen ConnectionString automatiskt med hjälp av innehållet i anslutningsfilen. 
+Om att konvertera en dataåtkomstsida från en tidigare version 
+En sida som har skapats med Microsoft Access 2000 måste konverteras innan den kan användas i Access 2002. 
+Öppna sidan i designläget i Access 2002. 
+Access skapar en säkerhetskopia av sidan (sidfilnamn.bak.htm) på samma plats som den ursprungliga filen för dataåtkomstsidan. 
+Om du vill återställa Access 2000-versionen av sidan tar du bort den konverterade filen, ändrar tillbaka namnet på säkerhetskopian och ansluter sidan till databasen. 
+Om dataåtkomstsidan innehåller några Microsoft Office Web Components-element (en pivottabellista, ett diagram eller ett kalkylblad) kan bara användare med en giltig Microsoft Office XP-licens använda komponenterna. 
+Om att analysera data 
+I Microsoft Access kan du analysera data med flera olika metoder. 
+Skapa en korsfråga 
+Med en korsfråga kan du beräkna och strukturera om data för enklare analys. 
+Korsfrågor beräknar summor, medelvärden och andra funktioner för data som är grupperade efter två typer av information: längs den vänstra sidan av databladet respektive tvärs över den övre kanten. 
+Jämförelse mellan en korsfråga och en urvalsfråga 
+1 En urvalsfråga 
+2 En korsfråga som bygger på urvalsfrågan 
+Lägga till en pivottabellista på en dataåtkomstsida 
+En pivottabellista är en interaktiv tabell som du kan använda för att analysera data dynamiskt i en webbläsare. 
+Användarna kan ändra pivottabellistans layout i körtid. 
+De kan flytta fälten som visas i rad-, kolumn- och dataområdet i pivottabellistan eller lägga till och ta bort fält i listan. 
+Användarna kan också filtrera, sortera och gruppera data. 
+Följande bild visar en pivottabellista på dataåtkomstsidan Order. 
+Pivottabellista på en dataåtkomstsida 
+Visa ett datablad eller formulär i pivottabelläget 
+Access 2002 innehåller ett pivottabelläge för datablad och formulär. 
+I det här läget kan du skapa en interaktiv rapport med hjälp av de underliggande fälten för databladet eller formuläret. 
+Läget bygger på en Microsoft Office-pivottabellkomponent, vilket innebär att du kan göra allt som du kan göra i en pivottabellista. 
+Du kan lägga till fält i vyn, flytta eller ta bort fält och filtrera, sortera och gruppera data. 
+Följande bild visar tabellen Anställda i pivottabelläget. 
+Datablad i pivottabelläge 
+Om anpassning av pivottabell eller pivotdiagramvyns layout 
+Anpassa layouten för en pivottabellvy 
+Du kan kontrollera hur data presenteras i en pivotabellvy genom att anpassa layouten. 
+Med en annan layout kan du beräkna och jämföra sammanfattade värden för olika element i dina data, eller visa sammanfattningar för en delmängd av informationen. 
+Använda släppområden 
+Du ändrar layout genom att flytta fälten till fördefinierade släppområden i pivottabellvyns arbetsyta. 
+Släppområden i pivottabellvy 
+1 Släppområden 
+2 Detaljområde 
+Du kan dra ytterligare fält till området även när släppområdets bildtext täcks efter att du flyttat fält dit. 
+Flytta fält till rad- eller kolumnområden 
+När du flyttar ett fält till radområdet, visas unika dataelement inom fältet nedåt längs raderna i pivottabellvyn. 
+När du flyttar ett fält till kolumnområdet, visas unika dataelement längs kolumnerna. 
+Flytta fält till detaljområdet 
+Om du vill se sammanlagda data eller detaljdata från den underliggande datakällan, flyttar du fälten till detaljområdet. 
+Flytta fält till filterområdet 
+Om du filtrerar data kan du begränsa vyn till en viss del av tillgängliga data. 
+Om du till exempel flyttar fältet Produkter till filterområdet, kan du visa data för en produkt i taget. 
+Flytta rad- och kolumnfält till en högre eller lägre nivå 
+De fält som ligger närmast detaljdata när en vy innehåller flera rader och kolumner benämns inre fält. 
+De övriga fälten är yttre fält. 
+Du kan växla mellan inre och yttre fält. 
+Exempel på inre och yttre fält 
+2 Yttre radfält 
+2 Inre radfält 
+3 Yttre fältelement 
+4 Det inre fältets element upprepas för varje element i det yttre fältet. 
+Lägga till och ta bort fält 
+Pivotabellvyns layout behöver inte inkludera alla tillgängliga fält från den underliggande datakällan. 
+Du kan dessutom ta bort fält som du inte vill se i layouten längre. 
+Anpassa layouten för en pivotdiagramvy 
+Du ändrar layout genom att flytta fälten till fördefinierade släppområden i diagrammets arbetsyta. 
+Släppområdena måste visas i diagrammet om du ska göra det. 
+Släppområden visas på olika sätt beroende på vilken diagramtyp som används. 
+Ett seriesläppområde visas till exempel inte om det är ett cirkeldiagram eftersom de bara innehåller en serie. 
+Dessutom är XSL-formatmallar skrivna på ett sätt som påminner om XML-dokument, dvs med en kombination av XML-liknande märken och HTML som skapar en mall för ett resultat i ett visst format. 
+Lägg märke till att du inte behöver länka vare sig en CSS-fil eller en XSL-formatmall till ett XML-dokument för att dokumentet ska kunna visas i Internet Explorer 5 (och senare). 
+Internet Explorer innehåller en inbyggd standardformatmall som visar XML-källan i form av en trädstruktur. 
+Med hjälp av formatmallar kan du se till att de XML-baserade webbsidorna i ett intranät eller på en webbplats är enhetliga och har ett konsekvent utseende utan att du behöver lägga till HTML-kod på varje sida. 
+XSLT (Extensible Stylesheet Language Transformation) 
+XSLT (Extensible Stylesheet Language Transformation) är en specifikation som för närvarande är under utveckling av World Wide Web Consortium (W3C) och som stöds av Access. 
+XSLT är ett XML-baserat språk som gör att ett XML-dokument kan överföras, eller transformeras, till ett annat XML-dokument. 
+På så sätt kan presentationsinformationen i ett XML-dokument transformeras från ett källformat till ett målformat och tillbaka igen. 
+Vanligen skapar en utvecklare en XSL-transformationsfil som när den används under exporten av ett XML-dokument tolkar eller överför XML-informationen till ett presentationsformat som kan tolkas av ett annat program, t.ex SAP (Service Advertising Protocol) eller ett anpassat kundorderformat. 
+XSLT innehåller många begrepp (strukturer och kommandon) som finns i andra programmeringsspråk, vilket gör att utvecklaren kan använda variabler, loopar och iterationer samt villkorsuttryck. 
+På så sätt kan utvecklaren styra resultatet av XML-informationen i hög grad. 
+Exportera data till XML-filer 
+Att exportera data och databasobjekt till en XML-fil är ett praktiskt sätt att flytta och lagra information i ett format som direkt kan användas på Internet. 
+I Access kan du exportera informationen, schemat (datastrukturen) eller bådadera till XML-filer. 
+Exportera data till en XML-fil och eventuellt använda XSLT för att transformera informationen till ett annat format. 
+Exportera dataschemat med XSD (XML-schemastandarden). 
+Exportera den bakomliggande informationen i formulär och rapporter till en XML-fil. 
+Du kan också transformera informationen till ett annat presentationsformat genom att använda en XSL-fil (Extensible Style Language) under exporten. 
+Du kan exportera tabeller, frågor och den bakomliggande informationen i formulär och rapporter från en Microsoft Access-databas (.mdb) samt tabeller, vyer, lagrade procedurer och den bakomliggande informationen i formulär och rapporter i ett Microsoft Access-projekt (.adp). 
+Exportera tabeller, frågor, vyer, datablad, formulär eller rapporter 
+Du kan exportera ett databasobjekt som ett XML-dokument på flera sätt: 
+Du kan exportera bara informationen från en tabell, en fråga, ett datablad, ett formulär eller en rapport till en XML-fil. 
+Informationen sparas i en fil med namnet .xml. 
+Du kan exportera bara schemat (datastrukturen) för en tabell, en fråga, ett datablad, ett formulär eller en rapport till en XML-schemafil. 
+En XML-schemafil är en formell specifikation av reglerna för ett XML-dokument, som innehåller en rad elementnamn samt information om vilka element som är tillåtna i dokumentet och i vilka kombinationer. 
+Om du väljer att spara schemat som XSD, sparas filen som .xsd. 
+Obs 
+När du exporterar en tabell till ett XML-dokument kan du också exportera de relaterade tabellerna. 
+Om du t.ex exporterar tabellen Kundorder kan du också välja att exportera de relaterade tabellerna Orderdetaljer och Kunder till samma fil. 
+Du kan också spara strukturen för en tabell, en fråga, ett datablad, ett formulär eller en rapport i en fil som beskriver presentations- och anslutningsinformationen. 
+För formulär och rapporter sparas den här filen i det XML-baserade språket ReportML, som innehåller både presentationsinformation och datamodellen för att skapa en dataåtkomstsida. 
+För tabeller, frågor, vyer och datablad är presentationsfilen en kalkylbladsliknande mall. 
+Filen sparas som _rapport.xml. 
+När du väljer att spara informationen som XML kan du dessutom ange att informationen ska transformeras till ett anpassat visningsformat genom att använda en befintlig .xsl-fil. 
+Om du inte anger någon .xsl-fil sparas informationen i XML-standardformat. 
+Lägg märke till att inga presentationsformat är tillgängliga om du inte väljer någon information för export. 
+Vad är ReportML? 
+ReportML är ett "språk" som har utvecklats av Microsoft speciellt för Access och som kan användas för att beskriva Access-databasobjekt i XML. 
+Språket ReportML består av en uppsättning märken som beskriver egenskaperna, händelserna och attributen för ett formulär, en rapport eller en dataåtkomstsida. 
+När du exporterar data från Access till en XML-fil väljer du att spara strukturen för ett formulär eller en rapport i ReportML-format. 
+ReportML-filen kan användas för att konvertera den sparade informationen till en dataåtkomstsida. 
+Korrekt utformade dokument 
+Alla XML-dokument som skapas av Access är korrekt utformade, dvs uppfyller de grundläggande reglerna för XML. 
+Det innebär: 
+Varje XML-dokument måste innehålla ett unikt rotelement (ett element som omfattar hela dokumentet). 
+Alla start- och slutmärken stämmer överens. 
+XML-märken gör skillnad mellan versaler och gemener. 
+För varje startmärke finns det ett motsvarande slutmärke. 
+Tomma element kan betecknas med ett särskilt märke. 
+XML-märken gör skillnad mellan versaler och gemener. 
+ReportML i Access använder inte tomma märken. 
+Elementen överlappar inte. 
+Start- och slutmärkena måste alltså vara inkapslade i andra element på rätt sätt. 
+Vissa specialtecken ingår i XML-syntaxen och tolkas inte som själva tecknen om de används i datadelen av ett element. 
+Du måste ersätta specialteckensekvenser (kallas "entiteter" i XML) så här: 
+Tecken 
+Entitet 
+Här följer ett exempel på ett korrekt utformat XML-dokument: 
+där: 
+är en deklaration som anger att det här är ett XML-dokument och uppger versionsnumret. 
+Deklarationen är inte obligatorisk men rekommenderas i alla XML-dokument. 
+är rotelementet som omfattar hela dokumentet. 
+är ett startmärke och är ett slutmärke som tillsammans beskriver ett dataelement, i det här fallet kundens namn. 
+Lägg märke till att varje grupp av märken består av både ett start- och ett slutmärke som gör skillnad mellan versaler och gemener och att märkesgrupperna är korrekt inkapslade i varandra. 
+Lägg också märke till entiteten &apos;, som kommer att omvandlas till en apostrof när informationen importeras av mottagarprogrammet. 
+Apostrofen används på ett särskilt sätt i XML-dokument och kan misstolkas om den används direkt i texten. 
+Den konverterade informationen visas som Mom's Boston Crab Meat. 
+Det går att använda blanksteg i hela dokumentet för att göra det mer lättläst. 
+Om du anger ett schema vid export från Access blir de XML-dokument som skapas giltiga XML-dokument. 
+Det innebär att de inte bara är korrekt utformade utan också följer ett visst schema. 
+Om export och kopiering av pivottabellvyer till Excel och andra program 
+Om du är bekant med pivottabeller i Microsoft Excel och vill arbeta med data i Excel, kan du göra det på två sätt. 
+Exportera data till en interaktiv pivottabell i Excel 
+Om du vill granska och ändra innehållet i en pivotabellvy genom att använda Excel, kan du exportera pivottabellvyn till Excel. 
+Förbereda export till Excel 
+Pivottabeller i Excel kan inte visa detaljfält. 
+När du exporterar till Excel blir detaljfälten tillgängliga i pivottabellens verktygsfält, men fälten visas inte i rapporten. 
+Om du vill att pivottabellen ska efterlikna pivottabellvyn, ska du innan du exporterar pivottabellen antingen flytta alla fält från detaljområdet, eller dölja detaljdata för element och celler så att detaljområdet inte visas. 
+Efter exporten 
+Det kan finnas vissa skillnader i pivottabellvyn efter att du exporterat den till Excel. 
+Det beror på att pivottabellkomponenten för Microsoft Office används för pivottabellvyer. Pivottabeller i Excel stöder inte alltid vissa funktioner för pivottabellistor och funktionerna är ibland implementerade på andra sätt. 
+Mer information om skillnader mellan pivottabellistor och pivottabeller hittar du i Hjälp om Excel. 
+Kopiera data till andra program för användning utan interaktivitet 
+Kopiera till andra program 
+Du kan kopiera data som visas i en pivottabellvy till andra program, exempelvis Microsoft FrontPage. 
+När du kopierar data till andra program än Excel och Word som inte stöder HTML-formatet som används i pivottabellvyer, kopieras informationen som oformaterad text. 
+Om filtrering av data i pivottabellvy 
+Du kan använda filterfunktioner för att ta fram specifika datavärden eller alla data som matchar ett visst värde. 
+Filtreringsmetoder 
+Filtrera ett fält (Autofiltrering) 
+Du kan filtrera fält i rad-, kolumn- och detaljområden. 
+När du filtrerar ett fält markerar du ett eller flera dataelement i fältet som du vill granska, och döljer alla andra element. 
+Filtrerad pivottabellista eller pivottabellvy 
+1 Först filtreras fältet Sport så att endast golfförsäljningen visas. 
+2 och sedan filtreras fältet Kvartal så att endast golfförsäljningen i Kv3 visas. 
+3 När du filtrerar ett fält ändras färgen på det filtrerade fältets nedrullningsbara pil Fältpil från svart till blå, och knappen Autofilter i verktygsfältet markeras. 
+Att filtrera ett fält kan vara särskilt praktiskt när du har en omfattande datakälla och vill fokusera på vissa områden. 
+2 Filtrerat kategorifältområde som visar poster för södra och västra regionen 
+Filtrera med villkor 
+Du kan använda ett filter i ett seriefält eller ett kategorifält om du vill visa de första eller de sista n posterna utifrån en totalsumma. 
+Du kan till exempel filtrera fram de tre orter som hade bäst försäljning eller de fem produkter som var minst lönsamma. 
+I stället för att ange n poster kan du välja att filtrera fram en procentandel av posterna. 
+Du kan till exempel filtrera fram de 25% säljare som har bäst eller de 25% säljare som har sämst försäljning utifrån antalet order. 
+Om det finns 40 säljare får du efter filtreringen se data för 10 personer. 
+När du filtrerar ett fält kan du visa data för en enskild post eller välja att visa vissa poster och dölja andra. 
+Diagram med kategorifält 
+Diagram med filtrerat kategorifält 
+1 Kategorifältområde som visar alla poster (ej filtrerat) 
+Du kan filtrera ett eller flera fält samtidigt för att öka fokuseringen ytterligare. 
+Filtrera utifrån data i en cell (Filtrera enligt markering) 
+Du kan filtrera ett fält så att endast data som matchar värdet i en markerad cell visas. 
+Detta är speciellt användbart när det gäller fält i detaljområden, om du vill se alla rader som innehåller ett visst värde. 
+Använda ett fält i filteraxeln 
+Du kan också filtrera data genom att använda filterfält. 
+När du markerar ett eller flera element i filterfältet, ändras alla data som visas och beräknas i hela pivottabellvyn för att återge dessa element. 
+Du kan lägga till nya filterfält eller flytta befintliga fält till filterområdet. 
+Exempel på filterfält 
+1 Filterfält 
+Villkorsstyrd filtrering 
+Regler för hur en inre vågrät linje flyttas 
+Om du flyttar en linje uppåt, förblir avståndet mellan den flyttade linjen och den närmaste parallella linjen nedanför konstant, och den vinkelräta linjen ovanför den flyttade linjen förkortas. 
+Om du flyttar en linje nedåt, förblir avståndet mellan den flyttade linjen och den närmaste parallella linjen nedanför konstant, och den vinkelräta linjen ovanför den flyttade linjen förlängs. 
+Regler för hur en yttre linje flyttas 
+Om du flyttar en linje från rutnätets centrum, flyttas inte den närmaste parallella linjen, och avståndet mellan den linje som flyttas och den närmaste parallella linjen ökar. 
+Om du flyttar en linje mot rutnätets centrum, flyttas inte den närmaste parallella linjen, och avståndet mellan den linje som flyttas och den närmaste parallella linjen minskar. 
+Kopiera en linje i ett rutnät av grupperade linjer 
+Markera linjen som du vill kopiera och tryck på CTRL-C. 
+Klistra in linjen genom att trycka på CTRL-V. 
+När du kopierar en inre lodrät linje, är den nya linjen halvvägs mellan linjen du kopierade och linjen till höger om den. 
+När du kopierar en inre vågrät linje, är den nya linjen halvvägs mellan linjen du kopierade och linjen under den. 
+När du kopierar en yttre linje, är den nya linjen placerad halvvägs mellan linjen du kopierade och linjen närmast parallellt. 
+När du har klistrat in linjen behöver du inte återskapa gruppen, den nya linjen blir automatiskt en del av gruppen. 
+Om att hantera null-värden i beräkningar 
+Mängdfunktionerna omfattar inte poster som innehåller tomma värden (null-värden) i beräkningarna. 
+Funktionen Antal returnerar t.ex antalet poster utan Null-värden. 
+Om du vill ta reda på antalet poster inklusive poster med null-värden, använder du Antal med jokertecknet. 
+Om du vill beräkna null-värden när du använder de övriga mängdfunktionerna, bör du använda funktionen Nz, som räknar om null-värden till nollor så att de kan ingå i beräkningarna. 
+Om några av posterna i något av de fält som du har använt i uttrycket innehåller ett Null-värde kan du konvertera Null-värdet till noll med hjälp av funktionen Nz, som i följande exempel: 
+Om att installera, licensiera och distribuera Office Web Components 
+När du utformar en webbsida med Microsoft Office Web Components kan alla användare med en Microsoft Office XP-licens samverka med komponenterna i webbläsaren med den interaktivitetsnivå som du väljer. 
+Det innebär att en användare med en lämplig licens kan göra ändringar av informationen i ett kalkylblad, ändra formateringen, dra fält i ett diagram eller en pivottabellista osv, under förutsättning att du inte har skyddat de här alternativen när du utvecklade sidan. 
+Användare med en Office XP-licens kan också skapa, utveckla och ändra komponenter i designmiljöer, t.ex Microsoft FrontPage eller Microsoft Access. 
+Användare som inte har någon Office XP-licens kan visa komponenterna och informationen i dem samt skriva ut komponenterna som de visas, men de kan inte samverka med komponenterna eller arbeta med dem i en designsmiljö. 
+Om du distribuerar en webbsida med komponenter får alltså användare med Office XP-licenser tillgång till alla funktioner, medan användare utan licenser bara kan visa informationen som du tillhandahåller. 
+Installera Office Web Components 
+Microsoft Office Web Components installeras tillsammans med Microsoft Office XP och Microsoft Office-program, och de kan också installeras separat med hjälp av ett installationsalternativ som tillhandahålls av utvecklaren av en webbsida. 
+När du distribuerar en webbsida med komponenter och komponenterna inte är installerade på en användares dator uppmanas han eller hon att installera dem, under förutsättning att webbsidans utvecklare konfigurerar komponenterna för detta. 
+Webbsidans utvecklare måste också ange en sökväg som komponenterna kan installeras från och en länk till sökvägen på installationssidan för komponenterna. 
+Mer information finns i Microsoft Office XP Resource Kit. 
+När Office Web Components har installerats kan användare som har en Office XP-licens samverka med komponenterna och ändra dem. 
+Användare som inte har licenser kan visa och skriva ut komponenterna och informationen i dem men inte samverka med dem eller göra ändringar av dem. 
+Information om licenser och funktioner 
+Office XP är installerat på datorn 
+Användaren har tillgång till alla funktioner och fullständig interaktivitet med komponenter, både körtidsfunktioner och utvecklingsfunktioner. 
+Office XP-program är installerat på datorn 
+Användaren kan bara samverka med komponenten i designläget i det programmet (inte i webbläsaren eller andra program). 
+Office XP-nätverkslicens (Office XP är inte installerat på användarens dator, men företaget har ett företags- eller nätverkslicensavtal) 
+Utvecklaren av webbsidan måste emellertid tillhandahålla en sökväg där komponenterna kan hämtas, och det måste finnas en hänvisning till nätverkslicensen i en licenspaketfil (.lpk) som är kopplad till en eller flera webbsidor. 
+Du skapar en lämplig licensfil för sidorna med hjälp av License Package Authoring Tool. 
+Mer information finns på MSDN Online. 
+Varken Office XP, Office XP-program eller nätverkslicens 
+Användaren kan visa och skriva ut komponenterna i skrivskyddat läge men inte samverka med komponenterna eller använda utvecklingsfunktionerna. 
+Om att undvika att blanda frågor som skapats under olika ANSI SQL-frågelägen 
+De två ANSI SQL-frågelägena, ANSI-89 och ANSI-92 är inte kompatibla. 
+När du skapar en Microsoft Access-databas måste du bestämma vilket frågeläge som du ska använda, eftersom körningsfel och oväntade resultat kan orsakas av att frågor som skapats i båda lägena blandas. 
+Omfånget av datatyper, reserverade ord och jokertecken är olika i dessa frågelägen. 
+Exempel på en fråga där jokertecken används 
+Frågor där jokertecken används i villkorsuttryck kan ge olika resultat under varje frågeläge. 
+Om du till exempel kör: 
+En ANSI-89 SQL-fråga i en databas inställd i ANSI-92 frågeläge, exempelvis: 
+SELECT asterisk FROM Kunder WHERE Land Like U % 
+Denna fråga returnerar alla kunder från ett land eller en region som heter U %, inte alla länder eller regioner med begynnelsebokstaven U, eftersom procenttecken (%) inte är ett jokertecken i ANSI-89 SQL. 
+Exempel på en fråga med dubblerade fält och aliasnamn 
+Om en fråga har ett alias som inte är detsamma som baskolumnens namn, och du skapar ett beräknat fält genom att använda det tvetydiga namnet, kommer frågan att ge olika resultat under varje frågeläge. 
+Hur du undviker problem som orsakas av att blanda frågor under olika ANSI SQL-frågelägen i samma databas 
+I allmänhet bör du undvika att göra följande om du vill undvika problem som orsakas av att blanda frågor som skapats under olika ANSI SQL-frågelägen: 
+Konvertera en Access-databas som är inställd i ANSI-92 SQL-frågeläge från 2002-filformat till 2000- eller 97-filformat. 
+ANSI-92 SQL-frågeläge stöds bara i 2002-filformat. 
+Ändra den aktuella databasens ANSI SQL-frågeläge efter att du skapat en eller flera frågor. 
+Om du ändå blir tvungen att göra det, testa alla befintliga frågor igen för att kontrollera att de fortfarande går att köra och att de ger förväntade resultat, och skriv om frågorna om det behövs. 
+Importera frågor som skapats under ett ANSI SQL-frågeläge till en Access-databas inställd i ett annat läge, eller exportera frågor som skapats under ett ANSI SQL-frågeläge till en Access-databas inställd i ett annat läge. 
+Ändra ANSI SQL-frågeläge i ett befintligt program. 
+Detta kan skada programmet och göra att du måste skriva om det. 
+Du kan bara ändra ANSI SQL-frågeläget programmatiskt i Access 2000 och frågor som skapats under ANSI-92-läge döljs i databasfönstret. 
+I Access 2002 kan du eller en användare ändra ANSI SQL-frågeläge genom användargränssnittet, och ANSI-92-frågor döljs inte längre i databasfönstret. Du bör förhindra oavsiktliga och avsiktliga ändringar i programmets ANSI SQL-frågeläge genom att skydda koden och förhindra att frågeläget ändras genom programmets användargränssnitt. 
+Använda tvetydiga alias och kolumnnamn. 
+Du undviker förvirring genom att kontrollera att alias och kolumnnamn alltid är unika i SQL-uttryck. 
+Om hur Access söker efter referensbibliotek 
+Visual Basic-projektet i en Microsoft Access-fil innehåller referenser till objektbibliotek, och det kan också innehålla referenser till andra filer, t.ex andra Access-filer. 
+Sökvägarna till filerna anges i dialogrutan Referenser, som du öppnar med kommandot Referenser på Verktyg-menyn i Visual Basic Editor. 
+När du öppnar en Access-fil och Access inte hittar en referensfil på den sökväg som anges söker Access efter referensen enligt nedan. 
+Först söker Access efter en RefLibPaths-nyckel på följande plats i Microsoft Windows-registret: 
+Om det finns en sådan nyckel kontrollerar Access om det finns ett värdenamn som stämmer överens med namnet på referensfilen. 
+Om ett sådant värdenamn påträffas öppnar Access referensen på den sökväg som anges i motsvarande värdedata. 
+Om det inte finns någon RefLibPaths-nyckel söker Access efter referensfilen på följande platser i den här ordningen: 
+Programmappen som innehåller programmet (mappen som innehåller Msaccess.exe). 
+Den aktuella mappen. 
+Systemmappen (mapparna System och System32 i mapparna Windows respektive WINNT). 
+Miljövariabeln PATH. 
+Mer information om miljövariabler finns i direkthjälpen för Windows. 
+Mappen som innehåller Access-filen och alla undermappar i den. 
+Om Access ändå inte kan hitta referensen efter den här sökningen måste du reparera referensen manuellt. 
+Om att spara ett objekt som en dataåtkomstsida 
+Du kan också spara tabeller, vyer, lagrade procedurer, funktioner och formulär i ett Microsoft Access-projekt som dataåtkomstsidor. 
+Genom att spara ett objekt som en dataåtkomstsida kan du snabbt konvertera ett objekt till en sida, och tillåta andra användare att granska, skriva in och analysera data över Internet eller i ett intranät. 
+Om du till exempel har en försäljningsrapport som du vill ska vara tillgänglig på webben, kan du spara rapporten som en dataåtkomstsida i stället för att skapa en dataåtkomstsida och anpassa den för att likna försäljningsrapporten. 
+Om du använder kommandot Spara som på Arkiv-menyn sparar du en dataåtkomstsida som liknar den ursprungliga rapporten till utseende och funktion. 
+Om du vill ändra sidans design öppnar du sidan i designläge och gör de ändringar du vill. 
+Standardläget, dvs det läge som objektet är öppet i när du genomför kommandot Spara som, avgör vilken design dataåtkomstsidan får. 
+Följande lista visar resultatet av varje läge. 
+Standardläge (det aktuella läget) 
+Resultat 
+Databladsläge 
+En sida som har kontroller ordnade som ett datablad 
+Formulär 
+Pivottabellvy 
+En sida som använder pivottabellkomponenten för Microsoft Office 
+Pivotdiagramvy 
+En sida som använder pivotdiagramkomponenten för Microsoft Office 
+Om du genomför kommandot Spara som efter att du ändrat objektets formatering, men innan du sparat ändringarna, skapas sidan med den aktuella formateringen, inte med den sparade formateringen. 
+Vad det innebär att använda kommandot Spara som 
+Kontrollstöd 
+Sådana kontroller kommer att vara obundna på sidan. 
+Underformulär och underrapporter 
+Underformulär och underrapporter i ett formulär eller en rapport konverteras inte när du använder kommandot Spara som. 
+Du kan dock öppna sidan i designläge och skapa ytterligare gruppnivåer om du vill att sidan ska likna det ursprungliga objektet. 
+Namnge kontroller 
+Kontroller i formulär och rapporter behöver inte ha unika namn, men kontroller på en sida måste ha det. 
+Kontrollnamn som inte är unika ändras medan sidan skapas. 
+Kontroller i sidhuvud och sidfot 
+Kontroller i formulärets eller rapportens sidhuvudsektion blir obundna kontroller i titelsektionen av den yttersta gruppnivån. 
+Kontroller i formulärets eller rapportens sidfotsektion blir obundna kontroller i navigationssektionen av den yttersta gruppnivån. 
+Kod i formulär och rapporter som inte kan köras från en dataåtkomstsida importeras till sidan som ett kommentarsblock i slutet av dokumentet. 
+Bilder i formulär eller rapporter konverteras till bitmappar och placeras i en mapp med namnet Bilder. 
+Gruppnivåegenskaper 
+Standardinställningen för egenskaperna TillåtTillägg, TillåtBorttagning och TillåtRedigering för alla gruppnivåer på en dataåtkomstsida som skapats från en rapport är Falskt. 
+Du kan dock öppna sidan i designläge och ändra egenskapsinställningarna. 
+Uttryck som refererar till egenskaper för formulär eller underformulär ignoreras. 
+Om sortering av data i pivottabell- och pivotdiagramvy 
