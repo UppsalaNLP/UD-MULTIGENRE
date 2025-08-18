@@ -1,15 +1,19 @@
-# UD-MULTIGENRE
+# UD-MULTIGENRE v1.2
 A dataset of instance-level text genre annotations from the paper:
 
 [**"UD-MULTIGENRE - a UD-based dataset of instance-level genre annotations"**](https://aclanthology.org/2023.mrl-1.19/) (Danilova & Stymne, MRL-WS EMNLP 2023)
 
-It is a reorganization of 63 treebanks from UD version 2.11 [Universal Dependencies](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-4923). It currently covers 17 text genres in 38 languages. In addition, the test set currently includes data from 17 treebanks for five genres and 14 low-resource languages (119k tokens and 7.2k sentences).
+UD-MULTIGENRE is originally a reorganization of 63 treebanks from [Universal Dependencies version 2.11](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-4923). 
+Currently, it supports [Universal Dependencies version 2.16](https://lindat.mff.cuni.cz/repository/items/55b06337-e49c-4631-9328-b1a38322b1d4). It covers 17 text genres in 37 languages. The new version is stored in `UD-multigenre` folder.
+
+The test set (in `test`) corresponds to the one used in the referenced paper (UD-MULTIGENRE 1.1). It includes data from 17 treebanks for five genres and 14 low-resource languages (119k tokens and 7.2k sentences).
 
 The dataset enables new research as well as re-evaluation and a deeper understanding of prior research on genre-based data selection for cross-lingual dependency parsing. In addition, it is highly relevant for the research direction that investigates cross-lingual genre representation and classification.
 
-The repository contains the following data: 
-- **train:dev** Under each genre-specific directory, you'll find a list of treebank folders with the corresponding training and development .conllu and .txt files
-- **test** In each genre-specific directory, you'll find a list of treebank folders with test data in .conllu and .txt formats
+The repository contains the following data:
+- **UD-multigenre** Dataset generated from UD v2.16. Under each genre-specific directory, you'll find a list of treebank folders with the corresponding training and development .conllu and .txt files
+- **train:dev** Dataset generated from UD v2.11. Under each genre-specific directory, you'll find a list of treebank folders with the corresponding training and development .conllu and .txt files
+- **test** Dataset generated from UD v2.11. In each genre-specific directory, you'll find a list of treebank folders with test data in .conllu and .txt formats
 - **genre_prefix_map.json** This file stores the details on the identified sources for each prefix pattern. It has the following levels:
      * **Level-1:** Genre
      * **Level-2:** Language
@@ -38,7 +42,7 @@ achieved by genre-specific parsers on 14 low-resource targets. For five text gen
 - **build** to build this dataset, clone and from the `build` folder run 
 
 ```bash
-$ python3 build.py /path/to/Universal_Dependencies_2.11_folder
+$ python3 build.py /path/to/Universal_Dependencies_folder
 ```
 
 ## Genre selection criteria
@@ -64,10 +68,19 @@ $ python3 build.py /path/to/Universal_Dependencies_2.11_folder
 | wiki             | ✔            | Main Wikipedia articles. Wikihow, Wikinews, Wikitravel, and Wikianswers are not considered in this category    |
 
 ## References
+Danilova, Vera and Sara Stymne. 2023. [UD-MULTIGENRE – a UD-Based Dataset Enriched with Instance-Level Genre Annotations](https://aclanthology.org/2023.mrl-1.19/). In *Proceedings of the 3rd Workshop on Multi-lingual Representation Learning (MRL)*, pages 253–267, Singapore. Association for Computational Linguistics.
 
-Vera Danilova and Sara Stymne. 2023. UD-MULTIGENRE – a UD-Based Dataset Enriched with Instance-Level Genre Annotations. In Proceedings of the 3rd Workshop on Multi-lingual Representation Learning (MRL), pages 253–267, Singapore. Association for Computational Linguistics.
-
-## Changelog
+From v 1.1 to 1.2
+- Updated to support the latest Universal Dependencies version (v2.16).
+- Enhanced `UD_dataclasses.py`:
+    - Added `validate_patterns_by_treebank` to the `UniversalDependencies` class for validating the genre mapping (`mapping.py`) against a new UD version.
+    - Added `get_pattern_clusters` to the `UniversalDependenciesTreebank` class for clustering prefix patterns within a treebank and extracting the longest common substrings in each cluster.
+- Introduced the `load_and_update.ipynb` notebook, which:
+    - Loads a new UD version.
+    - Selects treebanks with available genre mappings.
+    - Validates and clusters prefix patterns.
+    - Explores pattern clusters.
+    - Builds the dataset based on the new UD version.
 
 From v 1.0 to 1.1
 - added guide data for English and Swedish (Microsoft 2002 Online Help manual, LinES treebank)
