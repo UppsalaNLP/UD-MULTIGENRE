@@ -71,7 +71,7 @@ $ python3 build.py /path/to/Universal_Dependencies_folder
 Danilova, Vera and Sara Stymne. 2023. [UD-MULTIGENRE – a UD-Based Dataset Enriched with Instance-Level Genre Annotations](https://aclanthology.org/2023.mrl-1.19/). In *Proceedings of the 3rd Workshop on Multi-lingual Representation Learning (MRL)*, pages 253–267, Singapore. Association for Computational Linguistics.
 
 ## Change Log
-***From v 1.1 to 1.2**
+**From v 1.1 to 1.2**
 - Updated to support the latest Universal Dependencies version (v2.16).
 - Enhanced `UD_dataclasses.py`:
     - Added `validate_patterns_by_treebank` to the `UniversalDependencies` class for validating the genre mapping (`mapping.py`) against a new UD version.
